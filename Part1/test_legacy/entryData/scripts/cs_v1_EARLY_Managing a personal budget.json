@@ -1,0 +1,34 @@
+{
+  "id": "cs_v1_EARLY_Managing a personal budget",
+  "type": "cs_v1_EARLY",
+  "seedTopic": "Managing a personal budget",
+  "length": 20,
+  "messages": [
+    "I'm trying to get serious about managing my personal budget. To be precise, my take-home pay after taxes is $4,200 a month.",
+    "My fixed monthly bills are: rent $1,200, a $250 car payment, and about $150 for utilities.",
+    "For variable spending I try to cap groceries at around $350/month; Netflix and Spotify together are $22, and my gym membership is $35.",
+    "I also have a student loan balance of $12,500 at roughly 4.5% interest, and I usually pay about $200 toward it each month.",
+    "I want to build an emergency fund equal to three months of my usual expenses and have a goal to save $8,000 by the end of the year; I can contribute roughly $600 per month to savings.",
+    "Quick non-budget question: what's an easy way to keep basil alive on a sunny windowsill? Mine keeps wilting.",
+    "Thinking about the weekend—if it's cloudy, would you recommend going to a museum or hiking a nearby trail?",
+    "Random fact I read this morning: octopuses have three hearts. Nature is wild.",
+    "Between watercolor painting and digital sketching, which would you recommend for an absolute beginner?",
+    "I made shakshuka last night but overcooked the eggs. Any simple tips to keep the yolks runny?",
+    "How often should I change the HVAC filter in a small apartment—every month, every three months, or less frequently?",
+    "I need a podcast for my commute; any short history or science podcasts you'd recommend?",
+    "I'm debating whether to upgrade my phone next year—is it usually better to wait for the next model or buy the current one on sale?",
+    "What do you think is the biggest technical challenge for long-duration human missions to Mars?",
+    "Do you know a quick breathing exercise that actually helps calm anxiety before bed?",
+    "For packing light on a short trip, what's one versatile clothing item you always bring?",
+    "Back to the budget: given the income and housing expense I mentioned earlier, would you say my housing cost falls within the conventional 30% guideline, or should I be worried I'm overcommitted there?",
+    "Also, with the monthly amount I said I could set aside, roughly how many months of steady saving would it take to hit that year-end goal I mentioned earlier, ignoring interest? Round sensibly.",
+    "If my plan is to have an emergency cushion equal to about three months of typical outflows, should I prioritize finishing that cushion before making extra student loan payments, or is splitting funds between the two usually better?",
+    "One last practical check: looking at those fixed bills I listed at the start and my stated take-home pay, does trimming discretionary items like subscriptions and eating out seem like the fastest realistic way to free up extra monthly savings?"
+  ],
+  "metadata": {
+    "inputTokens": 418,
+    "outputTokens": 9751,
+    "totalTokens": 10169,
+    "timestamp": "2026-01-24T22:40:06.537Z"
+  }
+}

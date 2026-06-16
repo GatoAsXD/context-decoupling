@@ -1,0 +1,34 @@
+{
+  "id": "cs_v1_EARLY_Issues with a neighbor",
+  "type": "cs_v1_EARLY",
+  "seedTopic": "Issues with a neighbor",
+  "length": 20,
+  "messages": [
+    "I live above a neighbor in unit 3B who's been practicing drums at home—most Friday nights they play loudly into the early hours, often until around 2:00 AM. It's been going on for months and I'm exhausted.",
+    "They've also parked in my assigned parking space (the one marked with my number, #12) at least three times over the past month; I left a polite note once but nothing changed.",
+    "A couple of weeks ago they mounted a small security camera on their balcony railing that appears to be pointed directly at my balcony; occasionally a light from it shines into my living room window late at night and it feels invasive.",
+    "Two Saturdays ago they started renovations—contractors were hammering as early as 7:00 AM and that level of noise continued most of the following week. I've been keeping a dated log and taking photos.",
+    "On a different topic, do you have a simple pesto recipe that doesn't use pine nuts? I have a lot of basil and walnuts on hand.",
+    "Also thinking about a quick weekend trip to Lisbon in April—what sort of weather should I expect and any packing tips?",
+    "Random question: why are Saturn's rings so bright and conspicuous, while Jupiter's rings are comparatively faint?",
+    "I need to explain the causes of the French Revolution in roughly two minutes for a study session—what's a concise, clear summary I can use?",
+    "Any light comedy movie recommendations on streaming right now? Preferably under two hours and easy to watch.",
+    "I want to learn basic Python for data analysis in two weeks—what's a realistic daily plan for a total beginner?",
+    "My windowsill basil and mint are struggling in winter—how often should I water them indoors and any other tips?",
+    "Could you suggest three quick mindfulness exercises I can do at my desk between meetings?",
+    "What's an easy mnemonic to remember the difference between an isobar and an isotherm?",
+    "I spilled red wine on my living room carpet—what's a gentle, effective method for removing the stain without harsh chemicals?",
+    "Can you outline a one-week beginner yoga routine focused on loosening tight hips for someone who hasn't practiced before?",
+    "Share a few surprising, little-known facts about octopuses—I'm always amazed by them.",
+    "Back to the neighbor situation—if someone nearby keeps playing loud percussion late on weekend nights, is it better to try a friendly in-person conversation again or submit a formal written complaint to management first?",
+    "If a neighbor repeatedly uses the parking space officially assigned to me, would keeping a dated incident log be persuasive, or should I prioritize photographic evidence and the building's parking assignment documentation?",
+    "About a camera that seems to be aimed at my private outdoor area and emits a light occasionally—what's an appropriate, non-confrontational first step to request it be re-angled or removed?",
+    "For the early-morning construction noise I've been recording, is it standard to mention the specific early start times in an initial complaint, or is it better to hold that detailed evidence for a later escalation?"
+  ],
+  "metadata": {
+    "inputTokens": 418,
+    "outputTokens": 7687,
+    "totalTokens": 8105,
+    "timestamp": "2026-01-24T22:39:31.865Z"
+  }
+}

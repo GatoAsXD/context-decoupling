@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v4_NOISE_L40_Learning to drive",
+  "scriptId": "cs_v4_NOISE_L40_Learning to drive",
+  "historyId": "h_v4_NOISE_L40_Learning to drive",
+  "componentType": "plainContext",
+  "context": "Current State: There seems to be conflicting advice online: some say start with slow-speed control, others argue to focus on lane discipline first. Response accepted: Both pieces of advice are valid — they’re just addressing different needs. The practical answer is: start with slow-speed control, then layer in lane discipline. Stage plan: Stage 1 (first few sessions): quiet area drills only — starts/stops, clutch bite, straight-line reversing, figure‑8s, slow tight turns. Goal: consistent, stall‑free control. Stage 2 (next few sessions): quiet residential roads — mirror‑signal‑manoeuvre, basic turns and junctions, low‑speed lane positioning. Goal: apply control while making safe decisions. Stage 3: busier roads — practising lane discipline, following distances, lane changes and merging. Goal: safe positioning and anticipatory control under traffic load. Always include a short slow‑speed warm‑up at the start of each session to refresh muscle memory. Concrete drills to use: Slow‑speed drills: 10 starts/stops, 6–8 figure‑8s, 8 straight reverses (focus: clutch/throttle/steering smoothness). Lane‑discipline drills: “follow‑the‑car” for 5–10 minutes keeping steady gap; deliberate lane‑change practice (mirror, signal, blind‑spot, move); roundabout lane selection runs. Mixed session format: 10–15 min slow‑speed warm‑up → 35–45 min focused on lane work / traffic exposure → 5–10 min debrief. Measurable milestones to merge the skills: Slow control milestone: 10 consecutive starts/stops with no stalls and smooth steering. Early lane milestone: two 20–30 minute supervised drives on local streets with correct lane position and mirror use and no critical errors. Combined readiness: able to do a 20–30 minute independent drive that includes lane changes, junctions and one parking/h",
+  "generationMetrics": {
+    "inputTokens": 26850,
+    "outputTokens": 69942,
+    "totalTokens": 96792
+  },
+  "timestamp": "2026-02-14T23:32:18.162Z"
+}

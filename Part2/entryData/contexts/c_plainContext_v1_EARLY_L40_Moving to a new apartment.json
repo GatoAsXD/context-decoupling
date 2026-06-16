@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v1_EARLY_L40_Moving to a new apartment",
+  "scriptId": "cs_v1_EARLY_L40_Moving to a new apartment",
+  "historyId": "h_v1_EARLY_L40_Moving to a new apartment",
+  "componentType": "plainContext",
+  "context": "",
+  "generationMetrics": {
+    "inputTokens": 21966,
+    "outputTokens": 65363,
+    "totalTokens": 87329
+  },
+  "timestamp": "2026-02-14T01:43:13.421Z"
+}

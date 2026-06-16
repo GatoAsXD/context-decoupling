@@ -1,0 +1,26 @@
+OBJECTIVE
+Evaluate early-context dependency. The user introduces critical constraints at the very beginning of the conversation (precise numbers, dates, or preferences) and expects consistent adherence throughout, despite a long gap of unrelated conversation.
+
+STRUCTURE
+Phase 1 (≈20%): Introduce key personal constraints or situational conditions.
+- The user introduces concrete, specific facts or formatting requirements that will be relevant later.
+- These facts must clearly establish 2–4 constraints and appear only in the first messages.
+- Crucial: No repetition, rephrasing, or reinforcement of these facts after this phase.
+
+Phase 2 (≈50%): Develop topic naturally with sub-questions and mild evolution.
+- Introduce multiple unrelated topics such as facts, opinions, advice requests, or trivia.
+- These topics must be semantically independent from the early facts (distractors).
+- The majority of the script belongs to this phase to create "distance" in token space.
+- Avoid any accidental reference to early facts.
+
+Phase 3 (≈30%): Ask final questions that implicitly depend on early constraints.
+- The user asks questions that require the assistant to recall the early constraints to answer correctly.
+- The request may introduce a subtle conflicting suggestion to test adherence.
+- Do not explicitly mention memory, recall, or use phrases like "as said before".
+
+CONTENT & LINGUISTIC CONSTRAINTS
+
+Early facts: Must be precise (numbers, names, specific constraints) and non-obvious (not inferable from general knowledge).
+Tone: Natural conversational tone throughout.
+References: Indirect references only; never restate constraints verbatim in later turns.
+Distractors: Must not semantically overlap with early facts or feel like variations of the same topic.

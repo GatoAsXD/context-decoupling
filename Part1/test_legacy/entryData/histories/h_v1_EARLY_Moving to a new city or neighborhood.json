@@ -1,0 +1,117 @@
+{
+  "id": "h_v1_EARLY_Moving to a new city or neighborhood",
+  "scriptId": "cs_v1_EARLY_Moving to a new city or neighborhood",
+  "cutoffIndex": 14,
+  "messages": [
+    {
+      "role": "user",
+      "content": "I'm moving to a new neighborhood next month — Westbridge in Asheville. My lease for apartment 3B at 1247 Cedar Lane starts June 10, and my landlord, Rosa Martinez, said I can pick up the keys after noon that day."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood."
+    },
+    {
+      "role": "user",
+      "content": "I booked Greenline Movers for Saturday, June 12; they're scheduled to arrive at 9:00 AM. The building requires movers to provide a certificate of insurance and to reserve the freight elevator with management in advance; they gave me access to the loading dock in the sub-basement."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood."
+    },
+    {
+      "role": "user",
+      "content": "I've arranged utilities already: BluePeak Energy will start service on lease day and FiberFlow scheduled the internet install for an afternoon slot the following day, plus I put mail forwarding in place with USPS starting on move-in day."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood."
+    },
+    {
+      "role": "user",
+      "content": "City hall told me parking permits for movers can take up to five business days to process, and I have to update my driver's license with my new address before July 1 so my vehicle registration stays current."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood."
+    },
+    {
+      "role": "user",
+      "content": "Switching topics — what's a simple three-ingredient pasta sauce I can make when I'm low on groceries?"
+    },
+    {
+      "role": "assistant",
+      "content": "Try a quick tomato–garlic sauce.\n\nIngredients (about 2–3 servings)\n- 1 can (14 oz) crushed tomatoes (or ~2 cups chopped fresh tomatoes)\n- 2–3 cloves garlic, minced or thinly sliced\n- 2 tbsp olive oil\n\nMethod\n1. Heat olive oil in a skillet over medium. Add garlic and cook 30–60 seconds until fragrant (don’t let it brown).\n2. Add tomatoes, bring to a simmer, then lower heat and cook 8–10 minutes until slightly reduced.\n3. Toss with cooked pasta, using a splash of reserved pasta water to loosen the sauce if needed. Season with salt and pepper if available.\n\nTotal time: ~15–20 minutes."
+    },
+    {
+      "role": "user",
+      "content": "Quick grammar help: any easy trick to decide whether to use 'who' or 'whom' in a sentence? I always second-guess myself."
+    },
+    {
+      "role": "assistant",
+      "content": "Quick trick: use the he/him test.\n\n- Make the sentence with a blank where who/whom goes.\n- Substitute he or him (or she/her).\n- If he/she fits, use who (subject). If him/her fits, use whom (object).\n\nExamples\n- \"Who is at the door?\" -> \"He is at the door.\" → who\n- \"Whom did you see?\" -> \"You saw him.\" → whom\n- \"To whom should I send this?\" -> \"I should send it to him.\" → whom\n- \"Who/whom are you talking about?\" -> \"You are talking about him.\" → whom (formal)\n\nNote: In informal speech many people use who even where whom is strictly correct."
+    },
+    {
+      "role": "user",
+      "content": "Give me one cool fact about octopuses I can tell my nephew — he thinks they're basically aliens."
+    },
+    {
+      "role": "assistant",
+      "content": "Octopuses have three hearts and blue blood — two hearts pump blood to the gills and the third pumps it to the rest of the body, and their copper-based blood (hemocyanin) helps them carry oxygen in cold, low-oxygen water."
+    },
+    {
+      "role": "user",
+      "content": "I might start a tiny balcony herb garden after the move; what are two herbs that are nearly fail-proof for beginners?"
+    },
+    {
+      "role": "assistant",
+      "content": "Mint and rosemary.\n\n- Mint: extremely hardy and fast-growing in pots. Likes partial to full sun, regular watering (keep soil moist), and trim frequently to prevent legginess. Plant mint alone in its own container so it doesn’t overrun other plants.\n\n- Rosemary: drought-tolerant and tolerates neglect. Needs good drainage and lots of sun (6+ hours), water sparingly once established, and prune occasionally to keep shape. Works well in a medium-to-large pot."
+    },
+    {
+      "role": "user",
+      "content": "Etymology curiosity: where does the phrase 'break the ice' come from?"
+    },
+    {
+      "role": "assistant",
+      "content": "Originally literal: it referred to ships or measures that broke river or harbor ice to open a passage for trade and travel. The phrase was taken into English in the late 1500s–early 1600s and used figuratively to mean doing something that opens up relations or relieves social stiffness. Shakespeare uses it in The Taming of the Shrew (late 16th century), which helped cement the metaphorical sense; today it simply means to initiate or ease a tense or awkward situation."
+    },
+    {
+      "role": "user",
+      "content": "Book rec: something light and uplifting around 300 pages I could finish over a long weekend?"
+    },
+    {
+      "role": "assistant",
+      "content": "Here are three light, uplifting choices near 300 pages:\n\n- The Rosie Project — Graeme Simsion (≈295 pages). A funny, warm rom-com about a socially awkward genetics professor who designs a questionnaire to find a wife and ends up learning about love and flexibility.  \n- The Storied Life of A.J. Fikry — Gabrielle Zevin (≈304 pages). A gentle, bookish novel about a grumpy bookstore owner whose life is transformed by unexpected events and community.  \n- Major Pettigrew’s Last Stand — Helen Simonson (≈288 pages). A charming, quietly funny story about an English widower who forms an unconventional friendship that challenges village expectations.\n\nAny of these should be an easy, uplifting long-weekend read."
+    },
+    {
+      "role": "user",
+      "content": "Quick math check before I forget: what's 17 times 24?"
+    },
+    {
+      "role": "assistant",
+      "content": "17 × 24 = 408"
+    },
+    {
+      "role": "user",
+      "content": "I'm updating a playlist — recommend an indie band from the 2010s with great songwriting I might've missed."
+    },
+    {
+      "role": "assistant",
+      "content": "Car Seat Headrest — indie rock project led by Will Toledo. Strong, sharp songwriting that moved from lo-fi bedroom recordings to fuller-band arrangements in the 2010s. Check the album Teens of Denial (2016); try the tracks \"Drunk Drivers/Killer Whales\" or \"Vincent.\""
+    },
+    {
+      "role": "user",
+      "content": "Bee question: about how long does a worker bee live during the active season?"
+    },
+    {
+      "role": "assistant",
+      "content": "For honey bees in the active spring/summer season, a worker typically lives about 4–6 weeks (roughly 35–42 days). Foragers take the heaviest toll on lifespan because of the high workload and wear on their wings. By contrast, winter worker bees can live several months (often 4–6 months) to help the colony survive colder months."
+    }
+  ],
+  "metadata": {
+    "inputTokens": 12502,
+    "outputTokens": 5618,
+    "totalTokens": 18120,
+    "timestamp": "2026-01-25T01:37:37.274Z"
+  }
+}

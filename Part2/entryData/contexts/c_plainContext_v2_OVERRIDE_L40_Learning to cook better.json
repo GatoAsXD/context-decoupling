@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v2_OVERRIDE_L40_Learning to cook better",
+  "scriptId": "cs_v2_OVERRIDE_L40_Learning to cook better",
+  "historyId": "h_v2_OVERRIDE_L40_Learning to cook better",
+  "componentType": "plainContext",
+  "context": "Current State:\n            \n\nMessage:\nDo you have recommendations for inexpensive cuts of meat or protein sources that are forgiving and teach technique without breaking the bank?\n\nResponse:",
+  "generationMetrics": {
+    "inputTokens": 44449,
+    "outputTokens": 76514,
+    "totalTokens": 120963
+  },
+  "timestamp": "2026-02-14T15:33:53.168Z"
+}

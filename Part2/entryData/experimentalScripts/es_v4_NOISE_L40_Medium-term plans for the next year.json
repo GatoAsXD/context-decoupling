@@ -1,0 +1,27 @@
+{
+  "id": "es_v4_NOISE_L40_Medium-term plans for the next year",
+  "scriptId": "cs_v4_NOISE_L40_Medium-term plans for the next year",
+  "historyId": "h_v4_NOISE_L40_Medium-term plans for the next year",
+  "cutoffIndex": 24,
+  "messages": [
+    "I once saw a slide with a color-coded risk heatmap — visually simple and surprisingly effective for execs.",
+    "Budget chatter in the finance meeting was vague; someone joked that snack supplies are taking up most of the line items.",
+    "At a meetup someone argued open-source contributions are an underrated KPI — fascinating, though maybe aspirational for us.",
+    "Our office plants are thriving in spite of neglect; maybe we should formalize a 'plant guardian' rota.",
+    "Saved a few microcopy examples from a UX webinar that improved onboarding; little details like that can add up.",
+    "My neighbor 3D-printed a desk organizer and it sparked a small wave of desk DIY envy in the office.",
+    "Okay, let's pull the plan together now.",
+    "Using the parameters I described up front, please draft the medium-term plan for the coming year.",
+    "Make it succinct and slide-ready so it's easy to present to leadership.",
+    "For each strategic item, show the key checkpoints across the year and a single primary performance measure to follow.",
+    "Include a brief explanation for why each item is included and place them in a simple priority order.",
+    "Note any points that would require hiring or outside help — if it looks like external support is needed, flag it.",
+    "Label the risk level for each item relative to what our current team can realistically do.",
+    "If there are assumptions you need to make because of missing details, pick conservative defaults and mention them briefly.",
+    "Start with a one-sentence executive summary, then list the items with their checkpoints, the metric, the short rationale, the rank, and the risk label.",
+    "Go ahead and produce that concise, slide-ready plan."
+  ],
+  "metadata": {
+    "timestamp": "2026-02-13T17:28:44.763Z"
+  }
+}

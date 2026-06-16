@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v3_ACCUMULATION_L40_Preparing for an important exam",
+  "scriptId": "cs_v3_ACCUMULATION_L40_Preparing for an important exam",
+  "historyId": "h_v3_ACCUMULATION_L40_Preparing for an important exam",
+  "componentType": "plainContext",
+  "context": "- Pattern: untimed work is fine; timed drills reveal drops in accuracy and speed.\n- Tactics to convert untimed competence into timed accuracy and speed:\n  - Threshold rule: don’t time a topic until you can solve representative problems untimed correctly 4–5 times in a row; then introduce timed drills.\n  - Micro‑timing drills: break a full problem into steps with time targets (e.g., 30s read/triage, 90s setup, Xs computation, 15s answer check).\n  - Timed re‑solve: after an untimed correct solution, re‑solve the same problem under a shorter timer.\n  - Mixed short sets: many short (10–30 minute) timed sets that force frequent triage/decision practice.\n  - Triage rules & skip strategy: quick checklist for deciding when to skip/mark and return; practice applying it.\n  - Error‑type drills: separate careless/timing errors from conceptual errors.\n  - Use your one‑page sheet: practice finding items in <5s during timed drills.\n  - Reduce cognitive overhead: standardize abbreviations, templates, and a short mental script at problem start.\n  - Track metrics: log timed accuracy, average time/question, and time distribution by section.\n  - Recovery and pacing: morning‑of exam routine and short in‑exam resets (deep breath, 10s checklist).\n- Availability: I can convert these into a short set of timed drills for weekday 2‑hour blocks and weekend sessions if desired.\n- Latest performance baseline: full mock matched the exam split with ~70% knowledge and mid‑50s applied.\n- If adjusting a 6‑week plan: provide weekend hours (per day or total), specify weekdays with evening shifts, and state a target score or pass threshold; I’ll allocate more weekend deep applied practice and weekday micro timed drills to close the gap.",
+  "generationMetrics": {
+    "inputTokens": 23952,
+    "outputTokens": 70533,
+    "totalTokens": 94485
+  },
+  "timestamp": "2026-02-14T23:03:19.809Z"
+}

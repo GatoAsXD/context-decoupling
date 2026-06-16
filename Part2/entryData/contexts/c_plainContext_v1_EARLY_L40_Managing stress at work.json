@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v1_EARLY_L40_Managing stress at work",
+  "scriptId": "cs_v1_EARLY_L40_Managing stress at work",
+  "historyId": "h_v1_EARLY_L40_Managing stress at work",
+  "componentType": "plainContext",
+  "context": "Goal: reset mentally between back-to-back video calls with a 30–120s ritual; existing 60-second routine: Stand → 3 box breaths → sip water → stretch shoulders → write a 1-line intention → look out window 20s → sit and join next call. Techniques: Posture + breath (30–60s) with 3 rounds box breathing; Micro-movement (30–60s); Visual reset (20s); Hydrate + mouth reset (10–20s); One-line intention (15–30s); Label & let go (10–20s); Quick tech/background check (10s). Preventive calendar tweak: end meetings 5 minutes early or build 5-minute buffers. Guidance: one routine default; ANC headphones can improve concentration in open-plan offices (not a complete fix; limitations noted); quick tips: over-ear ANC; transparency/ambient mode; use during focused blocks (25–50 min); pair with a visible “do not disturb” cue or calendar focus blocks. New information: user requested polite, concise scripts for saying 'I can't take on more right now' without sounding brusque; scripts exist for multiple contexts: in-person/quick chat, Slack/DM, email, urgent, offering a handoff, recurring asks, talking to manager, client-facing, quick one-liner, and empathetic approach. Grounding method: 5-4-3-2-1 can work in office and be discreet if adapted; Do it silently by naming items; Visual scan; Tactile focus; Shorten to 3-4-2-1; Pair with subtle action; Avoid disruption by not verbalizing or exaggerated movements; If you need to stay visibly engaged, choose quieter reset (3 deep belly breaths, one-line intention, or mindful sip); Quick discreet script (silent, 30–60s): mentally: “5 things I see on my desk → 4 things I can touch → 3 sounds I notice → 2",
+  "generationMetrics": {
+    "inputTokens": 16545,
+    "outputTokens": 63285,
+    "totalTokens": 79830
+  },
+  "timestamp": "2026-02-14T01:29:51.937Z"
+}

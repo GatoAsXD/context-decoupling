@@ -1,0 +1,44 @@
+{
+  "id": "c_structuredContext_v4_NOISE_L40_Struggling to organize daily time",
+  "scriptId": "cs_v4_NOISE_L40_Struggling to organize daily time",
+  "historyId": "h_v4_NOISE_L40_Struggling to organize daily time",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Limit daily MITs to two priorities to ensure completion",
+      "Reduce decision fatigue by adopting a compact weekday routine with measurable progress on MITs"
+    ],
+    "constraints": [
+      "Weekdays 9:00–17:00 work hours",
+      "45-minute commute each way on workdays (non-negotiable)",
+      "Include at least 30 minutes of exercise most days",
+      "Household chores and errands limited to about one hour total per day",
+      "Evenings mostly free; nothing productive scheduled after the daily commute home (after 17:45)",
+      "Disable non-essential notifications during morning focus blocks (Do Not Disturb)"
+    ],
+    "decisions": [
+      "Use the neighbor-provided cat toy to distract the cat from the desk during focus blocks",
+      "Place the toy where the cat enjoys playing (floor or mat)",
+      "Optionally schedule a quick play session with the toy before deep work blocks to tire the cat",
+      "Maintain a boundary during focus blocks (closed door or visible Do Not Disturb sign)",
+      "Decide on a quick meal rule and a simple outfit system to reduce daily decision fatigue",
+      "Implement a hard-cap batching rule for admin tasks: cap batch at 3–5 items or 30 minutes, and apply a triage rule to defer/schedule larger tasks",
+      "Treat café time as protected focus blocks: bring only essentials, select one MIT for the session, start the same anchor playlist used at home, tuck phone out of reach; rotate cafe days with home days to keep the effect fresh."
+    ],
+    "entities": [
+      "cat distraction toy",
+      "notebook",
+      "cafe session"
+    ],
+    "open": [
+      "Decide on nap strategy: choose between low-risk nap rules or non-nap alternatives and integrate the chosen option into the weekday template",
+      "Decide on meals/outfit policy and how to integrate it into the weekday template"
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 19192,
+    "outputTokens": 59077,
+    "totalTokens": 78269
+  },
+  "timestamp": "2026-02-14T23:53:52.630Z"
+}

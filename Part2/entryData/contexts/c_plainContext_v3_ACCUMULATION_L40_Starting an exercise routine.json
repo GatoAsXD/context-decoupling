@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v3_ACCUMULATION_L40_Starting an exercise routine",
+  "scriptId": "cs_v3_ACCUMULATION_L40_Starting an exercise routine",
+  "historyId": "h_v3_ACCUMULATION_L40_Starting an exercise routine",
+  "componentType": "plainContext",
+  "context": "",
+  "generationMetrics": {
+    "inputTokens": 30085,
+    "outputTokens": 74627,
+    "totalTokens": 104712
+  },
+  "timestamp": "2026-02-14T23:12:12.170Z"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v4_NOISE_L40_Learning a new language",
+  "scriptId": "cs_v4_NOISE_L40_Learning a new language",
+  "historyId": "h_v4_NOISE_L40_Learning a new language",
+  "componentType": "plainContext",
+  "context": "",
+  "generationMetrics": {
+    "inputTokens": 23506,
+    "outputTokens": 65884,
+    "totalTokens": 89390
+  },
+  "timestamp": "2026-02-14T23:25:23.544Z"
+}

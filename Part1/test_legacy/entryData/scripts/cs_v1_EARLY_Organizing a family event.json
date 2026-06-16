@@ -1,0 +1,34 @@
+{
+  "id": "cs_v1_EARLY_Organizing a family event",
+  "type": "cs_v1_EARLY",
+  "seedTopic": "Organizing a family event",
+  "length": 20,
+  "messages": [
+    "I'm organizing a family event: my parents' 50th wedding anniversary is on Saturday, April 10th, and it starts at 4 PM at St. Mary's Parish Hall (123 Elm Street).",
+    "We're expecting about 45 adults and 6 kids; we booked a buffet from Local Eats and set a $1,200 budget for food and decorations. I need to make sure we have ten vegetarian meals and that the caterer knows one guest has a severe nut allergy (my sister Lisa).",
+    "Setup plan: volunteers will start at 2 PM so we can be ready before the 4 PM ceremony; dinner's scheduled for 5. My brother Tom will pick up the two-tier vanilla cake with chocolate filling at 3 PM, and cousin Mark is bringing the projector. Grandma Elaine uses a walker and needs a seat near the entrance. The hall parking only holds thirty cars, so we'll need an overflow plan.",
+    "RSVPs are due by April 1st; the theme is 'Vintage Garden' with pastel tablecloths—I'm renting ten extra folding chairs and two round tables. I already emailed the invites with my phone number.",
+    "Random aside: my homemade coffee keeps coming out bitter—any simple tweaks to make it smoother?",
+    "By the way, what's a fun, little-known fact about honeybees I can share with my niece?",
+    "Switching gears: I'm thinking of starting jogging—what's a sensible beginner schedule for the first week?",
+    "Also curious—which planet actually has the longest day, and why?",
+    "Do you have a 30-minute vegetarian dinner idea that's not just another pasta recipe?",
+    "Quick home tip: what's the fastest way to treat a fresh red-wine carpet stain?",
+    "Tech question for a friend: how would you explain blockchain in one short sentence?",
+    "Plant question: any tips to keep a pothos and a couple of succulents happy indoors over winter?",
+    "Where does the phrase 'break the ice' come from—any short historical origin?",
+    "Packing question: what's essential for a three-day city break when I plan to walk a lot?",
+    "Film rec: recommend a feel-good foreign-language movie that's easy for older and younger viewers to enjoy.",
+    "Back to the anniversary—given the tight afternoon timeline and that someone has to run an errand for dessert, do you think we should start setup earlier to avoid a last-minute rush?",
+    "For seating, is it better to reserve a chair right by the entrance for the family member who needs mobility support, or assign a volunteer to escort them from the parking area?",
+    "Since the venue's lot can't hold everyone, should I add a parking note to the reminder asking guests to carpool or point them toward nearby paid lots?",
+    "We're expecting about fifty people—do you think the number of meat-free plates we planned will be enough, or should I increase that order before confirming final numbers?",
+    "One more: I set an RSVP cutoff in early April—would locking décor and rentals before that risk changes, or is it reasonable if vendors need advance notice?"
+  ],
+  "metadata": {
+    "inputTokens": 419,
+    "outputTokens": 11083,
+    "totalTokens": 11502,
+    "timestamp": "2026-01-24T22:40:18.354Z"
+  }
+}

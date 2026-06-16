@@ -1,0 +1,27 @@
+{
+  "id": "es_v2_OVERRIDE_L40_Organizing personal files and documents",
+  "scriptId": "cs_v2_OVERRIDE_L40_Organizing personal files and documents",
+  "historyId": "h_v2_OVERRIDE_L40_Organizing personal files and documents",
+  "cutoffIndex": 24,
+  "messages": [
+    "Urgent update: I just got an email from my main cloud provider saying my account will be shut down in 48 hours and I can't renew due to an unexpected budget cut.",
+    "On top of that, I don't have the budget to buy new hardware like a scanner or extra hard drives, so I have to work with what I already own.",
+    "Practically that means I can only use my phone, my two computers, and a single small encrypted USB stick I already have; online syncing is no longer an option.",
+    "Given this, I need to prioritize which items to rescue from the cloud and which physical papers to scan first — I can't move everything.",
+    "Also, my internet is flaky and I may lose connectivity intermittently, so I need a plan that relies on local transfers and offline verification.",
+    "I assume some things like full photo libraries may be too large to fit; what criteria should I apply to decide what's essential?",
+    "Security is also critical — if I put copies on that small stick, I need them encrypted and I need a simple way to verify integrity without fancy tools.",
+    "Is there a compact file format or compression approach that preserves legibility for important documents (IDs, tax forms) while minimizing space?",
+    "For older paper originals, do I need to keep them if I can make a decent, legally acceptable scan on my phone and store it offline?",
+    "Please outline the immediate triage priorities I should follow in the next 48 hours to make sure nothing critical is lost.",
+    "Given the offline-only limit and the modest portable capacity I described, can you give a step-by-step short-window salvage plan I can follow over the next couple of days with just my phone and the two computers?",
+    "Within that plan, I need a prioritized checklist of document categories (e.g., government IDs, recent tax returns, property deeds, powers of attorney, insurance policies, recent bills) — which should absolutely make the cut?",
+    "For each category on the list, suggest the most space-efficient scan settings and file types I should use with my phone to be both readable and defensible if needed later.",
+    "Also include a simple encryption and integrity-check workflow that doesn't require buying software — something cross-platform I can run on both machines and on the portable medium.",
+    "Finally, propose a minimal index format (spreadsheet or plain text) to record what I saved, where it came from, and a short verification step so I can restore things later if needed.",
+    "And one last practical question: for the physical originals I scan during the emergency save, which types should I keep originals of, and which can I safely shred after making the offline copies?"
+  ],
+  "metadata": {
+    "timestamp": "2026-02-12T23:52:45.494Z"
+  }
+}

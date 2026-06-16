@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v2_OVERRIDE_L40_Choosing a new hobby",
+  "scriptId": "cs_v2_OVERRIDE_L40_Choosing a new hobby",
+  "historyId": "h_v2_OVERRIDE_L40_Choosing a new hobby",
+  "componentType": "plainContext",
+  "context": "",
+  "generationMetrics": {
+    "inputTokens": 28576,
+    "outputTokens": 75940,
+    "totalTokens": 104516
+  },
+  "timestamp": "2026-02-14T15:15:58.387Z"
+}

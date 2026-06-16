@@ -1,0 +1,82 @@
+{
+  "id": "c_structuredContext_v2_OVERRIDE_L40_Renovating or fixing up the home",
+  "scriptId": "cs_v2_OVERRIDE_L40_Renovating or fixing up the home",
+  "historyId": "h_v2_OVERRIDE_L40_Renovating or fixing up the home",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Modernize the kitchen",
+      "Modernize the main bathroom",
+      "Refinish original pine floors in living areas",
+      "Improve insulation and windows for comfort/efficiency",
+      "Refresh paint throughout",
+      "Budget around $40,000",
+      "Complete project in ~3 months",
+      "DIY painting and some demolition; hire pros for electrical, plumbing, and any structural work",
+      "Assess and implement storm windows + weatherstripping as a cost-effective window efficiency improvement (preserve original wood details)"
+    ],
+    "constraints": [
+      "Budget cap: $40,000",
+      "Timeline: ~3 months",
+      "Hire licensed professionals for electrical, plumbing, and any structural work",
+      "DIY painting and some demolition is allowed",
+      "Preserve an emergency fund: don’t drain reserves completely."
+    ],
+    "decisions": [
+      "Financing strategy: evaluate savings vs HELOC vs small personal/renovation loan; estimate loan amounts, interest rates, closing costs, and impact on project timeline; select option with lowest total cost and acceptable timing.",
+      "Contingency planning: target a 15% contingency on the $40k budget and maintain ~5% backup funding (credit or savings) to handle surprises.",
+      "Contingency breakdown: hard unknowns ~10–12%, design/owner changes ~3–5%, contractor holdback ~5–10% (for final payments).",
+      "Administrative controls: require written change orders for contingency draws; track contingency spend; hold final contractor payment (5–10%) until punch list is complete."
+    ],
+    "entities": [
+      "1978 two-story house",
+      "3 bedrooms and 1.5 bathrooms",
+      "Renovation scope: kitchen, main bathroom, pine floors, insulation, windows, paint",
+      "Budget: $40,000",
+      "Timeline: ~3 months",
+      "Kitchen cabinets: original 1980s, sound structure but tired; potential refacing/painting + new countertops depending on budget",
+      "Pine floors likely under carpet in living areas; some gaps but no major rot",
+      "All windows are original single-pane wood windows; replacing windows is expensive — storm window/repair approach targeted first",
+      "Foundation crack observed in basement; hairline crack; monitor for signs of movement; consider structural assessment if progression or red flags",
+      "Hallway subfloor under carpet shows spongy spot; potential localized subfloor/joist issue"
+    ],
+    "open": [
+      "HVAC service / efficiency improvements and smart thermostat",
+      "Window improvements (selective replacement, storm windows, weatherstripping)",
+      "Kitchen refresh (keep layout, reface/paint cabinets, new counters/hardware)",
+      "Main bathroom renovation (cosmetic, new fixtures, tile, ventilation improvements)",
+      "Refinish original pine floors in living areas",
+      "Paint, trim, and lighting (DIY-friendly)",
+      "Water heater and plumbing fixes",
+      "Curb appeal/exterior touch-ups",
+      "Kitchen cabinet decision: refacing/painting with new countertops vs full tear-out; assess cabinet box condition (moisture, rot, square) via inspection; obtain 2–3 quotes for apples‑to‑ apples comparison",
+      "Bathroom diagnostic plan: remove worst caulk/grout spot and inspect substrate/moisture; use moisture meter; decide between regrouting/recaulk or partial rework",
+      "Flooring: decide between refinishing pine floors, engineered hardwood, or LVP; obtain 2–3 quotes; inspect thickness and remaining finish",
+      "Window condition assessment: original single-pane wood; evaluate storm window options and weatherstripping; obtain quotes for storms vs full replacement",
+      "Prioritize window improvements on worst-performing rooms (e.g., living areas) for comfort-per-dollar",
+      "Attic insulation target: aim for R-49 in climate zone 4; consider R-60 for additional savings",
+      "Air sealing should be completed before adding insulation",
+      "Inspect current attic insulation depth and identify gaps/compressed areas",
+      "Seal band/rim joists using closed-cell spray foam or rigid foam with caulk",
+      "Evaluate attic ventilation after sealing to maintain proper airflow",
+      "Assess ducts in the attic for leaks and insulate/seal if present",
+      "Obtain 2–3 quotes for blown-in cellulose to achieve R-49/R-60",
+      "Foundation crack monitoring and potential structural assessment",
+      "Permitting: assess which scope items require permits (electrical, plumbing, window openings, interior walls, flooring) and coordinate with contractor to pull permits; verify permit requirements with local building department; incorporate permit timeline into project schedule",
+      "Contractor bidding guidance: determine lump-sum vs time-and-materials approach and establish license/insurance verification steps",
+      "Countertop material options: quartz, butcher block, high-end laminate for kitchen countertops; assess budget impact and quotes",
+      "Finalize interior paint color palette: select 3-color scheme (main wall, trim, accent) for main living areas and kitchen; coordinate with pine floors and countertop options; test with large swatches in different lighting",
+      "Contingency planning and funding alignment",
+      "Hiring path decision: determine whether to hire a kitchen/bath designer, a design-build contractor, or an architect for kitchen and bathroom layouts",
+      "Week 1 milestone: orders placed for long-lead items (countertops, cabinet doors, windows); permits initiated",
+      "Waste removal and temporary storage planning: estimate dumpster/haullaway, junk removal, and 1–3 months of storage (POD/self-storage) costs; align with bids and contingency.",
+      "Subfloor/joist repair planning: local soft spots under carpet in hallway; inspect moisture sources, confirm extent, and obtain quotes; cost ranges: patch subfloor $50–200 materials; contractor $200–800; joist repair/sistering $500–2,500; larger issues/mold $2,000–5,000+; drying time; may require temporary shoring"
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 45136,
+    "outputTokens": 87363,
+    "totalTokens": 132499
+  },
+  "timestamp": "2026-02-15T03:18:53.880Z"
+}

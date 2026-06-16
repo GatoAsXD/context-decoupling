@@ -1,0 +1,27 @@
+{
+  "id": "es_v3_ACCUMULATION_L40_Moving to a new city",
+  "scriptId": "cs_v3_ACCUMULATION_L40_Moving to a new city",
+  "historyId": "h_v3_ACCUMULATION_L40_Moving to a new city",
+  "cutoffIndex": 24,
+  "messages": [
+    "I'm bringing a keyboard and an amp plus a lot of books, so storage or an extra small room would be really useful.",
+    "Any tips on searching listings so I don't end up in a place that's too cramped for that stuff?",
+    "I'll probably keep a car for weekend trips but would rather avoid paying for expensive daily parking.",
+    "With these constraints in mind, what should my immediate next steps be over the next six weeks so I'm not scrambling?",
+    "Thanks — that helps. Could you outline a focused search strategy that sequences actions from now until move-in?",
+    "Include how to triage listings remotely so I know which ones deserve an in-person visit on limited weekends.",
+    "I'd like guidance on what to prioritize in conversations with landlords to cut to the chase quickly.",
+    "Also, please give a two-week-before and two-weeks-after checklist that covers logistics, essentials to set up, and contingencies.",
+    "Make the checklist actionable with timings and who to contact first if something goes wrong.",
+    "Could you also suggest three neighborhoods I should focus on, with brief reasons each would or wouldn't fit my situation?",
+    "For each neighborhood, list typical rent ranges and the kind of unit description I should screenshot or flag while searching.",
+    "I want a few short negotiation lines to use if a place is slightly above what I'm aiming to pay.",
+    "And two backup plans that won't be ruinously expensive if my top choices fall through at the last minute.",
+    "Please add a compact packing and moving timeline for my bulky items so they arrive safely without derailing the whole move.",
+    "Finally, outline a simple weekend viewing itinerary I can follow the first time I'm there in person, including what to check in each unit and immediate next steps after a viewing.",
+    "Now, based on everything we've gone over, please produce: (a) three neighborhood recommendations with brief pros and cons; (b) a prioritized apartment-hunt and moving timeline aligned to my arrival window and cost constraints; (c) a detailed two-week-before and two-weeks-after checklist covering logistics, setup, and handling large items; (d) three short landlord negotiation snippets and two contingency options. Keep everything practical and in the order I should tackle it."
+  ],
+  "metadata": {
+    "timestamp": "2026-02-13T02:31:57.261Z"
+  }
+}

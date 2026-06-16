@@ -1,0 +1,27 @@
+{
+  "id": "es_v2_OVERRIDE_L40_Excessive phone or social media use",
+  "scriptId": "cs_v2_OVERRIDE_L40_Excessive phone or social media use",
+  "historyId": "h_v2_OVERRIDE_L40_Excessive phone or social media use",
+  "cutoffIndex": 24,
+  "messages": [
+    "Important update: my employer just informed me the phone I use for both work and personal stuff is managed by their IT system and I can't change its settings.",
+    "They won't allow third-party blocking tools or app removals on that device, and IT can push changes remotely.",
+    "Also, several channels on that handset must remain audible for client contact, so silencing everything isn't an option.",
+    "On top of that I don't have funds to buy a second device or pay for premium services to work around restrictions.",
+    "That means a lot of the measures we'd considered that involve altering the phone itself won't be possible now.",
+    "I still want to reduce my time, but it has to be done without relying on device-level controls. How should the approach change?",
+    "Keep in mind I sometimes need the phone to be on me during the day for work reasons, so leaving it elsewhere isn't always feasible.",
+    "I can, however, adjust how I physically handle the device, use other devices like my laptop or an old tablet, and set household routines.",
+    "Can you rework the draft six-week plan into one that assumes the main device is off-limits for software changes?",
+    "Please focus on no-cost or very low-cost strategies, environmental tweaks, interpersonal agreements, and manual tracking.",
+    "A few practical clarifications: I can use kitchen timers, sticky notes, a simple notebook for logging, and place-based cues like a basket or shelf.",
+    "I also have a personal laptop and an older tablet that aren't managed; shifting some browsing to them is an option if that helps.",
+    "During business hours I still need to respond quickly at times, but evenings and most weekends are where I want the strictest limits.",
+    "Include short, friendly sentences I can send when people expect instant replies, and a visible household signal I can use to show I'm off social feeds.",
+    "Also add an easy hand-written daily check (two lines max) and a one-step in-the-moment recovery tactic I can use post-slip.",
+    "Given the main handset is locked down by workplace policy so I can't alter its software or add helpers, please give me a revised 42-day program that uses only schedule-based, physical, interpersonal and free/manual techniques: daily actions, weekly checkpoints, two practical evening/weekend fallback routines, exact wording to tell contacts I'm limiting replies, a simple paper log format, and a one-paragraph recovery script I can read when I falter."
+  ],
+  "metadata": {
+    "timestamp": "2026-02-12T22:33:33.564Z"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "c_structuredContext_v3_ACCUMULATION_L40_Buying a new phone or laptop",
+  "scriptId": "cs_v3_ACCUMULATION_L40_Buying a new phone or laptop",
+  "historyId": "h_v3_ACCUMULATION_L40_Buying a new phone or laptop",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Help user decide between purchasing a phone or a laptop and provide concrete recommendation once budget/usage/preferences provided.",
+      "Evaluate whether a convertible/tablet-with-keyboard is a viable middle ground for travel editing and provide concrete recommendations given budget/usage/preferences."
+    ],
+    "constraints": [
+      "Prioritize long-term software updates and durability to avoid frequent purchases.",
+      "Per-device budget maximum: $1,200.",
+      "Prioritize portability and light weight due to frequent travel and carry-on constraints.",
+      "Laptop weight target: under 3 pounds (approximately 1.36 kg) to minimize bag burden when traveling.",
+      "Prefer devices that offer smooth cross-device syncing within the same ecosystem (phone, earbuds, and laptop/tablet) to minimize friction.",
+      "Flexible ecosystem; not tied to a single ecosystem if another option better fits workflow."
+    ],
+    "decisions": [],
+    "entities": [
+      "phone",
+      "laptop",
+      "tablet",
+      "convertible",
+      "ecosystem"
+    ],
+    "open": [
+      "What’s your rough budget?",
+      "What will you use it for most (work, school, gaming, photo/video, social/media, streaming)?",
+      "Do you already have a device that mostly covers one role (e.g., a tablet or older laptop)?",
+      "How important is portability vs performance?",
+      "Which upgrade would be most impactful right now (phone vs laptop) given your current devices?",
+      "How long do you expect the device to last before upgrading?",
+      "Are you leaning toward a phone or a laptop, and what will you primarily use it for?",
+      "What level of photo editing are you planning (basic touches on mobile vs RAW edits and advanced retouching on a laptop)?",
+      "Do you require desktop-grade plugins, automation, or tethered workflows for your workflow?",
+      "Will you need external storage, color-calibrated displays, or multi-monitor setups?",
+      "Minimum RAM and storage expectations (e.g., 16 GB, 1 TB) and whether you want upgradeability: impacts longevity.",
+      "Display needs (size, resolution, color accuracy/calibration for print work): important for creative tasks.",
+      "Tolerance for noise/heat (silent/light vs willing to accept fans): affects acceptable cooling solutions.",
+      "Importance of repairability and long‑term OS updates/support: influences brand/series choices.",
+      "Camera importance (phone camera quality critical or secondary): helps decide phone priority.",
+      "Timeline for purchase and desire for latest generation vs value older models: affects recommendations and deals.",
+      "Any non‑negotiable brands, warranties, or trade‑in plans: filters choices and total cost.",
+      "Longevity and overall value: under a $1,200 cap, do laptops or phones tend to offer more long-term value?",
+      "On-the-road editing context: since you'll edit away from a desk, how important are portability, battery life, and a comfortable keyboard/display for long sessions?",
+      "Is a convertible or tablet-with-keyboard a viable middle ground for your editing workflow on the road?",
+      "Would you prefer a side-by-side comparison of Apple and Windows options, or focus on one ecosystem?"
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 24964,
+    "outputTokens": 61600,
+    "totalTokens": 86564
+  },
+  "timestamp": "2026-02-14T22:19:29.273Z"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "c_structuredContext_v2_OVERRIDE_L40_Struggling to organize daily time",
+  "scriptId": "cs_v2_OVERRIDE_L40_Struggling to organize daily time",
+  "historyId": "h_v2_OVERRIDE_L40_Struggling to organize daily time",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Reduce interruptions, finish more MITs, protect morning deep work, add exercise and side-project time, and stop working late."
+    ],
+    "constraints": [
+      "End-of-day shutdown ritual must be scheduled as a calendar block and treated as non-negotiable.",
+      "Daily meeting hours should be limited to 2–3 hours to preserve deep-work blocks."
+    ],
+    "decisions": [
+      "Batch similar tasks (calls and emails) to reduce cognitive switching and interruptions; group by channel/type and timebox into dedicated blocks.",
+      "Treat side-project evenings as non-negotiable calendar blocks with explicit timeboxing and start rituals.",
+      "Cancellation/reschedule rule for side-project sessions to prevent lost blocks.",
+      "Establish a recurring 'Shutdown — offline' calendar block and alarm to enforce the end-of-day ritual.",
+      "Adopt a hybrid night-before planning + brief morning anchor routine to reduce procrastination; implement 5–15 minute night planning plus 3–7 minute morning anchor with defined MITs and calendar scheduling.",
+      "Define and apply a daily meeting-hours cap (target 2–3 hours) and prioritize scheduling to cluster meetings and protect deep work."
+    ],
+    "entities": [
+      "Batching reduces context switching and interruptions; create explicit check windows for batches.",
+      "Schedule side-project evenings as recurring Busy calendar blocks; prep checklist and start ritual.",
+      "End-of-day shutdown ritual: calendar block, alarm, and transition cue.",
+      "Night-before planning protocol: capture inbox items, select 1–3 MITs, write a single actionable first step for each, place first MIT on calendar with start time and duration; set a timer; prep materials; add an implementation intention.",
+      "Morning anchor protocol: quick hydration/movement, re-read MITs, confirm start time, start timer and begin the first focused block.",
+      "Hybrid planning approach to reduce procrastination.",
+      "Calendar retro-log (least friction): Use your normal calendar; create events after each major activity with Busy status.",
+      "Pomodoro / timer counts (minimal live tracking): Run Pomodoro cycles and log counts in a single note; include meetings and breaks.",
+      "Single-note timestamps (paper or note app): Keep a running note with timestamps at switches; track interruptions.",
+      "Passive app (if you don’t mind one tool): Use a start/stop tracker; start when you begin something, stop when you switch.",
+      "Simple categories to use: Deep Focus, Meetings / Calls, Email / Admin / Reactive, Breaks / Walk / Exercise, Interruptions, Other / Personal.",
+      "Quick 3-day plan: prep (5–10 min), days 1–3 log as you go (or retro-log hourly), day 4 review (sum time per category, compute percentages, count interruptions).",
+      "What to look for in the review: total deep-focus hours per day and % of total work time; interruptions count and timing; MITs started/completed; biggest time sinks; best/worst time-of-day for concentration.",
+      "A simple quick metric: if deep focus is under 2–3 hours/day, focus on protecting morning blocks and reducing reactive checks.",
+      "Meeting-hours cap: 2–3 hours per day; preference for clustering meetings to preserve focused blocks."
+    ],
+    "open": []
+  },
+  "generationMetrics": {
+    "inputTokens": 28952,
+    "outputTokens": 66610,
+    "totalTokens": 95562
+  },
+  "timestamp": "2026-02-15T03:27:23.465Z"
+}

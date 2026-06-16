@@ -1,0 +1,17 @@
+{
+  "id": "es_v1_EARLY_Deciding to buy something expensive",
+  "scriptId": "cs_v1_EARLY_Deciding to buy something expensive",
+  "historyId": "h_v1_EARLY_Deciding to buy something expensive",
+  "cutoffIndex": 14,
+  "messages": [
+    "What's the most surprising fact about honey you remember? I heard it lasts forever—is that true?",
+    "Back to the buying dilemma: I'm torn between raw rendering power and portability—given how I described my workflow and daily routine, which trade-off would you expect to make more sense?",
+    "For on-the-go file work, would it normally be better to invest in very fast external drives now or insist on larger internal storage when I purchase?",
+    "From a budgeting angle, if I can cover a chunk upfront and use the short store installment for the rest, is that a reasonable way to manage irregular freelance income?",
+    "If my goal is to avoid needing another upgrade for at least a couple of worry-free years, does that push the decision toward spending more now or choosing the more efficient newer option?",
+    "Putting everything together, if you had to pick one practical compromise for someone in my situation, which would you choose and why?"
+  ],
+  "metadata": {
+    "timestamp": "2026-01-25T01:10:00.854Z"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": "c_structuredContext_v3_ACCUMULATION_L40_Learning to cook better",
+  "scriptId": "cs_v3_ACCUMULATION_L40_Learning to cook better",
+  "historyId": "h_v3_ACCUMULATION_L40_Learning to cook better",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Become confident and enjoy weekday cooking; reduce intimidation; establish a sustainable weekly routine (3 weeknight dinners + 1 weekend practice per week).",
+      "Establish 3 go-to templates: one-pan roast, stir-fry, simple pasta; and 3 core techniques as a practice framework.",
+      "Develop a reliable, tasty weeknight dinner plan you actually want to eat."
+    ],
+    "constraints": [
+      "Weeknight dinners should be 20–30 minutes or less.",
+      "Build weekly templates: sheet-pan, stir-fry, pasta, grain bowls.",
+      "Weeknights: 20–45 minutes.",
+      "Weekend: 60–120 minutes.",
+      "New vs repeat: aim for 1–2 new recipes per week; repeat or riff on the rest.",
+      "Limit experimentation to at most one experiment per week.",
+      "Batch or prep components on weekends to shorten weeknights.",
+      "Rest days when you feel drained.",
+      "Knife practice sessions should be 10–15 minutes, 3–5 times per week.",
+      "Stabilize the cutting board with a damp towel or non-slip mat during practice.",
+      "Always use the claw grip on your guide hand and keep fingertips tucked.",
+      "Use the right knife for the task: chef's knife (8-10 inches) for most tasks; paring knife for small work.",
+      "Keep knives sharp and store safely; avoid submerging knives in soapy water during cleaning.",
+      "Integrate knife drills into real cooking sessions to transfer the skill.",
+      "Oven unavailable; replace baking recipes with stovetop, pressure cooker/Instant Pot, microwave, blender, or other non-baking methods.",
+      "Equipment constraints: two-burner gas stove, microwave, rice cooker, blender; no oven.",
+      "Weeknights: about 30 minutes on most evenings.",
+      "All recipes and pantry items must be free of tree nuts and peanuts.",
+      "Avoid cross-contamination with tree nuts, peanuts, coconut, and sesame unless explicitly confirmed safe.",
+      "Weekly grocery budget target: around $60."
+    ],
+    "decisions": [
+      "Choose 3 go-to templates: one-pan roast, stir-fry, simple pasta.",
+      "Choose 3 core techniques: knife basics, seasoning/tasting, heat control & pan finishing.",
+      "Aim for 3–5 cooking sessions per week.",
+      "Session length targets: Weeknights 20–45 minutes; Weekend 60–120 minutes.",
+      "Adopt backward timeline timing method for coordinating multiple components.",
+      "First month focus: pan-searing + pan sauces, stir-fries, one-pot pastas, and legume curries/stews.",
+      "Secondary month focus: blender sauces, quick pickles/finishers, skillet roasting, and eggs.",
+      "Practice rhythm: pick two primary categories for weeknights to repeat and one weekend session to try a new technique/recipe from a secondary category.",
+      "Set weeknight target of 30 minutes."
+    ],
+    "entities": [
+      "pan-seared proteins + quick pan sauces",
+      "Stir-fries and high-heat sautés",
+      "One-pot pastas and skillet “pasta in a pan”",
+      "Braises, stews & pressure-cooker dishes (stovetop or Instant Pot)",
+      "Curries, legumes, and thick stews",
+      "Skillet “roasting” & char/blister techniques",
+      "Eggs: omelettes, shakshuka, stovetop frittata",
+      "Blender sauces, pestos, and dressings",
+      "Quick pickles, relishes, and crunchy toppings (stovetop or jar)",
+      "Microwave & pan-steam hacks for veg and starches",
+      "Rice cooker meals (grain bowls, stews, and stove-free bases)",
+      "Chinese / Southeast Asian stir-fry style",
+      "Indian / South Asian stovetop curries and dals",
+      "Middle Eastern / North African stove-cooked dishes",
+      "Southeast Asian curries & coconut-based stews",
+      "Latin American / Mexican skillet cooking",
+      "Japanese / donburi and skillet comfort food",
+      "Cross-style techniques: searing and pan-sauces",
+      "Stir-fry timing and mise en place",
+      "Toasting and tempering spices",
+      "Coconut-milk simmering and balancing acid",
+      "Quick pickles and charring for contrast",
+      "Blender sauces for bowls and dressings",
+      "30-minute weeknight meals",
+      "Nut-free substitutions for pesto and toppings: use pumpkin seeds or sunflower seeds for crunch or as pesto components.",
+      "Yogurt, tahini (if sesame is safe), sunflower-seed butter, or extra olive oil + cooked beans as creamy bases.",
+      "Replace nut oils with olive oil, avocado oil, or neutral oils in dressings and finishing.",
+      "Garnishes: toasted seeds, toasted oats, or crisped buckwheat (kasha) as nut-free finishes.",
+      "Omit crushed peanuts in Asian sauces; substitute extra sesame seeds or crispy fried shallots/garlic if sesame is safe.",
+      "Keep a dedicated nut-free prep area and utensils at home; avoid cross-contact and ensure separate oil for frying.",
+      "Read labels for 'may contain' warnings; choose products labeled nut-free or produced in nut-free facilities when possible."
+    ],
+    "open": [
+      "Confirm which of peanuts, coconut, and sesame are allergens and the severity; determine cross-contamination risk and plan to tailor recipes and pantry lists.",
+      "Budget constraints: confirm weekly grocery budget around $60 and number of people to feed; align plan accordingly."
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 42020,
+    "outputTokens": 102250,
+    "totalTokens": 144270
+  },
+  "timestamp": "2026-02-14T22:41:28.327Z"
+}

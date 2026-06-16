@@ -1,0 +1,34 @@
+{
+  "id": "cs_v1_EARLY_Preparing for a job interview",
+  "type": "cs_v1_EARLY",
+  "seedTopic": "Preparing for a job interview",
+  "length": 20,
+  "messages": [
+    "I have a job interview at Novatech for a Senior Product Manager role next Tuesday at 10:00 AM - I want to start organizing my prep notes.",
+    "It's a video interview on Zoom; the calendar invite lists Jane Smith as the hiring manager and Mike Lee from HR.",
+    "They said the whole session will be about an hour: a short intro followed by a 45-minute case exercise focused on product strategy.",
+    "They asked me to have my portfolio link ready to share during the call and to have a government ID available if needed.",
+    "Also mentioned: be ready to walk through two past projects and highlight concrete metrics I improved, so I should pick two clear examples.",
+    "Any quick healthy 20-minute breakfast ideas I can make before a busy morning?",
+    "Tell me one cool animal fact I can use for light conversation—something memorable but brief.",
+    "For a last-minute overnight trip to the coast, what's an easy town to consider within a couple hours' drive?",
+    "What's a two-minute breathing or grounding exercise I can do to calm nerves?",
+    "Do you have a practical mnemonic for remembering people's names when I'm introduced?",
+    "Recommend a short, page-turner thriller I could finish over a weekend—nothing too dense.",
+    "I'm curious about fermenting at home: what's a safe vegetable to start with for a beginner?",
+    "Any simple tips to keep my houseplants alive if I know I'll be busy for a week?",
+    "Give me an interesting historical tidbit about coffee—something I can mention casually.",
+    "How can I get ink out of a shirt with common household items if I don't have a stain remover?",
+    "Logistics check: which application should I open on my laptop to join the meeting?",
+    "Of the two people on the invite, which one was responsible for making hiring decisions so I know who to direct role-fit questions to?",
+    "For the hands-on portion, did they specify whether I should be ready to share my screen or just talk through the examples?",
+    "What time did the invite put the session at again? I want to set an alarm to get online a bit early.",
+    "And when choosing which projects to discuss, should I focus more on measurable product impact or process improvements - what were they asking me to emphasize?"
+  ],
+  "metadata": {
+    "inputTokens": 419,
+    "outputTokens": 10722,
+    "totalTokens": 11141,
+    "timestamp": "2026-01-24T22:39:58.917Z"
+  }
+}

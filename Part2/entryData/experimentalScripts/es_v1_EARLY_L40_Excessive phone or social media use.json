@@ -1,0 +1,27 @@
+{
+  "id": "es_v1_EARLY_L40_Excessive phone or social media use",
+  "scriptId": "cs_v1_EARLY_L40_Excessive phone or social media use",
+  "historyId": "h_v1_EARLY_L40_Excessive phone or social media use",
+  "cutoffIndex": 24,
+  "messages": [
+    "What's the evidence on screen time's short-term effects on mood - does cutting back quickly improve how people feel?",
+    "If someone wanted to run a simple personal experiment to test changes, what metrics should they track?",
+    "Could rearranging home-screen layouts or burying apps in folders be meaningfully effective?",
+    "Any interesting history on when addictive design patterns like infinite scroll became mainstream?",
+    "Given the baseline numbers I mentioned earlier, is the timeline I set with my partner realistic if I stick to non-drastic measures?",
+    "Since I'm committed to avoiding drastic steps like app removal, what one low-friction change would most reliably cut passive scrolling?",
+    "I already have a short phone-free stretch each morning; should I preserve that as sacred time or could I use it for short scheduled social checks to meet social needs?",
+    "If I focus on lowering my daily average versus hitting the weekly cap, which approach generally produces steadier behavior change?",
+    "Would temporarily disabling an especially tempting app for a short period be a reasonable emergency measure, even though I'm trying to avoid extremes?",
+    "What's a painless evening checklist I could do in five minutes to predict whether I'll meet the weekly limit?",
+    "Is sharing periodic screenshots of usage with a partner usually helpful, or does that add pressure and resentment?",
+    "Would scheduling a short, fixed weekly video chat with close friends replace aimless scrolling, or would it just be additional time?",
+    "What conservative week-to-week reduction strategy avoids rebound - small gradual cuts, or a larger early change followed by maintenance?",
+    "If I slip and go over the cap, is it better to make up time the next week or accept the miss and recommit without punishment?",
+    "Could assigning a consistent place at home where my phone rests during focused periods be as effective as digital limits for breaking habit?",
+    "Lastly, can you sketch a one-page weekly plan that fits my life - honors the brief phone-free morning stretch I mentioned, avoids removing apps, and provides measurable checkpoints I can show my partner?"
+  ],
+  "metadata": {
+    "timestamp": "2026-02-12T19:47:24.318Z"
+  }
+}

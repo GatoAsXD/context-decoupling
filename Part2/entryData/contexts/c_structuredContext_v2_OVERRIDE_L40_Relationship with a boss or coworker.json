@@ -1,0 +1,83 @@
+{
+  "id": "c_structuredContext_v2_OVERRIDE_L40_Relationship with a boss or coworker",
+  "scriptId": "cs_v2_OVERRIDE_L40_Relationship with a boss or coworker",
+  "historyId": "h_v2_OVERRIDE_L40_Relationship with a boss or coworker",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Handle the situation with the manager without losing my job or making the situation worse."
+    ],
+    "constraints": [
+      "avoid job loss or career risk",
+      "Escalate promptly if harassment, discrimination, retaliation, or harm to job/compensation occurs.",
+      "Maintain a neutral, outcome-focused tone in communications"
+    ],
+    "decisions": [
+      "Protect your performance and reputation",
+      "Document interactions and contributions",
+      "Make your work visible, proactively",
+      "Manage meetings and interruptions",
+      "Prepare for a one-on-one with your manager",
+      "Reduce micromanagement with clear status and boundaries",
+      "Build allies and sponsors",
+      "Escalate only if necessary and carefully",
+      "Take care of yourself and have contingency plans",
+      "Draft neutral one-page timeline for the skip-level meeting.",
+      "Create and use an incident log template to document interruptions and miscrediting",
+      "Talk to trusted teammates to corroborate patterns and seek alignment",
+      "Consider a discreet skip-level conversation with your manager's manager to raise alignment and visibility concerns",
+      "Present documented facts, attempted remedies, and desired outcome when contacting HR",
+      "Clarify HR's role, confidentiality limits, and available options (mediation, coaching, formal complaint, accommodations)",
+      "Use email recap template after meetings to document agreements and actions.",
+      "Call out owners in cross-team emails when appropriate",
+      "Schedule a three-week recap check-in to assess effectiveness of post-meeting recaps",
+      "Present concrete business impact with evidence and time-boxed requests",
+      "Pursue a skip-level alignment meeting with the manager's manager when necessary.",
+      "Prepare a concise one-page timeline for the skip-level meeting.",
+      "Propose a RACI for key deliverables to discuss in the skip-level meeting.",
+      "Frame the skip-level request as alignment on priorities and ownership, not as a personal complaint.",
+      "Attach the timeline/recap when requesting the skip-level alignment.",
+      "Evaluate whether to invite a witness for private one-on-one meetings and, if so, obtain buy-in and define scope of observer role",
+      "Draft a post-meeting follow-up note template after one-on-one meetings to document agreements and maintain rapport"
+    ],
+    "entities": [
+      "manager",
+      "teammates",
+      "HR",
+      "stakeholders",
+      "manager's manager",
+      "colleague"
+    ],
+    "open": [
+      "interruption of meetings by manager",
+      "manager taking credit for ideas",
+      "micromanagement of team by manager",
+      "morale impact due to manager behavior",
+      "visibility impact due to manager behavior",
+      "contributions omitted in cross-team emails",
+      "accusation of defensiveness or uncooperative behavior during meetings",
+      "Draft and send a recap after meetings listing owners and decisions",
+      "Check back after three weeks to evaluate if visibility or ownership improved",
+      "Call out owners in cross-team emails when appropriate",
+      "Request skip-level alignment meeting with manager's manager",
+      "Prepare a concise one-page timeline for the skip-level meeting.",
+      "Bring documentation and proposed fixes (recap emails, RACI) to skip-level meeting.",
+      "Let me finish updates without interruption; target fewer than 1 interruption per update over the next 4 meetings.",
+      "Add a 'Contributors / Owners' line to cross-team emails; target 90% of cross-team recaps include contributors over the next quarter.",
+      "Circulate brief agendas with timeboxed items 24 hours before meetings; target agendas sent 24 hours prior for 80%+ of recurring meetings during a 6-week trial.",
+      "Send a 24-hour post-meeting recap listing decisions and owners; target 100% of project meetings with a recap within 24 hours for the next month.",
+      "Limit ad-hoc status checks; use scheduled check-ins unless a clear trigger occurs; reduce unscheduled check-ins by 50% over 4 weeks.",
+      "Follow a RACI for key deliverables and respect assigned roles; complete RACI for top 6 deliverables and use as single source of truth for 2 months.",
+      "Publicly acknowledge lead contributors in announcements; target 90% of milestone announcements list lead contributors next quarter.",
+      "Discuss and confirm before reassigning work or changing approach; target zero uncommunicated reassignments over 6 weeks.",
+      "Provide feedback in one-on-ones rather than public forums; target zero public corrective feedback; document private feedback in one-on-one.",
+      "Consider requesting a witness in private one-on-one meetings and clarify scope with manager and HR; ensure observer notes are factual and non-confrontational."
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 26682,
+    "outputTokens": 65939,
+    "totalTokens": 92621
+  },
+  "timestamp": "2026-02-15T03:17:03.333Z"
+}

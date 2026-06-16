@@ -1,0 +1,62 @@
+{
+  "id": "c_structuredContext_v1_EARLY_L40_Managing a personal budget",
+  "scriptId": "cs_v1_EARLY_L40_Managing a personal budget",
+  "historyId": "h_v1_EARLY_L40_Managing a personal budget",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Create a personal monthly budget for 12 months with notes on three-year implications using take-home pay of $3,450."
+    ],
+    "constraints": [
+      "monthly_rent: 1150",
+      "lease_end_date: 2027-06-30",
+      "safety_cushion_usage: job_loss_only",
+      "budget_breakdown_format: exact_dollar_amounts_and_percentages_of_take_home",
+      "preference_automated_transfers",
+      "preference_conservative_liquid_cash",
+      "preference_simple_actionable_steps",
+      "priority_order: essentials_first_then_goals_then_discretionary",
+      "planning_cadence: monthly_buckets",
+      "irregular_expenses_planning: sinking_funds",
+      "side_gig_income_classification: irregular_income",
+      "side_gig_smoothing_strategy_options: conservative_or_integrated",
+      "side_gig_allocation_percentages: taxes_25-35%; business_5-15%; owner_pay_20-40%; savings_15-30%",
+      "side_gig_buffer_target_months: 2-3"
+    ],
+    "decisions": [
+      "budgeting_approach: automated_transfers",
+      "sinking_fund_automation: enabled",
+      "side_gig_handling_decision_pending: true"
+    ],
+    "entities": [
+      "monthly_take_home: 3450",
+      "monthly_rent: 1150",
+      "lease_end_date: 2027-06-30",
+      "safety_cushion: 6000",
+      "planning_horizon: 12 months",
+      "three_year_implications: true",
+      "preferences: automated_transfers; conservative_liquid_cash; simple_actionable_steps",
+      "irregular_expenses_plan: sinking_funds",
+      "sinking_fund_buffer_percent: 5-10%",
+      "irregular_expenses_types: insurance_premiums; property_taxes",
+      "pay_yourself_first_percentages: 5-10% beginner target; 10% target; 15-20% typical; 25-50%+ aggressive",
+      "beginner_savings_examples: 5% = 172.50/month; 10% = 345.00/month; 15% = 517.50/month; 20% = 690.00/month",
+      "savings_automation_tactic: automate a modest percent (5-10%) on payday so it never hits your spending account, then raise it by 1-2 percentage points every 3-6 months or whenever you get a raise",
+      "retirement_matching_included_in_savings: true",
+      "side_gig_income_characteristics: irregular_cash_flow",
+      "side_gig_smoothing_buffer_months: 2-3",
+      "side_gig_allocation_percentages: taxes_25-35%; business_5-15%; owner_pay_20-40%; savings_15-30%"
+    ],
+    "open": [
+      "giving_treatment_decision_pending",
+      "side_gig_income_handling_decision_pending",
+      "subscription_negotiation_tactics_pending"
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 21846,
+    "outputTokens": 50058,
+    "totalTokens": 71904
+  },
+  "timestamp": "2026-02-14T01:21:47.030Z"
+}

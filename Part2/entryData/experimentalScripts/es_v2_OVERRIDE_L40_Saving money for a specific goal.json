@@ -1,0 +1,27 @@
+{
+  "id": "es_v2_OVERRIDE_L40_Saving money for a specific goal",
+  "scriptId": "cs_v2_OVERRIDE_L40_Saving money for a specific goal",
+  "historyId": "h_v2_OVERRIDE_L40_Saving money for a specific goal",
+  "cutoffIndex": 24,
+  "messages": [
+    "Update: some unexpected news — the seller just accepted the offer and wants to close much sooner than we expected; the closing timeline is now under a year, closer to nine months.",
+    "That obviously changes the math. Can you recalculate how much I'd need to set aside each month now to reach the full down payment in that shorter window, assuming I still want to preserve my emergency buffer?",
+    "Assuming I can only safely use a tiny portion of my current savings because of my cushion, what practical levers can I pull to close the new monthly gap? Think income, expense cuts, one-time sources.",
+    "How viable is switching to a loan product that needs a much smaller upfront payment? If I go FHA or a low-down-payment conventional mortgage, what am I trading off long-term?",
+    "What about short-term borrowing — family loan, personal loan, or tapping retirement through a loan — what should I consider first and what should be avoided?",
+    "If I try to ramp up side income, what target should I set to make a meaningful dent given the shorter timeline? Be frank about what's realistic in a few months for someone starting out.",
+    "Is it reasonable to ask the seller for an extension, or to include financing contingency clauses, given the situation? How should I phrase that to keep the deal alive without losing it?",
+    "Can a bridge loan or similar short-term financing be used specifically for the down payment, and what typical costs or risks are associated with those products?",
+    "I want a plan that doesn't melt away the emergency cushion I rely on. Given that constraint, which three combinations of measures (income, cuts, borrowing) are the most balanced options?",
+    "If the balanced options still fall short, what are realistic exit strategies — choosing a cheaper property, postponing purchase, or accepting a mortgage with higher monthly payments — pros and cons?",
+    "Okay, lay out a prioritized action plan I can start today that targets the new, earlier closing while explicitly preserving my emergency cushion — separate immediate moves, near-term adjustments, and fallback decisions.",
+    "For the immediate moves (the first 30 days), give me three very concrete tasks with measurable outcomes — e.g., cancel X, move Y into a different account, reach Z in additional income — phrased so I can check them off.",
+    "For the next three months, provide a measurable monthly target and a micro-plan for boosting income and trimming costs that doesn't deplete my buffer; include examples of what to cut and projected gains.",
+    "Include a clear decision tree: after that period, if I'm still short by a significant margin, what exact threshold triggers asking for family help, taking short-term debt, or shifting to a cheaper purchase?",
+    "Also give me two short scripts (one or two sentences each) I can use to: (a) ask the seller for more time without sounding weak; and (b) ask a family member for a short-term loan.",
+    "Finally, condense everything into a one-page, prioritized checklist with the top three immediate actions and two fallback options so I can act right away under the tightened timeline while protecting the safety net."
+  ],
+  "metadata": {
+    "timestamp": "2026-02-13T00:46:39.623Z"
+  }
+}

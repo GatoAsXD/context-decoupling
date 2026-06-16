@@ -1,0 +1,42 @@
+{
+  "id": "c_structuredContext_v4_NOISE_L40_Starting an exercise routine",
+  "scriptId": "cs_v4_NOISE_L40_Starting an exercise routine",
+  "historyId": "h_v4_NOISE_L40_Starting an exercise routine",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "start an exercise routine",
+      "get fitter overall",
+      "lose around ten pounds",
+      "train for a multi-day trek"
+    ],
+    "constraints": [
+      "time per session: 30 minutes",
+      "sessions per week: 4",
+      "no full gym access; bodyweight exercises and light dumbbells only",
+      "duration: roughly eight weeks",
+      "trial morning workouts for 1-2 weeks at 20-30 minutes to assess feasibility",
+      "audio preference during workouts: podcasts preferred over music",
+      "footwear replacement budget constraint: minimize cost; look for sales or outlet deals"
+    ],
+    "decisions": [],
+    "entities": [
+      "beginner",
+      "home-based",
+      "weekend-hiker"
+    ],
+    "open": [
+      "injuries or medical conditions",
+      "knee soreness",
+      "phone step counter double-counts on bumpy roads",
+      "weight measurements from smart scale may be unreliable due to placement/humidity",
+      "running shoes worn out"
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 16711,
+    "outputTokens": 31746,
+    "totalTokens": 48457
+  },
+  "timestamp": "2026-02-14T23:51:34.706Z"
+}

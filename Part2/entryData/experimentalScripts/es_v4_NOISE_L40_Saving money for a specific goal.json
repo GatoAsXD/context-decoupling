@@ -1,0 +1,27 @@
+{
+  "id": "es_v4_NOISE_L40_Saving money for a specific goal",
+  "scriptId": "cs_v4_NOISE_L40_Saving money for a specific goal",
+  "historyId": "h_v4_NOISE_L40_Saving money for a specific goal",
+  "cutoffIndex": 24,
+  "messages": [
+    "I have a habit-tracking app that reminds me about habits like not eating out, but it’s more motivational than monetary.",
+    "Cutting back on daily coffee, which is only a few dollars at a time, might free up a little each month.",
+    "I once tried extreme couponing and gave up; the time investment wasn't worth the savings.",
+    "There are so many small, tempting upgrades for cars; sticking to a baseline model is a discipline.",
+    "I thought about selling my old mountain bike, but it's sentimental so I'm hesitant.",
+    "Last month my phone needed an unexpected replacement battery; unpredictable small costs are annoying.",
+    "Okay, I'm ready to focus now and put a clear plan into action.",
+    "Please give me the straightforward calculation so I can set the bank transfer.",
+    "For the calculation, assume zero interest and that transfers will occur once each month.",
+    "Make the monthly deposit a neat, rounded figure so it's simple to schedule.",
+    "Also tell me how many monthly deposits there will be and which month to start so it lines up with the timeline I mentioned earlier.",
+    "Show the subtotal those monthly deposits will add up to, not including what I already have saved.",
+    "Keep the answer brief: the monthly amount, number of deposits, subtotal, and a one-line recap of assumptions used.",
+    "If the rounded monthly amount slightly overshoots the target, note that as well.",
+    "Confirm whether that rounded plan finishes by the deadline I indicated at the start.",
+    "Using the target, timeframe, and the portion I've already earmarked, what's the single monthly automated deposit I should schedule (rounded to an easy multiple of ten), how many such deposits will there be, and what will those deposits sum to—assuming no interest?"
+  ],
+  "metadata": {
+    "timestamp": "2026-02-13T18:39:30.913Z"
+  }
+}

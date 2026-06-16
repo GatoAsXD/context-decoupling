@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v4_NOISE_L40_Issues with a neighbor",
+  "scriptId": "cs_v4_NOISE_L40_Issues with a neighbor",
+  "historyId": "h_v4_NOISE_L40_Issues with a neighbor",
+  "componentType": "plainContext",
+  "context": "Current State:\n\nMessage:\nSometimes I smell strong cooking smells from their balcony—different issue but it reminds me that apartment living has lots of little compromises.\n\nResponse:\nThat’s understandable — strong cooking smells are another common apartment annoyance, and it makes sense that these little compromises add up and make the situation feel more burdensome.",
+  "generationMetrics": {
+    "inputTokens": 16913,
+    "outputTokens": 64673,
+    "totalTokens": 81586
+  },
+  "timestamp": "2026-02-14T23:25:11.387Z"
+}

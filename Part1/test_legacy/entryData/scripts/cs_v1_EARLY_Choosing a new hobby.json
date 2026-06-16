@@ -1,0 +1,34 @@
+{
+  "id": "cs_v1_EARLY_Choosing a new hobby",
+  "type": "cs_v1_EARLY",
+  "seedTopic": "Choosing a new hobby",
+  "length": 20,
+  "messages": [
+    "I'm trying to choose a new hobby and want to give you a few concrete details so your suggestions fit me.",
+    "I work 9am-5pm Monday through Friday; I typically have two weeknights free (Tuesdays and Thursdays) and my weekends are often tied up with family commitments.",
+    "I live in a 480-square-foot one-bedroom apartment on the second floor with only a tiny balcony and no garage or extra storage; I'd prefer hobbies that don't require a lot of space. Financially I can comfortably spend about $40 per month and up to roughly $200 on starter gear.",
+    "I have mild osteoarthritis in my right knee so very high-impact activity or long hours standing are uncomfortable. My building has close neighbors, so I'd like to avoid loud equipment in the evenings. I tend to enjoy creative, hands-on hobbies; I'm considering compact mirrorless photography, indoor container gardening, knitting or crochet, hand-tool woodworking, and digital illustration.",
+    "Random tangent: what's one surprising thing about humpback whale songs that most people don't know?",
+    "Quick cooking question—what's the best way to reheat leftover pizza so the crust gets crispy again?",
+    "Can you recommend a tightly plotted sci-fi novel from the last few years? I want something I can finish over a weekend.",
+    "I'm curious—how does a French press actually change coffee flavor compared with a drip machine?",
+    "Do you know an optical illusion that's simple to explain but consistently wows people?",
+    "Any underrated indie films from the 2010s you'd recommend if I like character-driven stories?",
+    "I love space stuff—what's one of the most surprising discoveries from the Voyager missions?",
+    "Etymology question: where does the word 'serendipity' come from?",
+    "Could you give me a two-sentence premise for a cozy mystery that avoids graphic details?",
+    "What's the practical difference between OLED and LCD screens for general reading and browsing?",
+    "I'd like a podcast about urban history—any episode or show that's a particularly good deep dive?",
+    "What's a simple mnemonic trick to remember people's names at a networking event?",
+    "Fun question: if you could taste any fictional dish from a book or movie, which would you try and why?",
+    "Okay, bringing the conversation back: among those activities I mentioned earlier, which one feels most manageable overall given limited weeknight availability, a compact living situation, and the need to avoid noisy or high-impact setups?",
+    "If my goal is to have a few tangible pieces to show friends in a relatively short time without a large upfront spend, which of the options would most likely deliver that?",
+    "Finally, which choice best balances mostly solo practice with occasional in-person meetups so I can meet people without making socializing a requirement?"
+  ],
+  "metadata": {
+    "inputTokens": 418,
+    "outputTokens": 8519,
+    "totalTokens": 8937,
+    "timestamp": "2026-01-24T22:39:54.222Z"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v2_OVERRIDE_L40_Deciding to buy something expensive",
+  "scriptId": "cs_v2_OVERRIDE_L40_Deciding to buy something expensive",
+  "historyId": "h_v2_OVERRIDE_L40_Deciding to buy something expensive",
+  "componentType": "plainContext",
+  "context": "",
+  "generationMetrics": {
+    "inputTokens": 25476,
+    "outputTokens": 69606,
+    "totalTokens": 95082
+  },
+  "timestamp": "2026-02-14T15:24:28.780Z"
+}

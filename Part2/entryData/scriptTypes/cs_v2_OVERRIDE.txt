@@ -1,0 +1,23 @@
+OBJECTIVE
+Evaluate late-stage constraint handling and conflict resolution. The user establishes a stable context initially but introduces a critical constraint late in the conversation that alters or invalidates prior assumptions.
+
+STRUCTURE
+Phase 1 (≈60%): Stable development under implicit assumptions.
+- The user and assistant develop the task or topic normally.
+- There are no hidden constraints; the progression is consistent and logical.
+- The conversation suggests a clear direction or feasibility based on initial information.
+
+Phase 2 (≈25%): Introduce a new major constraint.
+- The user introduces a new, explicit constraint that changes the feasibility, direction, or requirements of the task.
+- This constraint acts as an "override" to the assumptions made in Phase 1.
+- It must be clearly stated but not accompanied by meta-commentary (e.g., do not say "ignore what I said earlier").
+
+Phase 3 (≈15%): Final request that must respect the new constraint.
+- The final question depends primarily on the late constraint.
+- The assistant must reconcile prior reasoning and adapt the output without ignoring the new requirement or creating internal contradictions.
+
+CONTENT & LINGUISTIC CONSTRAINTS
+
+The Constraint: Should feel realistic (e.g., a sudden budget cut, a new dietary restriction, a change in timeline).
+No Meta-commentary: Do not explicitly instruct the model to delete memory; the constraint itself should force the adaptation.
+Resolution: The final output must demonstrate that the late constraint takes precedence over early assumptions.

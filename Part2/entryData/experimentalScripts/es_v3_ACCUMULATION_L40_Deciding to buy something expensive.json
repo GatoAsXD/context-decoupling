@@ -1,0 +1,27 @@
+{
+  "id": "es_v3_ACCUMULATION_L40_Deciding to buy something expensive",
+  "scriptId": "cs_v3_ACCUMULATION_L40_Deciding to buy something expensive",
+  "historyId": "h_v3_ACCUMULATION_L40_Deciding to buy something expensive",
+  "cutoffIndex": 24,
+  "messages": [
+    "I'd rather avoid high-strung performance trims or complicated aftermarket bits that make maintenance pricey.",
+    "I get more peace of mind with a clear warranty or a certified pre-owned program, even if it's a bit pricier.",
+    "Insurance rates matter to me—I'm in my early thirties and don't want a purchase that will make premiums skyrocket.",
+    "Bottom line, I want reliability and practicality to beat flashiness; comfort and low headaches are the priorities.",
+    "Okay, can you put all of that together and recommend the best overall strategy for this purchase?",
+    "I'm looking for three concrete scenarios: a newer vetted used pick (with some warranty), a reliable value used option, and a conservative plan that keeps monthly payments very predictable.",
+    "For each scenario, give an estimated monthly cash-flow range that incorporates my trade-in and the down payment I mentioned earlier.",
+    "Also highlight how each scenario handles my commute and tight-parking situation—trade-offs on size, fuel economy, and comfort.",
+    "Because I need a car before my upcoming trip, lay out the timeline and priority steps I should follow to lock one down without panicking at the last minute.",
+    "Provide three targeted negotiation and inspection talking points tailored to an urban commuter who wants low maintenance and good resale.",
+    "Flag the main red flags I should walk away from during test drives or when reviewing listings, especially ones that undercut long-term reliability.",
+    "If you can suggest general model categories or specific trims that typically balance compactness, fuel efficiency, and resale rather than a single make, that'd be ideal.",
+    "Include a quick approach to estimate insurance impact so I can rule out options that would be unexpectedly expensive to insure.",
+    "If one of the scenarios stretches my monthly flexibility too much given that my income varies, recommend a contingency (e.g., longer warranty, different loan term, or backup transportation plan).",
+    "And before I sign anything, give me a compact checklist of documents, inspection items, and post-purchase tasks to make the whole process manageable.",
+    "Keep the advice conservative and practical—help me avoid regret while still getting something I'll enjoy and actually use."
+  ],
+  "metadata": {
+    "timestamp": "2026-02-13T01:22:11.769Z"
+  }
+}

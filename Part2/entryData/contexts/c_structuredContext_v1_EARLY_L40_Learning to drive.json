@@ -1,0 +1,57 @@
+{
+  "id": "c_structuredContext_v1_EARLY_L40_Learning to drive",
+  "scriptId": "cs_v1_EARLY_L40_Learning to drive",
+  "historyId": "h_v1_EARLY_L40_Learning to drive",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Be independently comfortable for weekend errands and commuting; practical skills prioritized."
+    ],
+    "constraints": [
+      "Must practice with a manual-transmission car for lessons.",
+      "No more than 4 hours per week of practice."
+    ],
+    "decisions": [
+      "Offer a country/state-specific mnemonic sheet for right-of-way rules; tailor content when location is provided.",
+      "Consider having a calm friend ride along to provide gentle feedback during practice sessions.",
+      "Provide a printable 1-page checklist and a short script for the calm friend to follow during practice sessions.",
+      "Turn the night driving pre-drive checklist into a printable one-line checklist.",
+      "Delay motorway/highway driving until basic vehicle control and observation habits are reliable; implement short, supervised motorway sessions.",
+      "Introduce an instructor-patient clarity evaluation checklist for first driving lesson."
+    ],
+    "entities": [
+      "manual-transmission car",
+      "age 28",
+      "novice driver",
+      "anxious in heavy traffic",
+      "driving simulators",
+      "hazard-perception apps",
+      "calm friend riding along to provide feedback",
+      "printable 1-page checklist",
+      "short script for friend to follow during practice",
+      "Arm-span & step calibration drill",
+      "Walk-the-parking-line (simulated parking) drill",
+      "Scaled model / toy-car rehearsal drill",
+      "Cone or chair spacing drill (on foot)",
+      "Visual alignment on a wall or curb (static reference) drill",
+      "Depth-perception ball/cup drill",
+      "Mental rehearsal & 3-step visualisation drill",
+      "Video/photo judgement drill",
+      "Aggressive-driver handling guidance (defensive driving for learner drivers)",
+      "Night driving safety guidelines (lighting, speed, scanning, glare reduction, fatigue management, weather adaptation, intersections, pedestrians)",
+      "motorway driving experience",
+      "highway driving",
+      "Instructor behavior indicators: patient and explains things clearly versus takes over",
+      "First-lesson evaluation checklist (6-point reference)"
+    ],
+    "open": [
+      "Driving test booked: June 12, 2026 at 9:00 AM"
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 19649,
+    "outputTokens": 38576,
+    "totalTokens": 58225
+  },
+  "timestamp": "2026-02-14T01:13:25.660Z"
+}

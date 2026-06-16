@@ -1,0 +1,27 @@
+{
+  "id": "es_v3_ACCUMULATION_L40_Medium-term plans for the next year",
+  "scriptId": "cs_v3_ACCUMULATION_L40_Medium-term plans for the next year",
+  "historyId": "h_v3_ACCUMULATION_L40_Medium-term plans for the next year",
+  "cutoffIndex": 24,
+  "messages": [
+    "What are pragmatic ways to schedule compliance-related engineering work late in the year so it doesn't completely block feature delivery?",
+    "Are there simple heuristics for distributing limited capacity across urgent contractual work, important platform tasks, and exploratory bets when timelines overlap?",
+    "Also, what milestone language helps executives see risk levels and decision points without exposing too much technical detail?",
+    "One last question before I finalize the briefing to leadership: how aggressive should contingency planning be for a small team when mapping a year ahead?",
+    "Okay—I've been dropping pieces of the situation in the previous messages. I'm ready to ask for a consolidated plan that pulls those threads together.",
+    "Please produce a quarter-by-quarter roadmap for the coming 12 months, with clear milestones and deliverables for each quarter rather than daily tasks.",
+    "For each quarter, indicate which initiatives to prioritize, which to defer, and how to allocate limited headcount versus contractors.",
+    "Include contingency strategies specifically for a temporary mid-year reduction in core engineering capacity.",
+    "When sequencing work, respect that a binding customer deliverable occurs in the first half, a high-visibility demo is scheduled later, and a regulatory migration is required toward the end of the year—plan around their relative timing without restating exact dates.",
+    "Given that paid marketing won't be available at scale, recommend product-led and low-cost growth experiments and show where they fit in the quarters.",
+    "Keep the whole plan within a tight financial envelope and explain trade-offs between hiring, contracting, and deferring work.",
+    "For each milestone provide measurable indicators and clear go/no-go criteria so stakeholders can make unambiguous decisions.",
+    "Include a concise risk register with the top five risks, their triggers, and mitigation steps, paying special attention to schedule collisions.",
+    "Suggest a staffing timeline: when to onboard contractors or hire, and how to stagger onboarding to reduce churn and knowledge transfer overhead.",
+    "Before you draft the plan, what minimal clarifying questions do you need from me so the roadmap is precise and actionable?",
+    "Once those clarifications are answered, please produce the full quarter-by-quarter roadmap with an executive summary and prioritized rationale, integrating the constraints I shared earlier without re-listing them verbatim."
+  ],
+  "metadata": {
+    "timestamp": "2026-02-13T02:20:23.293Z"
+  }
+}

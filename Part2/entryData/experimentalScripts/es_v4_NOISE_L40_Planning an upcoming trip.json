@@ -1,0 +1,27 @@
+{
+  "id": "es_v4_NOISE_L40_Planning an upcoming trip",
+  "scriptId": "cs_v4_NOISE_L40_Planning an upcoming trip",
+  "historyId": "h_v4_NOISE_L40_Planning an upcoming trip",
+  "cutoffIndex": 24,
+  "messages": [
+    "Considering learning a few basic phrases with a language app — short politeness phrases feel worth it.",
+    "Do I need a universal plug adapter? I have so many devices and chargers, but sockets vary.",
+    "Might try a small Bluetooth luggage tracker this time — I once had a bag go missing during a layover.",
+    "A friend mentioned some neighborhoods have really steep streets; hauling luggage up them was exhausting.",
+    "My list of restaurants to try is getting out of hand — might trim it to a handful of musts.",
+    "Also booked a dentist appointment the week before we leave; I'm always paranoid about dental issues while traveling.",
+    "Okay, could you draft a practical daily plan based on the details I mentioned at the beginning?",
+    "Make it suitable for the two travelers, with a few full sightseeing days and some lighter afternoons for downtime.",
+    "Include one recommended central place to stay and simple directions from the airport to that neighborhood via public transit or a short taxi ride.",
+    "Also provide a per‑day cost estimate (transport, one main meal, and a typical admission) so I can tell if we'll stay within the total we planned.",
+    "Flag any attractions where prepaid tickets are strongly advised and note which ones to book in advance.",
+    "Because we prefer nonstop travel when reasonable, list a direct flight option each way if available with approximate times and a ballpark cost.",
+    "We don't want to drive, so focus on walking, public transit, and short rideshares for transfers and daily movement.",
+    "Finally, give one budget‑minded accommodation alternative and one slightly more comfortable option so we can compare tradeoffs.",
+    "Keep the plan realistic for a mild spring climate — nothing that assumes extreme heat or freezing cold.",
+    "Wrap it up with three short pre‑departure tasks I should definitely handle before leaving."
+  ],
+  "metadata": {
+    "timestamp": "2026-02-13T17:58:54.762Z"
+  }
+}

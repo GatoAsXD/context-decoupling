@@ -1,0 +1,27 @@
+{
+  "id": "es_v2_OVERRIDE_L40_Moving to a new apartment",
+  "scriptId": "cs_v2_OVERRIDE_L40_Moving to a new apartment",
+  "historyId": "h_v2_OVERRIDE_L40_Moving to a new apartment",
+  "cutoffIndex": 24,
+  "messages": [
+    "Major update: my landlord just called — they want me to move in this coming Friday, which is only four days away. Everything I was planning for six weeks is suddenly unrealistic.",
+    "I probably can't get the professional movers I was considering on such short notice without paying a big premium. What are the realistic last-minute moving options in this kind of compressed timeline?",
+    "Given the heavy items (the sectional, the fridge, my bed) and the third-floor walk-up, what should I prioritize moving myself versus leaving behind or replacing?",
+    "Is it reasonable to ask the landlord for a short-term lease amendment or a one-week delay, or is offering a small concession (like paying a portion of utilities) more likely to work?",
+    "If I have to DIY, how do I find a cargo van or small moving truck same-day? Any apps, local services, or tips to secure a vehicle quickly and safely?",
+    "Money is tighter than ideal; I'd rather not overspend. What are the cheapest ways to handle bulky furniture moving very quickly — e.g., man-with-a-van apps, day labor, renting truck for a few hours?",
+    "For my cat, in this scenario, should I arrange a sitter or bring them along inside a carrier? Are there shelters or pet hotels that accept short-notice bookings?",
+    "If I need temporary storage for overflow, what's the quickest path to reserve a small unit within days, and how to estimate what to stash versus what to transport?",
+    "I also need to ensure utilities and Wi-Fi are active by move-in. With this big acceleration, which services should get priority scheduling and which can be handled after I arrive?",
+    "Finally, what immediate packing triage would you recommend: what to box first, what to leave out for last, and how to pack essentials so I can actually sleep there the first night if everything else is still in boxes?",
+    "Okay — given this compressed timeline, please give me an emergency, prioritized 72-hour plan that focuses on: ensuring a safe move for the cat, getting the essentials into the new place, and arranging transport for the big items without blowing the budget.",
+    "For each day in that condensed plan, list the top three actions I must complete, who to contact or hire (or how to find them fast), and any low-cost alternatives if the first option isn't available.",
+    "Provide a short, prioritized packing list that identifies what must be moved first to make the apartment livable, what can be temporarily stored or sold, and which fragile or sentimental items need special handling.",
+    "Give me a ranked list of immediate transport options by likely speed and cost (someone with a van, moving labor services, same-day rental), with ballpark price ranges and where to book them on short notice.",
+    "Write a brief script I can use on a call or text to ask the landlord for a modest favor (slight extension or temporary flexibility) that sounds reasonable and what gesture might persuade them.",
+    "Lastly, produce a tight moving-day timeline (hour-by-hour) that includes cat management, loading order for heavy items, quick-clean checklist for the old place, and a simple unpack plan so I can sleep there that night, even if most boxes are still sealed."
+  ],
+  "metadata": {
+    "timestamp": "2026-02-12T23:33:06.163Z"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v3_ACCUMULATION_L40_Having trouble sleeping well",
+  "scriptId": "cs_v3_ACCUMULATION_L40_Having trouble sleeping well",
+  "historyId": "h_v3_ACCUMULATION_L40_Having trouble sleeping well",
+  "componentType": "plainContext",
+  "context": "Current Context:\n- The user is seeking affordable, lumbar-supportive sleep solutions (mattress toppers and pillow setups) within a budget.\n- Budget toppers detailed: \n  - Firm high-density polyurethane topper: 2–3\" thickness, density ≳3 lb/ft³; price roughly $30–$120.\n  - Firm memory-foam topper (contouring): 2\" thick, density ≳3–4 lb/ft³; price $50–$150.\n  - Latex topper (1.5–2\" firm): good support/durability; typically $150+, sales may lower cost.\n  - DIY option: 1/2\"–3/4\" plywood under mattress as a cheap trial.\n- Items to avoid on a budget: egg-crate or thin foam toppers; very soft/low-density memory foam.\n- New constraint: The user wants to avoid prescription or nightly OTC sleep medications due to family history around dependency.\n- Action/offer related to new constraint: The assistant suggested focusing on drug-free approaches (CBT-I, stimulus control, sleep compression/restriction, relaxation/breathing techniques, light timing, exercise, noise/mattress/pillow adjustments) and offered to prepare a short, practical drug-free plan tailored to a 5:15 AM wake, subway noise, and low-back pain if requested.",
+  "generationMetrics": {
+    "inputTokens": 22663,
+    "outputTokens": 71077,
+    "totalTokens": 93740
+  },
+  "timestamp": "2026-02-14T22:31:39.563Z"
+}

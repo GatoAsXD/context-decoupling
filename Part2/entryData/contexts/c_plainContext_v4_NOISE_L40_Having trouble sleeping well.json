@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v4_NOISE_L40_Having trouble sleeping well",
+  "scriptId": "cs_v4_NOISE_L40_Having trouble sleeping well",
+  "historyId": "h_v4_NOISE_L40_Having trouble sleeping well",
+  "componentType": "plainContext",
+  "context": "- The user wants a very short sleep hygiene checklist for nightly use, formatted as one page or one line per night, incorporating lamp, phone, kettle, and yoga mat; include explicit steps for these items and keep it concise.\n\n- Phone-related constraints: phone battery dying wakes the user; worry about missing alarms.\n\n- Quick fixes currently identified: charge the phone before bed (e.g., 10:00 pm); leave phone face down or screen-off by the bed; enable Do Not Disturb or airplane mode overnight (alarms still ring with DND/airplane mode); keep a small power bank or cheap battery alarm clock as a one-time backup if the phone dies.\n\n- New information: downstairs neighbor practices guitar until late.\n\n- Earplug considerations: user is thinking of earplugs but feels awkward.\n\n- Updated earplug options: low-profile silicone or filtered earplugs that sit nearly flush; soft foam plugs tested at home; lightweight sleep-earbuds as a less noticeable option; if earplugs aren’t desired, use the phone to provide steady white noise.\n\n- Sound management approach: consider a short, friendly ask",
+  "generationMetrics": {
+    "inputTokens": 15996,
+    "outputTokens": 64204,
+    "totalTokens": 80200
+  },
+  "timestamp": "2026-02-14T23:25:01.948Z"
+}

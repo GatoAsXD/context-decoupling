@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v2_OVERRIDE_L40_Adjusting to a new schedule",
+  "scriptId": "cs_v2_OVERRIDE_L40_Adjusting to a new schedule",
+  "historyId": "h_v2_OVERRIDE_L40_Adjusting to a new schedule",
+  "componentType": "plainContext",
+  "context": "Current State:\n- Practice-run plan remains active with timing segments: Wake-to-out-of-bed 2–5 min; Morning wake-up actions; Workout 15–25 min; Shower/dress 10–15; Breakfast 10–15; Packing/final prep 5–10; Child hand-off 3–7; Door-to-car/leave-the-house; Commute; Arrival-to-desk/setup 5–10; plus alarm setup and night-before prep tests.\n- Backup plan active: a single, pre-arranged “parent swap + go-bag + decision rule.”\n- Swap partner setup: arrange a reciprocal swap with a nearby parent, neighbor, or family member who already uses the same daycare; 1–2x/month each; keep it simple and reciprocal.\n- Go-bag/backup kit: spare daycare clothes, an extra snack, a pre-packed lunch, keys/wallet, and an ice pack; label and leave by the door.\n- Confirmation rule: partner texts by 6:30 a.m.; if not received by then, follow the backup plan.\n- Backup decision rule: “If partner unavailable by 6:30, call the swap parent; if they can’t, I wake 30 minutes earlier, use the go‑bag, drop child, then either come in or work remotely that day.”\n- Quick prep tasks: exchange contact info; agree on reciprocity; keep the go-bag stocked nightly; place a visible reminder by the door of the 6:30 rule; confirm with manager that ad-hoc remote is acceptable on rare family-care days.\n- Rationale: simplest due to one prearranged person, go-bag, and a single time cutoff that removes mental negotiation.\n- Action: if desired, pick one neighbor to approach and draft a one-line message to start the swap.",
+  "generationMetrics": {
+    "inputTokens": 22137,
+    "outputTokens": 68418,
+    "totalTokens": 90555
+  },
+  "timestamp": "2026-02-14T15:15:37.734Z"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v1_EARLY_L40_Planning an upcoming trip",
+  "scriptId": "cs_v1_EARLY_L40_Planning an upcoming trip",
+  "historyId": "h_v1_EARLY_L40_Planning an upcoming trip",
+  "componentType": "plainContext",
+  "context": "Travel window: 2026-07-09 to 2026-07-18; total budget: USD 1,350 for entire trip; departure city/airport: not provided; travelers: not provided (ages); destinations: not provided (seeking suggestions); lodging preferences: locally owned guesthouses or small B&Bs; activity plan: two guided tours and at least one free day; photography priority: easy walking routes and good viewpoints; constraints: none beyond dates and budget; carry-on bag constraint: 1 carry-on bag under 7 kg; flight type: not provided; airline loyalty or seat preferences: not provided; output format: not specified; new requirement: include one hands-on cooking class experience in the itinerary; booking guidance for July window: weekends are busier; booking lead times by tour type: very limited/seasonal experiences 2–6+ months ahead; small-group cultural/food/cooking workshops and hands-on classes 4–8 weeks ahead in high season; popular guided day tours in major destinations 2–6 weeks in low season, 3–8 weeks in peak season; weekends/prime times tend to book earlier; large regularly run tours 1–2 weeks ahead; private tours 1–3 months ahead",
+  "generationMetrics": {
+    "inputTokens": 19246,
+    "outputTokens": 49557,
+    "totalTokens": 68803
+  },
+  "timestamp": "2026-02-14T02:26:28.427Z"
+}

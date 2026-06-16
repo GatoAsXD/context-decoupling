@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v1_EARLY_L40_Learning to cook better",
+  "scriptId": "cs_v1_EARLY_L40_Learning to cook better",
+  "historyId": "h_v1_EARLY_L40_Learning to cook better",
+  "componentType": "plainContext",
+  "context": "Roasted vegetables sogginess – active considerations: overcrowding the pan leads to steaming; not drying vegetables first; oven/pan not hot enough or no preheat; too much oil or pooling oil; uneven piece sizes; turning/stirring too often; high-water-content vegetables (zucchini, mushrooms, eggplant) without adjustment; wet marinades or sugary glazes applied too early; cooking on a cool or damp pan surface or foil that traps steam; inaccurate oven temperature or poor oven circulation; starting from frozen without thawing and drying. Fixes: spread in a single layer with space; pat dry thoroughly; preheat oven to 220–230 °C (425–450 °F) and preheat a cast-iron skillet or baking sheet; toss with a light coat of oil and shake off excess; cut uniform sizes; leave undisturbed until brown edges then flip once; for high-water vegetables, salt and drain or sear first to drive off moisture; apply sweet glazes late in cooking; roast uncovered on hot pan; if using foil, tent loosely or use a rack; cast-iron tip: preheat 5–10 minutes, add oil until it shimmers, roast in a single layer. Quick troubleshooting: confirm even size; dry before oiling; ensure hot pan and preheated oven; avoid overcrowding or pooled oil",
+  "generationMetrics": {
+    "inputTokens": 23795,
+    "outputTokens": 58972,
+    "totalTokens": 82767
+  },
+  "timestamp": "2026-02-14T01:08:21.562Z"
+}

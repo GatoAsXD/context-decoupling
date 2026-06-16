@@ -1,0 +1,63 @@
+{
+  "id": "c_structuredContext_v3_ACCUMULATION_L40_Moving to a new city",
+  "scriptId": "cs_v3_ACCUMULATION_L40_Moving to a new city",
+  "historyId": "h_v3_ACCUMULATION_L40_Moving to a new city",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Relocate to a new city with a practical relocation plan, including strategies to build a social network quickly, settled by mid-September due to new job start; ensure a quiet dedicated desk workspace for hybrid work."
+    ],
+    "constraints": [
+      "Must settle by mid-September due to new job start.",
+      "Must have a quiet dedicated desk workspace for hybrid work.",
+      "Commuting to downtown via public transit: target door-to-door time ≤ 45 minutes with ≤1 transfer.",
+      "Must have elevator access or ground-floor unit due to knee issues; avoid stairs."
+    ],
+    "decisions": [
+      "Option A — Sign long-term now",
+      "Option B — Short-term sublet/furnished rental first",
+      "Option C — Hybrid (long-term lease that starts later or with sublet clause)"
+    ],
+    "entities": [
+      "Rental market decision factors: long-term vs short-term lease based on stay length, market tightness, and upfront costs",
+      "Short-term furnished options: furnished sublets, corporate housing, utilities-included listings, legality of sublets",
+      "Lease provisions to protect flexibility: sublet rights, early termination, notice periods, start-date coordination",
+      "Move-in coordination: aligning move-in with job start date and potential overlapping leases",
+      "Budgeting considerations: total monthly cost includes rent, utilities, parking, internet; ensure within $1,800 target",
+      "Neighborhood cost expectations: trading off budget with neighborhood desirability in target markets",
+      "Utilities-included vs exclusive: impact on total monthly cost and insurability",
+      "Parks and green space proximity: importance for exercise and downtime",
+      "Pet-related housing considerations: breed/weight restrictions, number-of-pets limits, pet deposits and monthly pet rent, deposit refundability, and proximity to dog-walking routes and nearby parks.",
+      "Pet-friendly housing strategies: no-pet-fee listings, negotiable pet rents, and documentation to improve approval",
+      "Pet screening and verification tools: use of third-party platforms to satisfy landlord risk concerns",
+      "Pet documentation package: vet records, vaccination history, microchip, spay/neuter proof, prior landlord reference",
+      "Pet liability insurance requirement and coverage options as part of renters policy",
+      "Pet resume concept: photos, training certificates, references to present to landlords",
+      "Dedicated home office/workspace requirements: separate room or alcove, door, sound isolation, natural light, power outlets near desk, ethernet readiness",
+      "Desk area sizing and layout: measure footprint for desk, monitor, chair, filing shelf; ensure fits in available space"
+    ],
+    "open": [
+      "Assess market competitiveness and inventory to determine leasing option (long-term vs short-term) given mid-September deadline",
+      "Identify required documents for rental applications (credit report, references)",
+      "Coordinate move-in dates with lease terms and job start; ensure utilities/ISP scheduling aligns",
+      "Evaluate cities/neighborhoods where $1,800/month can secure a 1BR or studio; list candidate neighborhoods",
+      "Identify pet-friendly listings and walking routes; confirm pet-related policies and fees during viewings (pet deposits, monthly pet rent, breed/weight limits, number-of-pets).",
+      "Collect and organize pet-related documentation for viewings (vet records, vaccination history, microchip info, spay/neuter proof)",
+      "Develop a pet-friendly lease negotiation plan (pet deposit vs rent, longer lease, pet liability insurance) and a written addendum template",
+      "Research and evaluate third-party pet verification tools (e.g., PetScreening) and check landlord acceptance",
+      "Create a 'pet resume' package for landlords (photos, training certificates, references, prior tenancy records)",
+      "Identify pet-friendly neighborhoods with access to parks and dog-walking routes within commuting range",
+      "Be prepared to propose waivers for service/assistance animals and understand fair housing protections",
+      "Document ongoing costs scenarios (no pet fee, reduced deposit, etc.) to compare across listings",
+      "Time-sensitive: prioritize listings advertising 'pet-friendly' or flexible policies; contact landlords quickly",
+      "Assess home-office suitability during viewings: verify separate room/alcove, door closure, sound isolation, natural light near desk, proximity to outlets and ethernet connectivity",
+      "Coordinate viewings to assess home office suitability during expected work hours"
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 31197,
+    "outputTokens": 54823,
+    "totalTokens": 86020
+  },
+  "timestamp": "2026-02-14T22:54:14.891Z"
+}

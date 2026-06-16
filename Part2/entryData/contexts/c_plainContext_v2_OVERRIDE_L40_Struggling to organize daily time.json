@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v2_OVERRIDE_L40_Struggling to organize daily time",
+  "scriptId": "cs_v2_OVERRIDE_L40_Struggling to organize daily time",
+  "historyId": "h_v2_OVERRIDE_L40_Struggling to organize daily time",
+  "componentType": "plainContext",
+  "context": "",
+  "generationMetrics": {
+    "inputTokens": 28979,
+    "outputTokens": 70268,
+    "totalTokens": 99247
+  },
+  "timestamp": "2026-02-15T03:27:44.042Z"
+}

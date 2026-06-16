@@ -1,0 +1,52 @@
+{
+  "id": "c_structuredContext_v1_EARLY_L40_Starting an exercise routine",
+  "scriptId": "cs_v1_EARLY_L40_Starting an exercise routine",
+  "historyId": "h_v1_EARLY_L40_Starting an exercise routine",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "start an exercise routine",
+      "fat loss"
+    ],
+    "constraints": [
+      "exactly 27 minutes per session",
+      "three sessions per week",
+      "avoid running and jumping for a full year",
+      "home-based only",
+      "no gym memberships or subscriptions"
+    ],
+    "decisions": [
+      "prioritize steady-state, low-impact 27-minute sessions for beginners",
+      "introduction of one low-impact interval session per week after surgeon clearance",
+      "start with a small core set of 4–8 exercises and run consistently for several weeks before adding variety; swap one exercise at a time when introducing new moves"
+    ],
+    "entities": [
+      "equipment: two 4.5-kilogram dumbbells; one yoga mat",
+      "time_of_day: evening",
+      "location: home",
+      "intensity_guidance: steady-state RPE 4–5/10",
+      "interval_guidance: low-impact intervals 1x per week after clearance",
+      "interval_examples: 6×30s hard / 90s easy on bike or incline walk, or 20s hard/40s easy bodyweight/dumbbell circuit",
+      "session_length: 27 minutes",
+      "tempo_guidance: BPM ranges by session type (Warm-up 100–120, Strength 80–110, Steady-state cardio 110–130, Low-impact intervals 140–160, Cool-down 60–90)",
+      "playlist_picks_by_session_type: Warm-up: mellow electronic / mid-tempo pop 100–120 BPM; Strength: groove-based rock / R&B 80–110 BPM; Steady cardio: upbeat pop / house 110–130 BPM; Low-impact intervals: high-energy electronic or modern pop 140–160 BPM; Cool-down: ambient / acoustic 60–90 BPM",
+      "safety_notes: Avoid very high-tempo music that tempts you into jump/run given knee restriction; prioritize controlled breathing and form; if matching tempo causes breath-holding or form issues, slow the tempo; use tempo as cue, not rule",
+      "off_day_walks: brisk walks 20–45 minutes, 2–6 times per week, RPE 4–6 (talk test), optional HR 50–70% of max",
+      "apps: Gymboss Interval Timer, FitNotes, Strong, Seconds"
+    ],
+    "open": [
+      "Primary goal(s) (strength, fat loss, general fitness, mobility, etc.)",
+      "Current fitness level (beginner/intermediate/advanced)",
+      "Is your knee currently painful/swollen or limited in range?",
+      "Has your surgeon cleared you for strength/weightbearing exercises (squats, lunges, step-ups)?",
+      "Do you want three different workouts each week or the same workout repeated 3×?",
+      "Breathing guidance during strength work to avoid lightheadedness"
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 21757,
+    "outputTokens": 54248,
+    "totalTokens": 76005
+  },
+  "timestamp": "2026-02-14T15:06:56.235Z"
+}

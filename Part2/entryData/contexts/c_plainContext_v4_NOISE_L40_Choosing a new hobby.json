@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v4_NOISE_L40_Choosing a new hobby",
+  "scriptId": "cs_v4_NOISE_L40_Choosing a new hobby",
+  "historyId": "h_v4_NOISE_L40_Choosing a new hobby",
+  "componentType": "plainContext",
+  "context": "",
+  "generationMetrics": {
+    "inputTokens": 16406,
+    "outputTokens": 65178,
+    "totalTokens": 81584
+  },
+  "timestamp": "2026-02-14T23:19:06.807Z"
+}

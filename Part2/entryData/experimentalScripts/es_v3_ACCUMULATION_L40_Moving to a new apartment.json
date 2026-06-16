@@ -1,0 +1,27 @@
+{
+  "id": "es_v3_ACCUMULATION_L40_Moving to a new apartment",
+  "scriptId": "cs_v3_ACCUMULATION_L40_Moving to a new apartment",
+  "historyId": "h_v3_ACCUMULATION_L40_Moving to a new apartment",
+  "cutoffIndex": 24,
+  "messages": [
+    "If the truck needs to park a short distance away, how should I plan shuttles so we don't waste time or double-handle things?",
+    "On top of that, my current building requires an elevator reservation for move-outs and they only permit morning slots between 8 and 11 am.",
+    "That feels like a tight window when combined with shuttling and stair carries — any scheduling strategies to avoid chaos?",
+    "And finally, there are a couple of items that need disassembling — a bed frame and a tall bookshelf — and I don't own the right tools to take them apart.",
+    "Okay — I'd like to translate all of that into a single, practical moving-day plan. What are the key sections that plan should include so nothing falls through the cracks?",
+    "I want defined roles for people who will be helping so I can assign responsibilities clearly without micromanaging.",
+    "Also include a prioritized packing and unpacking order so essentials are immediately accessible on night one and heavy items are protected.",
+    "For the fragile family pieces I mentioned earlier, give me a concise protective sequence: which materials to use, the wrapping order, and the safest way to carry them.",
+    "Since the vehicle may need to stage away from the door, outline a minute-by-minute shuttle plan that minimizes carrying distance and unnecessary handling.",
+    "With only a couple of extra hands and a modest budget, tell me which single tasks or items are highest priority to pay a pro for, and give a ballpark cost for each.",
+    "What should I ask building management at both ends the week before the move to secure move permissions, short-term parking exceptions, or elevator access?",
+    "Give me a concise two-day-before and one-day-before packing checklist that a small team can realistically complete.",
+    "List the specific items I should borrow or rent for the day instead of buying — dollies, straps, pads — and any size or capacity recommendations.",
+    "Also include a safe fallback if a large item absolutely won't fit through the entry path, with steps to protect both the piece and the building.",
+    "Estimate how much buffer time I should add to the schedule to cover shuttle trips, elevator windows, and unforeseen delays.",
+    "Now please produce a single, detailed moving-day run sheet and pre-move checklist that weaves together all of my constraints — arrival times, who does what, what to rent or hire, shuttle logistics, fragile-item handling priorities, and contingencies — so I can hand it to my helpers."
+  ],
+  "metadata": {
+    "timestamp": "2026-02-13T02:25:58.529Z"
+  }
+}

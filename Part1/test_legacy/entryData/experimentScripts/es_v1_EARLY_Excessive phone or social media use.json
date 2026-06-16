@@ -1,0 +1,17 @@
+{
+  "id": "es_v1_EARLY_Excessive phone or social media use",
+  "scriptId": "cs_v1_EARLY_Excessive phone or social media use",
+  "historyId": "h_v1_EARLY_Excessive phone or social media use",
+  "cutoffIndex": 14,
+  "messages": [
+    "Preparing for a long drive next weekend—what basic car maintenance should I do before leaving?",
+    "Explain blockchain consensus in a few plain sentences—I'm trying to explain it to a friend.",
+    "Back to the phone issue: earlier I said one category took up the lion's share of my daily use. What habit changes would most directly shrink that dominant category while still letting me get urgent messages?",
+    "If I aim to halve that biggest portion of my phone time over the next four weeks, what weekly targets and simple tracking method would make that goal measurable?",
+    "Also, I mentioned a particular late-night window when I tend to doomscroll—what realistic replacement routine could I slot into that specific time so I avoid the bedtime-scroll trap?",
+    "Finally, give a three-step plan focused on reducing the single biggest contributor I described earlier, with measurable checkpoints and minimal disruption to my study sessions—please don't restate my original statistics, just the concrete steps."
+  ],
+  "metadata": {
+    "timestamp": "2026-01-25T01:15:19.435Z"
+  }
+}

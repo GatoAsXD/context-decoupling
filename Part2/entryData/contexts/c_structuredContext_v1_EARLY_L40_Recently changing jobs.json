@@ -1,0 +1,51 @@
+{
+  "id": "c_structuredContext_v1_EARLY_L40_Recently changing jobs",
+  "scriptId": "cs_v1_EARLY_L40_Recently changing jobs",
+  "historyId": "h_v1_EARLY_L40_Recently changing jobs",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Draft a public thank-you LinkedIn post that is tasteful and avoids burning bridges."
+    ],
+    "constraints": [
+      "Contract requires a 21 calendar-day notice",
+      "Apartment lease ends on 2026-06-15",
+      "When drafting emails, include a subject line and exactly three short paragraphs"
+    ],
+    "decisions": [],
+    "entities": [
+      "Previous role: Senior data analyst at a midsize e-commerce company",
+      "New role: Product management",
+      "Manager: Raj (supportive)",
+      "Company size: midsize",
+      "Industry: e-commerce",
+      "Transition context: moving into product management role",
+      "Direct report: 1",
+      "Projects: 2 dashboard-heavy projects"
+    ],
+    "open": [
+      "New job start date: propose start options (June 15, 2026 onsite; June 1 remote onboarding with official start June 15); June 13, 2026 to meet 21-day notice",
+      "Current job notice period",
+      "Relocation needs",
+      "Material changes to compensation/benefits",
+      "Top priority for transition",
+      "Announcement to broader team plan (respectful and positive)",
+      "Transition to product management role",
+      "LinkedIn post draft options for public thank-you note to old team",
+      "First-month learning focus (non-technical) for transition to product management",
+      "Identify and fluently learn a prioritized set of product metrics for consumer e-commerce (acquisition, activation, conversion, revenue, retention, efficiency, quality) with definitions, calculation, segmentation, and caveats.",
+      "PM mindset learning resources plan: quick books and podcasts with a week-by-week plan (read one short book in week 1; 2-3 podcast episodes per week; implement lessons) and options to curate 3-episode starter packs or a one-week reading/listening schedule.",
+      "Imposter syndrome daily rituals plan (quick-start examples)",
+      "Onboarding tip: how do I build credibility without making a lot of early commitments?",
+      "Networking: how to keep mentors engaged after leaving without pestering them?",
+      "1:1 pitfalls with new engineering partners: compile common pitfalls and mitigations",
+      "Question: How soon is too soon to ask for a project lead role at the new company?"
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 23357,
+    "outputTokens": 50924,
+    "totalTokens": 74281
+  },
+  "timestamp": "2026-02-14T15:06:38.628Z"
+}

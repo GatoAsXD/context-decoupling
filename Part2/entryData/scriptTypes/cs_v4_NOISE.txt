@@ -1,0 +1,25 @@
+OBJECTIVE
+Evaluate signal filtering under conversational noise. The script tests the assistant's ability to distinguish between core instructions and high-density irrelevant information (distractors).
+
+STRUCTURE
+Phase 1 (≈25%): Core task and key constraints.
+- The user introduces the main task along with a small number of key, essential constraints.
+- These constraints define the "correct" output parameters.
+
+Phase 2 (≈50%): Noise injection and tangential details.
+- The user introduces anecdotes, non-essential clarifications, side concerns, or mildly related subtopics.
+- High distractor density: Tangential details are plausible but irrelevant to the core task.
+- Crucial: Key constraints from Phase 1 are not repeated here.
+
+Phase 3 (≈25%): Final focused question.
+- The user requests an output that depends only on the relevant constraints established in Phase 1.
+- The assistant must ignore the noise from Phase 2 to answer correctly.
+- The user does not signal which information is important and which is noise.
+
+CONTENT & LINGUISTIC CONSTRAINTS
+- Noise Quality: Distractors must be natural digressions (e.g., personal stories, "I heard that...", "Maybe later we can...").
+- Filtering: No explicit filtering cues (e.g., do not say "ignore the story about my dog").
+- Order: Phase 1 & Phase 2 messages can be mixed, in order to introudce noise between the facts.
+- Precision: The final response must avoid "overfitting" to the noise; it should only reflect the core user constraints.
+- Tone: Natural conversational tone throughout.
+DO NOT MENTION any information about the objective of the script or the structure.

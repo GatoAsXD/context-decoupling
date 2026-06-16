@@ -1,0 +1,27 @@
+{
+  "id": "es_v4_NOISE_L40_Recent changes in eating habits",
+  "scriptId": "cs_v4_NOISE_L40_Recent changes in eating habits",
+  "historyId": "h_v4_NOISE_L40_Recent changes in eating habits",
+  "cutoffIndex": 24,
+  "messages": [
+    "A neighbor started balcony gardening and swears it changed how much fresh produce they eat.",
+    "I wonder if curated grocery stores that market 'healthy convenience' are nudging certain purchases.",
+    "Sometimes 'clean eating' labels just repackaged the same processed products with prettier packaging.",
+    "I've been choosing stores more for their vegetarian options—makes shopping faster.",
+    "We could look at adolescent trends or school-lunch policies someday, but not for this short piece.",
+    "Small aside: my dog tries to steal my sandwich every afternoon—household chaos.",
+    "Okay, I'm ready for that brief now—could you produce it based on what we discussed?",
+    "Please make sure the overview notes whether the shifts feel short-lived or more long-term.",
+    "Include the percentage-style metrics we mentioned earlier so readers can see direction and approximate magnitude.",
+    "When you use assumptions, keep each to one short sentence so the reader knows when something is an estimate.",
+    "Keep each recommendation very concise with a single-line justification.",
+    "No need for citations—plain email-ready text is my preference.",
+    "Also avoid clinical guidance; recommendations should be about community programming, access, or messaging.",
+    "If a point is speculative, flag it clearly with a short note in parentheses or similar.",
+    "Format it as simple plain text with a one-line header, then the overview, then the recommendations, then the metrics.",
+    "Go ahead and generate the piece now."
+  ],
+  "metadata": {
+    "timestamp": "2026-02-13T18:20:26.434Z"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "c_structuredContext_v3_ACCUMULATION_L40_Issues with a neighbor",
+  "scriptId": "cs_v3_ACCUMULATION_L40_Issues with a neighbor",
+  "historyId": "h_v3_ACCUMULATION_L40_Issues with a neighbor",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "get practical, actionable advice for an ongoing neighbor dispute"
+    ],
+    "constraints": [
+      "avoid unnecessary escalation",
+      "prioritize safety",
+      "avoid retaliation or tit-for-tat behavior",
+      "check lease/HOA rules and local codes for enforceability",
+      "be factual, brief, and focused on impact",
+      "preserve evidence and maintain a paper trail",
+      "check local recording laws and privacy considerations",
+      "prefer written communications to document interactions",
+      "do not publicize on social media or share unverified information"
+    ],
+    "decisions": [
+      "start organized record-keeping for potential formal action",
+      "classify records by type (incident logs, photos, communications, etc.) to support future steps",
+      "consider mediation as initial step where safe and feasible",
+      "follow formal complaint process early to create an official record",
+      "involve a neutral mediator, building manager, or trusted witness for initial contact",
+      "establish an evidence-collection protocol and use the evidence checklist to document incidents",
+      "prioritize in-home mitigation steps to protect child health during exposure when escalation is ongoing",
+      "draft urgent communication to landlord/management citing child health effects (when appropriate)",
+      "adopt dual-channel notice delivery (email plus certified mail or tracked courier) for formal notices to landlords/management",
+      "attach supporting photos or logs to notices and keep copies of all sent items and delivery proof"
+    ],
+    "entities": [
+      "neighbor",
+      "landlord",
+      "housing authority",
+      "police",
+      "HOA/condo board",
+      "municipal code enforcement",
+      "health department",
+      "court",
+      "neutral mediator",
+      "building manager",
+      "trusted witness",
+      "dog",
+      "child",
+      "pediatrician",
+      "management"
+    ],
+    "open": [
+      "ongoing neighbor dispute",
+      "timing for escalation to formal complaint",
+      "cigarette smoke drifting up from shared staircase into apartment (document incidents; consult management; escalate if unresolved)",
+      "evidence-collection checklist adoption in process",
+      "dog barking at night next door (document incidents; escalate if unresolved)",
+      "determine city-specific quiet hours/noise ordinance resources to consult for guidance on applicable rules",
+      "child coughing at night; health concerns; document episodes (dates/times, symptoms) and seek medical advice; attach any medical notes to documentation",
+      "identify short-term in-home mitigation steps for protecting child health (air purifiers, room arrangement, sealing gaps)",
+      "unauthorized vehicle occupying assigned parking spot; document incidents; notify management; request enforcement/towing per policy",
+      "landlord maintenance requests unaddressed; landlord has not responded to follow-ups for months; document communications and consider alternative escalation (mediation, formal complaint, or contacting housing authority) if no timely response"
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 24219,
+    "outputTokens": 41473,
+    "totalTokens": 65692
+  },
+  "timestamp": "2026-02-14T22:29:09.595Z"
+}

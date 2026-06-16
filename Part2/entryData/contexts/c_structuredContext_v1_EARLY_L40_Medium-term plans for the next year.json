@@ -1,0 +1,53 @@
+{
+  "id": "c_structuredContext_v1_EARLY_L40_Medium-term plans for the next year",
+  "scriptId": "cs_v1_EARLY_L40_Medium-term plans for the next year",
+  "historyId": "h_v1_EARLY_L40_Medium-term plans for the next year",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "strengthen my research portfolio",
+      "build a small public tool",
+      "produce clearer teaching materials"
+    ],
+    "constraints": [
+      "Full-time fellowship window: 2026-05-15 to 2026-11-30",
+      "Weekly cap: 9 hours per week",
+      "Professional development fund: $6,400 for a twelve-month period",
+      "Preferred modalities: remote or local options; low-friction start; avoid travel-heavy plans",
+      "Steady progress / sustainable momentum preferred"
+    ],
+    "decisions": [],
+    "entities": [
+      "full-time fellowship",
+      "availability window 2026-05-15 to 2026-11-30",
+      "weekly time commitment 9 hours per week",
+      "professional development fund $6,400",
+      "strengthen my research portfolio",
+      "build a small public tool",
+      "produce clearer teaching materials",
+      "remote work preference",
+      "local options preference",
+      "low-friction start"
+    ],
+    "open": [
+      "2026-02-12,2026-05-14,Skill course + applied exercises,50",
+      "2026-02-12,2026-05-14,Tool concept & prototype v0,30",
+      "2026-02-12,2026-05-14,Teaching materials audit & plan,20",
+      "2026-02-12,2026-05-14,Long-form outline & lit review,17",
+      "2026-05-15,2026-11-30,Applied learning & experiments,70",
+      "2026-05-15,2026-11-30,Tool MVP development & deploy,120",
+      "2026-05-15,2026-11-30,Teaching materials draft & sample lessons,40",
+      "2026-05-15,2026-11-30,Long-form first draft,22",
+      "2026-12-01,2027-02-11,Advanced skill consolidation & small projects,20",
+      "2026-12-01,2027-02-11,Tool polish, testing & docs,14",
+      "2026-12-01,2027-02-11,Teaching finalize & publish,34",
+      "2026-12-01,2027-02-11,Long-form revise & publish,31"
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 25448,
+    "outputTokens": 45006,
+    "totalTokens": 70454
+  },
+  "timestamp": "2026-02-14T01:34:42.399Z"
+}

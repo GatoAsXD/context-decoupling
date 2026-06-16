@@ -1,0 +1,37 @@
+{
+  "id": "c_structuredContext_v4_NOISE_L40_Preparing for a job interview",
+  "scriptId": "cs_v4_NOISE_L40_Preparing for a job interview",
+  "historyId": "h_v4_NOISE_L40_Preparing for a job interview",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Prepare for interview"
+    ],
+    "constraints": [
+      "Keep responses concise: around 300 words or fewer to fit on one screen.",
+      "Use concise, structured answers; pause with a count to two before responding.",
+      "Limit to 2-3 bullets or STAR points when answering.",
+      "References: prepare 2–3 professional references with contact details; keep a ready-to-share references list and PDFs of any letters; bring a printed copy only if requested."
+    ],
+    "decisions": [
+      "In-the-moment interview approach: Pause, state the goal in one sentence; pick one primary metric; call out 1-2 secondary metrics; add one guardrail metric; state a simple success criterion and timeframe."
+    ],
+    "entities": [
+      "role: Product Manager",
+      "level: mid-level",
+      "domain: tech company"
+    ],
+    "open": [
+      "Awaiting interview type (job/internship/grad school/technical/case)",
+      "Awaiting interview date/time",
+      "Backup navigation plan for interview: offline maps, printed directions, charger/backups",
+      "On-site exercise type hinted by recruiter: case or roleplay not specified"
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 16939,
+    "outputTokens": 37963,
+    "totalTokens": 54902
+  },
+  "timestamp": "2026-02-14T23:45:27.893Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "es_v1_EARLY_L40_Adopting a pet",
+  "scriptId": "cs_v1_EARLY_L40_Adopting a pet",
+  "historyId": "h_v1_EARLY_L40_Adopting a pet",
+  "cutoffIndex": 24,
+  "messages": [
+    "For custom name tags, aside from phone number, what information would be essential to include?",
+    "Which smartphone apps are genuinely helpful for new dog owners—training trackers, medication reminders, or appointment scheduling?",
+    "What's a realistic estimate for expenses during the first three months of adoption, including supplies, training, and routine care?",
+    "Do you recommend waiting before enrolling in dog sports or activity classes to let the dog settle, or is early involvement beneficial?",
+    "Any practical strategies for preventing or easing separation anxiety in dogs that are newly moved into an apartment?",
+    "Do adult dogs adapt quicker to a new home than puppies, and are there useful timelines to expect behavior normalization?",
+    "Which toys tend to survive heavy chewers—are there brands or materials reliably more durable?",
+    "How transparent are histories typically when adopting an adult dog—should I expect clear prior-owner records or be prepared for gaps?",
+    "I bought a collapsible soft-sided travel crate that measures 36 by 24 by 24 inches—do you think carrying the dog plus this crate from the pickup point up to my unit in a single trip will be practical given my building's limited access?",
+    "If I go straight to my usual clinic after collecting the dog, will their online new-patient form accept the implant identifier the rescue provided, or should I bring printed documentation to avoid delays?",
+    "Since there's already an older indoor-only cat at home who hasn't met dogs before, what step-by-step introduction would minimize stress for both animals in the first week?",
+    "The rescue asked for payment at pickup—should I expect they accept card, or would it be wise to bring cash or mobile payment as backup?",
+    "My lease required a refundable pet deposit plus a modest monthly pet charge—would asking the landlord for an explicit written addendum be necessary, or is the standard deposit usually enough?",
+    "I scheduled the handoff for a mid-morning slot on that specific date—do you think there's enough time that same afternoon to fit in the brief registration at my nearby clinic, or should I plan the vet visit for another day?",
+    "I ordered a medium harness listed up to 13.5 kg—based on the dog's build, should I exchange it for a larger size or is medium likely to fit?",
+    "The crate's internal height is 24 inches—would that be sufficient for the dog to stand comfortably, or is it better to look for a taller option?"
+  ],
+  "metadata": {
+    "timestamp": "2026-02-03T01:08:51.672Z"
+  }
+}

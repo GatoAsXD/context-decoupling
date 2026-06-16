@@ -1,0 +1,79 @@
+{
+  "id": "c_structuredContext_v2_OVERRIDE_L40_Learning to drive",
+  "scriptId": "cs_v2_OVERRIDE_L40_Learning to drive",
+  "historyId": "h_v2_OVERRIDE_L40_Learning to drive",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Obtain a practical driving license within about three months"
+    ],
+    "constraints": [
+      "Plan must adapt to local licensing rules (permits, minimum practice hours, test booking windows)",
+      "Budget constraint: budget for lessons is about $800",
+      "Include at least one professional mock with an instructor near the test date",
+      "Budget allocation: maintain total budget around $800 with focus on lessons; mocks kept within this limit",
+      "Budget planning: 8–12 lessons may be needed depending on local hourly rates; keep total cost near $800",
+      "Target total driving hours before the practical test: ~40 hours, comprising 8–12 hours with a professional instructor and 20–30 hours of supervised family practice; progress assessed by readiness markers."
+    ],
+    "decisions": [
+      "Adopt hazard perception practice apps aligned with local test format",
+      "Maintain a Google Sheets fault log for tracking faults and progress",
+      "Book one or two paid instructor mock tests to get objective scoring",
+      "Produce printable one-page visor checklist for quick pre-drive car checks",
+      "Adopt cost-efficient weekly practice schedule: 1x60-minute instructor lesson per week, 1x30–60 minute family practice with dad, 1x60–120 minute weekend session",
+      "Start with an initial block of 6–8 lessons to lock in clutch/hill starts and basic control, then 2–3 lessons for junctions/parking and higher-speed roads",
+      "Reserve 1–2 lessons near the end as a full mock test and pre-test tune-up",
+      "Reassess with instructor after the initial block to determine if additional lessons are needed",
+      "Evaluate the hours-to-cost based on local hourly rate to stay within budget",
+      "Emphasise parallel parking, motorway merges/lanes and observation/shoulder checks in mock feedback"
+    ],
+    "entities": [
+      "hazard perception apps used for practice",
+      "fault log template (Google Sheets)",
+      "paid instructor mock tests",
+      "pre-drive quick check routine",
+      "weekly/monthly car maintenance checks",
+      "printable visor car-checklist",
+      "weekly 60-minute instructor lesson",
+      "midweek 30–60 minute family practice session with dad",
+      "weekend 60–120 minute practice session",
+      "manual transmission learning",
+      "manual driving practice with dad",
+      "test readiness criteria",
+      "initial block of 6–8 lessons",
+      "detailed readiness markers for test readiness (clutch control, hill starts, observation, junctions, parking, motorway merges)",
+      "insurer confirmation for test use",
+      "vehicle paperwork for test day",
+      "roadworthy condition check",
+      "examiner ride-along allowed",
+      "licence entitlement implications for manual vs automatic",
+      "L-plates and learner signage requirements",
+      "pre-practice permission checklist (insurance/owner/supervisor)",
+      "12-week manoeuvre introduction plan",
+      "roundabout entry/exit technique",
+      "bay/angle parking basics drills",
+      "parallel parking drills with cones",
+      "three-point turns practice",
+      "slip-road merge practice",
+      "motorway exposure schedule (dual carriageways, slip roads, motorway)",
+      "night driving practice guidelines",
+      "mock test under exam conditions",
+      "final readiness criteria checklist",
+      "Common examiner pitfalls and fixes",
+      "parallel parking cue phrases for busy streets",
+      "parallel parking progression drills (cones → quiet streets → real cars → busy streets with instructor)",
+      "video review of parallel parking practice",
+      "dad coaching guidelines for parallel parking practice",
+      "mock feedback focus areas: parallel parking, motorway merges/lanes, observation/shoulder checks"
+    ],
+    "open": [
+      "DIY mock script/checklist for dad"
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 34352,
+    "outputTokens": 77506,
+    "totalTokens": 111858
+  },
+  "timestamp": "2026-02-14T15:33:34.456Z"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v1_EARLY_L40_Preparing for a job interview",
+  "scriptId": "cs_v1_EARLY_L40_Preparing for a job interview",
+  "historyId": "h_v1_EARLY_L40_Preparing for a job interview",
+  "componentType": "plainContext",
+  "context": "Current Strate:\n            Active requirements: combine friendly constructive mocks with controlled hostile mocks; base layer 70–80% of practice with regular, recorded mocks and constructive feedback; stress layer 20–30% later in cycle with 2–4 harsh sessions during weeks 8–12, followed by calm debrief; final days use one light dress rehearsal before interview; hostile mocks must have ground rules (no personal attacks, goal is resilience), defined scenarios (abrupt interruptions, two rapid followups, skeptical pushback, time pressure), timeboxed sessions (one behavioral panel + one coding problem), and must be recorded for review; practice targets include short clarifying questions, a 1-sentence summary hook, a 90-second reset routine, ending signals like \"In short\" or \"Key takeaway\", and strategies to handle interruptions (pause, acknowledge, return to thread); provide concrete scripts for common hostile moves with specific replies; debrief after harsh mocks should cover facts first with timestamps, emotional check, concrete fixes, and potential repeat of scenario; warnings: avoid demoralization, avoid personal attacks, use a coach/peer for harsh role; operational checklist: schedule 2 harsh mocks in Weeks 9–11, for each agreement ground rules, record, run panel→coding back-to-back, debrief with one concrete fix; keep most practice constructive; optional: draft a short hostile-mock script if requested.",
+  "generationMetrics": {
+    "inputTokens": 32246,
+    "outputTokens": 72062,
+    "totalTokens": 104308
+  },
+  "timestamp": "2026-02-14T02:35:08.706Z"
+}

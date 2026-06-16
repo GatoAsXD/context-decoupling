@@ -1,0 +1,90 @@
+{
+  "id": "c_structuredContext_v4_NOISE_L40_Having trouble sleeping well",
+  "scriptId": "cs_v4_NOISE_L40_Having trouble sleeping well",
+  "historyId": "h_v4_NOISE_L40_Having trouble sleeping well",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Improve sleep quality"
+    ],
+    "constraints": [
+      "Specify when to perform each action and the expected duration",
+      "Set a trial duration for evaluating adaptations (e.g., 2–3 nights) and for roommate conversation (e.g., 1 week)",
+      "No medications or supplements; rely on behavioral and environmental strategies only",
+      "Assess caffeine timing and its impact on sleep; track afternoon caffeine and adjust timing or avoidance as needed",
+      "Limit daytime naps to approximately 20 minutes; otherwise avoid longer naps",
+      "Use only basic items: lamp, phone, kettle, and yoga mat for wind-down routines",
+      "Evaluate dinner timing and meal content on sleep; adjust dinner to earlier in evening and opt for lighter meals if late meals disrupt sleep"
+    ],
+    "decisions": [
+      "Implement a compact 7-night plan (Night 1–7) with 10:30 pm lights-out and 6:30 am wake using only lamp, phone, kettle, and yoga mat"
+    ],
+    "entities": [
+      "lamp",
+      "phone",
+      "kettle",
+      "yoga mat",
+      "snoring",
+      "caffeine",
+      "afternoon",
+      "2 p.m.",
+      "nap",
+      "20 minutes",
+      "daytime nap",
+      "voice memo",
+      "diaphragmatic breathing",
+      "guided sleep audio",
+      "white noise",
+      "partner",
+      "roommate",
+      "11 pm",
+      "living room rearrangement",
+      "environmental change",
+      "heavy curry",
+      "9 p.m.",
+      "late dinner",
+      "dinner timing",
+      "meal content",
+      "earplugs",
+      "Do Not Disturb",
+      "phone outside bedroom",
+      "checklist",
+      "sleep hygiene checklist",
+      "power bank",
+      "alarm clock",
+      "neighbor",
+      "guitar",
+      "noise",
+      "warm light",
+      "soft white",
+      "2700-3000K",
+      "LED",
+      "dim",
+      "diffuse"
+    ],
+    "open": [
+      "Discuss turning off living-room/bedroom lights by 11 pm on weeknights, with possible alternatives (dimmer lamp or shade, or blackout curtains).",
+      "Set a one-week trial period to evaluate the change.",
+      "Plan a short, calm conversation to approach the roommate.",
+      "Discuss snoring and its impact on sleep with partner during the current trial period.",
+      "Track caffeine intake and assess its impact on night sleep; decide on adjustments (e.g., limit caffeine after 2 pm).",
+      "Select and implement one pre-sleep cognitive strategy tonight to reduce pre-sleep rumination and report back on its impact.",
+      "Evaluate ongoing impact of living room rearrangement on sleep quality and relaxation during current trial period.",
+      "Track dinner timing and meal content (e.g., heavy curry) and its impact on sleep; adjust dinner timing to earlier in evening.",
+      "Execute the 7-night compact sleep plan (Night 1–7) using lamp, phone, kettle, and yoga mat and report back.",
+      "If breathing-focused strategies backfire again, try Progressive Muscle Relaxation (5–10 minutes), Guided Body Scan, 5-4-3-2-1 grounding, or steady white noise for a few minutes.",
+      "Charge phone before bed (e.g., by 10:00 pm) and leave it face down or screen-off by the bed so it’s charging but not tempting.",
+      "Enable Do Not Disturb overnight so notifications don’t disturb you; alarms still ring.",
+      "Keep a power bank or inexpensive battery alarm clock handy as a backup if the phone dies.",
+      "Address downstairs neighbor's late guitar practice; consider options such as earplugs (if comfortable), white noise, or sound dampening measures (rug/curtain) and possibly a brief polite request for practice end time.",
+      "Change lamp to warm light (2700–3000K) or dim it for the last 60–90 minutes before bed, diffuse the light if bulbs cannot be changed; enable phone night mode earlier to reduce blue light.",
+      "Consider coordinating with roommate about lighting schedule in shared spaces."
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 19526,
+    "outputTokens": 74306,
+    "totalTokens": 93832
+  },
+  "timestamp": "2026-02-14T23:25:37.661Z"
+}

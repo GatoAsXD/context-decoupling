@@ -1,0 +1,27 @@
+{
+  "id": "es_v2_OVERRIDE_L40_Relationship with a boss or coworker",
+  "scriptId": "cs_v2_OVERRIDE_L40_Relationship with a boss or coworker",
+  "historyId": "h_v2_OVERRIDE_L40_Relationship with a boss or coworker",
+  "cutoffIndex": 24,
+  "messages": [
+    "Update: leadership just announced a restructure. Formal HR support and external mediation are paused while they reorganize, and teams have been told to solve interpersonal issues internally within a tight deadline or risk being reshuffled. I can't rely on official mediation or outside coaches right now.",
+    "That changes my options completely. I can't escalate the same way anymore. Given this, what should I do first to stabilize the situation without outside help?",
+    "How should I reframe the conversation with her now that there's no neutral third party? I still want to be constructive but less risky.",
+    "Give me a two-sentence opener I can use in a quick check-in that signals collaboration rather than complaint, something very low-risk.",
+    "With formal channels offline, should I alter how I keep records? What internal evidence is most defensible if I need to show summaries to leadership?",
+    "Would proposing a short 'working agreement' between us and a couple teammates be a good way to show progress? How do I pitch that so it doesn't look like I'm rallying allies?",
+    "Would sending brief daily alignment notes to my manager help demonstrate collaboration and reduce interruptions? If so, what should one look like?",
+    "Should I shift more communication to written updates to create a benign trail, or would that be seen as passive-aggressive given the current climate?",
+    "Are there any policy or legal landmines I should avoid while trying to document interactions without HR's support?",
+    "If she refuses any sort of agreement, what's my fallback that stays within the mandate to resolve things locally? Should I pivot to delivering visible, undeniable outputs instead?",
+    "Given that I have to fix this internally and within a narrow window management set, can you give me a prioritized, day-by-day checklist for the next ten working days focused solely on team-level actions I can take to repair the relationship and produce visible signals of improvement?",
+    "Include three ultra-brief email templates: one to set up a low-stakes check-in, one to confirm any verbal agreement in writing afterward, and one to use if I need to update leadership on progress—each no longer than three sentences.",
+    "Suggest three concrete quick wins I can propose that show cooperative behavior and measurable impact without needing extra resources or approvals.",
+    "Draft two short scripts: one neutral sentence to use if she becomes defensive, and one if she dismisses my concerns—both should defuse tension and keep things documented.",
+    "Outline minimal, practical documentation habits I can adopt immediately—what to note after conversations, where to store notes, and what types of messages to avoid sending so I don't unintentionally escalate.",
+    "Finally, synthesize all of that into a terse, prioritized checklist I can print and follow today that assumes no external support and only a brief timeframe to show progress."
+  ],
+  "metadata": {
+    "timestamp": "2026-02-13T00:32:50.192Z"
+  }
+}

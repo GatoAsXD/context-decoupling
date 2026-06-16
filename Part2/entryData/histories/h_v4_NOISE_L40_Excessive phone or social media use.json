@@ -1,0 +1,197 @@
+{
+  "id": "h_v4_NOISE_L40_Excessive phone or social media use",
+  "scriptId": "cs_v4_NOISE_L40_Excessive phone or social media use",
+  "cutoffIndex": 24,
+  "messages": [
+    {
+      "role": "user",
+      "content": "Hey, I need help cutting back on excessive phone and social media use — it's starting to affect my sleep and focus."
+    },
+    {
+      "role": "assistant",
+      "content": "Totally doable — here’s a practical, low-friction plan you can start using right away to reduce phone and social media use, improve sleep, and regain focus.\n\nQuick setup (first 24–48 hours)\n- Track baseline for a day or two: note how many times you pick up your phone, which apps you use most, and when (use built-in Screen Time or Digital Wellbeing if you want numbers).\n- Pick one clear, specific goal (e.g., “No phone in bed after 10:30 PM” or “Limit social apps to 30 minutes/day”).\n\nEnvironment + device changes\n- Put the phone out of reach at night (across the room or in another room). Use an alarm clock if you need one.\n- Turn on Do Not Disturb / Focus mode during sleep and deep-work blocks; schedule it to auto-enable.\n- Enable app timers/limits (Screen Time on iOS, Digital Wellbeing on Android). Start conservative and reduce gradually.\n- Mute nonessential notifications (only allow calls/important messages). Turn off banner notifications for social apps.\n\nBehavioral habits\n- Create a pre-sleep wind-down routine (30–60 minutes): dim lights, read, stretch, or listen to calming audio—no scrolling.\n- Replace habit loops: have a short substitute for the urge (walk, 5-minute breathing, make tea). Do that consistently when cravings hit.\n- Use the “delay” trick: when you feel like opening an app, wait 10 minutes. Often the urge passes.\n- Batch social checking: allow one or two scheduled times/day to check feeds/messages instead of constant checks.\n\nFocus strategies\n- Use Pomodoro (25–50 min work, 5–10 min break). Put phone in another room during work intervals.\n- Install website/app blockers for deep work (Freedom, Cold Turkey, LeechBlock, Focus Mode).\n- Turn your phone to grayscale — it reduces visual reward and lowers use.\n\nSleep-specific tips\n- Stop caffeine after early afternoon if it affects your sleep.\n- Use Night Shift/Blue Light filter in the evening, but still avoid prolonged screen time before bed.\n- Keep bedroom device-free; if you must have a device, set it to airplane mode overnight.\n\nAccountability & motivation\n- Tell one friend or partner your goal or join a small accountability group.\n- Set small, measurable milestones and reward yourself when you hit them.\n- Expect slip-ups — reset quickly and reflect on what triggered them.\n\nIf you want, I can:\n- Help you make a one-week plan tailored to your schedule and the apps you use most.\n- Draft a short message to tell friends/family you’re cutting back.\nWhich apps or times of day are hardest for you?"
+    },
+    {
+      "role": "user",
+      "content": "I'm looking for something practical and short that I can start doing tomorrow."
+    },
+    {
+      "role": "assistant",
+      "content": "Perfect—here’s a very short, practical plan you can start tomorrow:\n\n1. Tonight (before sleep): put your phone in another room or on Do Not Disturb; enable app limits for your top 1–2 social apps (30–60 min/day).\n2. Morning (first 30 min): don’t pick up the phone. Use that time to stretch, plan your day, or have coffee.\n3. Work blocks: use Pomodoro (25/5). Keep the phone out of reach during work intervals and turn on Focus/Do Not Disturb.\n4. Scheduled checks: allow two short social-check windows (e.g., 12:30 pm and 7:30 pm) for 10–15 minutes each.\n5. Evening wind-down (60 min before bed): no screens—read, stretch, or listen to calm audio; keep phone out of the bedroom.\n\nSimple, doable, and measurable—try it tomorrow and see how it feels."
+    },
+    {
+      "role": "user",
+      "content": "I want exactly five actions — not a long list."
+    },
+    {
+      "role": "assistant",
+      "content": "1. Tonight: put your phone in another room to charge and turn on Do Not Disturb until morning.  \n2. Morning (first 30 minutes): don’t touch the phone — stretch, plan your day, or have coffee instead.  \n3. During work: run Pomodoro blocks (25/5) and keep the phone out of reach for each work interval.  \n4. Allow two timed social-check windows tomorrow (e.g., 12:30 pm and 7:30 pm) of 15 minutes each; silence social notifications outside those times.  \n5. One hour before bed: screens off — read or listen to calm audio and leave the phone outside the bedroom."
+    },
+    {
+      "role": "user",
+      "content": "Keep each action to no more than fifteen words."
+    },
+    {
+      "role": "assistant",
+      "content": "1. Tonight: charge phone in another room; enable Do Not Disturb until morning.  \n2. Morning: no phone for first 30 minutes—stretch, plan, or have coffee.  \n3. Work: use 25/5 Pomodoro and keep phone out of reach.  \n4. Allow two 15-minute social-check windows (e.g., 12:30pm, 7:30pm); silence notifications.  \n5. One hour before bed: screens off; read or listen; keep phone outside bedroom."
+    },
+    {
+      "role": "user",
+      "content": "Avoid recommending named apps, subscriptions, or brand-specific tools."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood — avoiding named apps or brands. Here are five actions:\n\n1. Tonight: charge phone in another room; silence notifications until morning.  \n2. Morning: no phone for first 30 minutes—stretch, plan, or have coffee.  \n3. Work: do 25 minutes focused, 5-minute breaks; keep phone out of reach.  \n4. Allow two 15-minute social-check windows; silence social notifications otherwise.  \n5. One hour before bed: screens off; read or listen; keep phone outside bedroom."
+    },
+    {
+      "role": "user",
+      "content": "Behavioral, low-cost tactics are what I'm after, not therapy referrals."
+    },
+    {
+      "role": "assistant",
+      "content": "1. Tonight: charge phone in another room; silenced until morning.  \n2. Morning: first 30 minutes phone-free—stretch, plan, or drink water.  \n3. Work: 25/5 focus cycles; put phone in a drawer or different room.  \n4. Two 15-minute social-check windows scheduled; mute social notifications outside them.  \n5. One hour before bed: screens off; read, journal, or listen to calming music."
+    },
+    {
+      "role": "user",
+      "content": "A little context: I'm in my late 20s and work full-time from home."
+    },
+    {
+      "role": "assistant",
+      "content": "Thanks — that helps. Those five low-cost, behavioral steps should fit well with working from home and be easy to try tomorrow."
+    },
+    {
+      "role": "user",
+      "content": "My worst times are the commute, lunch breaks, and the hour before bed."
+    },
+    {
+      "role": "assistant",
+      "content": "Got it — five short actions targeting commute, lunch, and the hour before bed:\n\n1. Commute: put phone in bag face-down; observe surroundings or practice mindful breathing instead.  \n2. Lunch: place phone in another room; eat mindfully and take a short walk.  \n3. Hour before bed: screens off; read, journal, or listen to calming music.  \n4. Work: 25/5 focus cycles; keep phone in a drawer or different room.  \n5. Social checks: schedule two 15-minute windows; mute social notifications otherwise."
+    },
+    {
+      "role": "user",
+      "content": "Boredom and stress are the usual triggers — sometimes I don't even realize I'm scrolling."
+    },
+    {
+      "role": "assistant",
+      "content": "Totally—those are classic autopilot triggers.  \nTry a 2-minute grounding routine when you catch yourself (breath, stretch, walk), and add simple friction: keep the phone out of reach or in a closed drawer during commute, lunch, and the hour before bed."
+    },
+    {
+      "role": "user",
+      "content": "I prefer practical steps rather than long explanations or academic studies."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood — I’ll keep responses short and practical. I can give five concise, one-line actions targeting your commute, lunch, and pre-bed now."
+    },
+    {
+      "role": "user",
+      "content": "Once I tried a 'phone-free weekend' and made it until Saturday evening before I caved."
+    },
+    {
+      "role": "assistant",
+      "content": "Nice—getting that far is progress.  \nNext time: allow one timed 15-minute check-in Saturday evening to avoid feeling deprived.  \nHave a concrete substitute that evening (walk, movie, cook, or meet a friend)."
+    },
+    {
+      "role": "user",
+      "content": "My cat somehow senses a phone on the couch and knocks it down; it's a weird deterrent."
+    },
+    {
+      "role": "assistant",
+      "content": "That's amusing — and actually handy. You can lean into it as a nudge, or more reliably keep the phone in a closed drawer or another room so it stays out of sight."
+    },
+    {
+      "role": "user",
+      "content": "I read a headline claiming people check their phones over a hundred times daily; is that accurate?"
+    },
+    {
+      "role": "assistant",
+      "content": "Short answer: possibly — true for many people but not universally.  \nDevice-measured studies and surveys vary widely: some people check phones only a few dozen times daily, while heavy users (often younger people or those with lots of notifications) can exceed 100 checks. Headlines tend to cite the high end.  \nTo know for you, check your phone’s built-in screen-time/digital-wellbeing report for pickups and app use."
+    },
+    {
+      "role": "user",
+      "content": "Our neighbors leave their phones in another room during dinner, and it makes the meal less rushed."
+    },
+    {
+      "role": "assistant",
+      "content": "Nice — that’s a simple, effective habit; leaving phones elsewhere can make dinners feel calmer and more present."
+    },
+    {
+      "role": "user",
+      "content": "A coworker swapped social feeds for podcasts and said it reduced mindless scrolling."
+    },
+    {
+      "role": "assistant",
+      "content": "Smart move — audio keeps you engaged without visual scrolling.  \nTry short podcasts or playlists during commute, lunch, or chores to replace feed-checking."
+    },
+    {
+      "role": "user",
+      "content": "Another friend replaced apps with books, though they admitted audiobooks became a similar autopilot."
+    },
+    {
+      "role": "assistant",
+      "content": "Totally—audio can feel autopilot. Try alternating with physical books, pause to jot one takeaway, or set deliberate stopping points."
+    },
+    {
+      "role": "user",
+      "content": "People online swear by grayscale mode — like colors are the main hook for endless swiping."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes — removing color can reduce the visual “reward” of feeds and make scrolling less automatic.  \nEffect size varies: some people drop usage noticeably, others see little change.  \nYou can toggle grayscale in your phone’s display or accessibility settings and try it for a week.  \nPair it with out-of-reach placement or your scheduled checks for better results.  \nIf it feels unhelpful, just switch back."
+    },
+    {
+      "role": "user",
+      "content": "I used to set timers, but I always hit 'ignore' and kept going; limits feel too easy to bypass."
+    },
+    {
+      "role": "assistant",
+      "content": "Totally—timers are easy to override. Try these low-effort ways to make scrolling harder:\n\n- Put phone in another room or a closed drawer during focus.  \n- Remove social apps from your home screen or log out temporarily.  \n- Use a physical kitchen timer for work/break cycles; keep phone away.  \n- Pre-commit to a friend: ask them to check in if you slip.  \n- When the urge hits, do a 2-minute substitute (walk, stretch, drink water).  \n- Turn the screen grayscale and silence banners to reduce visual pull."
+    },
+    {
+      "role": "user",
+      "content": "Opening an app when stressed feels like a tiny reward; breaking that loop is surprisingly tough."
+    },
+    {
+      "role": "assistant",
+      "content": "Totally—that tiny reward loop is normal. Try these quick, low-friction tactics:\n\n- Before unlocking, do a 2-minute grounding routine: slow breaths and a stretch.  \n- Add friction: keep the phone in a closed drawer or face-down in a bag.  \n- Replace the check with a 2-minute substitute: walk, make tea, or step outside.  \n- Pre-commit to one small task (send one email, tidy one thing) before any social check.  \n- Use the “wait 10 minutes” rule—set a kitchen timer and delay the urge."
+    },
+    {
+      "role": "user",
+      "content": "Maybe changing my wallpaper to something plain would reduce the pull."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes — plain wallpapers lower visual stimulation. Quick, practical tweaks:\n\n- Set a neutral, low-contrast wallpaper (solid color or subtle texture).  \n- Simplify your lock screen; add a short reminder like “Wait 10 minutes.”  \n- Move social apps off the home screen into a folder so they’re harder to reach.  \n- Pair with silenced notifications or grayscale for stronger effect."
+    },
+    {
+      "role": "user",
+      "content": "I tried airplane mode at work once, but then I missed important messages and panicked."
+    },
+    {
+      "role": "assistant",
+      "content": "Totally understandable. A few low-friction alternatives so you stay reachable without scrolling:\n\n- Use Do Not Disturb but allow calls/messages from a short list of important contacts.  \n- Keep notifications only for one essential channel (work messages); mute social apps.  \n- Set vibration-only for alerts so urgent pings register without visual temptation.  \n- Place phone in another room but within hearing distance (or on a shelf).  \n- Schedule quick check-ins (every 1–2 hours) so you don’t miss anything and avoid constant checking."
+    },
+    {
+      "role": "user",
+      "content": "Would shifting notifications to a smartwatch help, or would that just shift the habit?"
+    },
+    {
+      "role": "assistant",
+      "content": "Short answer: it can help—but it can also just move the habit to your wrist.\n\nWhy it helps:\n- Quick glances let you triage without unlocking the phone, reducing full app openings.\n- Keeps the phone out of sight, which lowers visual temptation.\n\nRisks:\n- Makes checking even easier, increasing micro-interruptions and reinforcing the habit.\n- Pushes the same urge to a new device unless notifications are curbed.\n\nPractical setup to make it helpful:\n- Forward only high-priority channels to the watch; mute social feeds and banners.  \n- Use subtle vibration for essentials; require opening the phone for full content.  \n- Try it for a few days and notice whether phone pickups drop or wrist-checks multiply."
+    },
+    {
+      "role": "user",
+      "content": "My commute used to be dedicated reading time; now it's an excuse to scroll through feeds."
+    },
+    {
+      "role": "assistant",
+      "content": "1. Before leaving: place phone zipped face-down in bag; keep a paperback or downloaded chapter ready.  \n2. If worried about urgent calls: silence non-essentials but allow calls/messages from 1–2 contacts.  \n3. Start the commute by opening your book immediately; no phone unlocking until arrival.  \n4. Choose short reads—articles, short stories, or single chapters—for easy, satisfying completion.  \n5. If the urge hits, read one page or take three deep breaths before checking."
+    }
+  ],
+  "metadata": {
+    "inputTokens": 49892,
+    "outputTokens": 16912,
+    "totalTokens": 66804,
+    "timestamp": "2026-02-13T16:38:24.346Z"
+  }
+}

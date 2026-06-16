@@ -1,0 +1,61 @@
+{
+  "id": "c_structuredContext_v4_NOISE_L40_Adopting a pet",
+  "scriptId": "cs_v4_NOISE_L40_Adopting a pet",
+  "historyId": "h_v4_NOISE_L40_Adopting a pet",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Explore bearded dragon care basics."
+    ],
+    "constraints": [
+      "Cord-chewing risk with small pets (e.g., rabbits); require robust baby-proofing and cord protection",
+      "Ensure the adopted animal is microchipped and the registration information stays current; use a visible ID tag for quicker returns",
+      "Prioritize evidence-based guidance from veterinarians, rescue/shelter staff, and reputable resources over forum opinions."
+    ],
+    "decisions": [],
+    "entities": [
+      "rabbit",
+      "cord chewing risk",
+      "baby-proofing",
+      "microchip",
+      "ID tag",
+      "registries",
+      "cat",
+      "door-opening",
+      "bearded dragon",
+      "gadgets",
+      "automatic feeders",
+      "smart toys",
+      "cameras",
+      "remote monitoring",
+      "forum",
+      "opinions",
+      "dog",
+      "hound",
+      "mail delivery",
+      "neighbors",
+      "noise",
+      "neighbor relations"
+    ],
+    "open": [
+      "Do you have young children or older adults at home?",
+      "How active are you (daily walks, hikes, mostly sedentary)?",
+      "Noise tolerance (low, medium, high)?",
+      "Will you travel often or be away overnight frequently?",
+      "Monthly budget for food, supplies, vet care (rough number or low/medium/high)?",
+      "Do you want a long-term companion (10+ years) or something shorter-term?",
+      "Are you open to low-interaction pets such as pond turtles or other reptiles, given apartment living and kids?",
+      "Are you specifically concerned about clinginess or separation anxiety in small/tiny dog breeds?",
+      "Are you open to a trial or foster period to evaluate temperament with kids?",
+      "Do glossy photos reliably reflect a pet's temperament, or will you rely on shelter/foster feedback instead?",
+      "Are you considering exotic pets like bearded dragons, and do you have a setup for it?",
+      "Is neighbor noise or mail-delivery-related noise a concern in your current living situation?"
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 20849,
+    "outputTokens": 49164,
+    "totalTokens": 70013
+  },
+  "timestamp": "2026-02-14T23:17:26.058Z"
+}

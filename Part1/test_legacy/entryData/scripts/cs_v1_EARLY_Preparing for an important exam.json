@@ -1,0 +1,34 @@
+{
+  "id": "cs_v1_EARLY_Preparing for an important exam",
+  "type": "cs_v1_EARLY",
+  "seedTopic": "Preparing for an important exam",
+  "length": 20,
+  "messages": [
+    "I'm preparing for an important statistics final and need to get organized. The exam is scheduled for June 12 at 9:00 AM, it's three hours long, closed-book, covers chapters 4 through 12, and counts for 40% of my final grade.",
+    "My scholarship depends on this, so I'm aiming for at least an 85% on that exam. My weekday plan is three hours of study using 25/5 Pomodoro chunks, and I do one full-length mock on Saturdays.",
+    "I've made 120 flashcards for key definitions and I'm focusing on three heavy chapters: the hypothesis-testing one, the regression diagnostics section, and the ANOVA chapter. I also flagged five formulas I must have memorized.",
+    "Because calculators won't be allowed, I've been practising hand calculations and I've scheduled four timed full-length practice exams over the next four weekends to mimic the real timing.",
+    "Quick detour: what's a good easy chocolate dessert for a small dinner party—something that doesn't require fancy equipment?",
+    "Also, any quick tips for starting a sourdough starter for the first time? I don't have a lot of fancy flours.",
+    "On a different note, I'm planning a short Lisbon trip—what are three minimalist packing tips for unpredictable weather?",
+    "Curiosity: what's a reasonable nightly sleep target for adults who are juggling studying and a part-time job?",
+    "Random animal trivia: which land animal is the fastest, and how much does it typically eat in a day?",
+    "Plant question: is it normal for potted plants to lose a few leaves after repotting, or does that mean something's wrong?",
+    "Chemistry wonder: why do leaves sometimes turn red in autumn, from a pigment/biochemistry perspective?",
+    "Coffee question: how long should I steep a cold brew to make it strong enough for early mornings without bitterness?",
+    "Movie pick: any recommendations for a light 90s romantic comedy that's entertaining but not too cheesy?",
+    "Geography check: what's the approximate population of Tokyo these days? I'm using it as a backdrop for a short story.",
+    "Food storage: I heard honey can last forever—true? And does heat in the kitchen affect it over the years?",
+    "Okay, back to the main prep—I'm planning one last full mock next weekend and I want it to mimic the real morning session so my pacing is accurate. If it should end around the same time as the real test, when should I start it?",
+    "Also, given devices won't be permitted during the real session, how should I structure practice problems so my manual calculation speed and formula recall improve under pressure?",
+    "I'm still trying to reach the scholarship cutoff I mentioned—based on two lower mock scores and one decent one, what would be the most effective split of the final week's time between focused topic review and doing a full timed practice?",
+    "Content-wise I tagged the regression-heavy section and adjacent middle-course topics as critical—what three concrete, quick fixes or reminders should I review the night before to boost recall?",
+    "And logistics: for the weekend mocks I've penciled in, would you recommend keeping them on consecutive weekends as planned or inserting a recovery weekend to consolidate before that important morning exam?"
+  ],
+  "metadata": {
+    "inputTokens": 419,
+    "outputTokens": 10189,
+    "totalTokens": 10608,
+    "timestamp": "2026-01-24T22:40:52.901Z"
+  }
+}

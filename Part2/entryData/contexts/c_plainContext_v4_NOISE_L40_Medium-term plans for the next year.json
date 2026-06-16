@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v4_NOISE_L40_Medium-term plans for the next year",
+  "scriptId": "cs_v4_NOISE_L40_Medium-term plans for the next year",
+  "historyId": "h_v4_NOISE_L40_Medium-term plans for the next year",
+  "componentType": "plainContext",
+  "context": "Current State:\nCurrent State:\nCurrent State:\n- 12-month horizon starting next month; no headcount changes.\n- Ranked priorities\n  1) Reliability & performance\n  2) Customer experience & conversion\n  3) Operational efficiency & automation\n  4) Data & insights for decisions\n  5) Team capability & process improvements\n- Reliability & performance\n  - Why it matters: Protects revenue and customer trust by reducing\n- Compliance and legal\n  - Potential compliance shifts next year; no dates provided.\n- Governance and contingency\n  - Legal to be named stakeholder for quarterly checkpoints.\n  - Reserve modest contingency capacity until scope/timing clarified.\n- Shared drive cleanup\n  - Plan: short, time-boxed cleanup\n  - Implement simple naming/retention rules\n\nMessage:\nI keep meaning to tidy our shared drive — old specs and slides are cluttering the place, and it slows people down.\n\nResponse:\nTotally — a messy shared drive is a silent time sink. A short, time‑boxed cleanup plus simple naming/retention rules usually makes a noticeable difference.",
+  "generationMetrics": {
+    "inputTokens": 18620,
+    "outputTokens": 63896,
+    "totalTokens": 82516
+  },
+  "timestamp": "2026-02-14T23:31:32.097Z"
+}

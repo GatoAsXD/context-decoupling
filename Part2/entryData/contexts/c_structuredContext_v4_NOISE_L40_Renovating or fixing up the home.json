@@ -1,0 +1,54 @@
+{
+  "id": "c_structuredContext_v4_NOISE_L40_Renovating or fixing up the home",
+  "scriptId": "cs_v4_NOISE_L40_Renovating or fixing up the home",
+  "historyId": "h_v4_NOISE_L40_Renovating or fixing up the home",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Develop a practical DIY renovation plan for the home"
+    ],
+    "constraints": [
+      "cosmetic updates only",
+      "no plumbing work",
+      "no major electrical rewiring",
+      "no structural changes",
+      "two-person, DIY-first team",
+      "no large crews; specialty tasks only",
+      "availability evenings and weekends; short, discrete tasks suitable for two-person team",
+      "budget ceiling of about $4,500 for materials and paid help",
+      "completion within about four weeks",
+      "prioritize low-emission paints and finishes (low/zero-VOC) to minimize fumes",
+      "avoid heavy demolition and minimize dust and disruption as much as possible"
+    ],
+    "decisions": [
+      "Include a contractor vetting and contract checklist in the DIY plan",
+      "Decide on trim strategy: simple baseboard vs ornate molding"
+    ],
+    "entities": [
+      "contractor vetting checklist",
+      "peel-and-stick backsplash options",
+      "wet-area rated backsplash tiles",
+      "kitchen backsplash products",
+      "trim profile options",
+      "baseboard and casing options suitable for bungalow style"
+    ],
+    "open": [
+      "organize fabric swatches and paint chips",
+      "refinish vintage knobs and pulls",
+      "draft contractor vetting and contract checklist",
+      "evaluate peel-and-stick backsplash durability around the sink area",
+      "prepare compatibility/readiness checklist for chosen peel-and-stick backsplash product",
+      "draft a short install checklist for the chosen product",
+      "evaluate trim scope and finalize whether to include decorative molding",
+      "propose two pared-down trim approaches: 'high impact, low fuss' and 'fancier focal details only'",
+      "test trim scale with tape samples on walls to preview effect",
+      "collect cost/time estimates for trim options"
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 17738,
+    "outputTokens": 47747,
+    "totalTokens": 65485
+  },
+  "timestamp": "2026-02-14T23:52:53.820Z"
+}

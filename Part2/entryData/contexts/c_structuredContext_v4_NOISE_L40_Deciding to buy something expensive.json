@@ -1,0 +1,30 @@
+{
+  "id": "c_structuredContext_v4_NOISE_L40_Deciding to buy something expensive",
+  "scriptId": "cs_v4_NOISE_L40_Deciding to buy something expensive",
+  "historyId": "h_v4_NOISE_L40_Deciding to buy something expensive",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [],
+    "constraints": [
+      "Budget around $30,000; avoid features not used.",
+      "Prioritize long-term dependability and resale value; less emphasis on flashy tech.",
+      "Consider both brand-new and gently pre-owned options if it makes long-term sense.",
+      "When evaluating used options among suggested models, monitor model-specific red flags (RAV4: service history, hybrid battery/inverter, transmission issues; CR-V: maintenance records, oil dilution on 1.5L turbo, transmission/engine warning lights; Forester: oil leaks, coolant consumption, rust or flood damage).",
+      "Prefer simpler dashboard interfaces (analog gauges) and fewer electronics; avoid excessive digital displays where possible.",
+      "Ensure vehicle width including mirrors fits in narrow parking spots and minimizes risk of scraping sides.",
+      "Dealership customer experience, including aspects such as coffee quality, influences evaluation and decisions.",
+      "Cup holder size and accessibility for travel mugs; easy to clean."
+    ],
+    "decisions": [],
+    "entities": [],
+    "open": [
+      "Test drive checklist: verify cup holder fit for travel mugs; assess reach and ease of cleaning."
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 15685,
+    "outputTokens": 52210,
+    "totalTokens": 67895
+  },
+  "timestamp": "2026-02-14T23:17:58.117Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "es_v4_NOISE_L40_Deciding to start a master’s degree or course",
+  "scriptId": "cs_v4_NOISE_L40_Deciding to start a master’s degree or course",
+  "historyId": "h_v4_NOISE_L40_Deciding to start a master’s degree or course",
+  "cutoffIndex": 24,
+  "messages": [
+    "My neighbor's cousin runs a startup and keeps telling me to get industry experience; friendly pressure like that is hard to ignore.",
+    "I sometimes think a language course could be a helpful side-skill, though it's a different kind of return on investment.",
+    "I tried an intensive weekend workshop once and hated the pace—intensity is very personal.",
+    "Too many options feel paralyzing; option overload is honestly part of why I'm stuck.",
+    "Family dinners and routines are important to me; any extra commitment would need to respect that rhythm.",
+    "A friend joked that I'll probably sign up for a short thing and then still be tempted by a master's later—he says I'm a 'serial researcher.'",
+    "Okay, putting everything together, I want an actionable summary I can use to decide.",
+    "Keep it practical and scannable—no long essays, just what helps me weigh trade-offs.",
+    "A short list of realistic routes with the main pros and cons, plus rough timelines and ballpark cost ranges, would be ideal.",
+    "Please finish with one clear next step I could take in the next week.",
+    "If one route clearly fits my situation better than the others, give a one-line rationale.",
+    "Keep the whole thing compact—two or three bullets per option should be plenty.",
+    "Use plain language and assume I'm ready to take action rather than debate educational philosophy.",
+    "If it's helpful, include a tiny checklist of immediate practical tasks I could do this week to move forward.",
+    "And if a single recommendation makes the most sense given the limits I described earlier, state it explicitly in one sentence.",
+    "Could you now produce that short, structured comparison and the one-step recommendation?"
+  ],
+  "metadata": {
+    "timestamp": "2026-02-13T16:32:55.788Z"
+  }
+}

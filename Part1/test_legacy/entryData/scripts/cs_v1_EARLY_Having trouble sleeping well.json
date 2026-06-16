@@ -1,0 +1,34 @@
+{
+  "id": "cs_v1_EARLY_Having trouble sleeping well",
+  "type": "cs_v1_EARLY",
+  "seedTopic": "Having trouble sleeping well",
+  "length": 20,
+  "messages": [
+    "Hey, I've been having trouble sleeping well for about eight months. I'm 36 and have to be up very early most weekdays to catch a train to work, so my alarm is usually set for around 5:15 AM.",
+    "I usually try to go to bed around 11:30 PM, but I often lie awake for an hour to an hour and a half before falling asleep, which leaves me with only about 4.5-5.5 hours of sleep on work nights.",
+    "I tend to nap almost every afternoon for 20-30 minutes, I often drink a double espresso late in the afternoon, and when I'm desperate I take a 3 mg melatonin.",
+    "My bedroom faces east so streetlights come in, the room gets pretty warm at night (around the mid-20s Celsius), and I have a cat that sometimes wakes me up in the middle of the night.",
+    "Random question: what's a surprising historical fact about the printing press that most people don't know?",
+    "Can you give me a super-simple vegetable stir-fry recipe I can make in under 15 minutes? I'm not very confident cooking.",
+    "I'm thinking of getting a low-maintenance desk plant—what are a couple of good options that tolerate low light and minimal watering?",
+    "Could you explain in plain terms how a blockchain keeps data secure, without too much technical jargon?",
+    "What's a quick five-minute stretching routine I can do in the morning to feel less stiff?",
+    "Do you know an interesting, little-known fact about octopuses that would impress my friends?",
+    "Give me a one-sentence elevator pitch for a podcast about urban cycling I could use in a blurb.",
+    "I need a short, family-friendly riddle to use as an icebreaker—got any good ones?",
+    "What's the basic difference between baking soda and baking powder when I'm making a quick cake?",
+    "If I wanted to save money on subscriptions, what's a practical first step to audit what I'm paying for?",
+    "I'm curious—what's the capital of Latvia and how do locals pronounce it?",
+    "Recommend three upbeat but mellow songs I could add to a short focus playlist.",
+    "Any easy tricks to keep a small apartment smelling fresh without resorting to chemical sprays or heavy plug-ins?",
+    "Okay, circling back to my sleep trouble: considering how tight my mornings are and how my evenings usually go, what's the single most practical change I could try first to actually improve my rest?",
+    "Out of the small habits I mentioned earlier—my short afternoon dozes, the late-day caffeine, or the occasional sleep aid—which would you suggest altering first if I want to see a difference within a couple of weeks?",
+    "And for those middle-of-the-night disruptions I described earlier, what's the simplest environmental tweak—lighting, temperature, or something else easy—that tends to help most people in that situation?"
+  ],
+  "metadata": {
+    "inputTokens": 418,
+    "outputTokens": 8771,
+    "totalTokens": 9189,
+    "timestamp": "2026-01-24T22:39:51.354Z"
+  }
+}

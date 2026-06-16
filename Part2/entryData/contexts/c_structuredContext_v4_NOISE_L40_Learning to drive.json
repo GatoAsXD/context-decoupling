@@ -1,0 +1,92 @@
+{
+  "id": "c_structuredContext_v4_NOISE_L40_Learning to drive",
+  "scriptId": "cs_v4_NOISE_L40_Learning to drive",
+  "historyId": "h_v4_NOISE_L40_Learning to drive",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Create an 8-week (≈2 months) manual driving lessons plan with 16 lessons (90 minutes each) plus 1–2 short private practice sessions per week, aiming to be test-ready in ~2 months.",
+      "Plan now includes measurable milestones and a two-mock-test readiness framework to determine when to book the actual driving exam; booking to occur after consistently meeting the milestones per the consistency rule.",
+      "Incorporate basic roadside breakdown skills (jump-starts and tyre checks) into the planned lessons with concise steps and practice scenarios.",
+      "Plan prioritizes slow-speed control as the foundation, with lane discipline introduced after establishing consistent slow-speed performance (Stage 1 slow-speed drills; Stage 2 lane discipline; Stage 3 traffic exposure)."
+    ],
+    "constraints": [
+      "Location/state/country not provided",
+      "Experience level: none",
+      "Available weekday evenings after work",
+      "Vehicle type: manual",
+      "Lesson length: 90 minutes",
+      "Frequency: two weekday evenings per week",
+      "Total lessons: 16",
+      "Test readiness target: ~2 months",
+      "Worries: driving in traffic",
+      "Worries: dusk/night driving",
+      "Worries: reversing and parking manoeuvres",
+      "Worries: independent driving",
+      "Milestones must be demonstrated consistently (2–3 sessions on different days) before booking",
+      "Starting practice in a quiet space before public roads (to build foundational skills)",
+      "Weekend slots are unpredictable; prefer to minimize weekend lessons and rely on weekday evenings.",
+      "Inclement weather: postpone lessons in snow/ice or heavy rain for safety; plan wet-weather drills in safe conditions.",
+      "Between-lesson practice on a familiar commute route to build route-specific familiarity and confidence.",
+      "Include basic roadside breakdown skills (jump-starts and tyre checks) as core practice within the plan."
+    ],
+    "decisions": [
+      "Adopted 8-lesson starting-point plan (as initial phase)",
+      "Milestone-based assessment and mock-test framework integrated into plan",
+      "Incorporate quiet-space initial practice as recommended",
+      "Consider evaluating tech-assisted feedback tools and app integration into the plan",
+      "Adapt plan into a flexible, weekday-focused calendar to avoid weekend commitments",
+      "Add preference for calm, patient instructor and trial lesson to assess compatibility",
+      "Integrate breakdown skills training (jump-starts, tyre checks) into plan.",
+      "Adopt staged progression prioritizing slow-speed control before lane discipline (Stage 1 slow-speed drills; Stage 2 lane discipline; Stage 3 traffic exposure)."
+    ],
+    "entities": [
+      "8-lesson plan (one-week spacing)",
+      "Worries: traffic, dusk/night driving, reversing/parking, independent driving",
+      "Printable one-page checklists for each lesson (optional deliverable)",
+      "Milestones (pass/fail gates) and mock-test framework",
+      "Two full mock tests (separate days) with predefined pass criteria",
+      "Quiet-space initial practice concept (empty car park)",
+      "Tech-assisted driving feedback app (records trips, analyses steering smoothness, etc.)",
+      "Flexible drills that can be integrated into errands",
+      "Flexible calendar approach (weekday-focused) to avoid weekend commitments",
+      "Habit awareness: wheel-tapping habit observed in father; potential distraction",
+      "Calm, patient instructional style; trial lesson to assess compatibility",
+      "Dual controls (instructor's car with extra pedals)",
+      "Logbook (training record)",
+      "Hazard perception",
+      "Turn-in-the-road / three-point turn",
+      "Emergency stop",
+      "Weather-related driving drills (wet roads, snow/ice) and safety protocols",
+      "Weather readiness checklists (tyres, wipers, screenwash, lights, visibility)",
+      "Familiar-route practice on commute to build confidence on known roads",
+      "Instructor handling of awkward manoeuvres: provide rationale and break down manoeuvres into smaller steps on request",
+      "Jump-start procedure",
+      "Tyre checks and changing procedure",
+      "Staged progression concept: slow-speed control first then lane discipline (Stage 1 quiet-area drills; Stage 2 residential roads; Stage 3 busy roads)."
+    ],
+    "open": [
+      "Provide location (country/state) to tailor plan",
+      "Preference for output: print a checklist per worry or a 4-week micro-plan",
+      "Consider starting in a quiet space as a preferred initial step",
+      "Cost considerations and budgeting for driving lessons",
+      "Assess integration of tech-assisted feedback tools into plan and identify preferred features (steering smoothness, parking analysis, trip logs)",
+      "Develop a flexible calendar that minimizes weekend commitments and identifies drills that can be folded into errands",
+      "Address personal driving habit (wheel-tapping) as potential distraction; develop mindful steering and quiet moments during practice",
+      "Preference for calm, patient instructor; trial lesson to assess compatibility",
+      "Glossary terms integration into plan",
+      "Weather-related worries (snow/ice/heavy rain) and preference for wet-weather practice guidance",
+      "Inclement weather policy for scheduling and safety (postpone when conditions are hazardous)",
+      "Incorporate commute-route familiarization practice as between-lesson drills",
+      "Awkward or uncomfortable manoeuvres during lessons: request explanation of purpose and stepwise breakdown; propose alternatives if needed.",
+      "Add breakdown skills module (jump-starts, tyre checks) to the plan.",
+      "Clarify sequencing preference between slow-speed control and lane discipline to ensure plan alignment."
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 32677,
+    "outputTokens": 64867,
+    "totalTokens": 97544
+  },
+  "timestamp": "2026-02-14T23:31:43.507Z"
+}

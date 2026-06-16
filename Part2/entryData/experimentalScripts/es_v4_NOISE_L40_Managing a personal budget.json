@@ -1,0 +1,27 @@
+{
+  "id": "es_v4_NOISE_L40_Managing a personal budget",
+  "scriptId": "cs_v4_NOISE_L40_Managing a personal budget",
+  "historyId": "h_v4_NOISE_L40_Managing a personal budget",
+  "cutoffIndex": 24,
+  "messages": [
+    "Sometimes I prefer paying off small balances quickly for the morale boost, even if mathematically it isn't the optimal move.",
+    "There's a local coffee shop with a loyalty stamp card — micro-savings like that feel silly but they do add up occasionally.",
+    "I read a thread about rounding transactions up to the nearest dollar and saving the change; it sounded clever, but I'm not sure it's worth the effort.",
+    "I've been thinking about a short weekend trip in about six months, but I don't want it to derail saving goals.",
+    "When budgeting gets too complicated with a bunch of rules, I just stop using it; simplicity is the only way I stick with anything.",
+    "My aunt once suggested keeping a 'moving' cash envelope for small house repairs, which sounded charming until I remembered I don't carry cash much anymore.",
+    "Okay, let's finalize the budget now.",
+    "Using the figures I gave at the start, please provide a concise monthly allocation split into fixed bills, debt payment, savings, and discretionary spending.",
+    "For each category show both the dollar amount and the percentage of my monthly take-home so the totals add up correctly.",
+    "Format it as exactly five lines I can paste into a spreadsheet: one line per category and one totals line.",
+    "If the leftover for discretionary is too small to be realistic, indicate which single constraint should be relaxed first to free up the most room.",
+    "After that, add one short sentence explaining why that relaxation helps the most.",
+    "Also include a single recommended emergency fund target as one dollar amount and indicate how many months of income that represents, based on the income I mentioned.",
+    "Keep everything numeric and brief—no long paragraphs or unrelated tips.",
+    "No follow-up questions please; just output the five-line allocation, the suggestion and one-sentence rationale, and the emergency fund number with months.",
+    "Thanks, that'll be all I need to paste into my sheet and start tracking."
+  ],
+  "metadata": {
+    "timestamp": "2026-02-13T17:18:38.590Z"
+  }
+}

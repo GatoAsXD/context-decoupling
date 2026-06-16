@@ -1,0 +1,34 @@
+{
+  "id": "cs_v1_EARLY_Medium-term plans for the next year",
+  "type": "cs_v1_EARLY",
+  "seedTopic": "Medium-term plans for the next year",
+  "length": 20,
+  "messages": [
+    "I'm drafting our medium-term plans for next year and want to lock down the big milestones: we aim to introduce a paid subscription tier with a public launch target around October 15, so I need timelines and dependencies nailed down.",
+    "Revenue and hiring targets to set now: grow MRR by 30% by December 31 next year, hire three backend engineers by the end of June to handle scaling, and set aside $120,000 for marketing acquisition with heavier spend near launch.",
+    "Logistics to account for: leadership requested an office relocation in the second week of September to a new space at 1201 Harbor St, and the team will have a mandatory training week scheduled for August 12–16.",
+    "Product schedule specifics I'm proposing: invite-only beta around July 25, QA stabilization target September 1, keep a two-week sprint cadence, and complete an onboarding revamp by November 10 to maximize conversions.",
+    "Quick detour — what's a reliable cold-brew coffee ratio if I want a week's worth that doesn't get too bitter?",
+    "Random bird question: which migratory species has the longest nonstop flight, and how far do they actually go?",
+    "Looking for a short movie night pick — any films under two hours with excellent soundtracks you recommend?",
+    "Packing for a 48-hour city trip: what's a compact checklist for essentials if I'm mostly walking and visiting a museum?",
+    "Home hack: any safe way to test if a frying pan is oven-safe if the manufacturer info is missing?",
+    "On playlists: for a three-hour deep-focus block, how many tracks should I include to avoid repeats and keep flow?",
+    "What are some quick desk stretches to relieve neck and shoulder tension between tasks?",
+    "Fermentation curiosity: which vegetable ferments quickest for someone trying a beginner-friendly kimchi-style recipe?",
+    "Short plain-English explanation: what causes the shimmering mirage effect over hot highways?",
+    "Fun history nugget: what's a surprising everyday practice from the Renaissance that most people don't know about?",
+    "Tech help: what's a basic workflow to confirm a MIDI controller is recognized by Ableton Live on macOS?",
+    "Practical question: how can I optimize a home Wi-Fi router for consistent speeds in a small apartment without buying new hardware?",
+    "Given the mid-autumn product debut we outlined earlier, would you recommend front-loading the promotional budget into the quarter just before it or spreading spend more evenly over the preceding months?",
+    "We planned to add a handful of backend engineers in the first half — is two interview rounds plus a short practical task enough to get them onboarded before peak activity?",
+    "Because the team relocation was scheduled a few weeks ahead of the release, what's a minimal ops checklist I should run during that window to prevent deployment hiccups?",
+    "For the invite-only summer testing period we penciled in, how long would you run that window to surface major UX issues while still preserving the target release date?"
+  ],
+  "metadata": {
+    "inputTokens": 421,
+    "outputTokens": 8232,
+    "totalTokens": 8653,
+    "timestamp": "2026-01-24T22:39:30.632Z"
+  }
+}

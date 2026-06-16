@@ -1,0 +1,34 @@
+{
+  "id": "cs_v1_EARLY_Recently changing jobs",
+  "type": "cs_v1_EARLY",
+  "seedTopic": "Recently changing jobs",
+  "length": 20,
+  "messages": [
+    "I just accepted a job at Greenfield Analytics as a Senior Data Analyst — still surreal.",
+    "My official start date is May 3rd, and I'm relocating from Boston to their Seattle office near Pike Place.",
+    "My manager is Elena Rodriguez; she leads the data science team and already scheduled a 90-minute one-on-one in my first week.",
+    "I negotiated a starting salary of $115,000 and agreed to a hybrid schedule with two fixed in-office days each week.",
+    "On a different note, any quick, high-protein dinners I can make in under 30 minutes?",
+    "Also, are paper planners actually useful anymore or is it purely nostalgia for stationery lovers?",
+    "Random question: how many hearts does an octopus have? I watched a nature clip and couldn't remember.",
+    "I picked up a beat-up copy of 'The Master and Margarita' at a thrift shop — anyone read it recently and is it worth the dive?",
+    "Thinking about a lightweight camera for street photography — what's a solid beginner-friendly model that isn't bulky?",
+    "I want to pick up basic Spanish. What's a practical 15-minute daily routine for absolute beginners?",
+    "Completely unrelated: what tricks help succulents survive low-light winters in apartments?",
+    "Trivia night stumpers — what's the percentage of Earth's surface covered by oceans? I had a total brain freeze.",
+    "Music question: what are some songs with long instrumental intros that totally hook you before the vocals start?",
+    "Packing for a short business trip: how do you best arrange a carry-on to keep shirts from wrinkling?",
+    "I tried a sourdough bake and it tasted a bit flat — any ways to make the starter tangier without huge changes?",
+    "Small home fix: what's an easy way to unstick a window that's jammed in its track?",
+    "For that first conversation with my direct supervisor, how would you recommend structuring it so I cover priorities, expectations, and build rapport in one meeting?",
+    "Since I'm coordinating the move, when would you advise finalizing benefits enrollment and payroll paperwork relative to a start date in early May?",
+    "I negotiated a healthy starting offer — what's a reasonable timeframe during the first year to bring up compensation reviews or promotion conversations?",
+    "And any neighborhood tips for settling into a walkable waterfront area if I'll only be commuting to the office a couple of fixed days each week?"
+  ],
+  "metadata": {
+    "inputTokens": 417,
+    "outputTokens": 6969,
+    "totalTokens": 7386,
+    "timestamp": "2026-01-24T22:39:33.681Z"
+  }
+}

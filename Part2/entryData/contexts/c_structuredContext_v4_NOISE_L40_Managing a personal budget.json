@@ -1,0 +1,76 @@
+{
+  "id": "c_structuredContext_v4_NOISE_L40_Managing a personal budget",
+  "scriptId": "cs_v4_NOISE_L40_Managing a personal budget",
+  "historyId": "h_v4_NOISE_L40_Managing a personal budget",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Create a practical, customizable monthly budget breakdown template for the user (percent-based or zero-based) with ready-to-use numbers and a quick implementation plan.",
+      "Prioritize savings: set aside 15% of take-home pay every month."
+    ],
+    "constraints": [
+      "Budget must be practical and easy to follow.",
+      "Template should be plug-and-play with user-provided net income and a few regular expenses.",
+      "Provide a ready-to-use example when possible.",
+      "Relax discretionary spending target first.",
+      "Temporarily relax retirement contributions, but keep any employer match.",
+      "When using automation, enable payment/low-balance alerts, maintain a small buffer balance, and perform a monthly reconciliation.",
+      "Consider the three-envelope system (essentials, savings, fun) as an optional budgeting approach; assess flexibility for irregular income and shared expenses.",
+      "Prioritize credit-score health ahead of a move: maintain on-time payments, keep credit utilization under 30%, keep accounts open, and preserve cash for moving costs.",
+      "Budget guidelines should be adaptable and diagnostic rather than rigid rules; customize percentages (e.g., 50/30/20) to personal goals and cash flow (irregular income, moving, credit targets).",
+      "Automate categorization and summary: import bank CSVs and auto-tag transactions with simple rules; review exceptions monthly."
+    ],
+    "decisions": [
+      "Provide a ready-to-use budget template and steps for customization.",
+      "Offer a tailored breakdown after user shares net income and fixed/variable expenses.",
+      "Relax discretionary spending target first.",
+      "Temporarily relax retirement contributions, while keeping employer match.",
+      "Adopt a middle-ground automation approach: automate essentials and savings, with discretionary spending reviewed monthly.",
+      "Introduce monthly coffee budget and redirect saved money to dinners or savings.",
+      "Evaluate applicability of the three-envelope system as a budgeting method.",
+      "Use 50/30/20 as a diagnostic baseline; adjust percentages based on moving/credit goals and irregular income.",
+      "Add a monthly color-coded summary tab (10–15 minutes) as a dedicated, simplified overview, with automation handling most categorization."
+    ],
+    "entities": [
+      "net monthly income: $4,000",
+      "Fixed bills (rent, utilities, insurance): $1,700",
+      "Debt payments (student loan): $250",
+      "Savings (emergency fund + retirement): $920",
+      "Discretionary (groceries, dining out, transport, personal, misc): $1,130",
+      "Total monthly budget: $4,000",
+      "Fixed bills (rent, utilities, insurance): $1,700 — 42.50%",
+      "Debt payments (student loan): $250 — 6.25%",
+      "Savings (emergency fund + retirement): $920 — 23.00%",
+      "Discretionary (groceries, dining out, transport, personal, misc): $1,130 — 28.25%",
+      "Total monthly budget: $4,000 — 100%",
+      "Roommate grocery sharing irregular payments: causes awkward conversations",
+      "Roommate grocery sharing inconsistencies impacting budgeting",
+      "Monthly coffee budget plan: to be established; consider redirecting saved funds to dinners or savings.",
+      "Irregular freelance income: variable; stash in separate 'fun' account",
+      "Three-envelope system concept (essentials, savings, fun)",
+      "Upcoming move next year.",
+      "Credit score priority due to moving timeline.",
+      "Move-related cash flow: reserve for moving costs.",
+      "Credit utilization target: <30%.",
+      "50/30/20 rule as a flexible budgeting framework; starting point to be adapted for personal goals and cash flow.",
+      "Found several old subscriptions charging the card after phone died; plan to review and cancel.",
+      "Old subscriptions discovered; plan to cancel unused charges to reduce overhead.",
+      "Consider centralizing recurring charges to simplify monitoring and cancellation."
+    ],
+    "open": [
+      "Clarify and document roommate grocery contributions; set up a shared tracking method to avoid awkward conversations.",
+      "Clarify handling of irregular freelance income and the role of the 'fun' account in budgeting; decide if it should be integrated into monthly budget or kept separate.",
+      "Develop and track a credit-score improvement plan aligned with moving timeline (on-time payments, utilization, age of accounts) while preserving liquidity.",
+      "Balance debt paydown with cash reserve: avoid aggressive extra payments that could jeopardize moving costs.",
+      "Audit and cancel unused subscriptions; set up a recurring monthly reminder to monitor recurring charges; consolidate subscriptions to a single payment method.",
+      "Implement bank CSV import for automatic categorization and set up the monthly color-coded summary tab; ensure review of exceptions.",
+      "Document the monthly maintenance routine (time estimate 10–15 minutes) and integration with irregular income and move planning."
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 20405,
+    "outputTokens": 83443,
+    "totalTokens": 103848
+  },
+  "timestamp": "2026-02-14T23:33:22.217Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c_structuredContext_v1_EARLY_L40_Deciding to buy something expensive",
+  "scriptId": "cs_v1_EARLY_L40_Deciding to buy something expensive",
+  "historyId": "h_v1_EARLY_L40_Deciding to buy something expensive",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [],
+    "constraints": [],
+    "decisions": [],
+    "entities": [
+      "Odometer tampering detection checks (VIN history, module mileage reads, DMV/title records, service history, cross-source verification, and visual wear consistency)."
+    ],
+    "open": []
+  },
+  "generationMetrics": {
+    "inputTokens": 29299,
+    "outputTokens": 71074,
+    "totalTokens": 100373
+  },
+  "timestamp": "2026-02-14T00:19:43.922Z"
+}

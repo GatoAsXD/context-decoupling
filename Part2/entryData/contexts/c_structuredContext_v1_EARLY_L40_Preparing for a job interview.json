@@ -1,0 +1,47 @@
+{
+  "id": "c_structuredContext_v1_EARLY_L40_Preparing for a job interview",
+  "scriptId": "cs_v1_EARLY_L40_Preparing for a job interview",
+  "historyId": "h_v1_EARLY_L40_Preparing for a job interview",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Nail exact timing and cadence for the 75-second intro.",
+      "Practice 18-minute behavioral panel with concise STARs and rapid transitions.",
+      "Practice 42-minute coding mocks with a plan→implement→test rhythm.",
+      "Simulate back-to-back rehearsals: 18-minute panel → short reset → 42-minute coding.",
+      "4-box system design drill with high-level clarity and one-sentence tradeoffs per box.",
+      "Go idioms & Kubernetes ops questions to reduce friction in implementation and system answers.",
+      "Filler-pruning: prune fillers and craft concise hooks for STARs.",
+      "Starter session 1: Quick behavioral + filler prune (45m).",
+      "Starter session 2: Coding pattern rebuild (90m).",
+      "Weekly time plan: 6 evenings + 1 weekend block (approx).",
+      "Provide a concrete STAR-based example for a technical leader with hook and timed segments (S/T/A/R) for ~60–75s.",
+      "Provide metric-focused guidance for backend interview responses, including categories and ready-to-use templates.",
+      "Incorporate hostile/mock sessions into the practice plan to build resilience.",
+      "Improve speed at reading unfamiliar code snippets during debugging tasks."
+    ],
+    "constraints": [],
+    "decisions": [],
+    "entities": [
+      "priority_items: 75s intro; 18m behavioral; 42m coding; back-to-back rehearsals; 4-box design; Go/Kubernetes; filler pruning; starter sessions",
+      "starter_sessions: two starter sessions (behavioral + filler prune; coding pattern rebuild)",
+      "weekly_schedule_outline: ~6 evenings + 1 weekend block",
+      "STAR_coaching_entity: concrete example for technical leader STAR structure with hook and timing",
+      "metrics_catalog: latency (p50/p90/p95/p99), throughput (QPS), error rate, availability, MTTR/MTTD, cost efficiency, deployment & lead time, data/storage, capacity/scaling",
+      "metrics_templates: ready-to-use phrasing templates and STAR lines for backend metrics",
+      "behavioral_red_flags_checklist: common red flags and fixes to avoid in behavioral STARs",
+      "hostile_mock_plan: base layer 70–80% regular mocks; stress layer 20–30%; 2 harsh mocks in Weeks 9–11; ground rules; back-to-back panel→coding; debrief structure",
+      "hostile_mock_scripts_examples: sample interruption phrases and debrief prompts to use by mock interviewer (e.g., “That’s not detailed enough”, “Why would that scale?”, etc.)"
+    ],
+    "open": [
+      "Clarify location (virtual or onsite).",
+      "Confirm whether to write the 75-second intro word-for-word."
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 35508,
+    "outputTokens": 67209,
+    "totalTokens": 102717
+  },
+  "timestamp": "2026-02-14T02:34:24.996Z"
+}

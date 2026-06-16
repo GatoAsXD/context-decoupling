@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v3_ACCUMULATION_L40_Deciding to start a master’s degree or course",
+  "scriptId": "cs_v3_ACCUMULATION_L40_Deciding to start a master’s degree or course",
+  "historyId": "h_v3_ACCUMULATION_L40_Deciding to start a master’s degree or course",
+  "componentType": "plainContext",
+  "context": "",
+  "generationMetrics": {
+    "inputTokens": 26326,
+    "outputTokens": 67129,
+    "totalTokens": 93455
+  },
+  "timestamp": "2026-02-14T22:31:33.254Z"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "c_structuredContext_v1_EARLY_L40_Renovating or fixing up the home",
+  "scriptId": "cs_v1_EARLY_L40_Renovating or fixing up the home",
+  "historyId": "h_v1_EARLY_L40_Renovating or fixing up the home",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [],
+    "constraints": [],
+    "decisions": [
+      "Grout finish: matte epoxy recommended to hide water spots and mineral buildup in showers.",
+      "Plan to replace outdated dimmer with an LED-compatible dimmer (trailing-edge/ELV) and verify compatibility with bulbs.",
+      "If replacement isn't possible, use bulbs listed as compatible with the existing dimmer or install a load adapter (dummy/load capacitor)."
+    ],
+    "entities": [
+      "Matte epoxy grout",
+      "Glossy epoxy grout",
+      "Water spots",
+      "Mineral buildup",
+      "Shower applications",
+      "Epoxy grout",
+      "Grout color options",
+      "Tension-rod sink skirt",
+      "Magnetic panel or skirt",
+      "Removable front panel on Velcro / Command strips",
+      "Peel-and-stick decorative paneling or faux drawer fronts",
+      "Basket or storage concealment",
+      "Pipe covers and paint",
+      "LED-compatible dimmer",
+      "Trailing-edge dimmer (ELV)",
+      "Triac dimmer",
+      "Load adapter (dummy capacitor)",
+      "Smart bulbs dimming",
+      "Non-dimmable LEDs",
+      "LED-compatible dimmer"
+    ],
+    "open": [
+      "Cabinetry planning task: document range replacement considerations (standard 30-inch opening, service access behind range, removable trim/toe-kick, ventilation clearance) to inform layout."
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 21253,
+    "outputTokens": 57108,
+    "totalTokens": 78361
+  },
+  "timestamp": "2026-02-14T15:06:53.682Z"
+}

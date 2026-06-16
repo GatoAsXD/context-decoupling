@@ -1,0 +1,48 @@
+{
+  "id": "c_structuredContext_v1_EARLY_L40_Adopting a pet",
+  "scriptId": "cs_v1_EARLY_L40_Adopting a pet",
+  "historyId": "h_v1_EARLY_L40_Adopting a pet",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Adopt an adult pet"
+    ],
+    "constraints": [
+      "Building policy caps the number of animals per unit at two.",
+      "No single animal over 22 pounds.",
+      "Indoor cats are not an option due to roommate's cat-dander allergy.",
+      "Pet must tolerate long daily alone time (approx. 10 hours on weekdays).",
+      "Prefers adult animals; avoid very young puppies or kittens that require constant supervision."
+    ],
+    "decisions": [
+      "Private obedience sessions recommended for shy adoptee (3–6 weekly sessions) before group class.",
+      "Group classes can be beneficial later for generalization; opt for small classes (4–6 dogs).",
+      "Choose a force-free trainer with experience handling shy/sensitive dogs.",
+      "Consider seeking a veterinary second opinion for medical concerns as indicated by red flags."
+    ],
+    "entities": [
+      "Private obedience sessions for shy adoptee (3–6 weekly sessions).",
+      "Group obedience classes later can be beneficial for generalization; small class size (4–6 dogs).",
+      "Look for a force-free trainer (positive reinforcement, no punishment) with experience handling shy/sensitive dogs.",
+      "Trainer should have a gradual desensitization/counterconditioning plan.",
+      "Prepare the dog with basic cues and high-value treats in private sessions to aid class participation.",
+      "Use gradual exposure: observe class first, then sit at the back, then participate briefly.",
+      "Monitor stress signals and back off if avoidance or panic; progress through repeated, low-stress successes.",
+      "If progress stalls or anxiety is severe, consult a certified behavior consultant or veterinary behaviorist.",
+      "Bottom line: private sessions are the best first investment for a shy adoptee; group classes later after careful selection and gradual exposure.",
+      "Red flags in a pet's medical history include vague or inconsistent diagnoses, recurrent problems with no workup, rapidly worsening signs, neurologic signs, ongoing pain or poor QoL despite treatment, anemia or unexplained changes in lab values, cancer without staging, recommendations for major or high‑risk surgery without clear necessity, long-term, high‑risk medication without monitoring plan, repeated adverse drug reactions, conflicting test results, incomplete records or lack of copies of imaging/lab reports.",
+      "Steps to get an effective second opinion: collect records (medical records, lab reports, imaging), choose the right provider (specialty service), be specific in your request (diagnostic confirmation, alternative treatments, staging, or surgery review), ask targeted questions (missing diagnostics, realistic outcomes, risks, costs, timelines, minimally invasive options, palliative options), ask about urgency, consider a case consult.",
+      "Practical tips: most vets welcome a second opinion if framed as wanting more information; don’t delay urgent care; expect additional diagnostics.",
+      "If you’re unsure which specialty to choose, call a local referral hospital and describe the main clinical sign for direction."
+    ],
+    "open": [
+      "Awaiting user-provided species and specific medical history items to tailor urgent elements for a specialist consult."
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 24357,
+    "outputTokens": 48342,
+    "totalTokens": 72699
+  },
+  "timestamp": "2026-02-13T23:56:25.086Z"
+}

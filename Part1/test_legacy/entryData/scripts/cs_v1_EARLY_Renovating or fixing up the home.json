@@ -1,0 +1,34 @@
+{
+  "id": "cs_v1_EARLY_Renovating or fixing up the home",
+  "type": "cs_v1_EARLY",
+  "seedTopic": "Renovating or fixing up the home",
+  "length": 20,
+  "messages": [
+    "I'm planning a fairly big remodel of my 1920s bungalow—kitchen and living room. The contractor's written estimate is for $18,500 and he said the job will take about eight weeks. Part of the work is removing a load-bearing wall between the kitchen and dining room and installing a steel support. I'm leaning toward white shaker cabinets and quartz countertops.",
+    "I'm planning a 3' by 6' island with seating for three, and the floor will be 12x24 porcelain tile in a greige tone. For the living room I want Benjamin Moore Revere Pewter on the walls and to replace the back door with 30-inch French doors leading to the yard.",
+    "We're also gutting the upstairs bathroom: swapping the tub for a 36x48 walk-in shower with 3x6 matte subway tile and a recessed niche roughly 12x18 inches, plus a 36-inch vanity with a Kohler sink. The plumbing portion was quoted around $2,400 and the structural engineer inspection was quoted at $1,200.",
+    "Greenwood Renovations is the company that gave the quote and they want a 30% deposit, which works out to $5,550. Permit fees were estimated at $350 and demo/disposal at $450. They proposed starting on Feb 15 and finishing around April 15, and the engineer is scheduled to come by next Monday at 10 a.m.",
+    "On a different note, can you recommend a couple of recent novels that are easy to read in short bursts? I'll have odd pockets of downtime while supervising work.",
+    "What's an easy stovetop meal that reheats well for a week of quick dinners? I won't have full kitchen access for a while and want something I can cook in batches.",
+    "Any suggestions for a one-day hike that's under two hours from the city? I'm hoping for something with a decent view but not too crowded.",
+    "Quick tech question: what's the basic difference between a hybrid car battery and a fully electric vehicle battery? My neighbor and I got into a long debate.",
+    "I'm thinking about bringing in some plants to brighten up the temporary living space—what's a hardy, low-light houseplant you'd recommend for someone who's not great at remembering to water?",
+    "Do you have any instrumental playlist suggestions for focusing while I sort bids and invoices? Something mellow but not sleepy.",
+    "I love little municipal history tidbits—how did modern building permits come to be in U.S. cities? Just the short version, please.",
+    "Practical question: what's the best way to store partly used paint cans between coats so they don't skin over or go bad?",
+    "I read about urban beekeeping—how feasible is it to keep a small hive in a tight back yard? Any major pitfalls to know?",
+    "If I'm thinking about where to place outlets in a living room with a lot of electronics, is there a simple rule of thumb for spacing and number per wall?",
+    "I need to make a quick yard-sale sign to get rid of old fixtures—what's the practical difference between serif and sans-serif fonts when readability is key from a distance?",
+    "What's a compact safety kit I should keep on site during construction—just the essentials for small cuts, dust, or minor injuries?",
+    "If the overall job was quoted for under twenty grand and the company is asking for roughly a third up front, would it be risky to hand that payment over before the independent engineer has completed their check?",
+    "Since the property is an older bungalow and the plan calls for taking down the wall between the kitchen and dining area, would an engineer typically insist on replacing the opening with a reinforced steel element rather than relying on temporary supports?",
+    "We planned for an island long enough to seat three—what should I expect in terms of overhang depth for comfortable seating versus usable base-cabinet drawer space? Any typical numbers I should confirm on the shop drawings?",
+    "With the engineer due to visit on a Monday morning, what paperwork and measurements should I have printed and available so they can do a quick site sign-off with minimal back-and-forth?"
+  ],
+  "metadata": {
+    "inputTokens": 422,
+    "outputTokens": 9798,
+    "totalTokens": 10220,
+    "timestamp": "2026-01-24T22:39:44.228Z"
+  }
+}

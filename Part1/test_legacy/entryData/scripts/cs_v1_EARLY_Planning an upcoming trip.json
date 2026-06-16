@@ -1,0 +1,34 @@
+{
+  "id": "cs_v1_EARLY_Planning an upcoming trip",
+  "type": "cs_v1_EARLY",
+  "seedTopic": "Planning an upcoming trip",
+  "length": 20,
+  "messages": [
+    "I'm planning a trip to Lisbon next month — leaving June 12 and returning June 20. I want to make a checklist so we don't forget anything.",
+    "I'll be flying out from JFK early on the 12th and returning late on the 20th; I'm traveling with my partner Alex, and it's our first time in Portugal.",
+    "We booked a small guesthouse called Casa Verde in the Alfama neighborhood — confirmation 37-892 — so we'll be staying in the old riverside quarter.",
+    "Our budget for the whole trip is about $1,200; we both prefer vegetarian meals, and I need step-free access because my knees don't handle stairs well.",
+    "We also have a cooking class booked for the afternoon of June 15, and I'd like to squeeze in a half-day trip to Sintra if it's doable.",
+    "Quick non-trip question: what's the difference between a fjord and a bay?",
+    "In the kitchen — should you toast pine nuts before making pesto, or leave them raw for a fresher taste?",
+    "Is it actually true that honey never goes bad? I keep seeing weird jars in my pantry.",
+    "Any good icebreakers for a small neighborhood book club meeting? Something low-key.",
+    "Tell me a short, clean coffee joke I can use to brighten up Monday morning.",
+    "Biology question: can you tell male and female robins apart easily, or is that tricky?",
+    "I've seen different heights quoted for Everest — what is the commonly accepted elevation these days?",
+    "Octopus trivia: do their arms really 'taste' things, or is that just a colorful way to say they're sensitive?",
+    "Would you explain simply why the sky is blue? Keep it short and non-technical.",
+    "What houseplant would you recommend that's nearly impossible to kill if I forget watering now and then?",
+    "I'm torn between starting to learn Python or brushing up on Spanish — which would be more practical for general travel and day-to-day use?",
+    "Since our accommodation is in that old riverside quarter with narrow, steep alleys, do you think wheeled suitcases will cause more trouble given my mobility issues, or should I plan for backpacks and lighter luggage?",
+    "We're only there for just over a week in mid-June and two people are splitting expenses — would a multi-day transit pass probably be worth it, or would single fares be cheaper?",
+    "The cooking workshop we signed up for is in the middle of the stay — is trying to fit a morning trip to that nearby palace town outside the city realistic, or should we reserve a full day for that excursion?",
+    "Finally, with our mostly plant-based meals and a fairly tight weekly budget, would you recommend booking a few restaurant reservations in advance or playing it by ear each evening?"
+  ],
+  "metadata": {
+    "inputTokens": 418,
+    "outputTokens": 11210,
+    "totalTokens": 11628,
+    "timestamp": "2026-01-24T22:40:01.174Z"
+  }
+}

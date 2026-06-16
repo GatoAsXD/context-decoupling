@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v4_NOISE_L40_Moving to a new apartment",
+  "scriptId": "cs_v4_NOISE_L40_Moving to a new apartment",
+  "historyId": "h_v4_NOISE_L40_Moving to a new apartment",
+  "componentType": "plainContext",
+  "context": "Current State:\nFragile vintage glasses belonging to grandmother; need safe packing. Packing plan: 20–40 minutes; Materials: acid-free tissue paper or plain packing paper; bubble wrap (small-bubble); dish pack or cell dividers box if available; sturdy small/medium boxes (double-walled if possible); packing tape, marker, “FRAGILE” stickers/tape; padding for box voids: foam peanuts, crumpled paper, or towels/blankets; permanent photo record (phone camera). Step-by-step: photograph each glass (multiple angles) and note chips/scratches for provenance/condition records; if possible, use a dish-pack box with dividers or small cell inserts; if not, wrap each glass in acid-free tissue first (to avoid abrasion), then 2–3 layers of bubble wrap around the bowl/top; for stems, wrap stem separately and tuck extra padding in the base area so the stem isn’t bearing load; place wrapped glasses upright in the box (not sideways) if they fit; otherwise nest carefully with padding between (not directly\nMessage:\nMy building's manager has odd office hours; I might need to coordinate a key handoff or an inspection before moving out.\nResponse:\nGood to know — that will need to be scheduled. It makes sense to confirm the manager’s available window now and slot a specific key/inspection handoff into your moving-day timeline so you’re not rushed. If you want, I can add a timed key-handoff/inspection task to your July 10 plan.\nActive constraints / new information:\n- Building manager has odd office hours.\n- A key handoff or inspection may be needed before moving out; coordination required.\n- Confirm the manager’s available window now.\n- Schedule a key/inspection handoff on the moving-day timeline.\n- Consider adding a timed key-handoff/inspection task to the July 10 plan.",
+  "generationMetrics": {
+    "inputTokens": 23960,
+    "outputTokens": 71783,
+    "totalTokens": 95743
+  },
+  "timestamp": "2026-02-14T23:39:39.924Z"
+}

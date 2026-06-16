@@ -1,0 +1,70 @@
+{
+  "id": "c_structuredContext_v3_ACCUMULATION_L40_Having trouble sleeping well",
+  "scriptId": "cs_v3_ACCUMULATION_L40_Having trouble sleeping well",
+  "historyId": "h_v3_ACCUMULATION_L40_Having trouble sleeping well",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Provide practical, evidence-based relaxation techniques to help with middle-of-the-night wake-ups, including breathing exercises, progressive muscle relaxation, and guidance on exercise timing and impact.",
+      "Provide practical pacing guidance for shifting bedtime (earlier or later) with weekly increments (e.g., 15 minutes per day or 15–30 minutes per week).",
+      "Prioritize routines as the starting point for improving sleep, including a consistent wake time and a reliable wind-down and stimulus-control rules.",
+      "Maximize restorative sleep quality within limited time in bed by focusing on sleep efficiency, sleep depth, and circadian alignment.",
+      "Provide affordable, evidence-based lumbar support options (toppers and pillows) that balance cost and effectiveness.",
+      "Create a drug-free sleep plan tailored to a 5:15 AM wake time, subway noise, and low-back pain."
+    ],
+    "constraints": [
+      "Noise-reduction strategies must not compromise alarm wake-up reliability; include audible and/or tactile wake-up backups.",
+      "Space and budget are limited; prioritize compact, low-cost, landlord-friendly options that do not require major structural changes.",
+      "Back health considerations: avoid stomach sleeping; prefer side sleeping with knee support and lumbar support.",
+      "Mattress firmness guidance for back pain: aim for medium-firm to firm; avoid overly soft toppers; consider landlord-friendly options like firmer toppers or plywood base if needed.",
+      "Avoid prescription or nightly OTC sleep medications."
+    ],
+    "decisions": [
+      "Ensure alarm reliability when advising on noise reduction by recommending vibration backups, multiple alarms, and audible redundancies."
+    ],
+    "entities": [
+      "Bed-shaker alarm",
+      "Vibration alarm",
+      "Smartwatch",
+      "Alarm redundancy",
+      "Earplugs",
+      "White-noise machine",
+      "Acoustic window inserts",
+      "Secondary glazing",
+      "Weatherstripping",
+      "Sound-blocking curtains",
+      "Bed relocation",
+      "Noise reduction",
+      "Under-pillow alarm",
+      "Small fan",
+      "Dawn light alarm",
+      "Masker app",
+      "Lumbar roll",
+      "Firm mattress topper",
+      "Pillow between knees",
+      "Rolled towel for lumbar support",
+      "Plywood base under mattress",
+      "Firm high-density polyurethane topper",
+      "2–3 inch topper",
+      "Density ≳3 lb/ft³",
+      "Firm memory-foam topper density 3–4 lb/ft³",
+      "Latex topper (1.5–2 inch, firm)",
+      "Knee pillow (crescent or wedge) 4–6 inch thick",
+      "Adjustable head pillow with removable fill",
+      "Plywood under mattress (1/2–3/4 inch) for trial",
+      "30-day return policy on toppers and pillows",
+      "5:15 AM wake time",
+      "Subway noise",
+      "Low-back pain considerations"
+    ],
+    "open": [
+      "Provide a short shopping list tailored to budget (earplug types, under-pillow alarm styles, masker devices or apps)"
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 23124,
+    "outputTokens": 62518,
+    "totalTokens": 85642
+  },
+  "timestamp": "2026-02-14T22:30:59.584Z"
+}

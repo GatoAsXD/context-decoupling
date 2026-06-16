@@ -1,0 +1,56 @@
+{
+  "id": "c_structuredContext_v1_EARLY_L40_Adjusting to a new schedule",
+  "scriptId": "cs_v1_EARLY_L40_Adjusting to a new schedule",
+  "historyId": "h_v1_EARLY_L40_Adjusting to a new schedule",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Improve adherence by nightly staging: lay out one outfit, pack bag, prep a breakfast jar, at a fixed time; keep the process under 5 minutes."
+    ],
+    "constraints": [],
+    "decisions": [
+      "Adopt midday energy strategy combining micro-breaks and caffeine: use micro-breaks first, then caffeine if needed; consider caffeine-nap option for a quick boost."
+    ],
+    "entities": [
+      "micro-breaks",
+      "caffeine",
+      "caffeine nap",
+      "sleep disruption",
+      "bedtime timing",
+      "podcast",
+      "audiobook",
+      "language practice",
+      "voice memos",
+      "language lessons",
+      "dinner plan",
+      "shopping list",
+      "prep task",
+      "brisk movement",
+      "paper notebook",
+      "transition ritual",
+      "box breaths",
+      "body-scan",
+      "mindfulness",
+      "breathing sequence"
+    ],
+    "open": [
+      "Night-before staging for meals and daily routines to reduce morning friction; target time under 5 minutes.",
+      "If you’re on public transit: use 10–20 minute podcast episodes or an audiobook chapter to learn or get inspired without extra effort.",
+      "If you drive: stick to audio-only (podcasts, audiobooks, or language lessons) and avoid screens—safety first.",
+      "Do a 3-minute priority check: mentally list your top 1–3 tasks for the day so you arrive focused and decisions are easier.",
+      "Record quick voice memos with ideas or errands (hands-free) so nothing gets forgotten and you can flesh them out later.",
+      "Try short language practice (audio drills or spaced-repetition app in audio mode) for consistent progress without extra time.",
+      "Use the ride as a micro-break: box breaths, brief body-scan, or a 5-minute mindfulness exercise to reset stress and sharpen focus.",
+      "Turn it into light planning time: draft a 2-line dinner plan, shopping list, or one prep task to do when home—small wins reduce evening friction.",
+      "If possible, walk part of the route or get off one stop early for 10 minutes of brisk movement to boost alertness and mood.",
+      "Keep a small paper notebook for quick sketches, gratitude notes, or one-sentence journaling if you prefer analog over screens.",
+      "Make a consistent transition ritual (same playlist, breathing sequence, or 60-second checklist) so the commute signals start/end of work and eases mental switching."
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 20701,
+    "outputTokens": 72869,
+    "totalTokens": 93570
+  },
+  "timestamp": "2026-02-13T23:27:24.756Z"
+}

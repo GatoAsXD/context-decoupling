@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v3_ACCUMULATION_L40_Adjusting to a new schedule",
+  "scriptId": "cs_v3_ACCUMULATION_L40_Adjusting to a new schedule",
+  "historyId": "h_v3_ACCUMULATION_L40_Adjusting to a new schedule",
+  "componentType": "plainContext",
+  "context": "Current State:\nCurrent State:\n- Partner availability: Partner can sometimes handle the morning routine; not guaranteed every day. Generally partner gets home by about six in the evening and helps when they're around; there are occasional travel weeks when they're absent.\n- Morning routine design: Create a reliable solo flow for mornings; include a few optional shortcuts the partner can cover on the days they’re available (e.g., breakfast/packing).\n- Sleep schedule planning: Target bedtime ~11:00 PM; wake time and total hours unspecified.\n- Afternoon/evening constraint: The kid needs to be picked up from aftercare most days around 5:30 PM; evenings have a firm window.\n- Evening commitments: Two non-missable weekly commitments on different weeknights.\n- Work arrangement: Hybrid; two days per week work-from-home; WFH days not yet selected\n- Workout plan: Three weekly workouts; types/durations as specified: brief 20–30 min bodyweight/cardio; longer 45–60 min gym sessions; walks, etc.\n- Medication schedule: Taken twice daily, spaced roughly half a day apart; exact moments are somewhat flexible.",
+  "generationMetrics": {
+    "inputTokens": 18212,
+    "outputTokens": 61433,
+    "totalTokens": 79645
+  },
+  "timestamp": "2026-02-15T03:26:28.936Z"
+}

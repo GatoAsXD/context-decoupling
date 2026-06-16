@@ -1,0 +1,34 @@
+{
+  "id": "cs_v1_EARLY_Managing stress at work",
+  "type": "cs_v1_EARLY",
+  "seedTopic": "Managing stress at work",
+  "length": 20,
+  "messages": [
+    "I started a new job three months ago as a software project manager at a 20-person startup, and it's been a steep learning curve.",
+    "I'm averaging about 50 hours a week, have roughly a 45-minute commute each way, and we have a short stand-up every morning at nine.",
+    "By late afternoon I often get tension headaches; I tend to skip lunch when things pile up, and I've been trying a 25/5 Pomodoro rhythm but it gets interrupted by meetings.",
+    "I usually sleep around six hours a night and deal with neck stiffness from long laptop sessions; I tried ten minutes of morning journaling and noise-cancelling headphones but they've only helped a bit.",
+    "Random aside: what's a hardy, small indoor plant that survives if I forget to water it for a week? I want something low-maintenance for my apartment.",
+    "Quick cooking question: any easy vegetarian dinners that reheat well for weeknights—preferably something with beans or lentils?",
+    "I heard that honey never spoils; is that actually true, or is it just a myth?",
+    "I'm planning a two-night backpacking trip; any tips for packing light and keeping essentials organized?",
+    "Switching topics: can you recommend a beginner-friendly podcast about modern art? I want something engaging but not overwhelming.",
+    "How do I fix a squeaky door hinge without calling a handyman? I tried oil but it didn't last.",
+    "I've been trying to remember the title of a sci-fi film where characters communicate through shared dreams—does that ring any bells?",
+    "Do public libraries still loan DVDs, or has streaming made that obsolete? I like borrowing classics.",
+    "At brunch someone mentioned bamboo grows fast—how does its growth rate compare to other common plants?",
+    "I'm looking for breathable socks for long runs—any brands or materials you recommend to avoid blisters?",
+    "Thinking about volunteering at a community garden—does it usually involve heavy digging and lifting, or is there lighter work available?",
+    "Is classical guitar music a good choice for background listening, or is it too intricate to help me focus?",
+    "Back to work stuff: I have a tight morning routine with a recurring quick team check-in and a fairly long trip to the office; what small changes could I make in the morning to prevent late-day tension without asking the team to shift their schedule?",
+    "Also, since I tend to skip proper meals and end up with head pressure later in the day, what tiny nutrition and hydration hacks could I realistically fit into an already packed workday?",
+    "My focus is frequently broken by meetings, so rigid timer systems rarely survive—what micro-strategies would preserve focus when interruptions are the norm?",
+    "Lastly, I mentioned my nights are on the shorter side; what are two modest, testable sleep-related habits I could try that won't demand a big overhaul of my routine?"
+  ],
+  "metadata": {
+    "inputTokens": 418,
+    "outputTokens": 7496,
+    "totalTokens": 7914,
+    "timestamp": "2026-01-24T22:39:42.863Z"
+  }
+}

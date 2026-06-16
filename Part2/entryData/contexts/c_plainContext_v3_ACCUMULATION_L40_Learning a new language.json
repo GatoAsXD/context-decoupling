@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v3_ACCUMULATION_L40_Learning a new language",
+  "scriptId": "cs_v3_ACCUMULATION_L40_Learning a new language",
+  "historyId": "h_v3_ACCUMULATION_L40_Learning a new language",
+  "componentType": "plainContext",
+  "context": "Current State:\n\nMessage:\nMemorizing long isolated word lists hasn't worked well for me; I remember vocabulary better when it's learned in context.\n\nResponse:\nThat makes total sense — learning in context is usually much more durable than isolated lists. I’ll adapt the plan around sentence/chunk learning and active use.\n\nA quick, practical approach I’ll follow for you\n- Sentence mining: capture short, high‑frequency travel sentences from lessons, Easy Spanish clips, tutors, or your exchanges.  \n- Card format (high‑ROI Anki setup):\n  - Front: audio or cloze (Spanish sentence with one chunk blanked) or the English prompt.  \n  - Back: full Spanish sentence + English gloss + audio (tutor/Forvo/TTS) + brief usage note (e.g., register, common variants).  \n  - Tag by topic (airport, restaurant, directions) and source.  \n- Production practice: for many sentences also make a reverse/production card (English → produce Spanish), and record yourself saying the sentence to attach audio.  \n- Daily workflow (commute-friendly):\n  - Listen for 1–2 useful sentences during a clip and add 1–3 sentence cards that day (aim 5–10 new sentence cards/day given your schedule).  \n  - After exchanges/tutor lessons, immediately add corrected sentences as cards.  \n  - Shadow and do short dictation on selected sentences to reinforce listening → production links.  \n- Tools & sources: Anki, Forvo (audio), Tatoeba/Reverso for example sentences, Easy Spanish clips, Coffee Break Spanish/Language Transfer, Language Reactor for subtitled media.\n\nIf you’d like, I can create your first set of contextual sentence cards (e.g., 8–10 travel‑focused sentences for airport/hotel/restaurant) you can import into Anki. Want me to do that?",
+  "generationMetrics": {
+    "inputTokens": 22588,
+    "outputTokens": 69631,
+    "totalTokens": 92219
+  },
+  "timestamp": "2026-02-14T22:31:29.047Z"
+}

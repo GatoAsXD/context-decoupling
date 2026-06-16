@@ -1,0 +1,50 @@
+{
+  "id": "c_structuredContext_v4_NOISE_L40_Planning an upcoming trip",
+  "scriptId": "cs_v4_NOISE_L40_Planning an upcoming trip",
+  "historyId": "h_v4_NOISE_L40_Planning an upcoming trip",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "visit Lisbon, Portugal"
+    ],
+    "constraints": [
+      "travelers: 2",
+      "budget: $2,500",
+      "departure airport: JFK",
+      "nonstop flights preferred (if possible)",
+      "mobility: prefer central location; no car; travel by foot or public transit",
+      "airport-arrival-buffer: 3.5 hours for outbound international flight",
+      "camera gear constraints: plan to travel light or rent heavier gear locally; airline carry-on limits; spare batteries in carry-on",
+      "mobility: no car; travel by foot, public transit, or bike; bike rentals acceptable for day trips",
+      "museum tickets: reserve timed-entry tickets in advance for high-demand sites (e.g., Pena Palace, Jerónimos, major museums)"
+    ],
+    "decisions": [
+      "trip length: 7 days",
+      "dates: May 8-15",
+      "Sintra day trip: included",
+      "photography strategy: decide between travel-light kit vs heavier gear; consider renting heavy items in Lisbon if needed",
+      "travel-insurance: evaluate small policy for baggage loss/delay; estimate cost ~3-8% of trip; check coverage and waiting period",
+      "beer-taproom-plan: limit to 1-2 taprooms; share tasting flights; include beer in daily budget",
+      "museum-tickets: prebook timed-entry tickets for high-demand sites (Pena Palace, Jerónimos, major museums)",
+      "footwear plan: adopt two-shoe approach (one very comfortable walking sneaker for days and one compact nicer pair for evenings); wear sneakers on the plane to save space; include blister kit, insoles, quick-dry socks; break in prior to trip; consider weatherproofing"
+    ],
+    "entities": [
+      "Lisbon, Portugal",
+      "New York, USA",
+      "Sintra, Portugal"
+    ],
+    "open": [
+      "constraints (dietary, passport/visa issues)",
+      "camera-gear: weighing strategy and rental options for bulky lens and tripod",
+      "plant-watering: confirm neighbor reliability",
+      "passport-expiry: verify Portugal/Schengen validity and renewal if needed",
+      "money-management: evaluate travel card apps for withdrawals and card payments; plan to use app instead of cash exchanges at airports"
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 16120,
+    "outputTokens": 46804,
+    "totalTokens": 62924
+  },
+  "timestamp": "2026-02-14T23:37:42.074Z"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "c_structuredContext_v3_ACCUMULATION_L40_Learning to drive",
+  "scriptId": "cs_v3_ACCUMULATION_L40_Learning to drive",
+  "historyId": "h_v3_ACCUMULATION_L40_Learning to drive",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Become test-ready to drive within ~5 months (20 weeks) with 2-4 practice sessions per week."
+    ],
+    "constraints": [
+      "Local licensing rules may restrict automatic-only licenses in some jurisdictions.",
+      "Work schedule limits practice to weekends and a couple weeknights.",
+      "Minimum of 50 supervised hours logged before full license eligibility."
+    ],
+    "decisions": [
+      "Evaluate and decide on transmission type strategy (manual vs automatic) to align with licensing rules and long-term driving goals.",
+      "Adopt manual transmission as the primary learning approach due to family car; assess licensing constraints accordingly."
+    ],
+    "entities": [
+      "Phase 1 plan: Foundations Weeks 1–4",
+      "Phase 2 plan: Quiet-road integration Weeks 5–8",
+      "Phase 3 plan: Control to complexity Weeks 9–12",
+      "Phase 4 plan: Independent & varied conditions Weeks 13–16",
+      "Phase 5 plan: Consolidation & test prep Weeks 17–20",
+      "End-of-phase checkpoint examples (per phase)",
+      "Weekly practice minimums by phase",
+      "Mock tests every 6–8 weeks",
+      "Adaptation guidance for busy schedules",
+      "Weekly schedule adaptation for limited availability (weekends + weeknights)",
+      "Top priorities drills and targets with measurable outcomes",
+      "Session templates: Weeknight 30–45 minutes and Weekend 75–90 minutes",
+      "Measurable weekly checkpoints for progress",
+      "Extra efficiency tips for practice and study",
+      "Manual-first transmission emphasis from Week 1 due to family car",
+      "Gear engagement & hill-start quick progression for short sessions: Stage 1 static biting point; Stage 2 creep and move-offs; Stage 3 1↔2 gear changes; Stage 4 up/downshifts; Hill starts Stage A bite with handbrake; Stage B controlled rollout; Stage C foot-brake release; Stage D real-world hill practice; Short-session structure for weekdays and weekends.",
+      "Hours tracking plan to meet 50-hour requirement for license eligibility",
+      "Two-axis structure (activity + environment) for logging hours to ensure variety",
+      "Overlapping sessions to cover multiple activity/environment targets",
+      "Practical session plan examples for logging (log templates and examples)",
+      "Logging templates: date, duration, supervisor, activity tags, environment tags, maneuvers, supervisor initials, notes",
+      "Mock exam cadence and environment-specific practice integration",
+      "Environment exposure rotation strategy (rotate quiet/moderate/fast routes)",
+      "Test-center pattern integration: practice high-speed joins from slip roads and compact city parking within the same session to simulate test flow.",
+      "High-speed merge drills progression (without motorway)",
+      "Tight-park/compact parking drills using cones, parked cars, and time-pressure practice",
+      "Safety and supervision guidelines for higher-speed practice",
+      "Reference points and landmark cues for parking alignment",
+      "Micro target framework: 5 accelerations to target speed + 3 merges per session"
+    ],
+    "open": [
+      "Anxiety when approaching fast roads; stall occurred on two attempts requiring a long breather."
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 30750,
+    "outputTokens": 57256,
+    "totalTokens": 88006
+  },
+  "timestamp": "2026-02-14T22:37:48.471Z"
+}

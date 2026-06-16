@@ -1,0 +1,49 @@
+{
+  "id": "c_structuredContext_v4_NOISE_L40_Choosing a new hobby",
+  "scriptId": "cs_v4_NOISE_L40_Choosing a new hobby",
+  "historyId": "h_v4_NOISE_L40_Choosing a new hobby",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [],
+    "constraints": [],
+    "decisions": [],
+    "entities": [
+      "Dave"
+    ],
+    "open": [
+      "Watercolor painting",
+      "Photography",
+      "Gardening/houseplants",
+      "Rock climbing (gym)",
+      "Woodworking or small DIY projects",
+      "Baking/sourdough",
+      "Running or cycling",
+      "Learning a language",
+      "Sketching / drawing",
+      "Knitting or crochet",
+      "Yoga / bodyweight workouts",
+      "Calligraphy / hand lettering",
+      "Origami / paper crafts",
+      "Jigsaw puzzles & logic puzzles",
+      "Compact watercolor practice",
+      "Polymer clay mini-sculpting (charms, beads)",
+      "Embroidery / simple hand-sewing (small hoop projects)",
+      "Urban foraging",
+      "Bullet journaling",
+      "Cooking / simple recipes",
+      "Stop-motion animation",
+      "3D printing",
+      "Laser cutting",
+      "Object storytelling / heirloom collecting",
+      "Stamp carving / rubber stamping",
+      "Eraser carving (stamp carving)",
+      "Letterpress printing (makerspace session)"
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 17760,
+    "outputTokens": 43070,
+    "totalTokens": 60830
+  },
+  "timestamp": "2026-02-14T23:17:02.785Z"
+}

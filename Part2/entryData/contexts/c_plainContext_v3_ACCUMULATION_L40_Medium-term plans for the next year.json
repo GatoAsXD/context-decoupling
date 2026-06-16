@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v3_ACCUMULATION_L40_Medium-term plans for the next year",
+  "scriptId": "cs_v3_ACCUMULATION_L40_Medium-term plans for the next year",
+  "historyId": "h_v3_ACCUMULATION_L40_Medium-term plans for the next year",
+  "componentType": "plainContext",
+  "context": "",
+  "generationMetrics": {
+    "inputTokens": 32768,
+    "outputTokens": 72582,
+    "totalTokens": 105350
+  },
+  "timestamp": "2026-02-14T22:39:28.955Z"
+}

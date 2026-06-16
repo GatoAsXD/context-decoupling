@@ -1,0 +1,72 @@
+{
+  "id": "c_structuredContext_v1_EARLY_L40_Choosing a new hobby",
+  "scriptId": "cs_v1_EARLY_L40_Choosing a new hobby",
+  "historyId": "h_v1_EARLY_L40_Choosing a new hobby",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "evidence-based_hobby_recommendations_for_stress_sleep"
+    ],
+    "constraints": [
+      "monthly_hobby_budget: 75",
+      "startup_fund: 200",
+      "availability: 90 minutes on three weeknights; 3-hour blocks on both weekend days",
+      "physical_space: fourth-floor walk-up, no elevator",
+      "lifting_limit_kg: 8",
+      "recent_shoulder_surgery: true",
+      "indoors_and_quiet: true",
+      "social_style_pref: solo_or_small_group_not_one_off_class",
+      "gear_portability: compact, stair-friendly equipment",
+      "cat_allergy: true"
+    ],
+    "decisions": [
+      "online_hobby_community_options_provided",
+      "beginner_friendly_community_events_recommended",
+      "provide_evidence_based_hobby_recommendations"
+    ],
+    "entities": [
+      "social_preference: solo_or_small_group_not_one_off_class",
+      "cat_allergy: true",
+      "online_hobby_communities_list_provided",
+      "beginner_friendly_community_event: puzzled_pint",
+      "topic_interest: tactile_crafts",
+      "crafts_of_interest: felting",
+      "crafts_of_interest: paper_marbling",
+      "topic_interest: stress_reduction_sleep",
+      "topic_interest: zines",
+      "topic_interest: letterpress",
+      "crafts_of_interest: zine_publishing",
+      "crafts_of_interest: letterpress_printing"
+    ],
+    "open": [
+      "Miniature painting / tabletop dioramas",
+      "Calligraphy / bullet journaling / hand-lettering",
+      "Miniature baking / cookie & cake decorating",
+      "Succulent/terrarium arrangement & plant styling",
+      "Fountain pens / ink swatching and stationery photography",
+      "Analog / instant photography (Instax, film camera aesthetics)",
+      "Miniature textile crafts (weaving, macramé, small tapestries)",
+      "Resin jewelry & small object making (if you can ventilate well)",
+      "Still-life / flatlay styling and prop photography",
+      "Mechanical keyboards",
+      "Speedcubing (Rubik’s Cube and variants)",
+      "Gunpla / scale plastic model kits",
+      "Puzzle hunts / competitive puzzling",
+      "Lockpicking (sport and hobby)",
+      "Amateur radio",
+      "Origami & advanced paperfolding",
+      "Bonsai",
+      "Geocaching",
+      "Homebrewing (beer/mead/cider)",
+      "Cosplay & costume making",
+      "Zine publishing",
+      "Letterpress printing"
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 24242,
+    "outputTokens": 44288,
+    "totalTokens": 68530
+  },
+  "timestamp": "2026-02-14T00:10:24.509Z"
+}

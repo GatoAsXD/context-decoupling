@@ -1,0 +1,29 @@
+{
+  "id": "c_structuredContext_v2_OVERRIDE_L40_Medium-term plans for the next year",
+  "scriptId": "cs_v2_OVERRIDE_L40_Medium-term plans for the next year",
+  "historyId": "h_v2_OVERRIDE_L40_Medium-term plans for the next year",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [],
+    "constraints": [],
+    "decisions": [
+      "Quarterly decision checkpoints: define triggers for pivot, required data, owner roles, decision speed, and escalation paths; formal governance cadence.",
+      "Pivot options and data requirements: Scale Up/Turbo, Reallocate, Re-scope, Pause/Stop, Delay/Stage; specify required evidence per option.",
+      "Data quality and statistical requirements before pivoting: validated data from primary sources; p ≤ 0.05 and power ≥ 80% for experiments; cohort windows (30/60/90 days) and sample sizes documented in checkpoint pack.",
+      "Reporting & governance process: pre-work KPI sheets, exec checkpoint, action ownership and timelines, board escalation if material to runway.",
+      "Operational cadence: 1-page decision log after each pivot; weekly tactical updates; quarterly pivot outcome retrospective."
+    ],
+    "entities": [
+      "Owners: Head of Product; Head of Marketing; Head of Engineering; Finance rep",
+      "Pivot types: Scale Up/Turbo; Reallocate; Re-scope; Pause/Stop; Delay/Stage",
+      "Checkpoints cadence: quarterly end-of-quarter review; fast-track triggers"
+    ],
+    "open": []
+  },
+  "generationMetrics": {
+    "inputTokens": 46951,
+    "outputTokens": 80501,
+    "totalTokens": 127452
+  },
+  "timestamp": "2026-02-14T15:47:11.384Z"
+}

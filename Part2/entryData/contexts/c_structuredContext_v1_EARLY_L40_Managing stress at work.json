@@ -1,0 +1,51 @@
+{
+  "id": "c_structuredContext_v1_EARLY_L40_Managing stress at work",
+  "scriptId": "cs_v1_EARLY_L40_Managing stress at work",
+  "historyId": "h_v1_EARLY_L40_Managing stress at work",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "manage stress at work"
+    ],
+    "constraints": [
+      "I only work Tuesday through Friday.",
+      "Weekly status email by Monday 9:00 AM, max 150 words.",
+      "Manager prefers concise formatting — ideally up to four bullet points rather than long paragraphs.",
+      "Establish an after-hours boundary with a fixed cutoff time for checking work messages."
+    ],
+    "decisions": [
+      "Define a clear after-hours cutoff time and communicate it to the team.",
+      "Create an emergency protocol for urgent issues (define what counts as urgent and how to reach you).",
+      "Pilot a phased offline trial for 2–3 nights to test boundaries."
+    ],
+    "entities": [
+      "After-hours boundary",
+      "Emergency protocol",
+      "2–3 night offline trial"
+    ],
+    "open": [
+      "Morning: pick 1 MIT and do 25–50 min focused work before email/notifications.",
+      "Schedule: two short admin/email blocks (mid-morning + late afternoon).",
+      "New task rule: Do now if ≤15 min / Schedule / Delegate / Decline.",
+      "Use a 2-min breathing reset or 5-min walk when stressed.",
+      "Put 10–15 min buffers between meetings.",
+      "Wed prep (2:50–3:05): pick 1 priority + 1 question for 3:10 1:1 with Priya.",
+      "Friday before leaving: draft 3–4 bullets (progress, blockers, next steps) and save as Monday draft.",
+      "Monday 8:30: open draft, trim to ≤150 words and ≤4 bullets, send by 9:00.",
+      "End-of-day 5-min ritual: clear workspace and list tomorrow’s top 3.",
+      "Weekly review (Fri, 10–15 min): note recurring stressors and one small fix to try next week.",
+      "Mid-afternoon slump protocol: 5-minute walk (1–3 PM) + 3 deep breaths at end; pair with sleep and hydration for best effect.",
+      "Interruption management: draft a calm private conversation plan to discuss repeated interruptions with colleague.",
+      "Prepare a short script to address interruptions with colleague (≤30 seconds) as a reference.",
+      "Between calls: implement a brief reset ritual (60-second micro ritual: box breaths, hydration, light shoulder stretch, one-line intention, window gaze).",
+      "Make one reset routine the default between calls.",
+      "Two-minute desk declutter routine (2:00) each morning + voice/phone-friendly script."
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 20808,
+    "outputTokens": 52240,
+    "totalTokens": 73048
+  },
+  "timestamp": "2026-02-14T01:28:29.466Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "es_v1_EARLY_L40_Recently changing jobs",
+  "scriptId": "cs_v1_EARLY_L40_Recently changing jobs",
+  "historyId": "h_v1_EARLY_L40_Recently changing jobs",
+  "cutoffIndex": 24,
+  "messages": [
+    "Is it worth scheduling a mock handover rehearsal with my team before I go?",
+    "What's the simplest project tracker template to hand off a running feature?",
+    "Are there standard checklists for cleaning up analytics dashboards before handing them off?",
+    "Also: any quick tips for writing an exit interview that is candid but constructive?",
+    "Alright, let's start with the resignation email to Raj. Please draft it—keep it professional and focused on the handoff.",
+    "Next, give me a week-by-week handover schedule that ensures my final work is wrapped up before my unavoidable housing move; include owners for each task.",
+    "If the company asks me to stay an extra short term to finish a deliverable, how do I respond so I appear cooperative but protect my timetable?",
+    "Also draft a short two-paragraph note to my direct report explaining their responsibilities during the transition.",
+    "The new employer may propose pushing my start date later. Give me a concise negotiation line I can use to propose a compromise that safeguards my moving arrangements.",
+    "Now a packing-focused transition checklist: list items I should prioritize handing over vs items I can pack and finish later.",
+    "What is a reasonable ask to make of the new HR about moving support and prorated benefits—phrase it as a neutral bullet list of requests.",
+    "If current leadership asks for remote training sessions after I relocate, is it OK to say no? How would you politely decline while offering an alternative?",
+    "They might offer to pay for a contractor for a couple of weeks instead of me staying. Should I push back or accept? Give a short rationale either way.",
+    "I need a two-column compact checklist: 'handover tasks' vs 'packing priority' — five concise items each.",
+    "In one sentence, what's the rule of thumb I should use to decide between accepting a delayed start or insisting on my original plan?",
+    "Finally, tell me whether it's smarter to send the resignation now or wait until the new employer confirms final paperwork; answer briefly and recommend immediate next step."
+  ],
+  "metadata": {
+    "timestamp": "2026-02-12T21:24:11.280Z"
+  }
+}

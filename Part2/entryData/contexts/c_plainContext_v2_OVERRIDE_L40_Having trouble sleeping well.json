@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v2_OVERRIDE_L40_Having trouble sleeping well",
+  "scriptId": "cs_v2_OVERRIDE_L40_Having trouble sleeping well",
+  "historyId": "h_v2_OVERRIDE_L40_Having trouble sleeping well",
+  "componentType": "plainContext",
+  "context": "Current State:\n- Partner snores occasionally; user wants inexpensive options and to avoid spending a lot until effectiveness is known.\n- Plan: test low-cost items:\n  - Comfortable blackout sleep mask (contoured/soft fabric) — ~$5–20\n  - Foam earplugs (disposable) or moldable wax/silicone plugs — ~$5–15\n  - White-noise option: free phone app or small box fan — ~$0–30\n- Testing protocol:\n  1) Baseline: use current setup for 2–3 nights; note sleep app metrics and morning refreshment.\n  2) Mask alone: 3–4 nights; observe sleep latency, awakenings, morning refreshment.\n  3) Earplugs alone: 3–4 nights (on separate nights from mask test).\n  4) Combination: if each helped a bit, try mask + earplugs together for 3–4 nights.\n  5) Add white noise or a fan if barking still wakes you; test for several nights.\n- Fit and hygiene:\n  - Fit matters: compress foam fully before inserting; mold wax/silicone to seal comfortably.\n  - Hygiene: replace disposable plugs regularly; clean reusable plugs; avoid irritation.\n  - Don’t use plugs if you have ear pain, frequent infections, or drainage without clinician.\n- Testing guidance:\n  - Small sample size: give each test 3–4 nights.\n  - Use sleep app data and morning feel to gauge impact.\n  - Return policy: buy low-cost items from places with easy returns.\n- Optional: I can suggest a one-week testing calendar if you want.",
+  "generationMetrics": {
+    "inputTokens": 19423,
+    "outputTokens": 63990,
+    "totalTokens": 83413
+  },
+  "timestamp": "2026-02-14T15:24:17.665Z"
+}

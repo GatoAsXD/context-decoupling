@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v2_OVERRIDE_L40_Recently changing jobs",
+  "scriptId": "cs_v2_OVERRIDE_L40_Recently changing jobs",
+  "historyId": "h_v2_OVERRIDE_L40_Recently changing jobs",
+  "componentType": "plainContext",
+  "context": "Active Facts and Requirements: Acceptable reasons for negotiating a later start date beyond 'logistics' include: completing a critical obligation at your current job (finishing a major release, closing out a handover, or completing client work); family and caregiving responsibilities (caring for an ill family member, arranging childcare, or coordinating a spouse/partner’s move or job search); health or medical needs (recovery from planned surgery or ongoing medical appointments); visa, immigration, or work-authorization timing (visa stamping, work permit issuance, background checks, relocation paperwork); housing or real-estate constraints (selling a home, closing on a purchase, or waiting for a lease to end/start); child/school timing (aligning a move with school term start dates or waiting for a child’s enrollment); required certifications, licensure, or training (completing a license or credential that’s necessary or helpful for the role); security clearances or background investigations (government or contractor roles that require clearance timelines); military service or legally required leave (reserve call-ups or statutory obligations); prior contractual commitments (consulting agreements, non-compete notice periods, or commitments with contractual timelines). How to present it: be specific and time-bounded (e.g., “I need two extra weeks to finish release X and ensure a clean handoff”); offer practical alternatives (attend critical onboarding remotely, participate in key meetings, or provide a documented handoff); ask for the change in writing and confirm any effects on compensation/relocation. These reasons are generally reasonable when framed as practical constraints that, if accommodated, will let you start the new role ready and focused.",
+  "generationMetrics": {
+    "inputTokens": 29645,
+    "outputTokens": 66569,
+    "totalTokens": 96214
+  },
+  "timestamp": "2026-02-15T03:17:01.643Z"
+}

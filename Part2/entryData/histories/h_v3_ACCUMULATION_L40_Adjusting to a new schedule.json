@@ -1,0 +1,197 @@
+{
+  "id": "h_v3_ACCUMULATION_L40_Adjusting to a new schedule",
+  "scriptId": "cs_v3_ACCUMULATION_L40_Adjusting to a new schedule",
+  "cutoffIndex": 24,
+  "messages": [
+    {
+      "role": "user",
+      "content": "Hey, I'm about to switch to a new routine and could use help getting my schedule sorted."
+    },
+    {
+      "role": "assistant",
+      "content": "Sounds great — I can help with that. To make a practical schedule, tell me a few quick things:\n\n- Main goals (work, study, exercise, sleep, hobbies, chores, etc.)\n- Fixed commitments and their times (work hours, classes, childcare, appointments)\n- Usual wake-up and bedtime or how many hours of sleep you want\n- Commute time and any location constraints\n- When you prefer to exercise or do focused work (morning/afternoon/evening)\n- Any must-have habits (meals, breaks, family time) and how long they take\n- Do you want a weekly template or a day-by-day hourly plan? Flexible blocks or exact times?\n\nGive as much or as little detail as you want and I’ll draft a schedule you can try."
+    },
+    {
+      "role": "user",
+      "content": "The main thing is I don't want to burn out while changing things — what general approaches should I try?"
+    },
+    {
+      "role": "assistant",
+      "content": "Good plan to prioritize avoiding burnout. Here are practical, general approaches you can try when changing your routine:\n\n- Make changes gradually. Limit major changes to one to three habits at a time and give each a few weeks before adding more so your system can adapt.\n- Reduce scope and expectation. Aim for “good enough” early on rather than perfection. Small consistent wins beat big unsustainable jumps.\n- Prioritize sleep and recovery. Keep sleep duration and consistency nonnegotiable while you adjust other parts of the routine.\n- Schedule built-in breaks and buffer time. Add short breaks during work blocks, at least one rest day each week, and extra time around transitions to avoid cascading delays.\n- Use focused work windows. Try 25–50 minute focus sessions with 5–15 minute breaks (Pomodoro-style or whatever fits you) or 1–2 blocks aligned with your natural energy peaks.\n- Limit decision fatigue. Pre-plan meals, outfits, and the first hour of your day so fewer choices sap energy when you’re adapting.\n- Keep workload steady and measurable. Pick 1–3 most important tasks per day (MITs) instead of a long to-do list, and protect time for them.\n- Build in enjoyable recovery activities. Regular movement, time outside, social connection, or a hobby are not optional—they help sustain change.\n- Be flexible and iterate. Treat the new routine as an experiment: track how it feels, then tweak duration or timing rather than abandoning it.\n- Use boundaries and delegation. Say no to new commitments while you’re in transition, and delegate or automate where possible.\n- Watch for warning signs. Persistent exhaustion, irritability, loss of interest, or falling performance are red flags—scale back and consider professional support if they continue.\n- Practice self-compassion. Setbacks are normal. Reframe them as data points to adjust your plan instead of failures.\n\nThose approaches help you change without overwhelming yourself."
+    },
+    {
+      "role": "user",
+      "content": "Mornings always feel rushed for me; what's a simple way to make mornings smoother?"
+    },
+    {
+      "role": "assistant",
+      "content": "A single, simple change that helps most people: do a 10–15 minute “evening prep” right before bed so your morning has fewer decisions and tasks.\n\nEasy evening-prep checklist (takes ~10–15 minutes)\n- Pick and lay out tomorrow’s clothes (including shoes/jacket).  \n- Pack your bag (work items, lunch, keys, wallet, charger).  \n- Prep breakfast/snack (overnight oats, set out bowl/utensils, or portion fruit).  \n- Set the coffee maker or put ingredients where you’ll grab them.  \n- Charge your phone and put it in one spot so you’re not hunting.  \n- Write your 1–3 morning priorities/today’s MITs on a sticky note.  \n- Set an alarm that gives you a 10–15 minute buffer before you must leave.  \n- Do a quick 5-minute tidy of surfaces you’ll use (counter, desk) so it’s calm in the morning.\n\nOther small tweaks to pair with that\n- Keep bed/wake times consistent so waking is easier.  \n- Move your phone out of reach on wake so you start with your plan, not social media.  \n- If mornings still feel tight, shift wake time earlier by 10–15 minutes for a week and reassess.\n\nThose steps remove friction and decision-making, which is usually the root of rushed mornings. Want the checklist condensed into a single line you can stick on your door?"
+    },
+    {
+      "role": "user",
+      "content": "Long-term sustainability matters. How do I avoid short-term fixes that don't stick?"
+    },
+    {
+      "role": "assistant",
+      "content": "Good—here are practical ways to make changes stick instead of relying on short-term fixes:\n\n- Start tiny. Break goals into the smallest repeatable action (e.g., 5 minutes of reading, 1 pushup) so you remove overwhelm and build consistency.  \n- Focus on systems, not outcomes. Design daily routines and cues that make the behavior automatic rather than chasing a distant target.  \n- Habit-stack onto anchors you already have. Attach a new habit to an existing, consistent activity (after I make coffee, I’ll do X).  \n- Use implementation intentions. Plan exact when/where/how: “If situation Y happens, I will do Z.” That reduces decision friction.  \n- Make the environment do the work. Remove friction for desired actions (easy access) and add friction for undesired ones (out of sight/out of reach).  \n- Track one simple metric. Logging builds accountability and reveals progress (or lack of it) so you can adjust early.  \n- Protect consistency over intensity. Short daily actions beat sporadic large efforts for long-term change.  \n- Build in accountability or social support. Telling someone, pairing up, or using a coach/partner increases follow-through.  \n- Automate and delegate. Use subscriptions, timers, calendar blocks, and automation to reduce reliance on willpower.  \n- Plan for setbacks. Expect interruptions, define a “get back on track” rule, and keep the next action simple so lapses don’t become full stops.  \n- Reinforce identity and values. Phrase habits as who you are becoming (“I’m the sort of person who…”) rather than what you must do.  \n- Review and iterate periodically. Every 2–4 weeks, check what’s working, drop what isn’t, and refine timing/size of the habit.\n\nPick one or two of these tactics to start and apply them consistently; gradual, repeated wins are what convert short-term fixes into lasting routines."
+    },
+    {
+      "role": "user",
+      "content": "Is it better to change everything at once or phase things in gradually?"
+    },
+    {
+      "role": "assistant",
+      "content": "Generally, phasing things in gradually is the better approach for long-term success. It reduces overwhelm, protects energy, and makes new behaviors more likely to stick. That said, there are situations where quicker, bundled changes are inevitable (moving, a new job) — but aim to make those sustainable after the initial scramble.\n\nPractical, actionable way to phase changes in:\n\n- Prioritize. Pick 1–3 highest-impact changes first (sleep consistency, a morning routine, a keystone habit like daily movement).  \n- Start tiny. Break each change into the smallest repeatable action you can do (5 minutes, 1 set, one sentence). Consistency matters more than intensity.  \n- Anchor and stack. Attach each new habit to an existing cue (after coffee, after brushing teeth). That reduces decision friction.  \n- Set a simple consistency rule before adding the next thing. For example: do habit X on at least 5–6 days/week for 2–4 weeks, or hit a chosen metric (e.g., 80% adherence) for two review cycles.  \n- Use short timelines and checkpoints. Try 2–4 week trials, then review what worked and adjust. This keeps momentum without rigid commitment.  \n- Make environment changes first. Remove friction for desired behaviors and add friction for undesired ones so the change happens without extra willpower.  \n- Automate and plan ahead. Meal prep, pre-packed bags, scheduled calendar blocks, subscriptions, or reminders make spikes in willpower unnecessary.  \n- Protect recovery and buffer time. Build breaks and a “back-to-basics” plan so a missed day doesn’t derail you.  \n- Celebrate progress and iterate. Small wins reinforce identity and make scaling up easier.\n\nA simple phased example:\n- Weeks 1–2: Lock sleep schedule + 10–15 minute evening prep to make mornings smoother.  \n- Weeks 3–4: Add a 10–20 minute focused exercise or movement habit 3–5×/week.  \n- Weeks 5–6: Add one scheduled focused work block or a meal-prep routine.\n\nWhen an “all-at-once” change is necessary, try to convert it into a temporary sprint with explicit plans to downshift into smaller, maintainable routines afterward.\n\nBottom line: phase in deliberately, protecting sleep and energy, and use small, measurable wins as the trigger to add the next habit."
+    },
+    {
+      "role": "user",
+      "content": "I have some flexibility in evenings, but mornings are where I struggle most. Any general tips for prioritizing morning tasks?"
+    },
+    {
+      "role": "assistant",
+      "content": "Good — here are clear, practical ways to prioritize mornings so they feel calmer and more productive:\n\n- Pick 1–3 morning MITs (most important tasks). Write them down tonight so you wake up with a clear, short to-do list.  \n- Decide the role of your morning (deep work vs. momentum). If you’re freshest in the morning, make one MIT a demanding task; if not, use mornings for quick wins and planning.  \n- Pre-decide the first thing you’ll do. “After I brush my teeth, I will work on MIT #1 for 30 minutes.” That removes morning indecision.  \n- Do a 10–15 minute evening prep: clothes, bag, breakfast, and your MITs. Fewer morning choices = smoother start.  \n- Time-block a protected morning window (even 30–90 minutes). Treat it like an appointment you won’t cancel.  \n- Use the two-minute rule for small chores: if it takes <2 minutes, do it now; otherwise schedule it after your protected block.  \n- Build a short, visible checklist (1–3 items) you can glance at when you wake. Physical sticky notes or a home screen widget works well.  \n- Limit phone/social media until you complete your first task — it’s a common sink for energy and time.  \n- Include a short buffer between tasks for transitions (10–15 minutes) so one delay doesn’t ruin the whole morning.  \n- Have an “if-then” backup for low-energy days: e.g., “If I feel too tired to do MIT #1, I’ll do a 10-minute walk and then 20 minutes on MIT #1.”  \n- Automate recurring decisions (meals, outfits, packed items) so mornings require fewer choices.\n\nKeep the morning plan tiny and repeatable. Consistency beats ambition here — one clear, protected win early increases focus and reduces stress for the rest of the day."
+    },
+    {
+      "role": "user",
+      "content": "I'd like to keep exercising and family time as part of the plan; is that realistic when starting a new job?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes — it’s realistic, but it usually takes deliberate planning and some trade-offs during the first weeks of a new job. Practical ways to make it work:\n\n- Treat both as appointments. Block exercise and family time on your calendar as nonnegotiable windows so they don’t get eaten by work.  \n- Start small and protect consistency. If you can only commit to 15–30 minutes of movement at first, do that reliably rather than trying long workouts that won’t stick.  \n- Match timing to your energy. If you’re sharper in the morning, use a short morning workout; if evenings are better for family, make workouts shorter or move them to midday or weekend.  \n- Combine when possible. Family walks, bike rides, or active weekend outings keep movement and connection together.  \n- Use micro-sessions. Two 10–15 minute sessions (one solo, one family) can add up and are easier to fit in on busy days.  \n- Build buffers and flexible backups. Have a minimum rule (e.g., 15 minutes of movement or a 20-minute family check-in) when days go off rails.  \n- Communicate expectations. Let family know your likely schedule during onboarding and tell your manager if you need short-term flexibility while you settle in.  \n- Automate and reduce friction. Prep workout clothes, pack things the night before, and plan family routines (dinner time, bedtime reading) so they happen without extra decision-making.  \n- Prioritize sleep and recovery. Keeping sleep steady preserves energy for both work and the things you care about.  \n- Reassess after the ramp-up. The first few weeks of a job can be hectic—plan to review and adjust your routine after 2–4 weeks rather than forcing a perfect plan immediately.\n\nWith firm time-blocking, tiny sustainable habits, and clear communication, you can keep exercise and family time while starting a new job."
+    },
+    {
+      "role": "user",
+      "content": "Also curious about using technology — should I use strict time blocks or more flexible reminders?"
+    },
+    {
+      "role": "assistant",
+      "content": "Short answer: use both. Choose strict time blocks for high-priority, interruption-sensitive work and nonnegotiables; use flexible reminders for low-stakes tasks, habits, and things that need gentle nudges.\n\nHow to apply that practically\n- Strict blocks = commitment device. Put deep work, meetings, family dinners, and protected sleep on your calendar as fixed events you won’t move. Treat them like appointments with yourself.  \n- Flexible reminders = gentle nudges. Use reminders or a task list for errands, follow-ups, short habits (drink water, stretch), and items that can slide without big consequences.  \n- Make a two-tier system. Color-code or label calendar entries (e.g., “Must” vs “Maybe”) so you instantly know what’s protected.  \n- Use time buffers. Add 10–15 minute buffers before/after strict blocks to absorb overruns and transitions so one slip doesn’t snowball.  \n- Use timers for focus. For strict blocks, run a timer or Pomodoro app that enforces the session start/stop even if the calendar is ignored.  \n- Keep notifications smart. Turn off nonessential alerts during strict blocks (Focus mode or Do Not Disturb); allow reminder sounds for flexible nudges.  \n- Automate recurring needs. Make recurring calendar events for regular commitments and repeating reminders for daily habits so you don’t have to recreate them.  \n- One or two tools max. Keep it simple: calendar + one task/reminder app reduces friction and decision fatigue.  \n- Have a reschedule rule. If you miss a strict block, immediately move it to the next available slot rather than letting it drop. For flexible reminders, allow a couple of deferrals before it escalates to a strict block.  \n- Match to personality and context. If you’re easily distracted, err toward stricter blocks. If your work requires high responsiveness or you have many unpredictable interruptions, rely more on short flexible reminders and micro-blocks.\n\nA simple example setup\n- Calendar: 8–10am = Strict block for deep work; 6–7pm = Strict family dinner; recurring 30–minute gym session marked “protected.”  \n- Task app: Reminders for errands, bills, and daily habits (drink water, 10-min stretch) that can be snoozed.  \n- Phone: Enable Focus/Do Not Disturb during strict blocks, allow calendar alerts for those blocks, and keep gentle chime reminders for flexible items.\n\nThis hybrid approach protects your priorities while keeping life adaptable — which is particularly useful during transitions when you need both structure and flexibility."
+    },
+    {
+      "role": "user",
+      "content": "How do people usually handle long commutes when they start a new schedule?"
+    },
+    {
+      "role": "assistant",
+      "content": "Long commutes are common and manageable with planning. People tend to combine schedule adjustments, mode optimization, and intentional use of commute time to protect energy during a job transition. Practical approaches:\n\n- Negotiate schedule or location: ask about shifting start/end times, hybrid or remote options, or a compressed workweek (e.g., four longer days) to reduce days on the road.  \n- Add buffer time early on: during the first few weeks, build extra commute buffer so delays don’t cascade into stress while you’re settling in.  \n- Choose the right mode: if possible, switch to transit, carpool, or park‑and‑ride so you can use travel time productively or rest instead of driving.  \n- Use commute time intentionally: listen to audiobooks, podcasts, language lessons, or do planning/low‑effort email (if safe/legal). Treat it as productive or restorative time rather than “lost” time.  \n- Make it a transition ritual: use the trip to decompress before/after work—music, a short mindfulness exercise, or a walking loop from the parking spot can help shift your mindset.  \n- Protect energy, not just time: avoid scheduling demanding tasks immediately after a long commute; give yourself a 10–30 minute buffer to settle.  \n- Optimize logistics: pack the night before, keep a grab‑and‑go kit in your car, use meal delivery/subscriptions, and consolidate errands to cut additional trips.  \n- Consider alternative routes/times: leaving earlier or later to miss peak rush can save time and stress even if miles are similar.  \n- Carpool or rideshare strategically: split driving duties or use rideshare for worst days to reduce cognitive load.  \n- Fit movement into the commute day: bike to a transit stop, walk between parking and office, or do short stretches at the office to offset sedentary time.  \n- Reassess periodically: track cumulative time/cost and your energy levels—if the commute proves unsustainable, explore relocation, schedule changes, or different roles.  \n- Safety and boundaries: don’t multitask in ways that compromise safety (no email while driving). Set expectations with family/colleagues about responsiveness during commute hours.\n\nIf you’re starting a new job, make the commute a known variable: protect extra buffer time for the first 2–4 weeks, see how energy and workload settle, then refine which of the above options fits you best."
+    },
+    {
+      "role": "user",
+      "content": "Are there any quick habits I can pick up in the first week to improve energy?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes—here are quick, high-impact habits you can try in the first week. Each is easy to start and directly linked to better daytime energy:\n\n- Keep a consistent wake and sleep time. Pick realistic bed/wake times and stick to them, even on weekends. Regular sleep timing improves sleep quality fast.  \n- Get natural light soon after waking. Spend 10–15 minutes outside or by a bright window to reset circadian rhythm and boost alertness.  \n- Drink water on waking. 300–500 ml within 30 minutes helps rehydrate and improve cognitive function.  \n- Move for 10–15 minutes in the morning. A brisk walk, light jog, or bodyweight routine raises heart rate and energy for hours.  \n- Eat a protein-containing breakfast or snack within an hour. Protein stabilizes blood sugar and prevents mid-morning crashes.  \n- Time your caffeine. Have it within the first 2–3 hours after waking and avoid late-afternoon/ evening caffeine to protect sleep.  \n- Take short breaks during work. Stand, stretch, or walk 5–10 minutes every 60–90 minutes to reduce fatigue and maintain focus.  \n- Try a 10–20 minute power nap (early afternoon only). Short naps can restore alertness without harming nighttime sleep.  \n- Do a 1–2 minute breathing or grounding exercise when you feel drained. Simple paced breathing (4–6 breaths/min) reduces stress and clears the head.  \n- Dim screens and wind down an hour before bed. Lower light and reduced screen time improve sleep onset and next-day energy.  \n- Plan one small, clear morning win (MIT). Completing a single short priority early gives momentum and protects mental energy for the rest of the day.\n\nPick 2–4 of these to test this week rather than trying them all at once—small, consistent changes will show the quickest payoff."
+    },
+    {
+      "role": "user",
+      "content": "I need practical routines more than theory — can you help me map a week rather than giving abstract advice?"
+    },
+    {
+      "role": "assistant",
+      "content": "I can—happy to map a practical week. A few quick details will let me make it realistic for you:\n\n- Work schedule: start/end times and days, and whether it’s remote, hybrid, or fully on-site.  \n- Commute: typical one-way time and mode (drive/transit/bike).  \n- Sleep: usual bedtime/wake time or how many hours you want to get.  \n- Exercise: preferred time of day (morning/afternoon/evening), type, and minutes you can realistically commit.  \n- Family time: when and how long you want it (dinner, bedtime routine, evenings), and any fixed family commitments.  \n- How strict do you want it: exact hourly times or flexible windows/blocks?  \n- Anything else fixed in the week (classes, appointments, childcare).\n\nGive whatever you want—or skip any you’re unsure of—and I’ll draft a concrete Monday–Sunday routine you can try."
+    },
+    {
+      "role": "user",
+      "content": "If I give you some specifics about my situation step by step, could you build the schedule out with me?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes — absolutely. We can do it step-by-step: you can give one detail at a time and I’ll fold it into the plan (asking clarifying questions only if needed).\n\nA useful order to follow is:\n1) Work schedule (days, start/end times, remote/hybrid/on-site)  \n2) Commute time and mode  \n3) Sleep target or usual bed/wake times  \n4) Exercise preference (when, what, how long)  \n5) Family/household commitments (dinner, bedtime routines, fixed events)  \n6) Any other fixed appointments or constraints  \n7) How strict vs. flexible you want the schedule\n\nWhich detail would you like to start with?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, small heads-up: my new role actually begins next Monday, so I'd like a plan that starts immediately."
+    },
+    {
+      "role": "assistant",
+      "content": "Got it — starting next Monday works; we’ll build a plan that begins immediately. Shall we start with your work schedule (days, start/end times, and whether it’s remote/hybrid/on-site)?"
+    },
+    {
+      "role": "user",
+      "content": "One constraint I didn't mention earlier — the team expects people to be logged in on-site by eight in the morning."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay — we'll build the plan so you’re reliably on-site by 8:00 AM. What’s your typical one-way commute time and mode (drive, transit, bike, etc.)?"
+    },
+    {
+      "role": "user",
+      "content": "I also found out the commute will be longer than I hoped — roughly ninety minutes each way on the train, and transfers aren't always smooth."
+    },
+    {
+      "role": "assistant",
+      "content": "Yikes — 90 minutes each way with unreliable transfers will definitely change the morning plan. I’ll build the schedule so you leave earlier with a buffer and so commute time is used intentionally (rest or low-effort tasks).\n\nNext detail: what sleep schedule do you want to target (usual bedtime and wake time, or how many hours of sleep you aim for)?"
+    },
+    {
+      "role": "user",
+      "content": "My partner can sometimes handle the morning routine, but it's not guaranteed every day."
+    },
+    {
+      "role": "assistant",
+      "content": "That’s helpful — I’ll design mornings with a reliable solo flow plus a few optional shortcuts your partner can cover on the days they’re available (e.g., breakfast/packing). \n\nNext: what sleep schedule do you want to target (usual bedtime and wake time, or how many hours of sleep)?"
+    },
+    {
+      "role": "user",
+      "content": "For afternoons, the kid needs to be picked up from aftercare most days around half past five, so evenings have a firm window."
+    },
+    {
+      "role": "assistant",
+      "content": "Thanks — that 5:30 PM aftercare pickup is a useful anchor. I’ll keep evenings structured so that window’s protected each weekday.\n\nNext: what sleep schedule do you want to target (bedtime and wake time, or total hours of sleep)?"
+    },
+    {
+      "role": "user",
+      "content": "A helpful detail: the job is hybrid — I can work from home two days each week."
+    },
+    {
+      "role": "assistant",
+      "content": "Thanks — next detail: what sleep schedule do you want to target? Tell me your usual bedtime and wake time, or how many hours of sleep you want each night."
+    },
+    {
+      "role": "user",
+      "content": "I'd like to keep three workouts per week, ideally in the mornings, though I can move one to an evening on a home day."
+    },
+    {
+      "role": "assistant",
+      "content": "Great — I’ll plan for three workouts/week (two mornings + one morning-or-evening on a home day) and keep the 5:30 PM pickup and 8:00 AM on‑site start in mind.\n\nQuick clarifiers so I can build the week:\n- What sleep schedule do you want to target (bedtime and wake time, or total hours)?\n- Which two days will you be working from home (or do you want me to pick reasonable options)?\n- How long are the workouts and what type do you prefer (e.g., 20–30 min bodyweight/cardio, 45–60 min gym/lift, walks)?"
+    },
+    {
+      "role": "user",
+      "content": "Sleep-wise, I do badly if I stay up too late — I need to be asleep by around eleven to feel functional; otherwise I'm foggy."
+    },
+    {
+      "role": "assistant",
+      "content": "Good note — I’ll make the plan so you’re asleep by ~11:00 PM most nights.\n\nTwo quick things so I can finish the week: which two days do you want to work from home (or should I pick logical ones), and how long/what type are your workouts (e.g., 20–30 min bodyweight/cardio, 45–60 min gym/lift, or walks)?"
+    },
+    {
+      "role": "user",
+      "content": "There are two weekly evening commitments that I can't miss — they take place on different weeknights."
+    },
+    {
+      "role": "assistant",
+      "content": "Got it — thanks. Do you want me to make your two WFH days fall on those nights with the non‑missable commitments so you can avoid commuting, or would you prefer other days? \n\nAlso: how long/what type are the three weekly workouts (brief 20–30 min bodyweight/cardio, longer 45–60 min gym sessions, walks, etc.)?"
+    },
+    {
+      "role": "user",
+      "content": "Generally my partner gets home by about six in the evening and helps when they're around, but there are occasional travel weeks when they're absent."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you want me to place your two WFH days on the nights with those non‑missable commitments so you avoid commuting those evenings? If so, which weeknights are the commitments? \n\nAlso: how long and what type are your three workouts (e.g., 20–30 min bodyweight/cardio, 45–60 min gym/lift, or walks)?"
+    },
+    {
+      "role": "user",
+      "content": "I also take a medication twice a day, spaced roughly half a day apart; it's important but the exact moments are somewhat flexible."
+    },
+    {
+      "role": "assistant",
+      "content": "Thanks — that’s useful. Quick clarifiers so I can place things correctly:\n\n1) Which weeknights are the two non‑missable evening commitments? Do you want your two WFH days to fall on those nights so you avoid commuting?  \n2) How long and what type are the three weekly workouts (e.g., 20–30 min bodyweight/cardio, 45–60 min gym sessions, or walks)?  \n3) Do you want the twice‑daily medication included in the schedule (I can add flexible windows tied to meals or set approximate clock times)?"
+    }
+  ],
+  "metadata": {
+    "inputTokens": 92107,
+    "outputTokens": 15883,
+    "totalTokens": 107990,
+    "timestamp": "2026-02-13T01:00:25.617Z"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v1_EARLY_L40_Organizing a family event",
+  "scriptId": "cs_v1_EARLY_L40_Organizing a family event",
+  "historyId": "h_v1_EARLY_L40_Organizing a family event",
+  "componentType": "plainContext",
+  "context": "Active goals/constraints (updated): maintain outdoors-capable warm/homey centerpieces; height 8–12 inches; low center of gravity and weighted bases for stability; no open flames outdoors; use battery LED candles; cover displays quickly for wind/rain; test one full centerpiece on-site in natural light; styling with warm textures (wood slices, burlap, twine, muted ceramics); cohesive greens palette with one accent color; varied heights via clustering 2–3 items; implement nine centerpiece concepts; follow rationale, materials, and tips for each; practical setup/safety: low profiles, add weight, secure groupings, weather protection, test on-site; cost estimates/shopping list available on request by specifying idea; new constraint: welcome speech should be brief (1–2 minutes max); structure for welcome: 3 parts (brief welcome, one heartfelt line about why you’re gathered, quick thank-you/ housekeeping + segue); open by promising brevity; acknowledge memory table; thank setup/cleanup volunteers; end with a simple call to enjoy the meal/time or segue to the first activity; memory table reference; sample scripts exist for adaptation and one-line closers may be reused; toast management constraints: keep toasts brief and positive; limit to 2–4 toasts; 60–90 seconds per speaker; appoint an organizer/MC; provide speakers with simple instructions (identify self if needed, tell one short anecdote or name one admired quality, finish with a quick wish/cheer); timekeeping methods (30-second cue cards, green/yellow/red, timer); gentle cut-off protocols (pre-arranged cue, claps, brief closing line); optional longer memories placed at memory table or memory jar; MC opening/closing lines for toasts; maintain positive grateful tone; sample scripts exist for adaptation; memory table reference; New information added: low-cost, hour-long kids activity plan comprising 12 stations with supervision guidance, time allocations (10–20 min each), safety tips; structure includes 2–3 stations active at once, rotating every 20–30 minutes, and 1 adult/teen supervisor per 2–3 stations; simple 60-minute rotation example and notes on cost-efficient supplies; safety and setup tips (shade/hydration, cleanup, choking/allergies, signage).",
+  "generationMetrics": {
+    "inputTokens": 24765,
+    "outputTokens": 68791,
+    "totalTokens": 93556
+  },
+  "timestamp": "2026-02-14T02:00:34.107Z"
+}

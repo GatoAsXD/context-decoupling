@@ -1,0 +1,27 @@
+{
+  "id": "es_v1_EARLY_L40_Choosing a new hobby",
+  "scriptId": "cs_v1_EARLY_L40_Choosing a new hobby",
+  "historyId": "h_v1_EARLY_L40_Choosing a new hobby",
+  "cutoffIndex": 24,
+  "messages": [
+    "Can cross-training between hobbies be productive - for example, using photography to improve one's painting composition?",
+    "What are some notable hobby-related festivals or events that draw passionate crowds?",
+    "What are examples of obscure historical hobbies that used to be common but have mostly vanished?",
+    "If you wanted a single book or longform article to recommend to someone exploring hobbies at midlife, what would it be?",
+    "Alright, from this list - calligraphy, indoor herb gardening, pottery, and guitar - which one would you prioritize for me?",
+    "A friend recommends investing in a full woodworking bench and power tools to learn properly. Would you advise that?",
+    "If woodworking is a bad fit, name two hobbies from any domain that provide similar hands-on satisfaction but don't require a full workshop.",
+    "If I chose to test something, which tends to give a clearer sense of whether I'll stick with it: a short in-person beginners' course or a focused month of online lessons?",
+    "Comparing musical learning and fine-motor paper crafts, which tends to produce clearer milestone-based progress early on?",
+    "Which of the four options is likely to be most forgiving for a complete beginner?",
+    "Someone suggested small-batch homebrewing as a weekend project - what practical downsides should I consider?",
+    "If I want measurable improvement within three months, which two options from the list are the best bets?",
+    "Which of the four hobbies is most likely to remain engaging over a year?",
+    "Are there specific safety, health, or neighbor-related issues commonly overlooked with pottery classes or homebrewing?",
+    "If I tried two hobbies in sequence, which order would you recommend to maximize retention and skill carryover?",
+    "Finally, pick one hobby from the list as your top recommendation and give the concrete first step I'd take to get started."
+  ],
+  "metadata": {
+    "timestamp": "2026-02-12T19:29:56.679Z"
+  }
+}

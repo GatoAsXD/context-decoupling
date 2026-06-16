@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v1_EARLY_L40_Medium-term plans for the next year",
+  "scriptId": "cs_v1_EARLY_L40_Medium-term plans for the next year",
+  "historyId": "h_v1_EARLY_L40_Medium-term plans for the next year",
+  "componentType": "plainContext",
+  "context": "Current Strate:\nCurrent Context:\n- CV/project summaries guidelines and templates are now active constraints for presenting short project summaries on a CV; aim to be impact-first, scannable, and link-rich; limit to 3 items in a “Selected Projects” section near the top; each project 1–2 lines, ~40–50 words total; include date, role, impact metric, tech scope, and a link to a repo/demo or short case study; use a consistent date format; do not exceed two technical details; reference a longer case study or portfolio for details; provide one or two example rewrites if asked; use inline links when space is tight.\n- Pivot toward product strategy: top 3 high-impact artifacts to build first: 1) One-page strategy memo (market/opportunity + recommendation) with problem statement, market/context, target user, 2–3 options, recommended option",
+  "generationMetrics": {
+    "inputTokens": 23605,
+    "outputTokens": 59147,
+    "totalTokens": 82752
+  },
+  "timestamp": "2026-02-14T01:36:09.240Z"
+}

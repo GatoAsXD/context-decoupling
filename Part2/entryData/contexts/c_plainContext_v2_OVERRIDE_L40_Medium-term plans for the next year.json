@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v2_OVERRIDE_L40_Medium-term plans for the next year",
+  "scriptId": "cs_v2_OVERRIDE_L40_Medium-term plans for the next year",
+  "historyId": "h_v2_OVERRIDE_L40_Medium-term plans for the next year",
+  "componentType": "plainContext",
+  "context": "Current State:\n\nMessage:\nDefine decision checkpoints every quarter: what triggers a pivot and what data should we require to change course?\n\nResponse:\nQuarterly decision‑checkpoint framework — when to pivot, and the data required to change course\n\nPurpose\n- Give a repeatable, lightweight governance cadence so you can stop wasting time on",
+  "generationMetrics": {
+    "inputTokens": 45690,
+    "outputTokens": 72585,
+    "totalTokens": 118275
+  },
+  "timestamp": "2026-02-14T15:46:31.695Z"
+}

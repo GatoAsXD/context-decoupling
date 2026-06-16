@@ -1,0 +1,17 @@
+{
+  "id": "es_v1_EARLY_Moving to a new apartment",
+  "scriptId": "cs_v1_EARLY_Moving to a new apartment",
+  "historyId": "h_v1_EARLY_Moving to a new apartment",
+  "cutoffIndex": 14,
+  "messages": [
+    "Do you know a simple 5-minute stretching routine I can do between trips to prevent back strain?",
+    "Is there a quick rule-of-thumb to estimate how many medium boxes people usually need when moving into a typical apartment?",
+    "Given my short morning window for moving items into the building, should I ask movers to prioritize big furniture or essentials first?",
+    "Since I have to pick keys up at the leasing office and they shut in the late afternoon, would you advise scheduling movers to arrive earlier to avoid missing pickup?",
+    "Because the building expects protective coverings and holds a refundable move deposit, how extensively should I wrap items versus relying on provided floor protection?",
+    "Finally, for a unit that's a few flights up, is it worth hiring a crew experienced with stairs and stair-dollies, or is it typically more efficient to aim for fewer trips with a larger truck?"
+  ],
+  "metadata": {
+    "timestamp": "2026-01-25T01:35:59.771Z"
+  }
+}

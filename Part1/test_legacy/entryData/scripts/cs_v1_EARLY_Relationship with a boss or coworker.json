@@ -1,0 +1,34 @@
+{
+  "id": "cs_v1_EARLY_Relationship with a boss or coworker",
+  "type": "cs_v1_EARLY",
+  "seedTopic": "Relationship with a boss or coworker",
+  "length": 20,
+  "messages": [
+    "I need advice about my relationship with my boss, Maria Lopez. She's the Director of Product at GreenLeaf Tech, and we have a standing one-on-one every Tuesday at 10 AM.",
+    "At the last all-hands on March 3rd she called out my slide deck in front of the whole company and it felt really humiliating.",
+    "Also, John Matthews from Marketing took credit for a feature idea I had during the Q4 review on November 14th and presented it as his own.",
+    "I followed up privately: I emailed Maria the next day and she just replied with 'Noted'. I also mentioned the issue to my manager but nothing changed.",
+    "Totally switching topics - what's a fast weeknight pasta I can make in 20 minutes that doesn't use cream?",
+    "Also curious: are octopuses actually as smart as people say? Any interesting facts?",
+    "On an unrelated note, I'm planning a short road trip - any scenic drives within three hours of Chicago you'd recommend?",
+    "Random pop culture question: who won Best Picture at the Oscars in 2017?",
+    "Quick ergonomics question: what are two simple stretches I can do at my desk to help my lower back?",
+    "Grammar help: when should I use 'fewer' versus 'less'?",
+    "Plant question: is it better to water succulents weekly or only when the soil is completely dry?",
+    "Is there good evidence that chamomile tea helps with sleep, or is it mostly anecdotal?",
+    "Writing prompt: give me a one-line hook for a mystery novel set in a small coastal town.",
+    "What's a quick trick to remember people's names when I first meet them?",
+    "Geography quickie: what's the highest mountain in Africa and what's notable about it?",
+    "I'm drafting a short email to the product director to request a brief follow-up - should I use her first name in the greeting or keep it formal?",
+    "Considering how she handled my presentation publicly, what's a constructive way to say I felt undermined without sounding like I'm attacking her?",
+    "If someone in another department once claimed my work during an end-of-year review, how can I bring that up so it reads as fact-finding rather than finger-pointing?",
+    "Would you recommend handling these two issues in writing, in a private conversation, or timing them around one of her regular check-ins? I'm trying to pick the least confrontational route.",
+    "Lastly, should I copy my manager on the message or keep the exchange between me and the product lead when I raise these points?"
+  ],
+  "metadata": {
+    "inputTokens": 421,
+    "outputTokens": 9160,
+    "totalTokens": 9581,
+    "timestamp": "2026-01-24T22:39:44.698Z"
+  }
+}

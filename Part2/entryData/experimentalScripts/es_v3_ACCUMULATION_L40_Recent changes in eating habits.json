@@ -1,0 +1,27 @@
+{
+  "id": "es_v3_ACCUMULATION_L40_Recent changes in eating habits",
+  "scriptId": "cs_v3_ACCUMULATION_L40_Recent changes in eating habits",
+  "historyId": "h_v3_ACCUMULATION_L40_Recent changes in eating habits",
+  "cutoffIndex": 24,
+  "messages": [
+    "Privacy is important — participants only agreed to de-identified summaries being used for analysis.",
+    "To be precise about the outcomes I'd like to hit: reduce late-night snack episodes by roughly forty percent and increase dinner vegetable servings by about half compared with baseline.",
+    "Also we need to keep the cost per lunch low — think single-digit local currency euros per person on average.",
+    "Finally, the pilot window itself should be short enough to be practical for staff — four weeks seems feasible from HR's side.",
+    "Okay, with all that context, can you design a detailed, week-by-week intervention suitable for the short pilot we discussed?",
+    "It should include short daily nudges delivered to phones, a concise weekly digest for inboxes, and a set of simple recipes or meal ideas that staff can prepare or order within the low-cost constraints.",
+    "Make sure the meal options accommodate the mix of dietary preferences and sensitivities I mentioned earlier, without making any option feel like an odd substitution.",
+    "For each meal idea, provide a shopping list and a per-person cost estimate that fits the modest budget I mentioned earlier.",
+    "Because this will run during colder months, prioritize ingredients that are typically available in winter and suggest straightforward swaps if something isn't in season.",
+    "Include behavioral nudges to shift meal timing and reduce evening snacking — concrete tactics, scripts, and timing recommendations.",
+    "Add a measurement plan that leverages the kinds of data we've been collecting and explains how to determine if the campaign meets our previously stated improvement targets.",
+    "Also outline minimal privacy-preserving steps for handling and analyzing the data so HR will approve sharing summarized findings.",
+    "Give a simple statistical summary approach and a short checklist for reporting outcomes to stakeholders in an accessible way.",
+    "Please provide sample wording for three phone nudges and one short weekly digest message that are brief, friendly, and action-focused.",
+    "Finally, suggest a realistic rollout timeline for the pilot and a one-paragraph recruitment script HR can use to invite participation, keeping the ask very light.",
+    "When you produce the plan, assume the small team size and the specific targets we've set earlier — don't invent different participant numbers or alternate goals."
+  ],
+  "metadata": {
+    "timestamp": "2026-02-13T03:14:37.638Z"
+  }
+}

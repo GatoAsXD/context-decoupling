@@ -1,0 +1,45 @@
+{
+  "id": "c_structuredContext_v1_EARLY_L40_Learning a new language",
+  "scriptId": "cs_v1_EARLY_L40_Learning a new language",
+  "historyId": "h_v1_EARLY_L40_Learning a new language",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Reach B2 in Icelandic and take the certification on 2026-09-15."
+    ],
+    "constraints": [
+      "Weekday practice fixed: exactly 25 minutes each morning starting at 6:15.",
+      "Audio-only mode allowed during the 25-minute practice slot; no reading or writing.",
+      "Immersion method: remote only",
+      "Budget-friendly resources: avoid expensive weekly subscriptions; willing to pay for high-value one-off lessons or resources."
+    ],
+    "decisions": [],
+    "entities": [
+      "Icelandic",
+      "English",
+      "German",
+      "Spanish"
+    ],
+    "open": [
+      "User preference for delivery: minute-by-minute routine for the 25 minutes or quick tips depending on goals",
+      "Preference: integrate small daily wins and streak tracking to support routine.",
+      "Mental habits for reducing overwhelm when learning declensions: role-first analysis, prioritize high-frequency cases, treat endings as chunks, pair cases with verbs/prepositions, use fixed frames, parse with a 3-step checklist, listen for case markers.",
+      "Strategy for vowel harmony: organic exposure vs targeted drills",
+      "Dialect variation vs standard variety: guidance on prioritization when choosing what to learn first; align with certification goals; start with standard, gradually add receptive exposure to dialects; consider local integration goals.",
+      "Practical: how to use corpora or frequency lists without getting overwhelmed by raw data",
+      "Prosody/intonation: evaluate transfer across language families and determine language-specific practice requirements",
+      "Loanword workflow for SRS: Spot lookalikes, verify meaning in a dictionary or corpus, create a natural example sentence, tag card as 'loan' or 'false friend' and add audio/production practice, review aggressively for the first weeks.",
+      "False friend patterns to watch for when learning Icelandic (cognates with shifted meaning, phonological/orthographic shifts, collocational and register differences); verify meaning and usage.",
+      "Icelandic loanword note: verify sense and usage for English lookalikes; Icelandic tends to coin native equivalents; do not assume lookalikes carry same meaning.",
+      "Prioritize frequency: rely more on high-frequency, transparent loans; be cautious with low-frequency lookalikes that are more likely to be misleading.",
+      "Get occasional native feedback: a quick correction from a speaker or tutor catches subtle meaning or register differences faster than guessing.",
+      "Idioms learning: treat as productive frames with slots; use an audio-first routine (2-4 idioms per week); collect 2-3 authentic audio examples per idiom; practice shadowing and substitution drills; produce a 30-60s monologue using the idioms; track prosody and register; seek occasional native feedback."
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 23409,
+    "outputTokens": 41465,
+    "totalTokens": 64874
+  },
+  "timestamp": "2026-02-14T01:01:31.587Z"
+}

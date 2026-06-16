@@ -1,0 +1,57 @@
+{
+  "id": "c_structuredContext_v4_NOISE_L40_Adjusting to a new schedule",
+  "scriptId": "cs_v4_NOISE_L40_Adjusting to a new schedule",
+  "historyId": "h_v4_NOISE_L40_Adjusting to a new schedule",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Adapt to a new work schedule",
+      "Protect weekend lie-ins while adapting to earlier start"
+    ],
+    "constraints": [
+      "Start time moved earlier to 8:00 with two-week lead time",
+      "Sleep target: at least 7 hours per night",
+      "No medication or melatonin",
+      "Fully adapt by first day",
+      "Non-medical interventions only",
+      "Sunrise alarm: consider for gentler wakeups",
+      "Wind-down disrupted by partner's late shows; seek non-confrontational adjustments to minimize noise",
+      "Reading in bed discouraged; cap reading time at 20-30 minutes before lights-out; prefer low-arousal reading material",
+      "Externally caused wakeups (neighbor/maintenance noise) disrupt sleep; develop mitigation strategies",
+      "Naps should be kept short (15-20 minutes) and taken in early afternoon (ideally within 1-3 pm) to minimize disruption to night sleep"
+    ],
+    "decisions": [
+      "Incorporate a 2-5 minute breathing exercise into nightly wind-down plan.",
+      "Add a nap strategy to the two-week schedule: naps 15-20 minutes, in the early afternoon (1-3 pm); if groggy or night sleep worsens, shorten or skip and consider a 20-minute walk or caffeine earlier in the day."
+    ],
+    "entities": [
+      "cat sleeping across my pillow",
+      "sleep disruption due to cat",
+      "partner watching late shows with high volume",
+      "weekend lie-ins",
+      "reading in bed backfired due to thriller novels",
+      "breathing exercise",
+      "noise from neighboring maintenance",
+      "afternoon nap",
+      "nap timing",
+      "blackout curtains",
+      "earplugs"
+    ],
+    "open": [
+      "Determine nonconfrontational strategies to deter cat from pillow",
+      "Provide appealing alternative sleeping area for cat",
+      "Non-confrontational plan to discuss partner's late-show volume and wind-down routine",
+      "Weekend lie-in protection strategies",
+      "Move reading out of bed to a chair; cap reading time to 20-30 minutes before lights-out; choose low-arousal reading material",
+      "Integrate a 2-5 minute breathing exercise into nightly wind-down",
+      "Non-confrontational plan to mitigate externally caused wakeups from neighboring maintenance.",
+      "Test blackout curtains and earplugs; conduct a short trial plan to evaluate impact and results"
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 15529,
+    "outputTokens": 46632,
+    "totalTokens": 62161
+  },
+  "timestamp": "2026-02-14T23:17:23.951Z"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "c_structuredContext_v1_EARLY_L40_Issues with a neighbor",
+  "scriptId": "cs_v1_EARLY_L40_Issues with a neighbor",
+  "historyId": "h_v1_EARLY_L40_Issues with a neighbor",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Avoid confrontation; resolve issue while preserving neighbor relations."
+    ],
+    "constraints": [
+      "Quiet hours between 22:00 and 06:30 due to health condition.",
+      "When reporting issues, target the appropriate agency based on the type of problem (safety vs chronic maintenance).",
+      "When documenting issues using photos, respect privacy and applicable laws; blur license plates and avoid posting publicly; share privately with management or tenants' group when appropriate.",
+      "Any installation of shared security cameras in common areas requires explicit management approval, written agreement among contributors, and compliance with privacy laws; avoid recording private spaces."
+    ],
+    "decisions": [
+      "Prepared a framework to draft a complaint email for a recurring pet mess issue.",
+      "Identified common lease provisions and how they support a complaint.",
+      "Assess privacy and legality of posting photos; blur license plates; consider private submission to management or tenants' association rather than public posting.",
+      "Gauging interest on a private residents' forum as an initial step for a collective laundry etiquette complaint.",
+      "Evaluate the feasibility and obligations of a shared security camera; outline required approvals, responsibilities, and terms; consider creating a written agreement.",
+      "Assess whether renters insurance can cover mold or pests caused by a neighbor's storage habits; outline questions to ask insurer and potential next steps (subrogation options)."
+    ],
+    "entities": [
+      "unit 412",
+      "4th floor",
+      "5-story building",
+      "Diego Ramirez",
+      "community mediation service",
+      "shared driveway",
+      "management",
+      "shared garden plot",
+      "fire marshal",
+      "fire department",
+      "building department",
+      "building inspector",
+      "code enforcement",
+      "property standards office",
+      "health department",
+      "shared fence",
+      "license plates",
+      "photos",
+      "communal laundry area",
+      "private residents' forum",
+      "laundry etiquette",
+      "shared security camera",
+      "mold",
+      "pests",
+      "neighbor's storage habits"
+    ],
+    "open": [
+      "Recurring pet mess in common areas; draft and submit a formal complaint to management.",
+      "Draft a formal complaint to management citing lease provisions; attach objective evidence such as photos and logs.",
+      "Determine which agency to contact (fire marshal, building department, code enforcement, or health department) for chronic maintenance versus safety hazards; prepare evidence log.",
+      "Obtain contractor estimates for repairing a shared fence damaged by another party; request 2–3 quotes and gather fence type, total length, and location to provide a tighter estimate.",
+      "Evaluate privacy concerns and legal considerations before posting photos of vehicles; determine whether to blur license plates and whether to share with management or tenants' group.",
+      "Assess usefulness of gauging interest on a private residents' forum for a collective complaint about communal laundry etiquette; outline steps (privacy controls, neutral prompt, deadlines, next steps) and potential actions.",
+      "Draft a proposal or initial steps for management to consider a shared security camera, including cost sharing, placement, and privacy safeguards.",
+      "Explore renters insurance options for mold/pest issues caused by neighbor's storage habits; prepare questions for insurer and possible documentation needed."
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 19958,
+    "outputTokens": 50742,
+    "totalTokens": 70700
+  },
+  "timestamp": "2026-02-14T00:55:35.985Z"
+}

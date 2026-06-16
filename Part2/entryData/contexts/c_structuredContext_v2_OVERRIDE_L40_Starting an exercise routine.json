@@ -1,0 +1,57 @@
+{
+  "id": "c_structuredContext_v2_OVERRIDE_L40_Starting an exercise routine",
+  "scriptId": "cs_v2_OVERRIDE_L40_Starting an exercise routine",
+  "historyId": "h_v2_OVERRIDE_L40_Starting an exercise routine",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [],
+    "constraints": [
+      "Warm-up and activation must be completed before any heavy work (5–10 minutes light aerobic plus 2–3 activation drills).",
+      "Progress load only if you can complete the work within the target rep range with control for 2–3 sessions; use small increases.",
+      "Prioritize form over load; stop increasing load if technique degrades.",
+      "Use RPE as a guide (mostly sets at RPE 7–8); reserve heavier sets for a controlled top set only.",
+      "Include single-leg work and posterior chain work to balance knee and hip forces.",
+      "Deload when performance drops or soreness persists (reduce volume ~30% for a week).",
+      "Knee safety: prefer goblet or split squats before heavy bilateral squats; ensure knee tracks in line with toes and maintain heel contact; avoid painful ranges.",
+      "Lower-back safety: master hip hinge, maintain neutral spine, brace and breathe, hinge from hips, and start with dumbbells/trap bar to reduce lumbar shear; avoid fast jerks.",
+      "Mobility integration: fold mobility into daily warm-ups and cooldowns (5–7 minutes) and include one 8–12 minute focused mobility session 1–2 times per week; aim for ~35–50 minutes of mobility weekly.",
+      "Mobility should directly support lifts (hips, thoracic spine, ankles, shoulders) with clear carryover.",
+      "Keep mobility time-efficient; do not add excessive weekly time; target ~35–50 minutes per week for mobility."
+    ],
+    "decisions": [
+      "Adopt double-progression as the primary progression method (reps first, then weight).",
+      "If weight increments are limited, progress by adding 1–2 reps per set until you reach the top of the target range.",
+      "Use block periodization: 4–6 weeks of heavier, lower-rep work followed by 4–6 weeks of moderate reps.",
+      "Add an extra training day only after progressing consistently and with adequate recovery; ensure the extra day is complementary (e.g., technique, mobility, or accessory work) rather than duplicating a heavy day.",
+      "Schedule a deload week every 4–8 weeks if fatigue accumulates (reduce volume ~30%).",
+      "Swap 1–2 dumbbell main lifts for barbell equivalents when gym access is available; keep dumbbells for accessory work.",
+      "Provide a downloadable travel workout as a deliverable."
+    ],
+    "entities": [
+      "entity: Barbell back squat (and front squat) priority over dumbbell squats in gym",
+      "entity: Deadlift variants (conventional barbell, trap-bar) provide heavy posterior-chain loading",
+      "entity: Barbell bench press (or barbell incline) for higher load and stable progression",
+      "entity: Pull‑ups / chin‑ups (and assisted/weighted progressions)",
+      "entity: Barbell overhead press",
+      "entity: Heavy barbell rows / T‑bar rows",
+      "entity: Trap bar carries / heavy carries and sled work",
+      "entity: Cable machines and pulleys (lat pulldown, cable rows, face pulls)",
+      "entity: Isolation machines for hypertrophy or rehab (leg press, leg curl, leg extension, chest fly)",
+      "entity: Gymnastic rings",
+      "entity: Pull-up bar (wall/ceiling-mounted)",
+      "entity: Travel-friendly workouts and templates"
+    ],
+    "open": [
+      "Integrate rest days and active recovery guidelines into the 4-week dumbbell plan and provide a sample weekly schedule.",
+      "Develop and provide 4 compact 30-minute templates (A–D) with warm-up and cooldown suitable for different priorities; offer to tailor to a specific day (e.g., heavy lower or upper focus).",
+      "Provide a 4-week rotation of enjoyable workout ideas tailored to the user's schedule.",
+      "Provide a downloadable 20-minute travel workout for phone save."
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 28457,
+    "outputTokens": 64329,
+    "totalTokens": 92786
+  },
+  "timestamp": "2026-02-15T03:26:59.247Z"
+}

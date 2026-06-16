@@ -1,0 +1,33 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# LaTeX Auxiliary Files
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.toc
+paper/*.bbl
+paper/*.blg
+paper/*.fdb_latexmk
+paper/*.fls
+paper/*.synctex.gz
+paper/*.pdftex
+
+# Editor/OS Specific Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.stackdump
+
+# Raw Experimental Data (Heavy files, compiled summaries are under metrics/)
+Part1/data/experiments/
+Part1/data/experimentSuites/
+Part2/data/experiments/
+Part2/data/experimentSuites/

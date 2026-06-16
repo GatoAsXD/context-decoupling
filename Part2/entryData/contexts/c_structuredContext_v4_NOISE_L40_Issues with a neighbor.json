@@ -1,0 +1,67 @@
+{
+  "id": "c_structuredContext_v4_NOISE_L40_Issues with a neighbor",
+  "scriptId": "cs_v4_NOISE_L40_Issues with a neighbor",
+  "historyId": "h_v4_NOISE_L40_Issues with a neighbor",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "address ongoing neighbor issue calmly",
+      "prefer polite outreach before involving management or authorities",
+      "consider mediation with landlord present if outreach and management steps do not resolve the issue",
+      "preserve tenancy and avoid moving if possible by resolving issue peacefully",
+      "maintain good neighbor relations",
+      "Prioritize cautious, non-confrontational outreach due to prior escalation."
+    ],
+    "constraints": [
+      "neutral wording; no threats or aggressive phrasing",
+      "no legal specifics or state-dependent guidance; provide general, practical steps suitable for city apartments",
+      "avoid naming the neighbor; focus on behavior and resolution",
+      "prioritize low-conflict, non-confrontational steps to preserve tenancy and avoid moving",
+      "Explicitly acknowledge past escalation and commit to cautious, non-confrontational dialogue in all outreach."
+    ],
+    "decisions": [
+      "Consider mediation with landlord present if outreach fails to resolve the issue.",
+      "Prefer non-escalation strategies and outreach before management involvement; involve management only if necessary.",
+      "Default to a cautious outreach plan before involving management or authorities.",
+      "Assess HOA meeting as an option for addressing building concerns; prepare a brief log and neutral, solution-focused comments; request policy clarifications on quiet hours and mediation options."
+    ],
+    "entities": [
+      "neighbor",
+      "property manager",
+      "landlord",
+      "new roommate",
+      "past escalation",
+      "night shift",
+      "different work schedules",
+      "HOA",
+      "HOA meeting",
+      "earplugs",
+      "headphones",
+      "pillow speaker",
+      "cooking smells",
+      "balcony"
+    ],
+    "open": [
+      "Hi, I’m your neighbor in [Unit #]. I’m hearing music after 10 PM and it wakes me. Please keep it down after 10 PM. Thanks, [Your name / Unit #].",
+      "Subject: Noise concern from neighboring unit. Hello [Manager], late-night noise from the unit next to mine after 10 PM is affecting my sleep. I left a polite note on [date] and can provide a brief log. Please advise next steps. Thanks, [Your name / Unit #].",
+      "Log disturbances (date/time). If it continues, email management with the log. If still noisy, call the non-emergency line and save the report number. If unsafe, call emergency services.",
+      "One-line idea: record the date, time, and a short description of the incident.",
+      "Consider using earplugs or sleep-friendly noise-cancelling headphones; move the white-noise source closer to you and pair it with a lower-frequency track or app that masks bass better.",
+      "Mediation with landlord present is an option if outreach and documentation do not resolve the issue; it may take several weeks.",
+      "Note user observation: weekends may be louder due to gatherings; log pattern by day of week (weekday vs weekend) and whether different people are involved.",
+      "New: hallway furniture movement late at night may indicate a new roommate; continue logging hallway movements (date, time, short description) for reference when discussing with neighbor or management.",
+      "User preference: avoid being perceived as a difficult tenant; maintain a neutral, non-confrontational outreach approach and keep logs.",
+      "Consider renter-friendly soundproofing options (e.g., thicker curtains, rugs, weather stripping) as a separate issue to address later, if noise remains after outreach and logging.",
+      "New: Use voice memo recordings to document disturbances (date/time, duration, and brief description); label each file (e.g., '3/12 11:30 PM — loud bass, 20s'); place the phone near the shared wall to capture noise; keep recordings focused on noise timing and level rather than private conversations.",
+      "New: Recycling schedule-related early-morning noises from other floors; continue logging occurrences (date/time, duration) for reference when discussing with neighbor or management.",
+      "Note: prior confrontation escalated; proceed with cautious, polite outreach.",
+      "Acknowledge that neighbor may work nights and have a different noise tolerance; adjust outreach language to reflect possible schedule differences."
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 19663,
+    "outputTokens": 61756,
+    "totalTokens": 81419
+  },
+  "timestamp": "2026-02-14T23:24:43.323Z"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v4_NOISE_L40_Recently changing jobs",
+  "scriptId": "cs_v4_NOISE_L40_Recently changing jobs",
+  "historyId": "h_v4_NOISE_L40_Recently changing jobs",
+  "componentType": "plainContext",
+  "context": "Archive is more organized than my desk; spent an afternoon sorting old emails and deleting clutter; bumped into a former teammate in the elevator; exchanged tips about recurring meetings and calendar tricks; heard that at the new place they do board games on Fridays — not what I expected, but it sounds fun; expressed interest in joining a Friday board games session; Message: I've been keeping a running note of onboarding questions, but sometimes I overthink how to phrase something; Response: That's totally normal — it's easy to overthink wording when you want to make a good impression. If you'd like, paste a few of your questions and I can help make them clear and concise.\n\n            Message:\n            My cat walked across the keyboard during a last-week video call and somehow stole the show.\n\n            Response:\n            That's hilarious — cats have perfect timing for steals-the-show moments. Bet it gave everyone a good laugh.",
+  "generationMetrics": {
+    "inputTokens": 11109,
+    "outputTokens": 58463,
+    "totalTokens": 69572
+  },
+  "timestamp": "2026-02-14T23:47:17.794Z"
+}

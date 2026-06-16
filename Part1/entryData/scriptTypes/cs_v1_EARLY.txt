@@ -1,0 +1,31 @@
+SCRIPT OBJECTIVE
+Generate a realistic multi-turn user conversation that introduces critical information early.
+Then obscure it with unrelated content, and later implicitly test recall.
+
+STRUCTURE
+Phase 1 (early):
+- The user instroduces concrete, specific facts that will be relevant later.
+- These facts must appear only in the first messages.
+- No repetition, rephrasing or reinforcement of these facts later.
+
+Phase 2 (middle): 
+- Introduce multiple unrelatd topics such as facts, opinions, advice requests, trivia, etc.
+- These topics must be semantically independent from the early facts.
+- The majority of the script must belong to this phase.
+- Avoid any accidental reference to early facts.
+
+Phase 3 (late): 
+- The user asks questions that require the assistant to recall early facts.
+- Do not explicitly mention memory, recall, or "as said before".
+- The questions should assume the facts as shared context.
+
+CONTENT CONSTRAINTS
+Early facts must be:
+- Precise (numbers, dates, names, constraints, preferences).
+- Non obvious.
+- Not inferable from general knowledge.
+
+Distractor messages:
+- Must not semantically overlap with early facts.
+- Must not be variations of the same topic.
+- Should feel natural and conversational.

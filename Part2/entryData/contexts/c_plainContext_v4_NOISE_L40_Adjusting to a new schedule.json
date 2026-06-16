@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v4_NOISE_L40_Adjusting to a new schedule",
+  "scriptId": "cs_v4_NOISE_L40_Adjusting to a new schedule",
+  "historyId": "h_v4_NOISE_L40_Adjusting to a new schedule",
+  "componentType": "plainContext",
+  "context": "Current State:\n\nMessage:\nSomeone else mentioned blackout curtains and earplugs as life-changing for shift workers; I'm tempted but haven't tried them.\n\nResponse:\nGood idea to try them — a lot of people find blackout curtains and earplugs make a noticeable difference. Quick, practical pointers so you can test them without a big commitment:\n\n- What they do: blackout curtains cut stray/streetlight and make the room darker for earlier bedtimes; earplugs reduce intermittent noise (traffic, neighbors, maintenance) and help prevent awakening from sudden sounds.  \n- Try cheap first: inexpensive sleep mask + foam earplugs for a few nights to see if reduced light/noise actually helps before buying curtains.  \n- Curtain tips: measure window dimensions top-to-bottom and side-to-side; mount so the fabric overlaps the frame to block seams; heavier/thermal curtains block more light and can also reduce outside noise slightly.  \n- Earplug tips: foam plugs (rolled, insert, hold 20–30 sec) are cheap and work well; silicone plugs mold to the ear and can be more comfortable for side sleepers. Try a few types — comfort varies a lot.  \n- Use together or separately: sometimes just one (darkness or quiet) is enough; other times combining them plus a low-level white noise/fan is best.  \n- Comfort and safety: if earwax buildup or ear discomfort is an issue, limit use or try silicone plugs/earbuds made for sleep; follow hygiene guidelines (replace disposables regularly).  \n- Alternatives: a quality sleep mask if curtains aren’t an option, or sleep headphones/earbuds that play gentle sounds if earplugs feel isolating.  \n- How to evaluate: give each change at least 3–5 nights to judge effect; track whether you fall asleep faster and wake up less often.\n\nWant me to include a specific trial plan (which night to try mask/earplugs, what to buy cheap first, and how to judge results) or to fold curtain/earplug recommendations into the two‑week transition schedule?",
+  "generationMetrics": {
+    "inputTokens": 14879,
+    "outputTokens": 64578,
+    "totalTokens": 79457
+  },
+  "timestamp": "2026-02-14T23:18:53.347Z"
+}

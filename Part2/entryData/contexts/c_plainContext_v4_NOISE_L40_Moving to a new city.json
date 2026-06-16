@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v4_NOISE_L40_Moving to a new city",
+  "scriptId": "cs_v4_NOISE_L40_Moving to a new city",
+  "historyId": "h_v4_NOISE_L40_Moving to a new city",
+  "componentType": "plainContext",
+  "context": "Current State:\n\nMessage:\nMaybe I'll keep a small box of 'day one' essentials: kettle, a couple of mugs, a change of clothes, chargers, and a basic toolkit.\n\nResponse:\nSmart move — that box will save a lot of first‑day stress. A few compact additions you might find handy:\n\n- Toiletries & towel (toothbrush, toothpaste, soap, quick towel)  \n- Small snacks/coffee or tea + filters, kettle mugs (you mentioned kettle and mugs — perfect)  \n- Dish soap, sponge, paper towels, one plate/bowl/utensil set  \n- Phone chargers + power strip/power bank  \n- Basic toolkit: screwdriver, hammer, measuring tape, scissors/multi-tool  \n- Flashlight/headlamp and spare batteries  \n- Simple first‑aid kit/OTC meds and a few trash bags  \n- Cat essentials: litter, scoop, small litter mat, a day or two of food, bowls, carrier handy  \n- A set of keys, wallet, some cash, and important documents in a waterproof folder  \n- Label the box “OPEN FIRST” and keep it with you or by the door for easy access.\n\nThat should cover most immediate needs without overpacking the box.",
+  "generationMetrics": {
+    "inputTokens": 23472,
+    "outputTokens": 67270,
+    "totalTokens": 90742
+  },
+  "timestamp": "2026-02-14T23:39:19.944Z"
+}

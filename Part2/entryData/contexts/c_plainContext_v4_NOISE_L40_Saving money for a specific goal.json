@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v4_NOISE_L40_Saving money for a specific goal",
+  "scriptId": "cs_v4_NOISE_L40_Saving money for a specific goal",
+  "historyId": "h_v4_NOISE_L40_Saving money for a specific goal",
+  "componentType": "plainContext",
+  "context": "Current State:\n- Constraint: Only one transfer per month; biweekly or multiple transfers are not allowed due to cash flow.\n- Current savings: $800 already saved.\n- Goal: Reach $5,000 in nine months.\n- Plan options:\n  - Primary: Recurring transfer of $467 per month for 9 months (9 × 467 = 4,203; 800 + 4,203 = 5,003 total).\n  - Cushion option: Recurring\n\nMessage:\nI glanced at listings in nearby towns and seasonal demand seems to spike prices randomly.\n\nResponse:\nYeah — that kind of unpredictable price movement can make waiting feel risky. Totally reasonable to prefer sticking to your timeline instead of banking on a random seasonal dip.",
+  "generationMetrics": {
+    "inputTokens": 11604,
+    "outputTokens": 56118,
+    "totalTokens": 67722
+  },
+  "timestamp": "2026-02-14T23:53:30.565Z"
+}

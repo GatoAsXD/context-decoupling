@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v4_NOISE_L40_Buying a new phone or laptop",
+  "scriptId": "cs_v4_NOISE_L40_Buying a new phone or laptop",
+  "historyId": "h_v4_NOISE_L40_Buying a new phone or laptop",
+  "componentType": "plainContext",
+  "context": "Current State:\nI browsed a custom hardware shop and found some wild niche products; fun to look at but not necessary.\nThere is a tech fair next weekend; I might swing by to handle a few machines and see what feels right.\nChecklist to test machines at the fair:\n- Type for 5–10 minutes to feel key travel, layout, and palm rest comfort.\n- Open/close the lid several times to test hinge smoothness and screen wobble.\n- Lift and carry the laptop as you would on your commute to judge true weight/balance.\n- Look at the screen in person for brightness, glare, and viewing angles.\n- Check ports (charger, USB‑C, HDMI, SD) so you don’t end up needing too many adapters.\n- Ask about battery life and warranty; for refurbished units, ask to see battery health and confirm the previous owner’s account is removed.\n- Confirm the seller’s return window and repair/coverage options in case you decide it’s not right after a day or two.\nThe assistant offered to turn that into a one‑page printable checklist to bring to the fair.",
+  "generationMetrics": {
+    "inputTokens": 18878,
+    "outputTokens": 60733,
+    "totalTokens": 79611
+  },
+  "timestamp": "2026-02-14T23:18:40.013Z"
+}

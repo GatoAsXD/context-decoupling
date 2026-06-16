@@ -1,0 +1,27 @@
+{
+  "id": "es_v1_EARLY_L40_Learning to cook better",
+  "scriptId": "cs_v1_EARLY_L40_Learning to cook better",
+  "historyId": "h_v1_EARLY_L40_Learning to cook better",
+  "cutoffIndex": 24,
+  "messages": [
+    "What are reliable tricks to keep lean proteins like chicken or fish moist and flavorful without overcomplicating the process?",
+    "Is small-batch fermentation like sauerkraut a good beginner project to add flavor variety?",
+    "What techniques reliably produce separate, fluffy rice grains rather than clumped or gummy rice?",
+    "Do you have a short checklist I can run through when testing a new recipe for the first time?",
+    "Given the constraints I mentioned early on, could you suggest four reliable dinner ideas that will work for my evenings?",
+    "For each idea, list the main protein or base, one vegetable component, and a simple finishing touch to balance the flavors.",
+    "Please make sure at least two of the ideas can be completed without needing to use more than one cooking tool at a time.",
+    "I want one vegetarian option that still meets my energy goals without relying on heavy cream or lots of added oil—how would you compose that plate?",
+    "Sometimes I think 'set-and-forget' options like a long roast would solve my evenings—would that ever fit the constraints I set, or is it impractical?",
+    "If a recipe typically needs a short rest after cooking for best texture, what's a pragmatic compromise that fits my evening routine?",
+    "Pick one suggested dinner and give a clear prep order: what to season, what to start first, and what to finish last so timing works.",
+    "How would you adapt a richer, cream-based pasta into a lighter version that still feels satisfying and aligns with my goals?",
+    "If I choose a grain-forward dinner, how would you portion and add protein so leftovers keep well and portions aren't oversized?",
+    "If I proposed baking something low-and-slow as an 'easy' alternative, would that conflict with the earlier constraints or could it be made compatible somehow?",
+    "Can you write a short printable checklist for a night when I'm trying one of these recipes that helps me nail portioning, seasoning, and timing?",
+    "Finally, what's the single most impactful, low-effort change I can try immediately that will improve my weekday dinners while staying within my stated limits?"
+  ],
+  "metadata": {
+    "timestamp": "2026-02-12T20:09:10.592Z"
+  }
+}

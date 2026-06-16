@@ -1,0 +1,27 @@
+{
+  "id": "es_v4_NOISE_L40_Relationship with a boss or coworker",
+  "scriptId": "cs_v4_NOISE_L40_Relationship with a boss or coworker",
+  "historyId": "h_v4_NOISE_L40_Relationship with a boss or coworker",
+  "cutoffIndex": 24,
+  "messages": [
+    "Calendar invites with vague titles like 'sync' drive me nuts because I never know how to prepare.",
+    "My partner says I should wear a power color to give me confidence; I keep thinking that's a bit performative.",
+    "At lunch someone shared a story about negotiating a raise using homemade cookies as a peace offering — weirdly charming.",
+    "I had a manager once who used food metaphors for every situation; it was funny until it wasn't.",
+    "I practice breathing exercises before tense conversations; it genuinely helps calm me down.",
+    "I've been keeping a short list of wins in a notebook so I don't lose perspective when things get stressful.",
+    "Alright, let's put this into a message.",
+    "Can you draft a concise note I could send to my manager to ask for a short one-on-one?",
+    "Make the wording collaborative and solution-focused rather than defensive.",
+    "Include two brief topics to discuss: one about aligning expectations for my role and one about how often we should touch base.",
+    "Also propose a couple of windows for meeting times, phrased so they can offer alternatives.",
+    "Don't call out any specific past events or pull others into the conversation — I want this to stay between us.",
+    "Keep it compact so it can be read quickly, more like a short note than a lengthy explanation.",
+    "Write it in the first person, professional but approachable, and use a couple of bullet-style lines for the topics.",
+    "Please output only the message text itself — no extra commentary or subject line.",
+    "Whenever you're ready, go ahead and produce that note."
+  ],
+  "metadata": {
+    "timestamp": "2026-02-13T18:28:42.522Z"
+  }
+}

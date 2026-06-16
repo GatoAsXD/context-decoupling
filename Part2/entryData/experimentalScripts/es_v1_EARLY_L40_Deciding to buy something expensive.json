@@ -1,0 +1,27 @@
+{
+  "id": "es_v1_EARLY_L40_Deciding to buy something expensive",
+  "scriptId": "cs_v1_EARLY_L40_Deciding to buy something expensive",
+  "historyId": "h_v1_EARLY_L40_Deciding to buy something expensive",
+  "cutoffIndex": 24,
+  "messages": [
+    "For someone who plans to keep a car for a decade, would you choose a higher trim now or a simpler trim that can be upgraded later?",
+    "What are the most telling signs that a seller has been skimping on routine maintenance?",
+    "If I want better cabin noise isolation without replacing major parts, what's the usual quick fix?",
+    "Any practical but quick tests to judge the HVAC system on a short test-drive?",
+    "I found a 2016 compact SUV listed privately for $5,800 with a clean history but slightly higher mileage — is that realistic for me?",
+    "There is a dealer offering a certified pre-owned 2014 compact SUV for $6,900 including a short warranty — would pursuing that be sensible under my situation?",
+    "A private seller would accept a $750 refundable holding deposit to take a car off the market while I arrange an inspection — is that safe if I also want to avoid external borrowing?",
+    "A friend suggested using a short zero-interest promotional card to lock a deal and pay it off over the promo window; what risks would that present in my case?",
+    "If I wanted to keep an emergency cushion after buying, what portion of my current set-aside should I aim to leave untouched?",
+    "My move date is fixed and getting closer — would you expand the search radius to find better matches or prioritize speed with local listings?",
+    "If a seller offers to carry a short-term balance between us instead of involving a lender, what contract details should I insist on to protect myself?",
+    "Would accepting a higher-mileage vehicle with a spotless documented service history be a sound way to reduce upfront barriers here?",
+    "Someone offered to co-sign for me so I could qualify for a loan at a good rate — what relational and practical trade-offs should I consider?",
+    "If a chosen model bumps my monthly outlay slightly, should I adjust the budget elsewhere or walk away to stay within my comfort threshold?",
+    "If I delay buying for three months to save more, how likely is it that similar listings will still appear in my city?",
+    "Putting everything together — the cash I set aside, my unwillingness to take on outside debt, the monthly comfort ceiling I have, and the immovable move date — what's the single most decisive recommendation you'd give: keep hunting, pause to save, or accept a short seller-carried arrangement?"
+  ],
+  "metadata": {
+    "timestamp": "2026-02-12T19:36:26.300Z"
+  }
+}

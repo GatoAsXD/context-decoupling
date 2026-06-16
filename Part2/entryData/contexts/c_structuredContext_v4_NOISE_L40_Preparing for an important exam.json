@@ -1,0 +1,82 @@
+{
+  "id": "c_structuredContext_v4_NOISE_L40_Preparing for an important exam",
+  "scriptId": "cs_v4_NOISE_L40_Preparing for an important exam",
+  "historyId": "h_v4_NOISE_L40_Preparing for an important exam",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Reach at least 85% score on the exam."
+    ],
+    "constraints": [
+      "Study schedule constrained to about 18 hours per week: roughly 2 hours on weekdays and 4 hours per day on weekends",
+      "Block length: ~50-minute focus blocks with ~10-minute breaks",
+      "Allow short standing intervals between 50-minute blocks (15-20 minutes) if feasible.",
+      "Sleep disruption management: neighbor's dog waking me early; adjust study schedule or sleep hygiene practices to protect sleep quality and maintain study focus (e.g., shift heavier blocks to later in the day if needed).",
+      "Contingency snack plan for cafeteria variability to minimize disruptions to study blocks.",
+      "Private tutoring viability: cost and scheduling may be prohibitive; explore low-cost alternatives and scheduling-friendly options (peer tutoring, TA office hours, study groups, free online resources)."
+    ],
+    "decisions": [
+      "Adopt active recall and spaced practice as the primary study strategy (problem-solving and retrieval over passive rereading).",
+      "Use 50-minute focus blocks with short breaks for study sessions.",
+      "Re-analyze the previous practice exam by topic and error type and convert each error into a 1–2 line SRS question.",
+      "Prioritize the top 2-3 weakest topics and allocate extra retrieval blocks to them each week.",
+      "Increase exam simulations: maintain one full timed practice exam every weekend and add one half-length timed set mid-week to practice pacing and error correction.",
+      "Maintain daily 50-minute blocks: one block closed-book problem-solving on a targeted weak topic, one block timed MCQs/speed drills with immediate error-driven remediation.",
+      "Use your error log as the spine of spaced practice — review cards on a 1-3-7-14 day cadence and force yourself to re-solve missed problems closed-book.",
+      "Set milestones: aim for 75-78% on a timed full test within 7-10 days, 80-83% by halfway through the plan, and consistent >=85% on at least two full tests in the final two weeks.",
+      "If helpful, convert these adjustments into a revised day-by-day schedule (50-minute blocks) for the coming weeks.",
+      "Adopt a two-week A/B test to evaluate ambient playlist effectiveness on focus, keeping caffeine constant.",
+      "Pack preferred snacks/meals to avoid cafeteria dependency."
+    ],
+    "entities": [
+      "exam domain: probability and inference",
+      "timeframe: ~6 weeks",
+      "exam format: mostly MCQ with short calculation questions",
+      "study hours: weekdays ~2h, weekend days ~4h, total ~18h/week",
+      "resources available: course textbook, lecture notes, old practice exams",
+      "learning style: active recall and spaced practice",
+      "block length: 50 minutes per focus block (with ~10-minute breaks)",
+      "error log generation and usage for spaced practice",
+      "SRS questions generated from errors (1-2 lines each)",
+      "targeted weak-topic retrieval blocks weekly",
+      "assessment schedule: weekly full timed practice exam plus mid-week half-length timed set",
+      "review cadence: 1-3-7-14 day spaced repetition",
+      "milestones: 75-78% in 7-10 days, 80-83% by halfway, >=85% on two full tests in final two weeks",
+      "day-by-day schedule option: 50-minute blocks",
+      "noise management: potential use of noise-cancelling headphones to maintain focus during 50-minute blocks",
+      "focus aids: ambient playlist",
+      "caffeine influence on focus",
+      "test duration: two weeks",
+      "A/B testing for focus environment",
+      "snack management integrated with study schedule",
+      "baking as a reward mechanism in study plan",
+      "ergonomics: standing interval feasibility between study blocks",
+      "workspace optimization: desk layout and plant placement",
+      "cafeteria menu variability affecting snack availability"
+    ],
+    "open": [
+      "Identify covered subjects/topics and hardest topics",
+      "Confirm existing study materials (books, courses, question banks)",
+      "Note any constraints or preferred study times (work, family, time zones)",
+      "Plan and implement a two-week ambient playlist vs silence A/B test for focus blocks",
+      "Plan and implement a structured reward plan tying baking to study blocks",
+      "Provide quick snack options that minimize disruption to study time",
+      "Printer ink outage contingency: assess impact on planned printed materials and switch to digital/alternative resources; adjust today's plan if needed.",
+      "Gather seminar details (time, duration, recording availability) to decide attendance and impact on study blocks.",
+      "Plan and evaluate short standing intervals between 50-minute focus blocks as a feasibility adjustment",
+      "Assess impact of desk reorganization and plant placement on study focus; schedule a short adjustment session if needed.",
+      "Limit time spent in study community chat; establish boundaries (e.g., check-ins only during scheduled breaks) and use chat as a reward rather than during 50-minute focus blocks.",
+      "Address sleep disruption: identify practical steps (sleep hygiene, schedule adjustments) to minimize impact on study blocks.",
+      "ergonomics: newly assembled chair; evaluate its impact on comfort and posture during 50-minute focus blocks and adjust standing interval feasibility accordingly.",
+      "workspace optimization: chair upgrade may influence desk layout and plant placement; review and adjust as needed.",
+      "Assess impact of new chair on study flow and adjust routines to prevent loss of prime study hours",
+      "Assess viability of private tutoring (cost, scheduling) and identify low-cost alternatives (peer tutoring, TA office hours, study groups) to address potential barriers."
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 29114,
+    "outputTokens": 72732,
+    "totalTokens": 101846
+  },
+  "timestamp": "2026-02-14T23:48:25.789Z"
+}

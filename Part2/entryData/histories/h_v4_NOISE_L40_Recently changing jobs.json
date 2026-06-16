@@ -1,0 +1,197 @@
+{
+  "id": "h_v4_NOISE_L40_Recently changing jobs",
+  "scriptId": "cs_v4_NOISE_L40_Recently changing jobs",
+  "cutoffIndex": 24,
+  "messages": [
+    {
+      "role": "user",
+      "content": "Hey — I just switched jobs recently and would like your help getting my communications right."
+    },
+    {
+      "role": "assistant",
+      "content": "Congrats on the new role — nice move. I can help with that. What specific communications do you want help with (e.g., LinkedIn announcement, intro message to your new team, first-one‑on‑one with your manager, status updates, email templates, Slack tone)? Also tell me the audience and preferred tone (formal, friendly, concise), or paste a draft you want revised."
+    },
+    {
+      "role": "user",
+      "content": "I want to prepare two short pieces: a private note to my previous team and a public announcement to my professional contacts."
+    },
+    {
+      "role": "assistant",
+      "content": "Great — I can do that. A few quick questions so the drafts match what you want:\n\n- Do you want to name your previous team/company and your new company/title in either message?\n- Tone preferences: private note — warm/personal or formal/concise? public announcement — celebratory, strictly professional, or brief and factual?\n- Private note: will it be sent individually to people or as a group message? Any specific colleagues or achievements you want to call out (or anything to avoid)?\n- Where will the public announcement appear (LinkedIn post, email to contacts, or something else)?\n- Length: one short paragraph each, or up to two?\n\nTell me the answers or paste any details you want included, and I’ll draft both."
+    },
+    {
+      "role": "user",
+      "content": "For both, I'm aiming for a warm, professional tone — appreciative and concise."
+    },
+    {
+      "role": "assistant",
+      "content": "Private note to your previous team (group-friendly, can be sent individually with minor edits)\n\nHi everyone — I wanted to let you know I’ve accepted a new role at [New Company] and will be moving on from [Previous Company]. Thank you for the support, collaboration, and everything we accomplished together — I’m proud of our work and will miss being part of this team. Wishing you all continued success; please keep in touch (LinkedIn: [link] / email: [email]).\n\nPublic announcement to professional contacts (LinkedIn-friendly)\n\nI’m excited to share that I’ve joined [New Company] as [Title]. I’m grateful to my colleagues at [Previous Company] for their support and the opportunities that helped me get here — thank you. Looking forward to this next chapter and to connecting with anyone interested in [area/industry/goal]."
+    },
+    {
+      "role": "user",
+      "content": "The private note should mention I'm available to help with handover and say thanks for the collaboration."
+    },
+    {
+      "role": "assistant",
+      "content": "Hi everyone — I wanted to let you know I’ve accepted a new role at [New Company] and will be moving on from [Previous Company]. Thank you for the collaboration and support — I’m proud of what we accomplished together. I’m available to help with the handover, so please reach out if there’s anything I can do before I leave. Wishing you all continued success; please keep in touch (LinkedIn: [link] / email: [email])."
+    },
+    {
+      "role": "user",
+      "content": "The public message should be suitable for a general audience; nothing company-specific or technical."
+    },
+    {
+      "role": "assistant",
+      "content": "Private note to your previous team\n\nHi everyone — I wanted to let you know I’ve accepted a new role and will be moving on from [Previous Company]. Thank you for the collaboration and support — I’m proud of what we accomplished together. I’m available to help with the handover, so please reach out if there’s anything I can do before I leave. Wishing you all continued success; please keep in touch (LinkedIn: [link] / email: [email]).\n\nPublic announcement for a general audience\n\nI’m excited to share that I’ve started a new role. I’m grateful to my former colleagues for their support and the opportunities that helped me grow — thank you. Looking forward to this next chapter and to connecting with friends and colleagues."
+    },
+    {
+      "role": "user",
+      "content": "I'd also prefer to keep personal names minimal and avoid sharing compensation or negotiation details."
+    },
+    {
+      "role": "assistant",
+      "content": "Got it — I’ll keep personal names minimal and omit any compensation/negotiation details. Here are the revised drafts:\n\nPrivate note to your previous team\n\nHi everyone — I wanted to let you know I’ve accepted a new role and will be moving on from [Previous Company]. Thank you for the collaboration and support — I’m proud of what we accomplished together. I’m available to help with the handover, so please reach out if there’s anything I can do before I leave. Wishing you all continued success; please keep in touch (LinkedIn: [link] / email: [email]).\n\nPublic announcement for a general audience\n\nI’m excited to share that I’ve started a new role. I’m grateful to my former colleagues for their support and the opportunities that helped me grow — thank you. Looking forward to this next chapter and to connecting with friends and colleagues."
+    },
+    {
+      "role": "user",
+      "content": "Make the wording simple enough that someone outside the industry will understand it."
+    },
+    {
+      "role": "assistant",
+      "content": "Private note to your previous team\n\nHi everyone — I wanted to let you know I’ve accepted a new job and will be leaving [Previous Company]. Thank you for the teamwork and support — I’m proud of what we achieved together. I’m available to help with the handover, so please reach out if there’s anything I can do before I leave. Wishing you all the best; please keep in touch (LinkedIn: [link] / email: [email]).\n\nPublic announcement for a general audience\n\nHello — I’m happy to share that I’ve started a new job. I’m grateful to my former colleagues for their support and what I learned while working with them — thank you. I’m looking forward to this next chapter and to staying connected with friends and colleagues."
+    },
+    {
+      "role": "user",
+      "content": "Keep the pieces short — ideally a single short paragraph each so I can paste them into an email and a post."
+    },
+    {
+      "role": "assistant",
+      "content": "Private note to your previous team\n\nHi everyone — I wanted to let you know I’ve accepted a new job and will be leaving [Previous Company]. Thank you for the teamwork and support — I’m proud of what we achieved together. I’m happy to help with the handover, so please reach out if there’s anything I can do before I go. Wishing you all the best; please keep in touch (LinkedIn: [link] / email: [email]).\n\nPublic announcement for a general audience\n\nHello — I’m happy to share that I’ve started a new job. I’m grateful to my former colleagues for their support and what I learned while working with them — thank you. I’m looking forward to this next chapter and to staying connected with friends and colleagues."
+    },
+    {
+      "role": "user",
+      "content": "I don't want them to read like a brag list; more a friendly sign-off and a positive look ahead."
+    },
+    {
+      "role": "assistant",
+      "content": "Private note to your previous team\n\nHi everyone — I wanted to let you know I’ve accepted a new job and will be leaving [Previous Company]. Thank you for the teamwork and support — I’m grateful for what we accomplished together. I’m happy to help with the handover, so please reach out if there’s anything I can do before I go. Wishing you all the best; please keep in touch (LinkedIn: [link] / email: [email]).\n\nPublic announcement for a general audience\n\nHello — I wanted to share that I’ve started a new job. Thank you to my former colleagues for their support and what I learned while working with them. I’m looking forward to this next chapter and to staying connected with friends and colleagues."
+    },
+    {
+      "role": "user",
+      "content": "If that's clear, I can ask you to draft them in a minute."
+    },
+    {
+      "role": "assistant",
+      "content": "Clear — I’m ready whenever you are to draft them."
+    },
+    {
+      "role": "user",
+      "content": "Packing up my desk felt oddly emotional — I found a scribbled to-do from years ago that made me laugh."
+    },
+    {
+      "role": "assistant",
+      "content": "That’s a nice moment — small finds like that can stick with you. Glad it made you laugh."
+    },
+    {
+      "role": "user",
+      "content": "A coworker gave me a ridiculous oversized mug on my last day; I swear it's bigger than my head."
+    },
+    {
+      "role": "assistant",
+      "content": "That's hilarious — sounds like a legendary farewell mug. Perfect conversation piece; hope it gave you a good laugh on your last day."
+    },
+    {
+      "role": "user",
+      "content": "On the way out someone taped a goofy photo montage on my monitor — totally unexpected and sweet."
+    },
+    {
+      "role": "assistant",
+      "content": "That’s really sweet — little surprises like that make goodbyes feel warm. Hope it left you smiling."
+    },
+    {
+      "role": "user",
+      "content": "I gave my small desk plant to one of the newer hires; it felt strange parting with something so tiny."
+    },
+    {
+      "role": "assistant",
+      "content": "That was a nice gesture — even small things can carry a lot of meaning, and it’s perfectly normal to feel a little odd handing them off."
+    },
+    {
+      "role": "user",
+      "content": "My commute changed quite a bit: a longer ride but I get to walk through a small park now and that helps."
+    },
+    {
+      "role": "assistant",
+      "content": "That sounds like a worthwhile trade-off — a longer ride, but a peaceful walk through the park can be a great way to start or end the day and make the change feel more manageable."
+    },
+    {
+      "role": "user",
+      "content": "HR had one last form that needed an extra signature; it took longer than I thought and I nearly missed a meeting."
+    },
+    {
+      "role": "assistant",
+      "content": "Ugh — that’s frustrating. Last‑minute HR paperwork can really throw off your day; hope you were able to make the meeting or reschedule without too much hassle."
+    },
+    {
+      "role": "user",
+      "content": "The new office sent onboarding swag — a giant hoodie and a notebook with a logo I can't quite pronounce."
+    },
+    {
+      "role": "assistant",
+      "content": "Nice — that sounds like a fun welcome. Giant hoodies are the best for cozy commutes, and a logo you can’t pronounce is a perfect icebreaker."
+    },
+    {
+      "role": "user",
+      "content": "My partner joked that I'm collecting company hoodies like merit badges; maybe they're right."
+    },
+    {
+      "role": "assistant",
+      "content": "Haha — that’s a perfect line. Hoodies as merit badges — comfy, practical, and a fun way to remember each stop."
+    },
+    {
+      "role": "user",
+      "content": "I spent an afternoon sorting old emails and deleting clutter; the archive is suddenly more organized than my desk."
+    },
+    {
+      "role": "assistant",
+      "content": "Nice — that must feel satisfying. A tidier inbox can make things feel a bit lighter, even if the desk hasn’t caught up yet."
+    },
+    {
+      "role": "user",
+      "content": "I bumped into a former teammate in the elevator and we traded little tips about recurring meetings and calendar tricks."
+    },
+    {
+      "role": "assistant",
+      "content": "Those quick hallway—or elevator—catch-ups are the best; little calendar tips can save so much hassle. Glad you bumped into them."
+    },
+    {
+      "role": "user",
+      "content": "I heard that at the new place they do board games on Fridays — not what I expected, but it sounds fun."
+    },
+    {
+      "role": "assistant",
+      "content": "That sounds fun — a relaxed, low‑pressure way to meet people and unwind. Hope you get to join in a game or two."
+    },
+    {
+      "role": "user",
+      "content": "I've been keeping a running note of onboarding questions, but sometimes I overthink how to phrase something."
+    },
+    {
+      "role": "assistant",
+      "content": "That's totally normal — it's easy to overthink wording when you want to make a good impression. If you'd like, paste a few of your questions and I can help make them clear and concise."
+    },
+    {
+      "role": "user",
+      "content": "My cat walked across the keyboard during a last-week video call and somehow stole the show."
+    },
+    {
+      "role": "assistant",
+      "content": "That's hilarious — cats have perfect timing for steals-the-show moments. Bet it gave everyone a good laugh."
+    }
+  ],
+  "metadata": {
+    "inputTokens": 43394,
+    "outputTokens": 11073,
+    "totalTokens": 54467,
+    "timestamp": "2026-02-13T18:24:26.465Z"
+  }
+}

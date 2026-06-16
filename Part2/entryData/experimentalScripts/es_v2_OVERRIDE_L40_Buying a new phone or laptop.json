@@ -1,0 +1,27 @@
+{
+  "id": "es_v2_OVERRIDE_L40_Buying a new phone or laptop",
+  "scriptId": "cs_v2_OVERRIDE_L40_Buying a new phone or laptop",
+  "historyId": "h_v2_OVERRIDE_L40_Buying a new phone or laptop",
+  "cutoffIndex": 24,
+  "messages": [
+    "Update: there's been a sudden change — my available funds for this upgrade are now down to roughly three hundred dollars total.",
+    "That obviously changes the earlier plans; what realistic options exist for a laptop at that price point that won't be useless for light photo editing?",
+    "Alternatively, what used or entry-level phones can I actually get new or refurbished that still take decent photos and have acceptable battery life?",
+    "Would you lean toward spending all of that on one device and keeping the other for another year, or trying to split it across both somehow?",
+    "How viable are Chromebooks for my workflow if I rely more on web-based editing and cloud storage under this constraint?",
+    "If I look at refurbished or used devices, what specific models (previous-generation flagships or budget models) should I search for?",
+    "I'm wary of batteries in used devices — what red flags should I watch for in listing descriptions and seller responses?",
+    "Which refurb programs or marketplaces have the best track records for verified condition and reasonable return policies at this price?",
+    "Also, any tips on bargaining or maximizing trade-in value given the abrupt reduction in funds?",
+    "Finally, to narrow it down — which single device category would get me the most immediate benefit for work and photos if I can spend only that smaller amount now?",
+    "Given the tight limit I described, can you produce a concise, prioritized shortlist: three laptop options and three phone options I can realistically buy right now?",
+    "For each entry, briefly note whether to buy new or refurbished, the expected condition or age, and one sentence on how well it will handle my light editing and travel needs.",
+    "Include a short checklist of the key things to verify in a used listing or at pickup to avoid ending up with a device that dies quickly.",
+    "If I absolutely must pick only one device at the moment, recommend which category to choose and give a one-paragraph justification focused on utility and longevity.",
+    "Point me to the top two places to search first and give one practical negotiation or warranty tip that works well within this constrained spend.",
+    "Wrap up with a single low-cost accessory recommendation that would most increase the usefulness of whichever device I end up with, keeping costs minimal."
+  ],
+  "metadata": {
+    "timestamp": "2026-02-12T22:09:09.597Z"
+  }
+}

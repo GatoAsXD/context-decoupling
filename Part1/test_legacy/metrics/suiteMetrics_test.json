@@ -1,0 +1,700 @@
+{
+  "metadata": {
+    "suiteName": "test",
+    "processedAt": "2026-01-31T01:56:07.988Z",
+    "model": "gpt-5-mini",
+    "effort": "medium",
+    "embeddingModel": "",
+    "totalExperiments": 2,
+    "totalEpisodes": 18,
+    "executionTimeMs": 1918507
+  },
+  "normalizedEpisodes": [
+    {
+      "isValid": true,
+      "record": {
+        "suiteName": "0",
+        "experimentName": "test_0",
+        "scriptHash": "bd842e6b08943e2ccf049df850305b9e74f140653cd326cad0482e5889ddd531",
+        "scriptSource": "embedded",
+        "historyHash": "a65a5859d50737098c080816adfb6b29256adf138af2b7ec26e17b71a2550f70",
+        "historySource": "embedded",
+        "condition": "A_FullHistory",
+        "runIndex": 1,
+        "turnCount": 6,
+        "totalInputTokens": 30506,
+        "totalOutputTokens": 9389,
+        "totalEmbeddingTokens": 0,
+        "estimatedCostUsd": 0.026404499999999997,
+        "executionTimeMs": 113367,
+        "meanLatencyPerTurnMs": 18894.5
+      }
+    },
+    {
+      "isValid": true,
+      "record": {
+        "suiteName": "0",
+        "experimentName": "test_0",
+        "scriptHash": "bd842e6b08943e2ccf049df850305b9e74f140653cd326cad0482e5889ddd531",
+        "scriptSource": "embedded",
+        "historyHash": "a65a5859d50737098c080816adfb6b29256adf138af2b7ec26e17b71a2550f70",
+        "historySource": "embedded",
+        "condition": "A_FullHistory",
+        "runIndex": 2,
+        "turnCount": 6,
+        "totalInputTokens": 29732,
+        "totalOutputTokens": 7687,
+        "totalEmbeddingTokens": 0,
+        "estimatedCostUsd": 0.022806999999999997,
+        "executionTimeMs": 106563,
+        "meanLatencyPerTurnMs": 17760.5
+      }
+    },
+    {
+      "isValid": true,
+      "record": {
+        "suiteName": "0",
+        "experimentName": "test_0",
+        "scriptHash": "bd842e6b08943e2ccf049df850305b9e74f140653cd326cad0482e5889ddd531",
+        "scriptSource": "embedded",
+        "historyHash": "a65a5859d50737098c080816adfb6b29256adf138af2b7ec26e17b71a2550f70",
+        "historySource": "embedded",
+        "condition": "A_FullHistory",
+        "runIndex": 3,
+        "turnCount": 6,
+        "totalInputTokens": 28796,
+        "totalOutputTokens": 8293,
+        "totalEmbeddingTokens": 0,
+        "estimatedCostUsd": 0.023785,
+        "executionTimeMs": 123808,
+        "meanLatencyPerTurnMs": 20634.5
+      }
+    },
+    {
+      "isValid": true,
+      "record": {
+        "suiteName": "0",
+        "experimentName": "test_0",
+        "scriptHash": "bd842e6b08943e2ccf049df850305b9e74f140653cd326cad0482e5889ddd531",
+        "scriptSource": "embedded",
+        "historyHash": "a65a5859d50737098c080816adfb6b29256adf138af2b7ec26e17b71a2550f70",
+        "historySource": "embedded",
+        "condition": "B_SlidingWindow",
+        "runIndex": 1,
+        "turnCount": 6,
+        "totalInputTokens": 16927,
+        "totalOutputTokens": 7682,
+        "totalEmbeddingTokens": 0,
+        "estimatedCostUsd": 0.01959575,
+        "executionTimeMs": 89567,
+        "meanLatencyPerTurnMs": 14927.666666666666
+      }
+    },
+    {
+      "isValid": true,
+      "record": {
+        "suiteName": "0",
+        "experimentName": "test_0",
+        "scriptHash": "bd842e6b08943e2ccf049df850305b9e74f140653cd326cad0482e5889ddd531",
+        "scriptSource": "embedded",
+        "historyHash": "a65a5859d50737098c080816adfb6b29256adf138af2b7ec26e17b71a2550f70",
+        "historySource": "embedded",
+        "condition": "B_SlidingWindow",
+        "runIndex": 2,
+        "turnCount": 6,
+        "totalInputTokens": 17288,
+        "totalOutputTokens": 8517,
+        "totalEmbeddingTokens": 0,
+        "estimatedCostUsd": 0.021356,
+        "executionTimeMs": 114115,
+        "meanLatencyPerTurnMs": 19019.166666666668
+      }
+    },
+    {
+      "isValid": true,
+      "record": {
+        "suiteName": "0",
+        "experimentName": "test_0",
+        "scriptHash": "bd842e6b08943e2ccf049df850305b9e74f140653cd326cad0482e5889ddd531",
+        "scriptSource": "embedded",
+        "historyHash": "a65a5859d50737098c080816adfb6b29256adf138af2b7ec26e17b71a2550f70",
+        "historySource": "embedded",
+        "condition": "B_SlidingWindow",
+        "runIndex": 3,
+        "turnCount": 6,
+        "totalInputTokens": 17172,
+        "totalOutputTokens": 9448,
+        "totalEmbeddingTokens": 0,
+        "estimatedCostUsd": 0.023189,
+        "executionTimeMs": 114939,
+        "meanLatencyPerTurnMs": 19156.333333333332
+      }
+    },
+    {
+      "isValid": true,
+      "record": {
+        "suiteName": "0",
+        "experimentName": "test_0",
+        "scriptHash": "bd842e6b08943e2ccf049df850305b9e74f140653cd326cad0482e5889ddd531",
+        "scriptSource": "embedded",
+        "historyHash": "a65a5859d50737098c080816adfb6b29256adf138af2b7ec26e17b71a2550f70",
+        "historySource": "embedded",
+        "condition": "C_MemoryBased",
+        "runIndex": 1,
+        "turnCount": 6,
+        "totalInputTokens": 10193,
+        "totalOutputTokens": 9091,
+        "totalEmbeddingTokens": 8665,
+        "estimatedCostUsd": 0.0228965,
+        "executionTimeMs": 103447,
+        "meanLatencyPerTurnMs": 17241.166666666668
+      }
+    },
+    {
+      "isValid": true,
+      "record": {
+        "suiteName": "0",
+        "experimentName": "test_0",
+        "scriptHash": "bd842e6b08943e2ccf049df850305b9e74f140653cd326cad0482e5889ddd531",
+        "scriptSource": "embedded",
+        "historyHash": "a65a5859d50737098c080816adfb6b29256adf138af2b7ec26e17b71a2550f70",
+        "historySource": "embedded",
+        "condition": "C_MemoryBased",
+        "runIndex": 2,
+        "turnCount": 6,
+        "totalInputTokens": 10190,
+        "totalOutputTokens": 9666,
+        "totalEmbeddingTokens": 8074,
+        "estimatedCostUsd": 0.023898,
+        "executionTimeMs": 103908,
+        "meanLatencyPerTurnMs": 17318
+      }
+    },
+    {
+      "isValid": true,
+      "record": {
+        "suiteName": "0",
+        "experimentName": "test_0",
+        "scriptHash": "bd842e6b08943e2ccf049df850305b9e74f140653cd326cad0482e5889ddd531",
+        "scriptSource": "embedded",
+        "historyHash": "a65a5859d50737098c080816adfb6b29256adf138af2b7ec26e17b71a2550f70",
+        "historySource": "embedded",
+        "condition": "C_MemoryBased",
+        "runIndex": 3,
+        "turnCount": 6,
+        "totalInputTokens": 9520,
+        "totalOutputTokens": 9148,
+        "totalEmbeddingTokens": 7874,
+        "estimatedCostUsd": 0.022644499999999998,
+        "executionTimeMs": 103556,
+        "meanLatencyPerTurnMs": 17259.333333333332
+      }
+    },
+    {
+      "isValid": true,
+      "record": {
+        "suiteName": "1",
+        "experimentName": "test_1",
+        "scriptHash": "402a770682cfa09d2c19cea3a5abf1d8ac868882879ed05a9be870aa527591fa",
+        "scriptSource": "embedded",
+        "historyHash": "b4f445313896fa72eb38cf346b5ab7300686c4737785274dceb152567129cc1e",
+        "historySource": "embedded",
+        "condition": "A_FullHistory",
+        "runIndex": 1,
+        "turnCount": 6,
+        "totalInputTokens": 33512,
+        "totalOutputTokens": 10162,
+        "totalEmbeddingTokens": 0,
+        "estimatedCostUsd": 0.028702,
+        "executionTimeMs": 115965,
+        "meanLatencyPerTurnMs": 19327.5
+      }
+    },
+    {
+      "isValid": true,
+      "record": {
+        "suiteName": "1",
+        "experimentName": "test_1",
+        "scriptHash": "402a770682cfa09d2c19cea3a5abf1d8ac868882879ed05a9be870aa527591fa",
+        "scriptSource": "embedded",
+        "historyHash": "b4f445313896fa72eb38cf346b5ab7300686c4737785274dceb152567129cc1e",
+        "historySource": "embedded",
+        "condition": "A_FullHistory",
+        "runIndex": 2,
+        "turnCount": 6,
+        "totalInputTokens": 33679,
+        "totalOutputTokens": 9260,
+        "totalEmbeddingTokens": 0,
+        "estimatedCostUsd": 0.02693975,
+        "executionTimeMs": 107532,
+        "meanLatencyPerTurnMs": 17922
+      }
+    },
+    {
+      "isValid": true,
+      "record": {
+        "suiteName": "1",
+        "experimentName": "test_1",
+        "scriptHash": "402a770682cfa09d2c19cea3a5abf1d8ac868882879ed05a9be870aa527591fa",
+        "scriptSource": "embedded",
+        "historyHash": "b4f445313896fa72eb38cf346b5ab7300686c4737785274dceb152567129cc1e",
+        "historySource": "embedded",
+        "condition": "A_FullHistory",
+        "runIndex": 3,
+        "turnCount": 6,
+        "totalInputTokens": 31890,
+        "totalOutputTokens": 9023,
+        "totalEmbeddingTokens": 0,
+        "estimatedCostUsd": 0.0260185,
+        "executionTimeMs": 99870,
+        "meanLatencyPerTurnMs": 16645
+      }
+    },
+    {
+      "isValid": true,
+      "record": {
+        "suiteName": "1",
+        "experimentName": "test_1",
+        "scriptHash": "402a770682cfa09d2c19cea3a5abf1d8ac868882879ed05a9be870aa527591fa",
+        "scriptSource": "embedded",
+        "historyHash": "b4f445313896fa72eb38cf346b5ab7300686c4737785274dceb152567129cc1e",
+        "historySource": "embedded",
+        "condition": "B_SlidingWindow",
+        "runIndex": 1,
+        "turnCount": 6,
+        "totalInputTokens": 18981,
+        "totalOutputTokens": 8337,
+        "totalEmbeddingTokens": 0,
+        "estimatedCostUsd": 0.021419249999999997,
+        "executionTimeMs": 99152,
+        "meanLatencyPerTurnMs": 16525.333333333332
+      }
+    },
+    {
+      "isValid": true,
+      "record": {
+        "suiteName": "1",
+        "experimentName": "test_1",
+        "scriptHash": "402a770682cfa09d2c19cea3a5abf1d8ac868882879ed05a9be870aa527591fa",
+        "scriptSource": "embedded",
+        "historyHash": "b4f445313896fa72eb38cf346b5ab7300686c4737785274dceb152567129cc1e",
+        "historySource": "embedded",
+        "condition": "B_SlidingWindow",
+        "runIndex": 2,
+        "turnCount": 6,
+        "totalInputTokens": 19156,
+        "totalOutputTokens": 8359,
+        "totalEmbeddingTokens": 0,
+        "estimatedCostUsd": 0.021507,
+        "executionTimeMs": 88769,
+        "meanLatencyPerTurnMs": 14794.833333333334
+      }
+    },
+    {
+      "isValid": true,
+      "record": {
+        "suiteName": "1",
+        "experimentName": "test_1",
+        "scriptHash": "402a770682cfa09d2c19cea3a5abf1d8ac868882879ed05a9be870aa527591fa",
+        "scriptSource": "embedded",
+        "historyHash": "b4f445313896fa72eb38cf346b5ab7300686c4737785274dceb152567129cc1e",
+        "historySource": "embedded",
+        "condition": "B_SlidingWindow",
+        "runIndex": 3,
+        "turnCount": 6,
+        "totalInputTokens": 19295,
+        "totalOutputTokens": 8868,
+        "totalEmbeddingTokens": 0,
+        "estimatedCostUsd": 0.022559749999999996,
+        "executionTimeMs": 95133,
+        "meanLatencyPerTurnMs": 15855.5
+      }
+    },
+    {
+      "isValid": true,
+      "record": {
+        "suiteName": "1",
+        "experimentName": "test_1",
+        "scriptHash": "402a770682cfa09d2c19cea3a5abf1d8ac868882879ed05a9be870aa527591fa",
+        "scriptSource": "embedded",
+        "historyHash": "b4f445313896fa72eb38cf346b5ab7300686c4737785274dceb152567129cc1e",
+        "historySource": "embedded",
+        "condition": "C_MemoryBased",
+        "runIndex": 1,
+        "turnCount": 6,
+        "totalInputTokens": 11367,
+        "totalOutputTokens": 9388,
+        "totalEmbeddingTokens": 7954,
+        "estimatedCostUsd": 0.02360625,
+        "executionTimeMs": 108624,
+        "meanLatencyPerTurnMs": 18104
+      }
+    },
+    {
+      "isValid": true,
+      "record": {
+        "suiteName": "1",
+        "experimentName": "test_1",
+        "scriptHash": "402a770682cfa09d2c19cea3a5abf1d8ac868882879ed05a9be870aa527591fa",
+        "scriptSource": "embedded",
+        "historyHash": "b4f445313896fa72eb38cf346b5ab7300686c4737785274dceb152567129cc1e",
+        "historySource": "embedded",
+        "condition": "C_MemoryBased",
+        "runIndex": 2,
+        "turnCount": 6,
+        "totalInputTokens": 12022,
+        "totalOutputTokens": 9636,
+        "totalEmbeddingTokens": 8251,
+        "estimatedCostUsd": 0.024340249999999997,
+        "executionTimeMs": 123118,
+        "meanLatencyPerTurnMs": 20519.666666666668
+      }
+    },
+    {
+      "isValid": true,
+      "record": {
+        "suiteName": "1",
+        "experimentName": "test_1",
+        "scriptHash": "402a770682cfa09d2c19cea3a5abf1d8ac868882879ed05a9be870aa527591fa",
+        "scriptSource": "embedded",
+        "historyHash": "b4f445313896fa72eb38cf346b5ab7300686c4737785274dceb152567129cc1e",
+        "historySource": "embedded",
+        "condition": "C_MemoryBased",
+        "runIndex": 3,
+        "turnCount": 6,
+        "totalInputTokens": 11444,
+        "totalOutputTokens": 10184,
+        "totalEmbeddingTokens": 8253,
+        "estimatedCostUsd": 0.02529225,
+        "executionTimeMs": 107047,
+        "meanLatencyPerTurnMs": 17841.166666666668
+      }
+    }
+  ],
+  "aggregatedByCondition": [
+    {
+      "condition": "A_FullHistory",
+      "episodeCount": 6,
+      "mean": {
+        "totalInputTokens": 31352.5,
+        "totalOutputTokens": 8969,
+        "totalEmbeddingTokens": 0,
+        "totalLLMTokens": 40321.5,
+        "totalSystemTokens": 40321.5,
+        "estimatedCostUsd": 0.025776125,
+        "executionTimeMs": 111184.16666666667,
+        "turnCount": 6,
+        "inputTokensPerTurn": 5225.416666666667,
+        "outputTokensPerTurn": 1494.8333333333333,
+        "embeddingTokensPerTurn": 0,
+        "llmTokensPerTurn": 6720.25,
+        "systemTokensPerTurn": 6720.25,
+        "costPerTurnUsd": 0.004296020833333334,
+        "latencyPerTurnMs": 18530.666666666668
+      },
+      "median": {
+        "totalInputTokens": 31198,
+        "totalOutputTokens": 9141.5,
+        "totalEmbeddingTokens": 0,
+        "totalLLMTokens": 40339.5,
+        "totalSystemTokens": 40339.5,
+        "estimatedCostUsd": 0.0262115,
+        "executionTimeMs": 110449.5,
+        "turnCount": 6,
+        "inputTokensPerTurn": 5199.666666666666,
+        "outputTokensPerTurn": 1523.5833333333333,
+        "embeddingTokensPerTurn": 0,
+        "llmTokensPerTurn": 6723.25,
+        "systemTokensPerTurn": 6723.25,
+        "costPerTurnUsd": 0.004368583333333333,
+        "latencyPerTurnMs": 18408.25
+      },
+      "min": {
+        "totalInputTokens": 28796,
+        "totalOutputTokens": 7687,
+        "totalEmbeddingTokens": 0,
+        "totalLLMTokens": 37089,
+        "totalSystemTokens": 37089,
+        "estimatedCostUsd": 0.022806999999999997,
+        "executionTimeMs": 99870,
+        "turnCount": 6,
+        "inputTokensPerTurn": 4799.333333333333,
+        "outputTokensPerTurn": 1281.1666666666667,
+        "embeddingTokensPerTurn": 0,
+        "llmTokensPerTurn": 6181.5,
+        "systemTokensPerTurn": 6181.5,
+        "costPerTurnUsd": 0.0038011666666666662,
+        "latencyPerTurnMs": 16645
+      },
+      "max": {
+        "totalInputTokens": 33679,
+        "totalOutputTokens": 10162,
+        "totalEmbeddingTokens": 0,
+        "totalLLMTokens": 43674,
+        "totalSystemTokens": 43674,
+        "estimatedCostUsd": 0.028702,
+        "executionTimeMs": 123808,
+        "turnCount": 6,
+        "inputTokensPerTurn": 5613.166666666667,
+        "outputTokensPerTurn": 1693.6666666666667,
+        "embeddingTokensPerTurn": 0,
+        "llmTokensPerTurn": 7279,
+        "systemTokensPerTurn": 7279,
+        "costPerTurnUsd": 0.004783666666666666,
+        "latencyPerTurnMs": 20634.5
+      },
+      "std": {
+        "totalInputTokens": 1836.8098930845656,
+        "totalOutputTokens": 794.5382306723824,
+        "totalEmbeddingTokens": 0,
+        "totalLLMTokens": 2499.8633129299956,
+        "totalSystemTokens": 2499.8633129299956,
+        "estimatedCostUsd": 0.0019642068148385834,
+        "executionTimeMs": 7634.201189748378,
+        "turnCount": 0,
+        "inputTokensPerTurn": 306.1349821807611,
+        "outputTokensPerTurn": 132.42303844539705,
+        "embeddingTokensPerTurn": 0,
+        "llmTokensPerTurn": 416.6438854883326,
+        "systemTokensPerTurn": 416.6438854883326,
+        "costPerTurnUsd": 0.00032736780247309704,
+        "latencyPerTurnMs": 1272.3209326092044
+      }
+    },
+    {
+      "condition": "B_SlidingWindow",
+      "episodeCount": 6,
+      "mean": {
+        "totalInputTokens": 18136.5,
+        "totalOutputTokens": 8535.166666666666,
+        "totalEmbeddingTokens": 0,
+        "totalLLMTokens": 26671.666666666668,
+        "totalSystemTokens": 26671.666666666668,
+        "estimatedCostUsd": 0.02160445833333333,
+        "executionTimeMs": 100279.16666666667,
+        "turnCount": 6,
+        "inputTokensPerTurn": 3022.75,
+        "outputTokensPerTurn": 1422.5277777777778,
+        "embeddingTokensPerTurn": 0,
+        "llmTokensPerTurn": 4445.277777777777,
+        "systemTokensPerTurn": 4445.277777777777,
+        "costPerTurnUsd": 0.003600743055555555,
+        "latencyPerTurnMs": 16713.138888888887
+      },
+      "median": {
+        "totalInputTokens": 18134.5,
+        "totalOutputTokens": 8438,
+        "totalEmbeddingTokens": 0,
+        "totalLLMTokens": 26572.5,
+        "totalSystemTokens": 26572.5,
+        "estimatedCostUsd": 0.021463125,
+        "executionTimeMs": 97142.5,
+        "turnCount": 6,
+        "inputTokensPerTurn": 3022.416666666667,
+        "outputTokensPerTurn": 1406.3333333333335,
+        "embeddingTokensPerTurn": 0,
+        "llmTokensPerTurn": 4428.75,
+        "systemTokensPerTurn": 4428.75,
+        "costPerTurnUsd": 0.0035771874999999996,
+        "latencyPerTurnMs": 16190.416666666666
+      },
+      "min": {
+        "totalInputTokens": 16927,
+        "totalOutputTokens": 7682,
+        "totalEmbeddingTokens": 0,
+        "totalLLMTokens": 24609,
+        "totalSystemTokens": 24609,
+        "estimatedCostUsd": 0.01959575,
+        "executionTimeMs": 88769,
+        "turnCount": 6,
+        "inputTokensPerTurn": 2821.1666666666665,
+        "outputTokensPerTurn": 1280.3333333333333,
+        "embeddingTokensPerTurn": 0,
+        "llmTokensPerTurn": 4101.5,
+        "systemTokensPerTurn": 4101.5,
+        "costPerTurnUsd": 0.003265958333333333,
+        "latencyPerTurnMs": 14794.833333333334
+      },
+      "max": {
+        "totalInputTokens": 19295,
+        "totalOutputTokens": 9448,
+        "totalEmbeddingTokens": 0,
+        "totalLLMTokens": 28163,
+        "totalSystemTokens": 28163,
+        "estimatedCostUsd": 0.023189,
+        "executionTimeMs": 114939,
+        "turnCount": 6,
+        "inputTokensPerTurn": 3215.8333333333335,
+        "outputTokensPerTurn": 1574.6666666666667,
+        "embeddingTokensPerTurn": 0,
+        "llmTokensPerTurn": 4693.833333333333,
+        "systemTokensPerTurn": 4693.833333333333,
+        "costPerTurnUsd": 0.0038648333333333334,
+        "latencyPerTurnMs": 19156.333333333332
+      },
+      "std": {
+        "totalInputTokens": 1017.1680867323092,
+        "totalOutputTokens": 538.9141603467311,
+        "totalEmbeddingTokens": 0,
+        "totalLLMTokens": 1180.494764447894,
+        "totalSystemTokens": 1180.494764447894,
+        "estimatedCostUsd": 0.0011227789502749668,
+        "executionTimeMs": 10656.210902828245,
+        "turnCount": 0,
+        "inputTokensPerTurn": 169.5280144553849,
+        "outputTokensPerTurn": 89.81902672445521,
+        "embeddingTokensPerTurn": 0,
+        "llmTokensPerTurn": 196.7491274079823,
+        "systemTokensPerTurn": 196.7491274079823,
+        "costPerTurnUsd": 0.0001871298250458278,
+        "latencyPerTurnMs": 1776.024861710438
+      }
+    },
+    {
+      "condition": "C_MemoryBased",
+      "episodeCount": 6,
+      "mean": {
+        "totalInputTokens": 10789.333333333334,
+        "totalOutputTokens": 9518.833333333334,
+        "totalEmbeddingTokens": 8178.5,
+        "totalLLMTokens": 20308.166666666668,
+        "totalSystemTokens": 28486.666666666668,
+        "estimatedCostUsd": 0.023779625,
+        "executionTimeMs": 108283.33333333333,
+        "turnCount": 6,
+        "inputTokensPerTurn": 1798.2222222222222,
+        "outputTokensPerTurn": 1586.4722222222222,
+        "embeddingTokensPerTurn": 1363.0833333333333,
+        "llmTokensPerTurn": 3384.6944444444443,
+        "systemTokensPerTurn": 4747.777777777777,
+        "costPerTurnUsd": 0.003963270833333333,
+        "latencyPerTurnMs": 18047.222222222223
+      },
+      "median": {
+        "totalInputTokens": 10780,
+        "totalOutputTokens": 9512,
+        "totalEmbeddingTokens": 8162.5,
+        "totalLLMTokens": 20292,
+        "totalSystemTokens": 28454.5,
+        "estimatedCostUsd": 0.023752125,
+        "executionTimeMs": 105477.5,
+        "turnCount": 6,
+        "inputTokensPerTurn": 1796.6666666666665,
+        "outputTokensPerTurn": 1585.3333333333335,
+        "embeddingTokensPerTurn": 1360.4166666666667,
+        "llmTokensPerTurn": 3382,
+        "systemTokensPerTurn": 4742.416666666667,
+        "costPerTurnUsd": 0.0039586874999999995,
+        "latencyPerTurnMs": 17579.583333333336
+      },
+      "min": {
+        "totalInputTokens": 9520,
+        "totalOutputTokens": 9091,
+        "totalEmbeddingTokens": 7874,
+        "totalLLMTokens": 18668,
+        "totalSystemTokens": 26542,
+        "estimatedCostUsd": 0.022644499999999998,
+        "executionTimeMs": 103447,
+        "turnCount": 6,
+        "inputTokensPerTurn": 1586.6666666666667,
+        "outputTokensPerTurn": 1515.1666666666667,
+        "embeddingTokensPerTurn": 1312.3333333333333,
+        "llmTokensPerTurn": 3111.3333333333335,
+        "systemTokensPerTurn": 4423.666666666667,
+        "costPerTurnUsd": 0.003774083333333333,
+        "latencyPerTurnMs": 17241.166666666668
+      },
+      "max": {
+        "totalInputTokens": 12022,
+        "totalOutputTokens": 10184,
+        "totalEmbeddingTokens": 8665,
+        "totalLLMTokens": 21658,
+        "totalSystemTokens": 29909,
+        "estimatedCostUsd": 0.02529225,
+        "executionTimeMs": 123118,
+        "turnCount": 6,
+        "inputTokensPerTurn": 2003.6666666666667,
+        "outputTokensPerTurn": 1697.3333333333333,
+        "embeddingTokensPerTurn": 1444.1666666666667,
+        "llmTokensPerTurn": 3609.6666666666665,
+        "systemTokensPerTurn": 4984.833333333333,
+        "costPerTurnUsd": 0.0042153749999999995,
+        "latencyPerTurnMs": 20519.666666666668
+      },
+      "std": {
+        "totalInputTokens": 876.3347280323629,
+        "totalOutputTokens": 368.6707730331886,
+        "totalEmbeddingTokens": 258.6920627567327,
+        "totalLLMTokens": 1133.37172729084,
+        "totalSystemTokens": 1183.0272843664916,
+        "estimatedCostUsd": 0.0008864559439842453,
+        "executionTimeMs": 6911.261960661663,
+        "turnCount": 0,
+        "inputTokensPerTurn": 146.05578800539382,
+        "outputTokensPerTurn": 61.44512883886472,
+        "embeddingTokensPerTurn": 43.115343792788806,
+        "llmTokensPerTurn": 188.89528788180652,
+        "systemTokensPerTurn": 197.1712140610818,
+        "costPerTurnUsd": 0.00014774265733070757,
+        "latencyPerTurnMs": 1151.876993443611
+      }
+    }
+  ],
+  "stabilityByCondition": [
+    {
+      "condition": "A_FullHistory",
+      "cost": {
+        "cv": 7.620256399433907,
+        "iqr": 0.0024625624999999977,
+        "tailAmplificationP95": 1.078207561566488,
+        "worstCaseAmplification": 1.0950155466112204
+      },
+      "tokens": {
+        "cv": 6.199827171434583,
+        "iqr": 4394.5,
+        "tailAmplificationP95": 1.076384763884764,
+        "worstCaseAmplification": 1.080932580932581
+      }
+    },
+    {
+      "condition": "B_SlidingWindow",
+      "cost": {
+        "cv": 5.196978016998654,
+        "iqr": 0.0009247499999999985,
+        "tailAmplificationP95": 1.073081739029149,
+        "worstCaseAmplification": 1.0804111703211905
+      },
+      "tokens": {
+        "cv": 4.426025486900809,
+        "iqr": 1457,
+        "tailAmplificationP95": 1.0382661574400238,
+        "worstCaseAmplification": 1.0442730542474694
+      }
+    },
+    {
+      "condition": "C_MemoryBased",
+      "cost": {
+        "cv": 3.7277961447425914,
+        "iqr": 0.0011557500000000005,
+        "tailAmplificationP95": 1.0548214107158833,
+        "worstCaseAmplification": 1.0648415668071805
+      },
+      "tokens": {
+        "cv": 5.580866780806605,
+        "iqr": 1982.75,
+        "tailAmplificationP95": 1.0662382113220557,
+        "worstCaseAmplification": 1.0666075693777548
+      }
+    }
+  ],
+  "integrityReport": {
+    "totalRecords": 18,
+    "validRecords": 18,
+    "invalidRecords": 0,
+    "reasons": {
+      "zeroTurns": 0,
+      "negativeValues": 0,
+      "missingFields": 0
+    }
+  }
+}

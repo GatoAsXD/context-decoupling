@@ -1,0 +1,27 @@
+{
+  "id": "es_v1_EARLY_L40_Adjusting to a new schedule",
+  "scriptId": "cs_v1_EARLY_L40_Adjusting to a new schedule",
+  "historyId": "h_v1_EARLY_L40_Adjusting to a new schedule",
+  "cutoffIndex": 24,
+  "messages": [
+    "What's a reasonable timeline to expect before a new schedule feels 'normal'?",
+    "Do most people adjust weekends to match weekdays, or keep weekends looser and recover then?",
+    "My cat is used to being fed at slightly different times—how do you transition pets to a human's new routine?",
+    "Any etiquette for responding to evening messages when you're increasingly unavailable at night?",
+    "Okay, to finalize my plan: what's the exact single-clock bedtime I should aim for on weekdays so I reliably reach my minimum nightly rest before that early work start?",
+    "Give that bedtime as one precise time and then give the corresponding wake-up time that lines up with the start of my shift.",
+    "Please present both times using the exact clock notation I prefer.",
+    "If I were to accept a weekly evening class that ends about 45 minutes after my weekday evening cutoff, would that repeatedly violate my obligations or could it be handled occasionally?",
+    "Assuming I occasionally have to start late at work because of travel, would you recommend treating that night as an exception to my nightly minimum or trying to compensate the following day?",
+    "For the first full week after my schedule begins, list exact wake and sleep times for each weekday so I can program alarms quickly.",
+    "When you list that first-week schedule, mark any day that would force me past my evening availability as a potential conflict.",
+    "If I follow the bedtime you prescribe but still feel groggy on some mornings, what three immediate-in-the-morning actions would boost alertness while keeping me on track for the night?",
+    "If an unexpected obligation would push one night past my usual evening cutoff, give one short compensatory strategy to preserve my weekly sleep balance.",
+    "Would a 15-minute-per-night earlier shift be a reasonable gradual approach to reach the target bedtime you suggested, or should I aim for larger nightly steps?",
+    "For scheduling tools: when you output the weekday plan, can you provide the times in a single-line format per day, like 'Sleep: XX; Wake: YY' in the numeric style I prefer?",
+    "Lastly, give me a one-sentence verdict: will my weekend BBQ plans likely interfere with maintaining the weekday targets, yes or no?"
+  ],
+  "metadata": {
+    "timestamp": "2026-02-12T19:10:23.987Z"
+  }
+}

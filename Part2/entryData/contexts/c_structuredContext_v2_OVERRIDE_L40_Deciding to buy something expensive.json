@@ -1,0 +1,78 @@
+{
+  "id": "c_structuredContext_v2_OVERRIDE_L40_Deciding to buy something expensive",
+  "scriptId": "cs_v2_OVERRIDE_L40_Deciding to buy something expensive",
+  "historyId": "h_v2_OVERRIDE_L40_Deciding to buy something expensive",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Evaluate buying an electric car with emphasis on reliability for a daily commute, low ongoing costs, and long software/hardware relevance to minimize obsolescence.",
+      "Compare total cost of ownership over five years for electric vs gasoline-powered options, including fuel/electric costs, maintenance, insurance, and depreciation.",
+      "Incorporate battery degradation expectations and warranty terms into the five-year ownership decision.",
+      "Assess retrofit viability and cost-effectiveness of upgrading technology features via retrofit vs upgrading trim over a five-year horizon.",
+      "Incorporate public charging time costs and membership fees into five-year total cost of ownership analysis."
+    ],
+    "constraints": [
+      "Reliability for daily commute",
+      "Low ongoing costs (electricity, maintenance, insurance)",
+      "Minimize obsolescence / long software updates and resale value",
+      "Daily driving ~40 miles on workdays; real-world range ~200–250 miles; charging convenience matters",
+      "Budget-conscious / price sensitivity in model selection",
+      "Five-year horizon for total cost of ownership analysis",
+      "Battery health and warranty terms should be considered when evaluating five-year TCO and model choices",
+      "Trade-in or private sale influence on down payment and financing terms",
+      "Software/OTA obsolescence risk prioritized in model selection",
+      "Retrofit feasibility, warranty implications, and potential impact on resale",
+      "Account for time costs when using public charging and include membership fees in five-year total cost of ownership analysis.",
+      "Refundable deposit can be used as negotiation leverage"
+    ],
+    "decisions": [
+      "Plan for Level-2 charger installation: decide between NEMA 14-50 receptacle vs hardwired charger and update the plan accordingly.",
+      "Specify a 60A circuit for the charger to allow up to ~48A charging and future-proofing.",
+      "Require formal panel load calculation to determine whether a service upgrade is needed.",
+      "Obtain 2–3 written quotes that include permit fees, scope, timeline, and exclusions.",
+      "Confirm permit and inspection are included in the installation quote.",
+      "Explore rebates/incentives and have installer assist with paperwork.",
+      "Check HOA rules early and obtain written approval if required.",
+      "Keep permit receipts and inspection records to support resale if selling within a few years."
+    ],
+    "entities": [
+      "Level-2 charger",
+      "Main electrical panel",
+      "Load calculation",
+      "200A service upgrade",
+      "NEMA 14-50 receptacle",
+      "Hardwired charger",
+      "Conduit and trenching",
+      "Subpanel",
+      "Smart load management",
+      "HOA rules",
+      "Public charging networks",
+      "Membership programs",
+      "Time value of time",
+      "EV battery warranty terms",
+      "Extended warranty plans (EV)"
+    ],
+    "open": [
+      "Permits, inspections, and permit fees expectations",
+      "HOA approval processes and restrictions and potential timing",
+      "Continuous-load rule and 80% circuit sizing considerations",
+      "NEMA 14-50 receptacle vs hardwired installations",
+      "Future-proofing the circuit for potential second EV",
+      "Conduit routing, distance from panel, and trenching considerations",
+      "Timeline for permit approvals and utility service upgrades",
+      "Incentives, rebates, and installer assistance with paperwork",
+      "Warranty liability considerations for installation",
+      "Practical quotes checklist: include formal load calculation, panel upgrade assessment, scope, timeline, exclusions",
+      "Steps to avoid common installation surprises",
+      "Keep documentation and receipts for resale",
+      "Negotiation levers available with a refundable deposit: price/OTD, incentives, trade-in, financing terms, add-ons, delivery timing, demo/loaner pricing",
+      "Evaluate value of extended warranty plans for EVs"
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 34321,
+    "outputTokens": 85700,
+    "totalTokens": 120021
+  },
+  "timestamp": "2026-02-14T15:25:51.343Z"
+}

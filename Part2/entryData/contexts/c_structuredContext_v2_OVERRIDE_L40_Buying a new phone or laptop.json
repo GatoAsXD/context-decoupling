@@ -1,0 +1,43 @@
+{
+  "id": "c_structuredContext_v2_OVERRIDE_L40_Buying a new phone or laptop",
+  "scriptId": "cs_v2_OVERRIDE_L40_Buying a new phone or laptop",
+  "historyId": "h_v2_OVERRIDE_L40_Buying a new phone or laptop",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Decide to buy a convertible Windows laptop 13-14 inches with 16 GB RAM, 512 GB NVMe, 4-8 cores, weight <= 3.5 pounds, color-accurate display (100% sRGB or OLED), battery life 8+ hours real use, within budget around $1,500."
+    ],
+    "constraints": [
+      "budget around $1,500",
+      "laptop weight <= 3.5 pounds",
+      "must be convertible or touchscreen without sacrificing core specs (16 GB RAM, 512 GB NVMe, 4-8 core CPU)",
+      "repairability and manufacturer support for long-term service"
+    ],
+    "decisions": [
+      "Laptop-first replacement priority decided."
+    ],
+    "entities": [
+      "ASUS ZenBook 14 / ZenBook Flip 14 (OLED available) - weight ~2.5-3.0 lb; convertible; 16 GB / 512 GB; OLED color option; typical price $850-1100",
+      "HP Spectre x360 13 or 14 - weight ~2.8-3.1 lb; convertible; 16 GB / 512 GB; OLED/100% sRGB panel options",
+      "Lenovo Yoga 7i / Yoga 9i (14 inches) - weight ~2.9-3.3 lb; convertible; 16 GB / 512 GB; display options include OLED or IPS",
+      "Dell XPS 13 (9310/9320) or XPS 13 2-in-1 - weight ~2.6-3.0 lb; convertible; 16 GB / 512 GB; color-accurate displays",
+      "LG Gram 14 - weight ~2.2-2.4 lb; some 2-in-1 options; 16 GB / 512 GB; long battery life; color accuracy depends on panel",
+      "Acer Swift 3 / Swift 5 - weight ~2.6-3.0 lb; some OLED options; 16 GB / 512 GB",
+      "Microsoft Surface Laptop 5 or Surface Pro 9 (with keyboard) - weight ~2.8-3.4 lb; convertible; 16 GB / 512 GB; good color accuracy; strong ecosystem",
+      "Phone options in the $600–$800 band for photography and battery life: Google Pixel 8 (256 GB), Samsung Galaxy S23 (256 GB) or S23+ (256 GB), Apple iPhone 14 (256 GB)",
+      "Framework - modular, highly repairable laptop with easy part swaps and expansion; focus on repairability and upgradability; may not be a convertible or offer touch in same way as ultrabooks",
+      "Apple MacBook Air / MacBook Pro (13-14 inch) - color-accurate displays (P3), factory calibrated"
+    ],
+    "open": [
+      "Awaiting user decision on value vs premium SKU level for laptops",
+      "Evaluate trade-in credit viability for current devices and adjust purchase combos accordingly",
+      "Assess impact of phone purchase on overall budget and potential laptop plan adjustments"
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 27666,
+    "outputTokens": 63773,
+    "totalTokens": 91439
+  },
+  "timestamp": "2026-02-14T15:15:09.499Z"
+}

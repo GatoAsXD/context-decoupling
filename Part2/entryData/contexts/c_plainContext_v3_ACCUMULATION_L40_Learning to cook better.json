@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v3_ACCUMULATION_L40_Learning to cook better",
+  "scriptId": "cs_v3_ACCUMULATION_L40_Learning to cook better",
+  "historyId": "h_v3_ACCUMULATION_L40_Learning to cook better",
+  "componentType": "plainContext",
+  "context": "",
+  "generationMetrics": {
+    "inputTokens": 33489,
+    "outputTokens": 73916,
+    "totalTokens": 107405
+  },
+  "timestamp": "2026-02-14T22:39:20.763Z"
+}

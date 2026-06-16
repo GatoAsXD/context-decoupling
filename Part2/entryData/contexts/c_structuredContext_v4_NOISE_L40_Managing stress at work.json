@@ -1,0 +1,78 @@
+{
+  "id": "c_structuredContext_v4_NOISE_L40_Managing stress at work",
+  "scriptId": "cs_v4_NOISE_L40_Managing stress at work",
+  "historyId": "h_v4_NOISE_L40_Managing stress at work",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Create an adaptable, rotating weekly set of desk-friendly stress-management techniques (Week A-D) to prevent habituation."
+    ],
+    "constraints": [
+      "Techniques take under a few minutes and require no special equipment.",
+      "Chamomile allergy: avoid chamomile-based rituals or beverages.",
+      "Ergonomics probably helps long-term — better lumbar support, keyboard angle — but that's not an immediate trick."
+    ],
+    "decisions": [
+      "Adopt six discreet, desk-friendly moves for discreet stress management (Square Breath, Under-desk Clench, Palm Press, Pocket Stone, Silent Name, Toe Ground).",
+      "Silent Square",
+      "Glute Grip",
+      "Toe Anchor",
+      "Jaw Drop",
+      "Thumb-Index Press",
+      "Micro-Label",
+      "Soft Smile",
+      "One-Thing Focus",
+      "Chewing gum briefly before turning camera on, then stash the gum",
+      "Square Breath",
+      "Fist & Drop",
+      "Name It",
+      "One-Step Sticky",
+      "3-2-1 Ground",
+      "Sit Tall 3",
+      "Weekly rotation plan: rotate through Week A-D blocks weekly to prevent habituation."
+    ],
+    "entities": [
+      "Desk plant",
+      "Succulent",
+      "Stress ball",
+      "Therapy putty",
+      "Silicone fidget cube",
+      "Tangle",
+      "Worry stone",
+      "Fidget ring",
+      "Textured notebook",
+      "Headphones",
+      "Pocket Stone",
+      "Gum",
+      "Mint/Lozenge",
+      "Water",
+      "Desktop fountain (pebble-style)",
+      "White-noise app",
+      "Bluetooth speaker",
+      "Peppermint tea",
+      "Rooibos tea",
+      "Lemon balm tea",
+      "Decaf green tea",
+      "Warm water with lemon"
+    ],
+    "open": [
+      "Pare down to a go-to 3-step routine",
+      "Format as a tiny desk card",
+      "Experiment with lunch journaling (three-sentence reflection) during lunch",
+      "Experiment with desk plant or succulent and observe mood impact",
+      "Experiment with discreet gum use during video calls",
+      "Window Pause (60-90s): Stand, look outside (sky/trees/buildings), take three slow diaphragmatic breaths.",
+      "3-Minute Loop (3-5min): Quick walk around the block or up/down a stairwell; if you can't leave, walk in place quietly at your desk.",
+      "River Visual (60-90s): Close your eyes or gaze at a nature photo and mentally 'walk' your river route while breathing slowly.",
+      "Experiment with chamomile-free tea rituals for calm",
+      "Experiment: 10-second focused breath between emails",
+      "Adopt rotating weekly technique packs (Week A-D) and schedule switches."
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 17141,
+    "outputTokens": 69205,
+    "totalTokens": 86346
+  },
+  "timestamp": "2026-02-14T23:32:10.345Z"
+}

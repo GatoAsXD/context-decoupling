@@ -1,0 +1,40 @@
+{
+  "id": "c_structuredContext_v3_ACCUMULATION_L40_Learning a new language",
+  "scriptId": "cs_v3_ACCUMULATION_L40_Learning a new language",
+  "historyId": "h_v3_ACCUMULATION_L40_Learning a new language",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Develop practical language skills for travel, everyday conversation, and enjoying media without subtitles",
+      "Be travel-ready in Spanish, able to navigate basic interactions (getting around, ordering food, small talk) within six months."
+    ],
+    "constraints": [
+      "Prioritize languages with practical near-term utility and real-world applicability",
+      "Timeline constraint: six months to achieve travel-ready Spanish.",
+      "Online speaking practice will be the primary mode due to limited local native speakers."
+    ],
+    "decisions": [
+      "Draft a concrete week-by-week plan for a 12-week period (weekday morning 40–50 min sessions + Sunday block) with specific resources and a suggestion for when to slot a weekly tutor session.",
+      "Create first set of contextual sentence cards (8–10 travel-focused sentences for Anki import)"
+    ],
+    "entities": [
+      "Spanish",
+      "Latin American Spanish"
+    ],
+    "open": [
+      "Assess user's current language experience or proficiency (if any)",
+      "Identify preferred learning resources and formats (apps, textbooks, tutors, classes, media)",
+      "Draft a concrete 3–6 month plan once user provides answers to questions",
+      "Apply practicality filter to language recommendations (focus on near-term usefulness, travel viability, and community availability)",
+      "Provide two very specific habit-stack examples tailored to the user's routine once they share a routine (e.g., after coffee, during commute)",
+      "Incorporate a learn-by-doing approach (conversational practice and audio) into the plan based on user preference for doing over grammar drills)",
+      "Confirm online-only speaking practice approach and list preferred platforms (e.g., italki, Tandem, HelloTalk, Meetup online groups) and schedule"
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 24089,
+    "outputTokens": 46181,
+    "totalTokens": 70270
+  },
+  "timestamp": "2026-02-14T22:29:28.470Z"
+}

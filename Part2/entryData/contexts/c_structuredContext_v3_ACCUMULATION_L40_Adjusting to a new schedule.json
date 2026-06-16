@@ -1,0 +1,42 @@
+{
+  "id": "c_structuredContext_v3_ACCUMULATION_L40_Adjusting to a new schedule",
+  "scriptId": "cs_v3_ACCUMULATION_L40_Adjusting to a new schedule",
+  "historyId": "h_v3_ACCUMULATION_L40_Adjusting to a new schedule",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Create a weekly schedule including three workouts per week: two mornings and one flexible (morning-or-evening on home day); maintain 5:30 PM pickup and 8:00 AM on-site start; include family time."
+    ],
+    "constraints": [
+      "Team expects people to be logged in on-site by 8:00 AM.",
+      "Schedule workouts around 5:30 PM pickup and 8:00 AM start.",
+      "Be asleep by ~11:00 PM most nights.",
+      "There are two weekly evening commitments that I can't miss — they take place on different weeknights.",
+      "Take medication twice daily with ~12-hour spacing; exact times are flexible relative to meals."
+    ],
+    "decisions": [
+      "Keep morning workouts as default; allow one workout to be moved to evening on home days."
+    ],
+    "entities": [
+      "Attach workouts to an existing morning anchor (after breakfast) to form a habit; plan 20–30 minute sessions; three sessions per week."
+    ],
+    "open": [
+      "Begin step-by-step: collect Work schedule details (days, start/end times, remote/hybrid/on-site).",
+      "Clarify target sleep schedule: bedtime, wake time, or total hours of sleep.",
+      "Confirm partner availability schedule for mornings (which days).",
+      "Finalize specific workout days/times for the week (two fixed morning slots and one flexible on home day).",
+      "Decide workout duration (e.g., 20–30 minutes) and type (bodyweight/cardio) and how it fits into morning routine.",
+      "Decide which two days to work from home (or should I pick logical ones).",
+      "Decide workout duration and type options for the week (e.g., 20–30 min bodyweight/cardio; 45–60 min gym/lift; or walks).",
+      "Identify two weeknights with non-missable commitments and plan workouts around avoiding those nights.",
+      "Account for weeks when partner is traveling and not home by 6 PM: determine fallback workouts or scheduling changes.",
+      "Determine medication timing windows (two daily doses, ~12 hours apart) and how they align with meals and workouts."
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 27671,
+    "outputTokens": 97429,
+    "totalTokens": 125100
+  },
+  "timestamp": "2026-02-15T03:30:13.227Z"
+}

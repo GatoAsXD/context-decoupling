@@ -1,0 +1,30 @@
+{
+  "id": "c_structuredContext_v1_EARLY_L40_Problems with daily transportation",
+  "scriptId": "cs_v1_EARLY_L40_Problems with daily transportation",
+  "historyId": "h_v1_EARLY_L40_Problems with daily transportation",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [],
+    "constraints": [],
+    "decisions": [
+      "avoid_intersection_or_reduce_impact_in_commute_options"
+    ],
+    "entities": [
+      "curb_parking_removal_effect_on_buses_dwell_time",
+      "bus_bulbs_and_bays_implementation_details",
+      "transfer_signage_best_practices"
+    ],
+    "open": [
+      "curb_parking_removal_pilot_details_needed",
+      "curb_loading_zone_pilot_details_needed",
+      "loading_zone_enforcement_effectiveness_evidence_needed",
+      "informative_stop_signage_examples_needed"
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 21467,
+    "outputTokens": 43379,
+    "totalTokens": 64846
+  },
+  "timestamp": "2026-02-14T02:57:35.404Z"
+}

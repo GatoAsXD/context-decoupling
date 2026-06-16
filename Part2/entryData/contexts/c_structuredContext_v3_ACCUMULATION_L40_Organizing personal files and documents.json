@@ -1,0 +1,91 @@
+{
+  "id": "c_structuredContext_v3_ACCUMULATION_L40_Organizing personal files and documents",
+  "scriptId": "cs_v3_ACCUMULATION_L40_Organizing personal files and documents",
+  "historyId": "h_v3_ACCUMULATION_L40_Organizing personal files and documents",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Pilot goal: move 30–50 receipt snaps from phone into YOURCLOUD/To Process/Receipts, OCR and rename, dedupe, and establish a simple capture habit.",
+      "Convert existing JPEGs of paper pages into searchable PDFs via OCR during migration."
+    ],
+    "constraints": [
+      "Sensitive photos should be kept in an encrypted cloud folder or local encrypted drive.",
+      "Avoid CamScanner if privacy is a concern; prefer Microsoft Lens, Adobe Scan, or Scanner Pro.",
+      "Prefer client-side encryption or zero-knowledge storage before cloud upload; minimize reliance on mainstream cloud providers for sensitive data.",
+      "If cloud is used, ensure end-to-end encryption and manage encryption keys locally.",
+      "Do not expose raw SMB/AFP shares to the Internet.",
+      "Use NAS as a secure local backup and a sync target for encrypted vaults.",
+      "For sensitive documents, keep client-side encryption; Cryptomator vault(s) stored on the NAS share.",
+      "Use NAS for automated encrypted backups (restic or rclone+enc) from both machines; keep one encrypted offline copy on a USB drive stored safely.",
+      "Prefer VPN (WireGuard/OpenVPN) for remote access rather than exposing NAS services directly.",
+      "Tax/financial records must be retained for seven years; implement an auditable retention policy across vaults, backups, and purge processes.",
+      "All highly sensitive documents (passports, SSNs) must be encrypted client-side before any off-site copies are made.",
+      "Home upload speed is slow; large initial cloud syncs would be frustrating."
+    ],
+    "decisions": [
+      "Cryptomator vault(s) on NAS for sensitive documents (and separate vault for everyday docs).",
+      "Use restic as the backup tool (to NAS via SFTP or local share) with daily incremental backups and 30-day retention.",
+      "Optionally Nextcloud on NAS for phone scanning/sync (if you want integrated path) or keep simple manual upload via Cryptomator.",
+      "Phone capture path: choose between Simple (Microsoft Lens/Adobe Scan → Cryptomator) vs Nextcloud-based scanning path.",
+      "Adopt a 7-year tax/financial retention policy; configure restic to retain appropriate snapshots and maintain offline encrypted copies.",
+      "Enforce client-side encryption for highly sensitive documents before off-site copies; implement Cryptomator vault for passports/SSNs.",
+      "OCR step for existing JPEGs: convert to searchable PDF/A during migration using OCRmyPDF (Tesseract).",
+      "Automate nightly encrypted backups to NAS using restic or NAS backup target."
+    ],
+    "entities": [
+      "Cloud storage canonical location",
+      "Pilot/To Process folder",
+      "Cross-platform deduplication and renaming tools",
+      "Cross-platform OCR tooling",
+      "Receipts intake path",
+      "YOURCLOUD/To Process/Receipts",
+      "Cryptomator vault",
+      "Zero-knowledge cloud providers",
+      "Local NAS / encrypted external storage",
+      "NAS brand/model/OS",
+      "Remote access configuration (LAN-only vs internet exposure)",
+      "RAID/storage layout plan",
+      "Encrypted vault options on NAS (Cryptomator, VeraCrypt)",
+      "Mounting from Windows/macOS",
+      "restic",
+      "rclone",
+      "Nextcloud",
+      "OCRmyPDF",
+      "Tesseract",
+      "exiftool",
+      "dupeGuru",
+      "rmlint",
+      "fdupes",
+      "Metamorphose",
+      "NameChanger",
+      "PowerRename",
+      "WireGuard",
+      "Bitwarden",
+      "Data volume: 1–2 TB (mixed photos and PDFs).",
+      "Predominant file types: images and PDFs.",
+      "Tax/financial retention policy",
+      "Highly sensitive documents (passports, SSNs) encryption workflow",
+      "OCR workflow for existing JPEGs (JPEGs→PDFs via OCRmyPDF)",
+      "USB drive (offline backup)",
+      "Task Scheduler/launchd/cron"
+    ],
+    "open": [
+      "Await confirmation on archival format policy: adopt PDF/A master + TIFF image-only and define per-type scanning defaults (dpi, color, etc).",
+      "Phone photo chaos: define intake path and automation to move receipts to YOURCLOUD/To Process/Receipts; confirm tooling across iOS/Android for scanning and OCR.",
+      "Decide primary storage approach given privacy concerns: client-side encryption with mainstream cloud vs zero-knowledge provider vs local NAS.",
+      "NAS configuration details: gather brand/model for model-specific checklist, remote access exposure, RAID layout, mounting from Windows/macOS, encrypted vault options on NAS (Cryptomator, VeraCrypt), and backup/snapshot strategy.",
+      "Await NAS brand/model for model-specific checklist.",
+      "Decide between simple Cryptomator vault + manual upload vs Nextcloud-based scanning path.",
+      "Integrate 7-year retention policy into intake, folder structure, and automation.",
+      "Implement policy to encrypt passports/SSNs client-side before off-site copies and adjust intake flow accordingly.",
+      "Define OCR workflow for existing JPEGs: tool choice, DPI targets, language packs, output naming, and storage path; validate end-to-end before migration.",
+      "Implement automated nightly encrypted backups to NAS (restic or NAS backup target) and establish monthly offline backup to USB."
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 35532,
+    "outputTokens": 73073,
+    "totalTokens": 108605
+  },
+  "timestamp": "2026-02-14T22:55:42.633Z"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "c_structuredContext_v3_ACCUMULATION_L40_Deciding to start a master’s degree or course",
+  "scriptId": "cs_v3_ACCUMULATION_L40_Deciding to start a master’s degree or course",
+  "historyId": "h_v3_ACCUMULATION_L40_Deciding to start a master’s degree or course",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Shift more into data science and machine learning rather than staying solely on backend work.",
+      "Build a portfolio of practical ML/data science projects with demonstrable results to show employers."
+    ],
+    "constraints": [
+      "Employer education allowance covers only partial tuition; requires financing plan for remaining cost.",
+      "Need to minimize debt while covering the remaining cost.",
+      "Undergraduate degree in mechanical engineering; lacks advanced statistics and ML coursework; needs to build statistical foundations.",
+      "Relocation would be difficult for at least a couple of years; prioritize local or remote options.",
+      "Prefer GRE-free or GRE-optional admissions policies for graduate programs (no mandatory GRE)."
+    ],
+    "decisions": [
+      "Explore cost/benefit analysis between part-time master’s and stackable certificate paths for ML; draft business-case email to manager/HR for capstone using company data.",
+      "Develop a portfolio-focused project plan with milestones and deliverables."
+    ],
+    "entities": [
+      "part-time master’s degree",
+      "software engineering job",
+      "mid-sized company",
+      "student debt",
+      "unpaid break",
+      "education allowance",
+      "data science",
+      "machine learning",
+      "portfolio projects",
+      "notebooks",
+      "deployed models",
+      "certificate programs",
+      "certificates",
+      "stackable credentials",
+      "statistical foundations gap",
+      "evening classes",
+      "weekend modules",
+      "self-paced online programs",
+      "asynchronous online master’s (part-time)",
+      "flexible pacing",
+      "capstone project",
+      "capstone using company data",
+      "internal ML role",
+      "production ML pipeline",
+      "AWS ML certification",
+      "GCP ML certification",
+      "internal lateral move",
+      "ML interview prep",
+      "GRE-optional admissions policies",
+      "portfolio deliverables",
+      "portfolio website",
+      "GitHub portfolio"
+    ],
+    "open": [
+      "Should I pursue a part-time master’s degree as a compromise between depth and continuity of income?",
+      "What financing options exist to cover the remaining tuition after employer allowance?",
+      "Evaluate pivot options to data science/ML (part-time master's vs certificate routes) for skill development and ROI.",
+      "How do evening/weekend/self-paced formats influence the choice between a part-time master’s vs certificates vs MOOCs?",
+      "Identify GRE-free or GRE-optional graduate programs in data science/ML that fit local/remote, part-time, and budget constraints."
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 28742,
+    "outputTokens": 65605,
+    "totalTokens": 94347
+  },
+  "timestamp": "2026-02-14T22:31:11.789Z"
+}

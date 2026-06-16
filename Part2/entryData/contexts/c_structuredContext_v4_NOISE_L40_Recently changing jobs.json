@@ -1,0 +1,41 @@
+{
+  "id": "c_structuredContext_v4_NOISE_L40_Recently changing jobs",
+  "scriptId": "cs_v4_NOISE_L40_Recently changing jobs",
+  "historyId": "h_v4_NOISE_L40_Recently changing jobs",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Assist with communications for a new job (planning, tone, audience)",
+      "Draft two messages: private note to previous team and public announcement to professional contacts"
+    ],
+    "constraints": [
+      "Avoid brag-like tone; ensure a friendly sign-off and a positive look-ahead."
+    ],
+    "decisions": [
+      "Tone: warm, professional; appreciative and concise.",
+      "Private note should state availability to help with handover and express gratitude.",
+      "Wording should be simple and accessible to readers outside the industry.",
+      "Tone should avoid brag-like language; maintain a friendly sign-off and a positive look-ahead."
+    ],
+    "entities": [
+      "Oversized farewell mug (gift from coworker)",
+      "Goofy photo montage taped to monitor",
+      "Small desk plant given to newer hire",
+      "Giant hoodie",
+      "Notebook with a logo I can't pronounce",
+      "Hoodie merit badge joke",
+      "Cat cameo during last-week video call"
+    ],
+    "open": [
+      "Collect required details to tailor drafts (previous team/company name, new company/title, recipients for private note, publication channel for public announcement)",
+      "Note elevator conversation about calendar tips and recurring meetings to tailor drafts",
+      "Identify and gather onboarding questions the user wants clarified or reworded"
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 12697,
+    "outputTokens": 38097,
+    "totalTokens": 50794
+  },
+  "timestamp": "2026-02-14T23:45:33.436Z"
+}

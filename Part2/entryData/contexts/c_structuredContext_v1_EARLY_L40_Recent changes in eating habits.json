@@ -1,0 +1,58 @@
+{
+  "id": "c_structuredContext_v1_EARLY_L40_Recent changes in eating habits",
+  "scriptId": "cs_v1_EARLY_L40_Recent changes in eating habits",
+  "historyId": "h_v1_EARLY_L40_Recent changes in eating habits",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Feel more energetic in the afternoon",
+      "Stop waking up hungry at night"
+    ],
+    "constraints": [
+      "Calorie target: 1,800 kilocalories per day",
+      "Eating window: stop eating by 19:00 each day",
+      "Allergies: peanuts and shrimp",
+      "Ingredient simplicity: prefer simple ingredients for meals",
+      "Single-serving meals: shopping and recipes that scale to single portions to avoid food waste",
+      "Flexible protein options: vegetarian or modest meat"
+    ],
+    "decisions": [
+      "Include low-waste tips (peels, stems, bones) in 7-day plan",
+      "Incorporate air fryer and multicooker options in 7-day plan"
+    ],
+    "entities": [
+      "8-week food log",
+      "Balcony herbs and spices from balcony garden",
+      "Kimchi",
+      "Kefir",
+      "Fermented foods trend",
+      "Air fryers",
+      "Multicookers",
+      "Broths from peels/bones",
+      "Gremolata",
+      "Chimichurri",
+      "Herb vinaigrette",
+      "Yogurt-tahini dressings",
+      "Miso",
+      "Meal-kit subscriptions",
+      "Behavior change persistence after subscription",
+      "Impact of plating and presentation on meal enjoyment",
+      "Lab-grown meat",
+      "Cultivated meat",
+      "Precision fermentation",
+      "Plant-based proteins",
+      "Heme protein"
+    ],
+    "open": [
+      "Draft 7-day, 1,800 kcal plan",
+      "Analyze 8-week log",
+      "Assess lasting behavior changes after meal-kit subscriptions"
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 15477,
+    "outputTokens": 35640,
+    "totalTokens": 51117
+  },
+  "timestamp": "2026-02-14T03:04:17.800Z"
+}

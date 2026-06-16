@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v4_NOISE_L40_Learning to cook better",
+  "scriptId": "cs_v4_NOISE_L40_Learning to cook better",
+  "historyId": "h_v4_NOISE_L40_Learning to cook better",
+  "componentType": "plainContext",
+  "context": "Current State:\n- Leftovers labeling protocol: write on label with 4 fields in one line: Date (YYYY-MM-DD) • contents • portion size (1 serving / 2 cups) • brief reheat note (oven 350°F 15–20m / microwave 2m); example: 2026-02-13 • chicken thigh, rice • 1 serving • microwave 90s, stir; labeling methods: freezer bags (direct on plastic with permanent marker); containers/lids (freezer tape + marker or preprinted labels); small items/sauces\n- Note: My partner once tried to deep-fry in a pressure cooker because of a YouTube hack; that gave me a new respect for proper equipment.",
+  "generationMetrics": {
+    "inputTokens": 29134,
+    "outputTokens": 70552,
+    "totalTokens": 99686
+  },
+  "timestamp": "2026-02-14T23:32:17.617Z"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v3_ACCUMULATION_L40_Excessive phone or social media use",
+  "scriptId": "cs_v3_ACCUMULATION_L40_Excessive phone or social media use",
+  "historyId": "h_v3_ACCUMULATION_L40_Excessive phone or social media use",
+  "componentType": "plainContext",
+  "context": "",
+  "generationMetrics": {
+    "inputTokens": 23765,
+    "outputTokens": 68961,
+    "totalTokens": 92726
+  },
+  "timestamp": "2026-02-14T22:31:34.707Z"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v3_ACCUMULATION_L40_Learning to drive",
+  "scriptId": "cs_v3_ACCUMULATION_L40_Learning to drive",
+  "historyId": "h_v3_ACCUMULATION_L40_Learning to drive",
+  "componentType": "plainContext",
+  "context": "",
+  "generationMetrics": {
+    "inputTokens": 33677,
+    "outputTokens": 73332,
+    "totalTokens": 107009
+  },
+  "timestamp": "2026-02-14T22:39:22.296Z"
+}

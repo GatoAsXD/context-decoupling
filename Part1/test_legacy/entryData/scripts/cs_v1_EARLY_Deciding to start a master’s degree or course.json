@@ -1,0 +1,34 @@
+{
+  "id": "cs_v1_EARLY_Deciding to start a master’s degree or course",
+  "type": "cs_v1_EARLY",
+  "seedTopic": "Deciding to start a master’s degree or course",
+  "length": 20,
+  "messages": [
+    "I'm trying to decide whether to start a master's in Data Science next September (Sept 2026). I'm looking at a 12-month full-time program in the UK but I'm not sure if I should aim for part-time instead.",
+    "For background: I have a bachelor's in mathematics with a cumulative GPA of 3.2, about two years of professional software engineering experience, and roughly £18,000 saved toward tuition. Some scholarships I saw have a March 1 deadline.",
+    "I haven't taken the GRE yet and many programs expect a prior machine learning or statistics course. I was planning to take an online ML class before applying. I also need evening or blended formats because of family commitments, and I'm considering a couple of UK schools plus a top online option.",
+    "My goal is to move into healthcare analytics after the degree. Ideally I'd like to finish in one year, but I'll accept two years max. Strong industry connections and internship opportunities are important to me, and I might work part-time while studying.",
+    "On a totally different note, does anyone have a quick weeknight recipe using canned chickpeas and spinach?",
+    "Also, can you recommend a short, accessible sci-fi novel set in the near future? Prefer something under 350 pages.",
+    "Quick curiosity: is it true that octopuses can solve puzzles and use tools?",
+    "I'm planning a weekend in Lisbon in May—what should I pack for unpredictable spring weather?",
+    "Help: what's the best way to remove a red wine stain from a white cotton shirt without damaging it?",
+    "Send me a one-line brain teaser I can use to wake up my colleagues before a meeting.",
+    "Garden question: which bolts first in cool spring—basil or cilantro?",
+    "Looking for a history podcast with 20 to 30 minute episodes—any favorites?",
+    "Bike question: what's the simplest way to fix a slow puncture before a short commute?",
+    "Space fact request: how does the width of Saturn's ring system compare to Earth's diameter, roughly?",
+    "What are three quick shoulder stretches I can do at my desk between calls?",
+    "Recommend three non-fiction books under 300 pages about leadership or team dynamics.",
+    "Back to the master's decision: since I'm aiming for a fall start and need classes that work around family time, would you recommend focusing on part-time/evening-friendly programs or pushing for a one-year full-time option?",
+    "Given that my grades are decent but not top-tier and I only have a couple of years of industry experience, should I spend the next months preparing for the GRE or prioritize building a healthcare analytics portfolio project?",
+    "I mentioned a scholarship with an early-spring deadline earlier—if that timeline is approaching, how should I prioritize essays, test prep, and getting recommendation letters in the short term?",
+    "Finally, because I want to keep both a fast one-year finish and a two-year backup realistic, what are the top three concrete steps I should take right now?"
+  ],
+  "metadata": {
+    "inputTokens": 424,
+    "outputTokens": 8238,
+    "totalTokens": 8662,
+    "timestamp": "2026-01-24T22:39:49.873Z"
+  }
+}

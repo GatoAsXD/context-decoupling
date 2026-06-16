@@ -1,0 +1,27 @@
+{
+  "id": "es_v4_NOISE_L40_Organizing personal files and documents",
+  "scriptId": "cs_v4_NOISE_L40_Organizing personal files and documents",
+  "historyId": "h_v4_NOISE_L40_Organizing personal files and documents",
+  "cutoffIndex": 24,
+  "messages": [
+    "I heard that some people include a version suffix like 'v1' or 'final' and it just becomes nonsense after a few edits.",
+    "There's also the question of passwords — who does what with shared accounts when multiple family members need access?",
+    "I like the idea of labeling external drives, but then my handwriting is terrible and I can't read it months later.",
+    "If I move house in the next year, I want the system to survive the chaos of a move without me re-sorting everything.",
+    "My sister uses tags in a note app for receipts, but that app doesn't export cleanly, so I'm wary of lock-in.",
+    "Sometimes I take photos of receipts with my phone; the metadata gets stripped when I upload them to certain sites, which is annoying.",
+    "Okay — to wrap up, I'd like three concise deliverables.",
+    "One: a minimal top-level folder layout that keeps things easy to scan visually and doesn't require frequent reorganization.",
+    "Two: three or four sample filenames applying the naming approach I mentioned earlier, shown for a utility bill, a contract, and a scanned receipt.",
+    "Three: a short backup checklist aligned with the cadence I set before, written so I can do it quickly when I have time.",
+    "Also add a one-sentence rule for paper originals — when to keep them and when to let them go.",
+    "Please keep each item brief, no long paragraphs — think bullet points I can paste into my notes app.",
+    "If it helps, show the folder tree as short paths, like Home/Taxes or similar, with one example file in each.",
+    "Concise plan only, please.",
+    "When you give sample filenames, use a date-first order as we discussed but you can paraphrase the exact format.",
+    "Whenever you're ready, please produce just the folder layout, the example filenames, the brief backup checklist, and the single paper-handling rule."
+  ],
+  "metadata": {
+    "timestamp": "2026-02-13T17:53:39.983Z"
+  }
+}

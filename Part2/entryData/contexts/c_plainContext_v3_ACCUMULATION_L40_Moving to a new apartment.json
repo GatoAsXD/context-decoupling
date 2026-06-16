@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v3_ACCUMULATION_L40_Moving to a new apartment",
+  "scriptId": "cs_v3_ACCUMULATION_L40_Moving to a new apartment",
+  "historyId": "h_v3_ACCUMULATION_L40_Moving to a new apartment",
+  "componentType": "plainContext",
+  "context": "Current State:\n\nMessage:\nWould those types of pieces generally push you to hire professionals, or are there DIY methods that are acceptably safe?\n\nResponse:\nShort answer: yes — an antique armoire usually pushes toward hiring professionals; a glass dining table might be safely DIY’d only if the glass top is removable, the pieces can be disassembled, and you have enough capable people and the right equipment. Below are the practical tradeoffs and safe DIY methods if you decide not to hire pros.\n\nWhen to hire professionals (strong recommendation)\n- Antique armoire: generally hire pros unless it’s light, designed to disassemble, and you have at least 3–4 strong, experienced lifters plus stair-moving",
+  "generationMetrics": {
+    "inputTokens": 27388,
+    "outputTokens": 67127,
+    "totalTokens": 94515
+  },
+  "timestamp": "2026-02-14T22:55:36.705Z"
+}

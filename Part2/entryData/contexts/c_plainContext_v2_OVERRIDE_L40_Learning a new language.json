@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v2_OVERRIDE_L40_Learning a new language",
+  "scriptId": "cs_v2_OVERRIDE_L40_Learning a new language",
+  "historyId": "h_v2_OVERRIDE_L40_Learning a new language",
+  "componentType": "plainContext",
+  "context": "",
+  "generationMetrics": {
+    "inputTokens": 30633,
+    "outputTokens": 74142,
+    "totalTokens": 104775
+  },
+  "timestamp": "2026-02-14T15:33:53.524Z"
+}

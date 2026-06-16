@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v4_NOISE_L40_Organizing a family event",
+  "scriptId": "cs_v4_NOISE_L40_Organizing a family event",
+  "historyId": "h_v4_NOISE_L40_Organizing a family event",
+  "componentType": "plainContext",
+  "context": "Aunt requires a proper cake with a fancy candle setup; frosting standards are very particular. Actions: inform aunt of planned serving time; assign one person to handle the candle setup/lighting and cake cutting.",
+  "generationMetrics": {
+    "inputTokens": 13444,
+    "outputTokens": 50504,
+    "totalTokens": 63948
+  },
+  "timestamp": "2026-02-14T23:38:07.502Z"
+}

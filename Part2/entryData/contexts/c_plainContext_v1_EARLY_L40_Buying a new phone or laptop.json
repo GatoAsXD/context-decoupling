@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v1_EARLY_L40_Buying a new phone or laptop",
+  "scriptId": "cs_v1_EARLY_L40_Buying a new phone or laptop",
+  "historyId": "h_v1_EARLY_L40_Buying a new phone or laptop",
+  "componentType": "plainContext",
+  "context": "Higher refresh rate (roughly 90–240 Hz) primarily improves motion, UI responsiveness, pen/brush latency, and smoothness of scrolling/panning/zooming/video playback; it does not affect color accuracy, gamut, contrast, pixel-level detail, or bit depth. For photographers: advantages include perceived UI responsiveness and reduced pen latency; no impact on color fidelity; video work benefits from smoother timeline scrubbing/preview but export quality remains unchanged; higher refresh rates consume more power and increase heat, impacting battery life and thermals; some editing apps may not fully benefit from very high refresh rates; gains are mainly in UI and pen responsiveness, not raw color rendering. Bottom line: a usability upgrade, not a substitute for prioritizing panel quality (gamut, calibration, brightness/contrast, uniformity, resolution, and bit depth) when color-critical photo work is the goal.",
+  "generationMetrics": {
+    "inputTokens": 19949,
+    "outputTokens": 62583,
+    "totalTokens": 82532
+  },
+  "timestamp": "2026-02-14T00:04:50.406Z"
+}

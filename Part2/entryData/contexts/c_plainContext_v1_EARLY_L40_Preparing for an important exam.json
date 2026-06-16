@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v1_EARLY_L40_Preparing for an important exam",
+  "scriptId": "cs_v1_EARLY_L40_Preparing for an important exam",
+  "historyId": "h_v1_EARLY_L40_Preparing for an important exam",
+  "componentType": "plainContext",
+  "context": "Active guidance: For long study blocks, micro-breaks of 1–2 minutes every 20–30 minutes, short active breaks of 5–10 minutes every 50–90 minutes, and longer restorative breaks of 15–30 minutes every 2–3 hours. Practical patterns: 25/5 (work 25, move 5) for shallow focus; 50/10 or 90/15 for deep problem work; long sessions (2–4 hours) as two 50/10 cycles with a 20–30 minute break in the middle. Break activities: micro-breaks—stand, march in place, neck/shoulder rolls, blink and look 20 ft away for 20 seconds (20-20-20 rule), sip water; short active breaks—brisk walk up/down stairs, calf raises/squats, dynamic stretches, quick mobility flow; longer breaks—eat a snack, longer walk, short nap (20–30 minutes) if needed, light exercise. Dos and don'ts: Do move; Do avoid passive screen scrolling; Don’t fragment critical deep work with too many tiny breaks; match break rhythm to task type; practice your preferred break pattern in mock sessions for timed exams. Practical tips: set timers (phone or Pomodoro app); tailor break rhythm to task type; if training for a timed exam, practice the preferred break pattern in mock sessions so it becomes habitual. If you tell me typical study block length, I can recommend a specific schedule you can try.",
+  "generationMetrics": {
+    "inputTokens": 23808,
+    "outputTokens": 56564,
+    "totalTokens": 80372
+  },
+  "timestamp": "2026-02-14T02:52:07.435Z"
+}

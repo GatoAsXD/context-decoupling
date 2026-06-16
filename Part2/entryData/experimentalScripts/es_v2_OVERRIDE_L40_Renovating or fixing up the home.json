@@ -1,0 +1,27 @@
+{
+  "id": "es_v2_OVERRIDE_L40_Renovating or fixing up the home",
+  "scriptId": "cs_v2_OVERRIDE_L40_Renovating or fixing up the home",
+  "historyId": "h_v2_OVERRIDE_L40_Renovating or fixing up the home",
+  "cutoffIndex": 24,
+  "messages": [
+    "Update: we just got a notice from our lender — the renovation loan was rescinded due to recent underwriting changes. That removes most of the funds we were counting on.",
+    "Practically, we're down to only a small emergency fund left — enough for basic fixes but nowhere near the comprehensive plan. Given that, what should be our absolute priorities?",
+    "To be clear: the house is occupied, we can't move out easily, and there are the issues we discussed earlier — the leaky shower, a couple of electrical outlets that trip occasionally, and the patchy floor. We need to use the limited cash to keep the place safe and habitable.",
+    "Is it better to trim scope (do just the bathroom and safety-related electrical) and defer aesthetic upgrades, or pursue short-term financing/grants to keep the original plan alive?",
+    "Are there common low-cost fixes that can buy time and prevent deterioration — for example, temporary shower liners, inexpensive GFCI outlets, sealing gaps in floors?",
+    "Should we still get permits for the small urgent repairs or is it permissible to do DIY fixes for things like regrouting, caulking, and replacing non-service electrical fixtures?",
+    "If we can only pay for, say, four to six days of contracted labor spread across months, how would you allocate that labor most effectively?",
+    "I'm also worried about contractors we've already engaged — is it reasonable to renegotiate scope and payment terms given the funding change?",
+    "If we decide to postpone the kitchen, what's the minimum to do to keep the house marketable later — i.e., what to document now so future buyers/trade professionals don't see neglect?",
+    "Are there local or federal assistance programs or small grants for emergency home repairs that are commonly applicable for issues like accessibility modifications or safety fixes?",
+    "Okay — with only a fraction of what we planned, give me a ranked triage list of the single-most-pressing actions (safety, code, water-stop, and damage containment) that I should do in the next two weeks.",
+    "For each of the top five items, include a ballpark DIY cost range, whether a licensed pro is required, and an estimated time-to-finish for an amateur homeowner.",
+    "Group those items into immediate (days), short-term (weeks), and can-wait categories, and note any that, if postponed, will cause exponentially higher costs.",
+    "For the immediate items, give step-by-step actions I can follow this weekend — materials, basic tools, and simple checks to confirm the problem is resolved enough to be safe.",
+    "Also supply a concise shopping list with low-cost product recommendations and total estimated spend for the immediate weekend fixes, assuming thrift-store or big-box purchases rather than premium suppliers.",
+    "Finally, write a short message I can send to contractors outlining a very limited scope (safety and stopgap only), explaining limited funds and asking for fixed-price quotes for just those items so I can compare and pick what fits."
+  ],
+  "metadata": {
+    "timestamp": "2026-02-13T00:39:35.957Z"
+  }
+}

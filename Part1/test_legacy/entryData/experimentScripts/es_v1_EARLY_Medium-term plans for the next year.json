@@ -1,0 +1,17 @@
+{
+  "id": "es_v1_EARLY_Medium-term plans for the next year",
+  "scriptId": "cs_v1_EARLY_Medium-term plans for the next year",
+  "historyId": "h_v1_EARLY_Medium-term plans for the next year",
+  "cutoffIndex": 14,
+  "messages": [
+    "Tech help: what's a basic workflow to confirm a MIDI controller is recognized by Ableton Live on macOS?",
+    "Practical question: how can I optimize a home Wi-Fi router for consistent speeds in a small apartment without buying new hardware?",
+    "Given the mid-autumn product debut we outlined earlier, would you recommend front-loading the promotional budget into the quarter just before it or spreading spend more evenly over the preceding months?",
+    "We planned to add a handful of backend engineers in the first half — is two interview rounds plus a short practical task enough to get them onboarded before peak activity?",
+    "Because the team relocation was scheduled a few weeks ahead of the release, what's a minimal ops checklist I should run during that window to prevent deployment hiccups?",
+    "For the invite-only summer testing period we penciled in, how long would you run that window to surface major UX issues while still preserving the target release date?"
+  ],
+  "metadata": {
+    "timestamp": "2026-01-25T01:33:56.597Z"
+  }
+}

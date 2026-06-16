@@ -1,0 +1,50 @@
+{
+  "id": "c_structuredContext_v2_OVERRIDE_L40_Choosing a new hobby",
+  "scriptId": "cs_v2_OVERRIDE_L40_Choosing a new hobby",
+  "historyId": "h_v2_OVERRIDE_L40_Choosing a new hobby",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Select top three hobbies and prepare 3-month beginner plans for each."
+    ],
+    "constraints": [
+      "prefers creative or skill-building activities (not purely social)",
+      "wants to see measurable progress over a few months",
+      "social aspects are optional/bonus",
+      "Apartment pottery is not feasible for home setup; requires studio or community access",
+      "noise-sensitive; prefers quiet projects, especially for at-home woodworking"
+    ],
+    "decisions": [
+      "Sketching + Watercolor",
+      "Ukulele or Beginner Guitar",
+      "Home Cooking / Baking (focused skill)",
+      "Phone Photography"
+    ],
+    "entities": [
+      "early 30s",
+      "9-to-5 schedule",
+      "weekday evenings and most weekends free",
+      "small apartment",
+      "budget: upfront ~$200 and monthly allowance"
+    ],
+    "open": [
+      "Digital Art / Tablet Illustration",
+      "Calligraphy & Hand-Lettering",
+      "Indoor Gardening / Microgreens & Houseplants",
+      "Embroidery / Hand-Sewing / Textile Crafts",
+      "Miniatures & Model Painting",
+      "Polymer Clay Jewelry / Small Sculpting",
+      "Photography (DSLR / Mirrorless)",
+      "Air-dry clay / polymer clay at home",
+      "Woodworking / Large Tools",
+      "Small-scale Woodworking",
+      "Home Fitness / Bulky Equipment"
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 27935,
+    "outputTokens": 45767,
+    "totalTokens": 73702
+  },
+  "timestamp": "2026-02-14T15:13:32.281Z"
+}

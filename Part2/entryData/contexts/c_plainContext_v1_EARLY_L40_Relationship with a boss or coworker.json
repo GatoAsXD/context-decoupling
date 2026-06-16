@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v1_EARLY_L40_Relationship with a boss or coworker",
+  "scriptId": "cs_v1_EARLY_L40_Relationship with a boss or coworker",
+  "historyId": "h_v1_EARLY_L40_Relationship with a boss or coworker",
+  "componentType": "plainContext",
+  "context": "",
+  "generationMetrics": {
+    "inputTokens": 19226,
+    "outputTokens": 63157,
+    "totalTokens": 82383
+  },
+  "timestamp": "2026-02-14T15:07:54.530Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "es_v3_ACCUMULATION_L40_Preparing for a job interview",
+  "scriptId": "cs_v3_ACCUMULATION_L40_Preparing for a job interview",
+  "historyId": "h_v3_ACCUMULATION_L40_Preparing for a job interview",
+  "cutoffIndex": 24,
+  "messages": [
+    "They also mentioned there might be a short take-home project with about a 48-hour turnaround and then a brief presentation.",
+    "If that happens, what structure makes the most sense for the deliverable and the live walkthrough?",
+    "One more disclosure: English isn't my first language, so I sometimes search for the right wording when I'm nervous.",
+    "Any concrete strategies to keep explanations clear and concise despite occasional word-finding under pressure?",
+    "Thanks — that's helpful. Can we now draft some concrete items I can use in mock sessions?",
+    "First, please draft a 30–60 second self-introduction I could use at the outset of a screen that highlights experience and impact.",
+    "Next, give me three short coding prompts suitable for a quick remote screen, each with a brief ideal approach and one-line hints.",
+    "Then provide three database/querying exercises that let me demonstrate performance-aware thinking, plus key talking points for each.",
+    "I'd also like two compact system-design prompts appropriate for a mid-level backend engineer, with bullet points on how to structure a concise answer.",
+    "Please write three behavioral prompts tailored to small, product-oriented companies and concise STAR-style bullet outlines for each.",
+    "Give me a slide-by-slide template for presenting a short take-home: what each slide should contain and what to say on each.",
+    "Because my practice time is fragmented, sketch a daily micro-plan that fits brief morning sessions and limited evening slots across the prep window.",
+    "Also, can you suggest quick drills and phrasing tips to help me speak more clearly when explaining technical choices under stress?",
+    "For the initial remote screen specifically, suggest an ideal agenda breakdown (how much time for coding, explanation, and Q&A) and what success looks like.",
+    "Could you also give a short checklist of artifacts and links I should have open or ready during a virtual interview?",
+    "Now please produce a single, actionable interview-prep package that pulls together everything I've mentioned: a tailored short pitch, mock technical and database prompts with model answers and hints, system-design and behavioral outlines, a slide-and-script template for presenting a short take-home, a day-by-day micro-practice schedule that fits my fragmented availability, and practical communication techniques to stay clear under pressure; make it realistic for the upcoming screen and the potential on-site sequence."
+  ],
+  "metadata": {
+    "timestamp": "2026-02-13T02:58:48.233Z"
+  }
+}

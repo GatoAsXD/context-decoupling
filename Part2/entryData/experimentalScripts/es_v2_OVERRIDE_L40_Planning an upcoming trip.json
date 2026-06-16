@@ -1,0 +1,27 @@
+{
+  "id": "es_v2_OVERRIDE_L40_Planning an upcoming trip",
+  "scriptId": "cs_v2_OVERRIDE_L40_Planning an upcoming trip",
+  "historyId": "h_v2_OVERRIDE_L40_Planning an upcoming trip",
+  "cutoffIndex": 24,
+  "messages": [
+    "Update: an urgent roof repair came up at home and it's going to be expensive.",
+    "Unfortunately our available travel funds have to be cut roughly in half to cover it.",
+    "That will probably rule out nonstop flights and mid-range places throughout the trip.",
+    "We already paid for a private cooking class and one museum tour that were non-refundable—I'm not sure whether to try to keep them.",
+    "Given the new reality, should we shorten the itinerary, change the destination to somewhere closer, or reconfigure how we travel within the country?",
+    "We still want good food and a couple of cultural highlights, but saving money is now the most important factor.",
+    "Would switching to cheaper airlines with connections and staying in budget guesthouses and hostels make the three-city plan workable?",
+    "How easy is it to get refunds or credits on typical train tickets and hotels if we rebook for cheaper options?",
+    "If we pared the trip back to just one or two cities to save costs, which would preserve the most of our original goals?",
+    "Is there a realistic domestic alternative with similar culinary and cultural value that would be substantially cheaper?",
+    "Please propose two concrete alternatives that fit the tightened funds: one that keeps us in the same country but much cheaper, and one that stays closer to home.",
+    "For each alternative, outline which prepaid items to keep, which to cancel or swap, and simple cost-saving swaps for transport and lodging.",
+    "Give estimated price ranges for each alternative so we can see whether either fits our new constraints.",
+    "If we end up canceling the nonrefundable private class or tour, what are the lowest-cost experiences that deliver similar satisfaction?",
+    "Recommend the fastest way to check change/refund policies for our flight and train bookings so we can act before penalties increase.",
+    "In short, what's the single best rework of the trip that preserves its heart while respecting our sharply reduced budget?"
+  ],
+  "metadata": {
+    "timestamp": "2026-02-12T23:58:18.819Z"
+  }
+}

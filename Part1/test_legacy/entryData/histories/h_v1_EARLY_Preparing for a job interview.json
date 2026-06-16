@@ -1,0 +1,117 @@
+{
+  "id": "h_v1_EARLY_Preparing for a job interview",
+  "scriptId": "cs_v1_EARLY_Preparing for a job interview",
+  "cutoffIndex": 14,
+  "messages": [
+    {
+      "role": "user",
+      "content": "I have a job interview at Novatech for a Senior Product Manager role next Tuesday at 10:00 AM - I want to start organizing my prep notes."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. Below is a concise, practical prep-note template and checklist you can use to organize materials for your Senior Product Manager interview at Novatech. Tell me which sections you want expanded or if you want me to draft answers or mock questions.\n\nPrep-note template (sections to create)\n\n1) Logistics\n- Date & time: next Tuesday, 10:00 AM\n- Interview format: (panel / onsite / virtual) — fill in\n- Interviewers: names, roles, LinkedIn profiles\n- Duration & agenda per interviewer (if known)\n- Meeting links / travel details / contact person\n\n2) Company & product research\n- Novatech mission, vision, values\n- Core products/services and target customers\n- Recent news, funding, partnerships, acquisitions\n- Competitors and market dynamics\n- Key metrics likely relevant to Novatech (growth, retention, ARPU)\n\n3) Role-specific priorities\n- Senior PM responsibilities from job description (bulleted)\n- Required skills & experience called out\n- How this role fits into org structure and product areas\n\n4) Fit / behavioral stories (STAR)\n- Prepare 6–8 STAR stories mapped to common themes:\n  - Product leadership / roadmap ownership\n  - Cross-functional influence & stakeholder management\n  - Prioritization & trade-offs\n  - Data-driven decisions / A/B testing\n  - Handling failure / ambiguity / conflict\n  - Mentoring & team development\n- For each: Situation, Task, Action (concrete steps), Result (quantified)\n\n5) Product design & sense\n- Frameworks you’ll use (e.g., user problem -> metrics -> solutions)\n- 2–3 recent product ideas or case studies you can discuss\n- Example constraints and trade-offs you’d consider\n\n6) Strategy & metrics\n- How you define success (North Star, KPIs)\n- Prioritization frameworks (RICE, MoSCoW, Opportunity Scoring)\n- Go-to-market considerations and scalability concerns\n\n7) Technical & analytics\n- Key metrics definitions (DAU/MAU, retention cohorts, LTV, CAC)\n- Familiarity with analytics tools (SQL, GA, Amplitude) — note proficiency\n- Example analyses you’ve led (hypothesis, data, outcome)\n\n8) Questions to ask interviewers\n- Product strategy & vision for the next 12–24 months\n- Biggest challenges for this role in the first 6 months\n- Team structure and collaboration cadence\n- Success metrics and expected outcomes for role\n\n9) Closing notes\n- References to highlight\n- Compensation / timeline notes you want to remember to discuss\n\nSample interview prompts to prepare (use these to create notes)\n- Product design: “Design a new onboarding experience to improve activation for X user segment.”\n- Strategy: “How would you prioritize features for a product with declining retention?”\n- Metrics/analytics: “How would you measure and diagnose a drop in conversion rate?”\n- Behavioral: “Tell me about a time you disagreed with an engineering lead and how you resolved it.”\n- Leadership: “How do you mentor junior PMs and scale product thinking across a team?”\n\nQuick prep schedule (relative)\n- Now: Gather JD, interviewer names, company materials, past performance metrics and project summaries.\n- 3–4 days before: Draft STAR stories, map them to likely questions, prepare 2 product-case outlines.\n- 1–2 days before: Do mock interviews (30–60 min each), run through product-design and metrics questions, review logistics.\n- Day before: Light review of notes, relax, check tech/logistics.\n- Interview morning: Quick run-through of top 3 STARs and 3 questions to ask.\n\nFormatting tips for your notes\n- One page per STAR (Situation / Task / Action / Result + metrics)\n- One-page product-case templates (problem, target user, metrics, proposed solution, risks)\n- Quick reference sheet with company facts and interviewer notes\n\nWould you like: a) a filled STAR template based on one of your past projects, b) a 60-minute mock interview script, or c) a one-page printable interview cheat sheet?"
+    },
+    {
+      "role": "user",
+      "content": "It's a video interview on Zoom; the calendar invite lists Jane Smith as the hiring manager and Mike Lee from HR."
+    },
+    {
+      "role": "assistant",
+      "content": "Noted — Zoom interview next Tuesday at 10:00 AM with Jane Smith (hiring manager) and Mike Lee (HR). I'll add that to your Logistics section.\n\nQuick suggested next steps (brief)\n- Confirm Zoom meeting link and any passcodes; save contact info for Mike Lee in case of technical issues.\n- Look up Jane Smith and Mike Lee on LinkedIn (roles, recent posts, shared connections).\n- Test camera, microphone, and internet from the room you’ll use; have a backup device/phone.\n- Prepare one-page cheat sheet (top 3 STARs, 3 product-case bullets, 3 questions for interviewer).\n- Keep a copy of your resume and the job description handy during the call.\n\nWhich of the earlier options would you like me to prepare next: a) a filled STAR template from one of your past projects, b) a 60-minute mock interview script, or c) a one-page printable interview cheat sheet?"
+    },
+    {
+      "role": "user",
+      "content": "They said the whole session will be about an hour: a short intro followed by a 45-minute case exercise focused on product strategy."
+    },
+    {
+      "role": "assistant",
+      "content": "Noted — 1-hour session with ~45 minutes for a product-strategy case exercise.\n\nWhich preparation would you like me to create, tailored to that format?\n- a) a filled STAR template (behavioral prep)\n- b) a 45-minute mock case interview script (replaces the 60-min option), including prompt, timing cues, and scoring/feedback points\n- c) a one-page printable cheat sheet focused on product strategy (frameworks, sample metrics, quick case checklist)\n\nAlso: do you want the case prep to be generic or targeted to Novatech’s product area (if you can share which product/vertical they focus on)?"
+    },
+    {
+      "role": "user",
+      "content": "They asked me to have my portfolio link ready to share during the call and to have a government ID available if needed."
+    },
+    {
+      "role": "assistant",
+      "content": "Got it — I’ll add the portfolio link and ID note to your Logistics.\n\nQuick practical checklist for those items:\n- Portfolio link\n  - Verify the link works and is publicly viewable (or set to “anyone with link can view”).\n  - Open the exact page you’ll share before the call so it loads quickly.\n  - Prepare a 20–30 second elevator line that highlights which project you’ll show and why (one sentence on problem, one on impact).\n  - Have the link copied to your clipboard for pasting into Zoom chat; also have the project page open in a browser tab for screen-sharing.\n  - If your portfolio is a file (PDF), have a copy on your desktop and on your phone as backup.\n\n- Government ID\n  - Keep your physical ID nearby and accessible (on the desk or in a safe place you can quickly reach).\n  - If you prefer a digital copy, have a clear photo or scan on your phone — do not upload unless HR requests a secure method.\n  - Prefer showing ID on camera if asked; confirm beforehand with HR how they prefer to verify identity if that’s unclear.\n\nWould you like me to draft a 20–30 second portfolio elevator line for one of your projects or to check wording for a Zoom chat message to share the link?"
+    },
+    {
+      "role": "user",
+      "content": "Also mentioned: be ready to walk through two past projects and highlight concrete metrics I improved, so I should pick two clear examples."
+    },
+    {
+      "role": "assistant",
+      "content": "Good — here’s a concise plan to pick and prepare the two projects you’ll walk through.\n\n1) Quick selection criteria (choose projects that meet most items)\n- Relevance: relates to product strategy, metrics, or user segments similar to Novatech’s product.\n- Measurable impact: clear before/after metrics (conversion, retention, revenue, time-to-value, NPS).\n- Ownership & scope: you led roadmap decisions or owned cross-functional delivery.\n- Complexity: involved trade-offs, data, and stakeholder alignment.\n- Recency: within the last 2–3 years if possible.\n\n2) One-page project prep template (fill this for each project)\n- Title & timeframe\n- Your role & team (headcount, cross-functional partners)\n- Context / problem statement (one sentence)\n- Target users / segment\n- Success metrics (baseline, target, units, timeframe)\n- Actions you led (3–6 concrete steps; product decisions, experiments, GTM)\n- Constraints & trade-offs considered\n- Result (absolute and relative change; sample size/time window; how you attributed effect)\n- Key learnings / next steps\n- Artifact to show (link to specific portfolio page, screenshot, dashboard, slide)\n\n3) How to state metrics precisely (use this format)\n- “Improved X from A to B (Δ = +Y%, from MM/YYYY to MM/YYYY) measured by [metric name] on [cohort/scope]. Attribution via [A/B test/causal model/time-series].”\n- If A/B: add sample size, p-value or confidence if available.\n- If observational: note what controls or segmentation you used.\n\n4) 20–30 second elevator pitch template (for sharing the portfolio link)\n- One-line problem: who + pain\n- One-line solution + your role: what you built/decided\n- One-line impact: the metric change, timeframe, and how measured\nExample fillable: “For [user segment], we had [problem]. I led the product effort to [solution], coordinating [teams]. This increased [metric] from [A] to [B] over [timeframe], measured via [method].”\n\n5) Recommended ordering in interview\n- Start with the most relevant & highest-impact project first.\n- Use the second example to show a complementary skill (e.g., strategy + execution, or growth + retention).\n\nIf you want, paste brief notes on two candidate projects and I’ll: a) pick the best two based on the criteria, b) fill the one-page templates, and c) draft the 20–30s elevator lines and STAR-style bullets for each. Which would you like?"
+    },
+    {
+      "role": "user",
+      "content": "Any quick healthy 20-minute breakfast ideas I can make before a busy morning?"
+    },
+    {
+      "role": "assistant",
+      "content": "Here are eight healthy, 20-minute (or faster) breakfast options with quick prep steps and time estimates.\n\n1) Greek yogurt parfait — 3–5 min\n- Ingredients: 1 cup plain Greek yogurt, 1/2 cup mixed berries, 2–3 tbsp granola, 1 tsp honey or nut butter.\n- Steps: Layer yogurt, berries, granola; drizzle honey or nut butter. Eat or pack.\n\n2) Protein smoothie — 5–7 min\n- Ingredients: 1 scoop protein powder, 1 banana or 1/2 cup frozen berries, 1 cup milk or milk alternative, 1 tbsp nut butter, handful spinach (optional).\n- Steps: Blend until smooth. Pour into a travel cup. Tip: freeze fruit the night before for a thicker smoothie and faster cooling.\n\n3) Avocado toast + quick fried/poached egg — 8–12 min\n- Ingredients: 1–2 slices whole-grain bread, 1/2 avocado, 1 egg, salt/pepper, lemon or chili flakes.\n- Steps: Toast bread (2–3 min); mash avocado with salt/lemon; fry or poach egg (3–6 min). Assemble.\n\n4) Microwave scrambled eggs in a mug — 4–6 min\n- Ingredients: 2 eggs, splash of milk, handful spinach or pre-chopped veggies, 1–2 tbsp shredded cheese, salt/pepper.\n- Steps: Whisk eggs and milk in a microwave-safe mug, stir in veggies and cheese, microwave 45–60 seconds, stir, microwave another 30–45 seconds until set.\n\n5) Overnight oats (prepared night before) — 1–2 min morning\n- Ingredients: 1/2 cup rolled oats, 1/2 cup milk, 1/4 cup yogurt, 1 tbsp chia seeds, fruit or nuts to top.\n- Steps (night before): Mix oats, milk, yogurt, chia in jar and refrigerate. Morning: stir, top, eat cold or microwave 30–60 sec.\n\n6) Breakfast wrap/burrito — 10–12 min\n- Ingredients: Whole-wheat tortilla, 2 scrambled eggs or egg whites, 1/4 cup black beans (canned, rinsed), salsa, spinach, avocado.\n- Steps: Scramble eggs, warm tortilla, layer beans, eggs, spinach, salsa, fold. Wrap to-go.\n\n7) Cottage cheese fruit bowl — 2–4 min\n- Ingredients: 1 cup cottage cheese, sliced peach/pear or berries, 1–2 tbsp nuts or seeds, drizzle honey.\n- Steps: Combine in bowl, sprinkle nuts/seeds. High-protein and fast.\n\n8) Quick grain bowl with smoked salmon — 10–12 min\n- Ingredients: Pre-cooked quinoa or microwavable brown rice, 2–3 oz smoked salmon, cucumber, cherry tomatoes, lemon, olive oil.\n- Steps: Warm grain per package, top with salmon and veggies, drizzle lemon + olive oil, season.\n\nQuick prep tips\n- Pre-chop vegetables and portion fruit/berries ahead to save morning minutes.\n- Use microwavable grains, frozen fruit, and canned beans for speed.\n- If you’ll be eating on the go, prioritize handhelds (wraps, parfait in a jar, smoothie).\n\nIf you want, I can convert any of these into a shopping list or a 3-day rotation plan."
+    },
+    {
+      "role": "user",
+      "content": "Tell me one cool animal fact I can use for light conversation—something memorable but brief."
+    },
+    {
+      "role": "assistant",
+      "content": "Octopuses have three hearts and blue blood—two hearts pump to the gills, the third pumps to the body, and their copper-based blood helps them carry oxygen in cold, low-oxygen water."
+    },
+    {
+      "role": "user",
+      "content": "For a last-minute overnight trip to the coast, what's an easy town to consider within a couple hours' drive?"
+    },
+    {
+      "role": "assistant",
+      "content": "Where will you be driving from (city or region)? Also: do you prefer a quiet, scenic town or one with restaurants/shops and activities? Tell me the max drive time and number of travelers, and I’ll suggest a few nearby coastal towns."
+    },
+    {
+      "role": "user",
+      "content": "What's a two-minute breathing or grounding exercise I can do to calm nerves?"
+    },
+    {
+      "role": "assistant",
+      "content": "1) Sit comfortably with feet on the floor, hands resting on your lap. Set a 2-minute timer.\n\n2) Minute 1 — paced breathing:\n- Inhale gently through your nose for a count of 4.\n- Exhale slowly through your mouth for a count of 6.\n- Repeat this cycle, keeping breaths smooth and even, until the minute is up.\n\n3) Minute 2 — 5-4-3-2-1 grounding:\n- Name 5 things you can see.\n- Name 4 things you can feel (e.g., chair under you, clothes, floor).\n- Name 3 things you can hear.\n- Name 2 things you can smell.\n- Name 1 thing you can taste or notice one full breath.\n\n4) Finish with one slow, full breath in and out, open your eyes if closed.\n\nUse silently or out loud."
+    },
+    {
+      "role": "user",
+      "content": "Do you have a practical mnemonic for remembering people's names when I'm introduced?"
+    },
+    {
+      "role": "assistant",
+      "content": "Try the simple mnemonic \"NAME\":\n\n- N — Notice: Focus on the person and listen closely when they say their name.  \n- A — Associate: Create a quick mental image or rhyme that links the name to something memorable (e.g., Rose → picture a rose; Mark → picture a bookmark).  \n- M — Mirror/Mention: Repeat the name immediately back and use it in conversation (“Nice to meet you, Maria”). Say it once more before the interaction ends.  \n- E — Encode & write: After the introduction, jot the name plus a one-word cue (role/feature) into your phone or a notebook within a minute.\n\nQuick extras: If you missed it, ask politely (“Sorry, could you repeat your name?”). Using the name 2–3 times in the first minute is often enough to lock it in."
+    },
+    {
+      "role": "user",
+      "content": "Recommend a short, page-turner thriller I could finish over a weekend—nothing too dense."
+    },
+    {
+      "role": "assistant",
+      "content": "- The 39 Steps — John Buchan — ~160–180 pages  \n  Fast-paced classic spy thriller: constant forward momentum and short chapters make it easy to zip through in a few sittings.\n\n- Fever Dream — Samanta Schweblin — ~140–160 pages  \n  A tense, hallucinatory novella that reads like a compact psychological thriller—brief, unsettling, and hard to put down.\n\n- Sharp Objects — Gillian Flynn — ~250–260 pages  \n  Dark, tightly plotted psychological suspense with short chapters and strong momentum; gripping and character-driven without being dense.\n\n- The Talented Mr. Ripley — Patricia Highsmith — ~270–300 pages  \n  A cool, psychological cat-and-mouse thriller with razor-sharp tension and a slippery protagonist that keeps you turning pages.\n\nPick one based on whether you want classic adventure (39 Steps), eerie/compact (Fever Dream), dark domestic suspense (Sharp Objects), or psychological tension (Ripley)."
+    },
+    {
+      "role": "user",
+      "content": "I'm curious about fermenting at home: what's a safe vegetable to start with for a beginner?"
+    },
+    {
+      "role": "assistant",
+      "content": "Cabbage (for sauerkraut) is the easiest and safest starter — forgiving, simple ingredients, and low risk of problems.\n\nBasic steps (very short)\n- Use fresh cabbage and non-iodized salt (kosher or sea).  \n- Shred cabbage, weigh it, and add salt at about 2% of the cabbage weight (e.g., 20 g salt per 1 kg cabbage).  \n- Massage until it releases juice, then pack tightly into a clean jar so the cabbage is submerged under its brine. Use a fermentation weight or a small, clean object to keep it down.  \n- Cover with a loose lid, airlock, or cloth to let gas escape. Keep at ~65–72°F (18–22°C).  \n- Ferment 1–3 weeks, tasting periodically; when you like the flavor, refrigerate to slow fermentation.\n\nSafety tips (brief)\n- Discard if you see fuzzy, colored mold or an unmistakably rotten smell.  \n- White surface film (kahm yeast) can appear — it’s not poisonous but can affect flavor; skim it off if desired.  \n- Use clean jars and utensils; avoid reactive metals (aluminum) in contact with brine.  \n- Normal signs of fermentation: bubbling, cloudy brine, tangy/sour aroma.\n\nThat’s all you need to get started safely."
+    },
+    {
+      "role": "user",
+      "content": "Any simple tips to keep my houseplants alive if I know I'll be busy for a week?"
+    },
+    {
+      "role": "assistant",
+      "content": "Before you go (1–2 hours prior)\n- Check each plant’s moisture: stick a finger 1–2\" into the soil. Water thoroughly if dry; skip if still moist.  \n- Do not fertilize or repot right before leaving.  \n- Prune obvious dead leaves/weak growth to reduce water use.\n\nWatering rules by plant type\n- Tropical/leafy plants: water until excess drains and let sit for 10–15 min; they’ll tolerate a week.  \n- Succulents/cacti: do not water if recently watered—these prefer drier soil for a week.  \n- Ferns/very thirsty plants: water well and use a humidity boost (see below).\n\nPlacement & environment\n- Move plants out of direct midday sun and away from drafts, heaters, or AC vents.  \n- Group pots together to create a micro-humidity zone and reduce evaporation.  \n- Close curtains partially if the room will get hot; this slows soil drying.\n\nSimple self-watering options (easy, low-cost)\n- Inverted bottle: poke small holes in a clean plastic bottle cap, fill the bottle, invert into the soil for slow release.  \n- Wick system: place a water container nearby and run a cotton shoelace or strip of cloth from the container into the potting soil.  \n- Pebble tray: set pots on a tray of water + pebbles (pots above waterline) to increase local humidity.  \n- Self-watering insert or saucer reservoir if you have one.\n\nQuick humidity boosts\n- Mist foliage lightly (not for succulents).  \n- Place moisture-loving plants in the bathroom or kitchen where humidity is higher.\n\nFinal checks\n- Leave blinds/curtains adjusted to avoid overheating.  \n- Turn off automatic lights/fans that might dry plants.  \n- Ask a neighbor/friend to check once if you’re worried, especially for high-value or finicky plants.\n\nIf you tell me which specific plants you have, I can give one-sentence, tailored advice for each."
+    }
+  ],
+  "metadata": {
+    "inputTokens": 35042,
+    "outputTokens": 11032,
+    "totalTokens": 46074,
+    "timestamp": "2026-01-25T01:46:18.247Z"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v1_EARLY_L40_Having trouble sleeping well",
+  "scriptId": "cs_v1_EARLY_L40_Having trouble sleeping well",
+  "historyId": "h_v1_EARLY_L40_Having trouble sleeping well",
+  "componentType": "plainContext",
+  "context": "Current Strate:\nREM rebound overview: brain’s compensatory increase in REM after REM suppression or sleep deprivation; typical experiences, timing, triggers, and practical implications; Auditory conditioning for sleep onset can be effective variably; Alcohol-related sleep disruption and recovery timeline: after a single night, many features normalize within 1–3 sober nights; heavier or chronic drinking can take weeks to months to fully recover sleep architecture; New information: Research-backed relaxation apps/programs exist; Sleepio (fully automated digital CBT-I) with multiple randomized trials showing improvements in sleep onset, sleep efficiency, and insomnia symptoms vs controls; Somryst (prescription digital therapeutic for chronic insomnia) with randomized trial evidence and regulatory authorization in certain jurisdictions; CBT-I Coach / VA CBT-I apps based on CBT-I; Headspace with randomized trials showing modest reductions in stress/anxiety and some sleep improvements, with effect sizes moderate and population-dependent; Woebot with randomized trials showing reductions in depressive and anxiety symptoms in short-term studies; SilverCloud (Amwell/related platforms) with controlled trials showing benefits for anxiety and depression when delivered via health systems; HRV/biofeedback tools with clinical research supporting reductions in anxiety and improved autonomic regulation, noting product/study variability; Calm with some industry-funded studies and small trials; Muse (EEG headband) and other neurofeedback/EEG consumer devices with pilot studies and limited larger RCT evidence; How to judge evidence: prefer peer-reviewed randomized controlled trials and independent research; prioritize structured, evidence-based therapies (e.g., CBT-I) over unstructured meditation playlists for clinical effect; consider published outcomes, participant characteristics, and follow-up duration; regulatory endorsements and clinician partnerships add credibility; privacy and data policies matter; Bottom line: strongest evidence for insomnia/sleep problems is structured digital CBT-I programs (Sleepio,",
+  "generationMetrics": {
+    "inputTokens": 24070,
+    "outputTokens": 61845,
+    "totalTokens": 85915
+  },
+  "timestamp": "2026-02-14T00:43:44.802Z"
+}

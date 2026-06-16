@@ -1,0 +1,27 @@
+{
+  "id": "es_v3_ACCUMULATION_L40_Adjusting to a new schedule",
+  "scriptId": "cs_v3_ACCUMULATION_L40_Adjusting to a new schedule",
+  "historyId": "h_v3_ACCUMULATION_L40_Adjusting to a new schedule",
+  "cutoffIndex": 24,
+  "messages": [
+    "I prefer to batch-cook or prep dinners on weekdays so evenings aren't full of cooking.",
+    "My manager expects me to be reachable during normal work hours, so I can't be completely offline during the day.",
+    "I don't drive, so I have to rely on trains, buses, walking, and the occasional rideshare for transit and school runs.",
+    "One more thing: I'm slow to get going after waking — I need about half an hour to forty-five minutes before I'm productive.",
+    "Alright — with all of that scattered info, can you put together a practical weekly outline that actually works?",
+    "Focus on weekdays first: propose morning and evening routines that respect the early start and long transit without burning me out.",
+    "Include where my planned workouts could reasonably fit and which might be better on a remote day.",
+    "Work-around my unavoidable evening obligations: suggest how to rearrange meals, childcare handoffs, and rest on those nights.",
+    "Factor in my medication routine so it's paired with other daily anchors, but avoid times that would clash with travel.",
+    "For commutes, propose realistic travel blocks that could be used for low-effort tasks, and indicate when to preserve them for downtime instead.",
+    "Because I need a buffer after waking before I'm productive, give wake-up suggestions that include that ramp-up, not just an alarm time.",
+    "On work-from-home days, recommend where to shift workouts, extra sleep, or focused work blocks to make the week balanced.",
+    "For the initial onboarding week, give a gentle plan — what to change immediately and what to phase in over the first month.",
+    "Include a simple evening wind-down routine that helps me get the sleep I need, especially before the busiest mornings.",
+    "Also suggest a short daily checklist I can use to stay responsive at work while protecting family windows and rest.",
+    "Finally, present the weekly layout and checklist now, with brief notes on the trade-offs implied by what I’ve shared."
+  ],
+  "metadata": {
+    "timestamp": "2026-02-13T01:00:25.617Z"
+  }
+}

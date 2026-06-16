@@ -1,0 +1,34 @@
+{
+  "id": "cs_v1_EARLY_Saving money for a specific goal",
+  "type": "cs_v1_EARLY",
+  "seedTopic": "Saving money for a specific goal",
+  "length": 20,
+  "messages": [
+    "I'm trying to save for a specific goal: a reliable used car so I can commute to work. My target is $12,000, and I'd like to reach that within the next 18 months (aiming for the summer after next).",
+    "So far I've put aside about $3,000 specifically for this, and I can consistently transfer around $450 each month into that fund from my take-home pay.",
+    "I'm keeping the money in a separate high-yield savings account earning about 1.2% annually, and I expect a one-off $800 bonus in nine months that I'll add to the car fund.",
+    "I really need the car by the start of that summer because ride-hailing costs are getting expensive and my commute will become unsustainable without a vehicle.",
+    "Quick change of topic: what's a simple, healthy weeknight dinner I can make with canned chickpeas and spinach?",
+    "Any recommendations for lightweight day hikes within a couple hours' drive—preferably under 5 miles and not too steep?",
+    "Do you know the origin of the phrase 'break the ice'? Is it nautical or social in origin?",
+    "Could you give me a one-paragraph summary of The Great Gatsby? Trying to decide if I should read it.",
+    "I'm thinking of starting a tiny balcony herb garden—what are two easy herbs that do well in partial sun?",
+    "Any quick packing tips to reduce suitcase bulk for a three-day city trip?",
+    "Tell me one interesting fact about honeybees that most people don't know.",
+    "Got a clean one-liner joke about coffee I can text a friend?",
+    "For focus work, is instrumental film score generally better than lo-fi beats? Short reasons, please.",
+    "What's the rule of thumb for how long it takes a sourdough starter to be active enough for baking—days or weeks?",
+    "What's the fastest land animal and is it sensible to compare sprint speed across species?",
+    "If I wanted to learn a tiny amount of coding in a month, which language—Python or JavaScript—gives the most immediate payoff?",
+    "Back to the car plan—if I keep depositing my regular monthly amount and then add that expected mid-plan bonus, do you think I'll still hit my target by the timeframe I mentioned, or should I prepare to cut other spending?",
+    "I put the fund in a separate account with modest interest—would switching to a slightly higher-yield short-term alternative realistically change the outcome over the remaining period?",
+    "If the pot I have is only about a quarter of what I need, would picking up a short freelance gig for a few months be more effective than trimming everyday expenses?",
+    "Finally, if I don't change my take-home income, is it safer to nudge the monthly transfer up a bit or try to find a one-off extra to avoid postponing the purchase? Which option tends to have less downside?"
+  ],
+  "metadata": {
+    "inputTokens": 420,
+    "outputTokens": 9036,
+    "totalTokens": 9456,
+    "timestamp": "2026-01-24T22:39:39.046Z"
+  }
+}

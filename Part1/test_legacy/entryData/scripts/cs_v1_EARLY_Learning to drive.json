@@ -1,0 +1,34 @@
+{
+  "id": "cs_v1_EARLY_Learning to drive",
+  "type": "cs_v1_EARLY",
+  "seedTopic": "Learning to drive",
+  "length": 20,
+  "messages": [
+    "I'm learning to drive and just booked my driving test for June 18th at 9:30 AM at the Midtown DMV.",
+    "All my lessons have been with my instructor Elena Park from Cityline Driving Academy, and we always practice in her 2013 Honda Fit with a manual gearbox.",
+    "So far I've logged 36 hours over three months: about 10 night drives, 8 highway sessions, and I practiced parallel parking 12 times and hill starts 9 times.",
+    "My main targets are clutch control and smooth three-point turns, and I need to get a full Class C license—the part where I have to drive independently still makes me nervous.",
+    "Switching gears—what's a simple, high-protein breakfast I can make on weekdays that takes less than 10 minutes?",
+    "Also, what's a quick explanation of how honeybees communicate direction with the waggle dance?",
+    "Can you recommend three science podcasts around 30 minutes each? I prefer ones with clear explanations and occasional interviews.",
+    "I'm debating between beige and greige paint for a small living room—do warm neutrals actually make a small room feel larger, or is lighting more important?",
+    "My pothos and snake plant always survive but I still forget how much to water them—what's a simple watering schedule for those if I'm away on weekends?",
+    "Fun question: why do flamingos stand on one leg? Is there a solid scientific explanation?",
+    "I started doing portrait photography—what aperture range should I try indoors for a soft background without losing facial detail?",
+    "Curious about words: where does the word 'serendipity' come from?",
+    "If I want to get into coding just to automate little tasks on my computer, should I learn Python or JavaScript first?",
+    "Planning a weekend at the coast—what's a light packing list for a day at the beach?",
+    "Any easy origami ideas for a beginner? Something quick to fold while commuting would be fun.",
+    "Last random thing—why do some people say reading on screens is harder than paper? Is there research on comprehension differences?",
+    "Given my big appointment that morning, would you recommend a short checklist to run through in the car before I start—especially to steady my footwork on the left pedal?",
+    "If traffic around the licensing center usually picks up mid-morning, how much extra time should I factor in if I'm leaving from downtown to arrive with at least 20 minutes spare?",
+    "My regular instructor, the one who's been taking me out for months, suggested focusing on the section where I have to navigate myself—what two very short drills could she have me do right before the exam to sharpen decision-making at junctions?",
+    "Considering the mix of night practice and highway sessions I mentioned earlier, do you think a single quick highway warm-up run the morning of is enough to refresh merging skills, or would it be better to do a brief practice in a quiet urban area instead?"
+  ],
+  "metadata": {
+    "inputTokens": 417,
+    "outputTokens": 9840,
+    "totalTokens": 10257,
+    "timestamp": "2026-01-24T22:40:03.818Z"
+  }
+}

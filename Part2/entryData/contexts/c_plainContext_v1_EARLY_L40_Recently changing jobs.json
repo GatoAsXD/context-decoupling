@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v1_EARLY_L40_Recently changing jobs",
+  "scriptId": "cs_v1_EARLY_L40_Recently changing jobs",
+  "historyId": "h_v1_EARLY_L40_Recently changing jobs",
+  "componentType": "plainContext",
+  "context": "Current State:\nCurrent State:\nCurrent State:\nMentors engagement after leaving:\n- Cadence: aim for a light cadence with quick check-ins every 2–3 months (quarterly), unless they prefer otherwise.\n- Lead with value and brevity: open messages with a 1–2 sentence update (win or progress) and one specific, bounded ask (15 minutes or a single question).\n- Be specific in asks: request “15 minutes to get your view on X” or “one quick question about prioritizing A vs B” rather than a vague “catch up.”\n- Offer reciprocity: share an article, intro, or resource relevant to their interests, or offer to help with something small (e.g., feedback on a deck). Even small reciprocation signals you’re not only taking.\n- Use asynchronous\n\nCommon pitfalls in 1:1s with new engineering partners:\n- Dominating the conversation: mitigation: ask open questions, listen first, and let engineers surface constraints and ideas.\n- Being overly prescriptive early: mitigation: frame proposals as hypotheses and invite technical input.\n- No clear goals or outcomes: mitigation: state the goal and success metric up front for each topic.\n- Ignoring technical constraints or debt: mitigation: ask about technical debt, dependencies, and long‑term risks explicitly.\n- Skipping rapport and context: mitigation: start with a brief personal check‑in and show curiosity about their priorities.\n- Making or accepting vague commitments: mitigation: use time‑boxed commitments and confirm estimates with engineers before promising stakeholders.\n- Failing to follow up on actions: mitigation: capture 1–2 clear action items and owners; send a short recap after the meeting.\n- Misaligned terminology or metrics: mitigation: agree on definitions and the metric(s) that indicate success.\n- Unclear decision rights: mitigation: clarify who owns decisions and what tradeoffs require escalation.\n- Unstructured or inconsistent agenda: mitigation",
+  "generationMetrics": {
+    "inputTokens": 24507,
+    "outputTokens": 68322,
+    "totalTokens": 92829
+  },
+  "timestamp": "2026-02-14T15:08:23.845Z"
+}

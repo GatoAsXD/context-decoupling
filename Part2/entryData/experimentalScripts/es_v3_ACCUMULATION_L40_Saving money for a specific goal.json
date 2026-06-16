@@ -1,0 +1,27 @@
+{
+  "id": "es_v3_ACCUMULATION_L40_Saving money for a specific goal",
+  "scriptId": "cs_v3_ACCUMULATION_L40_Saving money for a specific goal",
+  "historyId": "h_v3_ACCUMULATION_L40_Saving money for a specific goal",
+  "cutoffIndex": 24,
+  "messages": [
+    "I want to keep contributing to retirement — roughly $150 each month — and that's not something I want to stop.",
+    "Liquidity matters: I need the money to be easy to access when the time comes.",
+    "Automating transfers feels right for the main monthly contributions.",
+    "I'm open to a very small, short-term loan only if it meaningfully improves my chances without heavy interest or long-term debt.",
+    "Given all that, do you think the goal is attainable on the timetable I mentioned?",
+    "If it's attainable, tell me the precise monthly amount I should set up as an automatic transfer to hit it.",
+    "Show me how to fit that into my monthly budget alongside rent, the loan payment, and my retirement contribution so I know it's realistic.",
+    "Explain where the funds should live — one account or multiple? — and how to label/separate them from my emergency cushion.",
+    "For months when gigs or the bonus show up, give me a simple rule for allocating that extra money toward the car versus keeping it for flexibility.",
+    "If I fall short for a month or two, what's the smartest temporary adjustment that won't jeopardize the emergency cushion or retirement?",
+    "Lay out a short decision framework for whether taking a small short-term loan makes sense in my case.",
+    "Can you provide a 6-month sample budget table (month, income, fixed costs, automated savings, discretionary spend) so I can see it at a glance?",
+    "Assuming I free up the discretionary amount I mentioned, what's the earliest month I'd reach the target, and how would that change if my bonus is smaller than usual?",
+    "If by month nine I'm behind the plan, I want three prioritized, concrete actions to get back on track — what should they be?",
+    "I also want a one-week action checklist to set this up now: accounts to open, transfers to schedule, labels, and any small settings to adjust.",
+    "Please produce the full, final plan now — include the exact monthly savings figure, the feasibility assessment, recommended accounts and automation steps, contingency triggers, and whether a small loan would be advisable — using everything I've told you."
+  ],
+  "metadata": {
+    "timestamp": "2026-02-13T03:38:15.743Z"
+  }
+}

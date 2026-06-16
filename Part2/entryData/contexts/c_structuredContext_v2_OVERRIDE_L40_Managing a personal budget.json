@@ -1,0 +1,83 @@
+{
+  "id": "c_structuredContext_v2_OVERRIDE_L40_Managing a personal budget",
+  "scriptId": "cs_v2_OVERRIDE_L40_Managing a personal budget",
+  "historyId": "h_v2_OVERRIDE_L40_Managing a personal budget",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "build a six-month emergency fund",
+      "pay off credit card in 18 months if possible",
+      "save for a down payment of $30,000 within two years"
+    ],
+    "constraints": [],
+    "decisions": [
+      "Adopt hybrid budgeting method: zero-based budget + debt-avalance + envelope/sinking funds",
+      "Create and implement negotiation scripts for subscriptions, cable/internet bundles, and insurance to lower monthly bills",
+      "balance_transfer_and_apr_negotiation_strategy: evaluate balance-transfer offers and APR negotiation with current issuer"
+    ],
+    "entities": [
+      "monthly_take_home_income: $4,500",
+      "rent: $1,450",
+      "utilities: $200",
+      "groceries: $450",
+      "transportation: $350",
+      "subscriptions: $120",
+      "dining_out: $200",
+      "credit_card_minimums: $200",
+      "student_loan_minimum_payment: $260",
+      "roth_ira_monthly_transfer: $300",
+      "credit_card_balance: $6,000",
+      "student_loan_balance: $12,000",
+      "emergency_fund: $4,500",
+      "credit_card_apr: high",
+      "student_loan_apr: low",
+      "down_payment_target: $30,000",
+      "emergency_fund_target: $14,700",
+      "target_timeframes: credit_card_payoff_18_months",
+      "two_year_down_payment_timeframe: 24_months",
+      "budgeting_method: hybrid (zero-based + debt-avalanche + envelopes)",
+      "monthly_surplus: $970",
+      "rule_based_splits: Option A (Aggressive), Option B (Balanced), Option C (Emergency-fund prioritized)",
+      "preferred_split_pending: true",
+      "sinking_fund_approach: separate buckets for irregular costs (car maintenance, medical, home repairs) with automated monthly transfers",
+      "income_stability: stable take-home pay for 3+ years",
+      "budgeting_apps_recommendations: YNAB; Simplifi; Mint; PocketGuard; Goodbudget; Tiller Money; Empower",
+      "bank_savings_buckets_recommendation: create named savings subaccounts for emergency fund, car maintenance, medical, and down payment; set automated transfers after payday",
+      "automation_setup_guidance: automate transfers after payday: employer deposit → allocate X to checking for bills, then auto-transfer fixed amounts to each bucket and to debt payoff",
+      "security_notes: enable two-factor authentication on all accounts and use strong unique passwords",
+      "negotiation_scripts_for_bills: create and test scripts for negotiating subscriptions, cable/internet bundles, and insurance rates to lower monthly costs"
+    ],
+    "open": [
+      "outstanding debts (balances, minimum payments: credit card $200, student loan $260, interest rates if known)",
+      "current savings / emergency fund amount",
+      "top financial goals and timelines (e.g., emergency fund size, debt payoff, down payment)",
+      "upcoming irregular expenses (annual bills, planned purchases)",
+      "retirement contributions and amount (roth IRA monthly transfer $300 from checking)",
+      "budgeting style preference (strict, flexible, 50/30/20, etc.)",
+      "primary objective of plan (monthly budget, debt-payoff schedule, savings timeline, or all of the above)",
+      "student_loan_balance: $12,000; APR: low",
+      "emergency_fund: $4,500",
+      "hybrid budgeting method adopted",
+      "pending_rule_based_split_decision: determine preferred option among A, B, or C",
+      "Consider implementing a 3-change combo later to reach $300–$500 monthly savings as outlined by assistant",
+      "employer_match_priority: keep contributions sufficient to receive full employer match before redirecting any extra funds to debt",
+      "credit_card_payoff_priority: after securing match, apply remaining surplus to the high APR credit card (debt-avalanche)",
+      "roth_pausing_consideration: pausing Roth contributions temporarily is acceptable only after match is secured and you weigh tradeoffs",
+      "irregular_expenses_sinking_fund_planning: awaiting user-provided categories and annual costs to tailor monthly contributions",
+      "two_year_down_payment_feasibility_being_considered",
+      "budgeting_apps_exploration_pending: identify preferred app and automation setup for tracking spending and transfers",
+      "negotiation_scripts_for_bills: plan and test short negotiation scripts for subscriptions, cable/internet bundles, and insurance to lower monthly bills",
+      "side_gig_net_income_projection: determine realistic after-tax net monthly income from a side gig to model in the projection",
+      "balance_transfer_evaluation_pending: assess whether to pursue balance transfers or APR negotiation, including transfer fees, intro APR duration, post-promo APR, processing times, and mortgage impact]",
+      "Automate transfers starting next month: set up recurring transfer of $400 to Down Payment subaccount and $200 to credit card on payday; ensure funds available by transferring day after payday.",
+      "Budget update: reflect new allocations by moving $400 to Down Payment and $200 to Extra CC payments in zero-based budget; implement two trims now (for example: cut dining_out by $100 and subscriptions by $60, and reduce groceries/other by $140) or earmark identified extra income. Cancel/trim unused subscriptions and reallocate that monthly amount to the new transfers.",
+      "Guardrails: add low-balance alert on checking account (e.g., $500) and a calendar reminder each week to verify the transfers cleared and check envelope balances. Keep a small cushion (one–two paychecks) in checking so automated transfers won’t overdraft; if the cushion is breached, pause nonessential transfers and catch up next payday."
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 35595,
+    "outputTokens": 93269,
+    "totalTokens": 128864
+  },
+  "timestamp": "2026-02-14T15:39:37.104Z"
+}

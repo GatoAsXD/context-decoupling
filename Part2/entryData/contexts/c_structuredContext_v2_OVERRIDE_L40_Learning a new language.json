@@ -1,0 +1,84 @@
+{
+  "id": "c_structuredContext_v2_OVERRIDE_L40_Learning a new language",
+  "scriptId": "cs_v2_OVERRIDE_L40_Learning a new language",
+  "historyId": "h_v2_OVERRIDE_L40_Learning a new language",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Be conversational in Spanish for travel and basic work meetings within six months.",
+      "Incorporate roleplay scripts into weekly practice routine."
+    ],
+    "constraints": [
+      "Timeframe: six months.",
+      "Weekly commitment: 45 minutes per day, six days a week.",
+      "Roleplay practice included in each 45-minute session."
+    ],
+    "decisions": [
+      "Use a high-quality premade frequency deck to bootstrap core vocabulary.",
+      "Create own sentence-based cards focused on travel and work meetings as soon as possible.",
+      "Allocate 20–25 minutes per 45-minute session to SRS (Anki).",
+      "New cards per day: 4–7 (25–50 per week); adjust if reviews become heavy.",
+      "Gradually replace low-quality premade cards with self-made sentence cards or suspend unused premade cards.",
+      "Tag cards by topic (travel, meetings, grammar) for targeted review.",
+      "Include native audio when possible; use images for concrete nouns.",
+      "Use filtered decks to focus on urgent items; review via mobile app for quick bursts.",
+      "Paid live tutoring and/or subscription apps can accelerate speaking speed when combined with free tools.",
+      "Set a plan to evaluate cost-effectiveness (e.g., 4-week trial) and adjust based on progress.",
+      "Adopt daily shadowing as a pronunciation improvement technique.",
+      "Recommended paid session frequency: 2 paid sessions per week (25–30 minutes each) as a balanced approach; alternatives include 3 × 20 minutes or 3–5 paid sessions if budget allows.",
+      "Incorporate roleplay scripts practice into routine as practice prompts.",
+      "Adopt native content-with-transcripts ratio plan to progressively increase native input over six months (Month 1: 15–25% native-with-transcripts; Months 2–3: 40%; Months 4–6: 60%+)."
+    ],
+    "entities": [
+      "Spanish language learning",
+      "travel",
+      "work meetings",
+      "Anki",
+      "SRS",
+      "premade decks",
+      "sentence-based cards",
+      "tutoring",
+      "subscription apps",
+      "language exchanges",
+      "conversation partners",
+      "shadowing",
+      "Dreaming Spanish",
+      "News in Slow Spanish",
+      "Coffee Break Spanish",
+      "Pocoyó",
+      "Peppa Pig (Spanish dub)",
+      "LingQ",
+      "Readlang",
+      "Easy Spanish Reader by William T. Tardy",
+      "First Spanish Reader: A Beginner’s Dual-Language Book by Ángel Flores",
+      "Spanish Short Stories for Beginners (Olly Richards)",
+      "Penguin Parallel Text: Spanish Short Stories (parallel-text collection)",
+      "La oruga muy hambrienta (The Very Hungry Caterpillar)",
+      "Corrections",
+      "Roleplay scripts for travel and work meeting scenarios",
+      "native content with transcripts"
+    ],
+    "open": [
+      "Develop cost-effectiveness test plan: allocate budget for tutoring/subscriptions and evaluate impact over a 4-week period.",
+      "Arrange first conversation partner session(s) and schedule ongoing speaking practice.",
+      "Integrate a 10-minute daily shadowing routine into the study plan.",
+      "Create a beginner listening content plan: select 1–2 regular sources and implement a progression plan (Weeks 1–12).",
+      "Incorporate the Month 1/3/6 benchmarks into the study plan as milestone tests.",
+      "Schedule milestone checks around Week 4, Week 12, and Week 24 to assess progress.",
+      "Prepare test prompts for each milestone (vocabulary, listening, speaking, and writing tasks).",
+      "Plan to adjust the study plan based on milestone results.",
+      "Develop and implement a structured correction framework for practice with tutors/partners (set correction scope, balance immediate vs. delayed feedback, use reformulation/elicitation, create short scripts, and log corrections; add corrected sentences to Anki production cards).",
+      "Micro-task: Quick SRS + production (6–8 min) — Do your Anki review (including 2–4 new cards if you can) and immediately say aloud a sentence for 3 of the review items.",
+      "Micro-task: 1-minute shadow + record (6–9 min) — Pick a 30–60s clip or sentence from Dreaming Spanish/graded audio, do one shadow pass, record yourself repeating the same clip once, listen back quickly and note one thing to improve next time.",
+      "Micro-task: Targeted spoken drills (5–10 min) — Choose 3 practical prompts (self-intro, order food, ask for directions, meeting intro); speak each twice (unprepared, then corrected).",
+      "Gather user preferences on 1:1 vs group classes and rough weekly budget for tutoring to tailor platform mix and session frequency.",
+      "Create/refine roleplay scripts for practical situations: ordering food, asking for directions, checking into a hotel, and small talk."
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 33976,
+    "outputTokens": 69009,
+    "totalTokens": 102985
+  },
+  "timestamp": "2026-02-14T15:32:34.060Z"
+}

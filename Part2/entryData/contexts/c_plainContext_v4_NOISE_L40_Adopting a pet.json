@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v4_NOISE_L40_Adopting a pet",
+  "scriptId": "cs_v4_NOISE_L40_Adopting a pet",
+  "historyId": "h_v4_NOISE_L40_Adopting a pet",
+  "componentType": "plainContext",
+  "context": "Current State: There are gadgets now—automatic feeders, smart toys, cameras—that make pet care feel high-tech. Pros: gadgets can make limited-time care easier (cameras for remote monitoring, timed feeders for cats, app alerts); smart toys provide enrichment when you’re at work. Cons: upfront and ongoing costs, can fail or require maintenance, and aren’t substitutes for supervised child–pet interactions or basic hygiene. For small mammals (guinea pigs, rats): timed feeders are usually less useful because they need fresh hay/produce and safe water; cameras, chew-safe enrichment, and secure cord protection are more practical. When considering any device, check reliability, safety (choking/electrical hazards), and total cost of ownership to stay within your budget. Message: People on forum boards argue strongly about different care philosophies; opinions are all over the place. Response: Totally — that’s really common and can be overwhelming. It helps to treat heated opinions as anecdotes, and give more weight to vets, rescue/shelter staff, and reputable, evidence‑based resources when you need reliable guidance. Forum discussions commonly present diverse care philosophies; opinions vary widely. When seeking guidance, rely on vets, rescue/shelter staff, and reputable, evidence-based resources rather than forum opinions; treat heated opinions as anecdotes. Message: A relative's hound once howled whenever mail was delivered, which created some tension with neighbors. Response: That’s a common problem—dogs often vocalize at delivery noises and it can definitely strain neighbor relations. Simple fixes people use are desensitization/conditioning, providing distractions (toys or background noise), or keeping the dog away from the door during usual delivery times.",
+  "generationMetrics": {
+    "inputTokens": 18559,
+    "outputTokens": 62835,
+    "totalTokens": 81394
+  },
+  "timestamp": "2026-02-14T23:18:33.166Z"
+}

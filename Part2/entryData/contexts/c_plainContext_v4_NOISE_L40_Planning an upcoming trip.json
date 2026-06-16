@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v4_NOISE_L40_Planning an upcoming trip",
+  "scriptId": "cs_v4_NOISE_L40_Planning an upcoming trip",
+  "historyId": "h_v4_NOISE_L40_Planning an upcoming trip",
+  "componentType": "plainContext",
+  "context": "<conversation_block> \nCurrent State:\n            \n\nMessage:\nShoe dilemma: sneakers for miles of walking or a nicer pair for dinners and evenings out?\n\nResponse:\nPrioritize comfort for daytime walking, but there are good compromises so you can look nicer in the evenings without hauling two huge pairs.\n\nOptions\n- Two‑shoe approach (recommended): 1 very comfortable walking sneaker for days (supportive, grippy sole, broken‑in) + 1 compact nicer pair for evenings (leather slip‑ons, loafers, low‑heeled ankle boots, or tidy flats). Wear the sneakers on the plane to save room.\n- One‑pair compromise: a smart‑casual shoe that’s also comfortable enough for long walks — think leather or faux‑leather sneakers, desert boots, or cushioned loafers. Not as perfect as two pairs, but light and versatile.\n\nKey practical tips\n- Prioritize a stiff, grippy sole for cobblestones and hills; avoid totally flat slick soles.\n- Break them in well before the trip to avoid blisters.\n- Pack a small blister kit, comfy insoles, and quick‑dry socks.\n- If rain’s possible, pick a water‑resistant option or bring a lightweight waterproofing spray.\n- Wear the bulkiest pair on the plane to save luggage space.\n\nIf you value sightseeing comfort above all, take the sneakers + one compact dress shoe; if you really must travel ultralight, choose the best-looking comfortable shoe you own.\n            </conversation_block>",
+  "generationMetrics": {
+    "inputTokens": 15293,
+    "outputTokens": 61474,
+    "totalTokens": 76767
+  },
+  "timestamp": "2026-02-14T23:38:31.675Z"
+}

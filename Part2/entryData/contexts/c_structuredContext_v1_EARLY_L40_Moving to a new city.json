@@ -1,0 +1,36 @@
+{
+  "id": "c_structuredContext_v1_EARLY_L40_Moving to a new city",
+  "scriptId": "cs_v1_EARLY_L40_Moving to a new city",
+  "historyId": "h_v1_EARLY_L40_Moving to a new city",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Discover smaller venues and local band nights that aren't on big ticket sites.",
+      "Locate community gardens and urban gardening groups."
+    ],
+    "constraints": [],
+    "decisions": [],
+    "entities": [
+      "community garden",
+      "urban gardening groups",
+      "Nextdoor",
+      "Meetup",
+      "Facebook groups",
+      "community garden volunteer",
+      "neighborhood groups online"
+    ],
+    "open": [
+      "Search city parks page + Google Maps for 'community garden' near you.",
+      "Join 1-2 local gardening Meetups/Facebook groups and scan posts for upcoming workdays or orientations.",
+      "Visit a garden on a workday — introduce yourself and ask about membership or volunteer opportunities.",
+      "If there’s a waitlist for plots, ask about volunteering to get quicker access or to learn while you wait.",
+      "Consider signing up for a Master Gardener class or local workshop to meet people and gain credibility."
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 33029,
+    "outputTokens": 79868,
+    "totalTokens": 112897
+  },
+  "timestamp": "2026-02-14T01:52:59.462Z"
+}

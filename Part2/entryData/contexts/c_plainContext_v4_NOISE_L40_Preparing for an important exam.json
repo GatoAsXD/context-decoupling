@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v4_NOISE_L40_Preparing for an important exam",
+  "scriptId": "cs_v4_NOISE_L40_Preparing for an important exam",
+  "historyId": "h_v4_NOISE_L40_Preparing for an important exam",
+  "componentType": "plainContext",
+  "context": "Current State:\n- Cafeteria swapped out a few menu items; user liked the old options; this is distracting.\n- Coping options suggested: try a new menu item as an experiment, pack preferred snacks/meals, scout a nearby alternative spot, or make a simple weekly meal plan to remove daily decision stress.\n- User briefly looked into private tutors; scheduling and cost caused hesitation.\n- Alternatives to private tutoring provided: short, targeted paid sessions (one or two focused meetings), swapping tutoring with a peer, using TA/office hours, joining or forming a small study group, tapping course forums/Discord, or free/low-cost online resources (lecture videos, problem walkthroughs).\n- Offers available: suggest affordable tutoring strategies (how to get the most from one or two paid sessions), list free resources matched to topics, or help draft a message to a classmate/TA about forming a study swap.",
+  "generationMetrics": {
+    "inputTokens": 20662,
+    "outputTokens": 66895,
+    "totalTokens": 87557
+  },
+  "timestamp": "2026-02-14T23:47:39.959Z"
+}

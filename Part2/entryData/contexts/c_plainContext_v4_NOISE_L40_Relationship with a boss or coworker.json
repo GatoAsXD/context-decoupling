@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v4_NOISE_L40_Relationship with a boss or coworker",
+  "scriptId": "cs_v4_NOISE_L40_Relationship with a boss or coworker",
+  "historyId": "h_v4_NOISE_L40_Relationship with a boss or coworker",
+  "componentType": "plainContext",
+  "context": "Current State:\nSandra from marketing has a ridiculous number of plants and they make her desk look like a greenhouse. I spilled coffee on my planner last week and had to spend an hour rebuilding my calendar from memory. The printer jammed right before a big document sprint and it turned into a three-person jury of blame for a while.",
+  "generationMetrics": {
+    "inputTokens": 11707,
+    "outputTokens": 58217,
+    "totalTokens": 69924
+  },
+  "timestamp": "2026-02-14T23:53:52.676Z"
+}

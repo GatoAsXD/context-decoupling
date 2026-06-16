@@ -1,0 +1,59 @@
+{
+  "id": "c_structuredContext_v4_NOISE_L40_Learning a new language",
+  "scriptId": "cs_v4_NOISE_L40_Learning a new language",
+  "historyId": "h_v4_NOISE_L40_Learning a new language",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Be able to handle everyday conversations at a basic level in about three months."
+    ],
+    "constraints": [
+      "no prior knowledge",
+      "30 minutes daily",
+      "Each week must include at least one active speaking task",
+      "Limit toolset to four core tools"
+    ],
+    "decisions": [
+      "Spanish"
+    ],
+    "entities": [
+      "12-week calendar",
+      "40-60 high-utility phrases/roleplay scripts for SRS",
+      "Weekly measurable milestones for a 12-week speaking/listening plan",
+      "Progress tracking system (minutes practiced, phrases added, shadowing, speaking sessions, SRS reviews)",
+      "8–12 free clip/script links to start shadowing",
+      "Speechling monthly coaching (optional paid option)",
+      "4-core tools: Anki; Easy Spanish (YouTube); Tandem or HelloTalk; Phone voice recorder",
+      "Optional paid add-on: italki (one 20–30 min lesson per month)",
+      "Shadowing routines: duration targets and ramp speed schedule for daily practice",
+      "Short Easy Spanish clip suggestions for shadowing",
+      "Weekly shadowing practice scripts to shadow each week",
+      "Karaoke/lyric video resources for shadowing",
+      "Anki cards from songs (2–4 per week)",
+      "Song-based shadowing integration into the weekly plan",
+      "Song-based micro-task scheduling for the 12-week plan",
+      "Recording+comparison workflow for pronunciation improvement (shadow, record, compare, fix)",
+      "Forvo pronunciation reference resources (optional)",
+      "Starter example scripts/chunks for weeks 1-4 (example-based learning resources)",
+      "Interference fixes checklist (1-page)",
+      "Hobby-style video content (cooking, woodworking) in Spanish as shadowing material"
+    ],
+    "open": [
+      "Schedule weekly song-based micro-task into the 12-week plan (one chorus recording per 1–2 weeks)",
+      "Implement and review the recording workflow for pronunciation improvement (shadow-record-compare-fix loop)",
+      "Provide 8–12 starter example scripts/chunks for weeks 1-2 (example-based learning resources) to support example-based learning",
+      "Offer to convert one week into a micro, example-based lesson (as alternative to the above)",
+      "Draft quick onboarding templates for language-exchange partners (initial message, trial session, and recurring schedule) to improve reliability.",
+      "Create a tiny 1-page checklist of the most common interference fixes (or 6 micro-drills) tailored to your routine.",
+      "Add hobby-video shadowing routine to weekly plan: select 2–3 short clips per week; shadow, record, compare, and extract 3 phrases to Anki",
+      "Provide 6–8 concrete micro-drill templates (20-minute and 10-minute versions) rotating through drill methods.",
+      "Implement 'micro-lesson' grammar protocol: when you encounter a pattern you don't understand in listening/speaking, pause for a 5–10 minute mini-lesson (one example, one quick rule, one practice sentence), then reuse the pattern in a speaking task (shadow, record, compare, fix); integrate into weekly routine."
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 24929,
+    "outputTokens": 52798,
+    "totalTokens": 77727
+  },
+  "timestamp": "2026-02-14T23:24:02.063Z"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "c_structuredContext_v4_NOISE_L40_Saving money for a specific goal",
+  "scriptId": "cs_v4_NOISE_L40_Saving money for a specific goal",
+  "historyId": "h_v4_NOISE_L40_Saving money for a specific goal",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "save five thousand dollars for a down payment on a reliable vehicle"
+    ],
+    "constraints": [
+      "timeline: nine months from now",
+      "one transfer per month",
+      "funding_source: self-funded",
+      "automation: automate monthly transfers and tracking to minimize manual updates"
+    ],
+    "decisions": [
+      "One monthly transfer will be executed; schedule the transfer on payday clearance or the next day."
+    ],
+    "entities": [
+      "current_savings: $800",
+      "monthly_transfer_amount: $470",
+      "transfer_destination: Car Down Payment (plain savings account)",
+      "transfer_frequency: monthly",
+      "funding_source: self-funded",
+      "automation_enabled: true",
+      "potential_income_source: grocery_delivery_weekend_gig"
+    ],
+    "open": [
+      "Create a simple savings plan",
+      "Set up a tracking method for savings",
+      "Research credit unions for higher APYs",
+      "Evaluate yard sales as an additional fundraising option",
+      "Create a car maintenance fund",
+      "Assess impact of public transit savings on the car down payment plan",
+      "Track actual fuel savings from switching to public transit",
+      "Configure and test automated monthly transfer with payday schedule",
+      "Evaluate weekend grocery delivery gig feasibility and impact on available time and energy",
+      "Monitor seasonal price fluctuations in nearby towns and assess impact on car down payment plan"
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 11618,
+    "outputTokens": 38618,
+    "totalTokens": 50236
+  },
+  "timestamp": "2026-02-14T23:52:14.707Z"
+}

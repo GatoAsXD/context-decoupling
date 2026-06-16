@@ -1,0 +1,87 @@
+{
+  "id": "c_structuredContext_v4_NOISE_L40_Excessive phone or social media use",
+  "scriptId": "cs_v4_NOISE_L40_Excessive phone or social media use",
+  "historyId": "h_v4_NOISE_L40_Excessive phone or social media use",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Cut back on excessive phone and social media use; improve sleep and focus.",
+      "Address stress-triggered app openings."
+    ],
+    "constraints": [
+      "Keep each action to no more than fifteen words.",
+      "Avoid recommending named apps, subscriptions, or brand-specific tools.",
+      "Avoid therapy referrals."
+    ],
+    "decisions": [
+      "Alternate with physical books; pause to jot one takeaway.",
+      "Try grayscale mode for a week.",
+      "Change wallpaper to plain, low-stimulation to reduce visual pull."
+    ],
+    "entities": [
+      "phone usage",
+      "social media",
+      "sleep",
+      "focus",
+      "Do Not Disturb",
+      "app limits",
+      "Pomodoro technique",
+      "Focus mode",
+      "social-check windows",
+      "screen-free wind-down",
+      "no phone in the bedroom",
+      "charge phone in another room",
+      "no phone for first 30 minutes after waking",
+      "phone out of reach during work",
+      "two 15-minute social-check windows",
+      "silence notifications",
+      "screens off one hour before bed",
+      "keep phone outside bedroom",
+      "working from home",
+      "commute",
+      "lunch breaks",
+      "mindful breathing",
+      "phone in bag",
+      "face-down phone",
+      "boredom",
+      "stress",
+      "scrolling",
+      "cat deterrent",
+      "screen-time/digital-wellbeing report",
+      "dinner",
+      "podcasts",
+      "physical books",
+      "audiobooks",
+      "grayscale mode",
+      "closed drawer during focus",
+      "home screen removal",
+      "wallpaper",
+      "important contacts",
+      "smartwatch"
+    ],
+    "open": [
+      "Put phone in another room or a closed drawer during focus.",
+      "Remove social apps from home screen or log out temporarily.",
+      "Use a physical kitchen timer for work/break cycles; keep phone away.",
+      "Pre-commit to a friend: ask them to check in if you slip.",
+      "When the urge hits, do a 2-minute substitute (walk, stretch, drink water).",
+      "Turn the screen grayscale and silence banners to reduce visual pull.",
+      "Address stress-driven app openings; add friction and delay.",
+      "Enable Do Not Disturb with exceptions for important contacts.",
+      "Forward only high-priority channels to smartwatch; mute social feeds.",
+      "Use smartwatch vibration for essentials; require phone opening for full content.",
+      "Try smartwatch setup for a few days; monitor wrist-checks vs phone pickups.",
+      "Before leaving: place phone zipped face-down in bag; keep paperback or downloaded chapter ready.",
+      "Start the commute by opening your book immediately; no phone unlocking until arrival.",
+      "Choose short reads—articles, short stories, or single chapters—for easy, satisfying completion.",
+      "If the urge hits, read one page or take three deep breaths before checking.",
+      "Silence non-essentials during commute; allow calls/messages from 1–2 contacts."
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 16001,
+    "outputTokens": 62868,
+    "totalTokens": 78869
+  },
+  "timestamp": "2026-02-14T23:25:18.313Z"
+}

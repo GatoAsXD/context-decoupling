@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v3_ACCUMULATION_L40_Saving money for a specific goal",
+  "scriptId": "cs_v3_ACCUMULATION_L40_Saving money for a specific goal",
+  "historyId": "h_v3_ACCUMULATION_L40_Saving money for a specific goal",
+  "componentType": "plainContext",
+  "context": "Current State:\nThere is usually a small year-end bonus in December that could be used toward this.\nWhen the bonus hits, deposit it directly into the labeled car HYSA so it’s earmarked.\nPractical uses:\n- Apply it straight to the car fund: lowers the remaining balance and reduces monthly/per‑paycheck contributions or shortens the timeline.\n- Use part for the car fund and part for a maintenance/repair buffer (so you don’t drain your emergency cushion).\n- Keep a small portion for a reward to stay motivated if that helps you stick to the plan.\nIf you want, tell me the typical bonus amount and I’ll show exactly how it would change your monthly target or timeline.",
+  "generationMetrics": {
+    "inputTokens": 23946,
+    "outputTokens": 69669,
+    "totalTokens": 93615
+  },
+  "timestamp": "2026-02-14T23:11:57.349Z"
+}

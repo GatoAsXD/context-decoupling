@@ -1,0 +1,85 @@
+{
+  "id": "c_structuredContext_v2_OVERRIDE_L40_Recently changing jobs",
+  "scriptId": "cs_v2_OVERRIDE_L40_Recently changing jobs",
+  "historyId": "h_v2_OVERRIDE_L40_Recently changing jobs",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Plan and execute a transition plan for upcoming job change.",
+      "Coordinate handover for two major projects to minimize disruption during the transition.",
+      "Hit the ground running in the first 90 days and establish credibility with top three priorities (align on goals, deliver quick wins, establish reliable communications)",
+      "Develop and execute a structured handover/training plan for successor."
+    ],
+    "constraints": [
+      "Follow security/HR policy on sharing information.",
+      "Maintain professional tone in resignation communications and avoid burning bridges.",
+      "Obtain consent to record training sessions and determine approved storage location.",
+      "Impact on relocation coverage and compensation terms when changing start date.",
+      "All compensation/benefit changes during delay must be documented in writing.",
+      "Tax treatment of relocation reimbursements must be confirmed with HR.",
+      "Acceptable reasons for delaying start date beyond logistics include: completing a critical obligation at current job, family or caregiving responsibilities, health/medical needs, visa/work-authorization timing, housing constraints, child/school timing, required certifications or training, security clearances or background investigations, military service or legally required leave, and prior contractual commitments.",
+      "Guidance on presenting a late-start request: be specific and time-bounded, offer practical alternatives (remote onboarding, participation in key meetings, documented handoff), and obtain written confirmation of any changes to compensation or relocation terms."
+    ],
+    "decisions": [
+      "Decide target notice length: 2 weeks vs 3–4 weeks (overlap considerations)",
+      "Pursue written confirmation of flexibility terms for the first months from manager or HR",
+      "Clarify PTO accrual cash-out policy during notice period",
+      "Decide relocation funding method with employer (direct vendor billing vs reimbursement)"
+    ],
+    "entities": [
+      "one-page at-a-glance summary per project",
+      "three critical runbooks",
+      "paired shadowing sessions",
+      "documentation walkthrough sessions (video or audio)",
+      "documentation location: Confluence, repo, or shared drive",
+      "resignation letter wording/templates",
+      "handover plan outline with owners and 30/60/90 priorities",
+      "recorded walkthroughs and demos for training (searchable and labeled)",
+      "training session schedule and feedback process",
+      "consent to record sessions and storage policy for training materials",
+      "start-date flexibility request templates",
+      "onboarding schedule impact assessment",
+      "start-date delay confirmation document template",
+      "bridging stipend terms",
+      "temporary health coverage (COBRA) terms",
+      "relocation coverage adjustment details due to delayed start",
+      "equity grant/vesting adjustment details due to delayed start",
+      "signing bonus terms with delayed start",
+      "one-line messaging scripts for notifying different groups",
+      "moving budget template with line items and ballpark ranges",
+      "employer relocation policy summary",
+      "cash-flow planning checklist for relocation",
+      "budget templates: 1BR move, 3BR move",
+      "receipts tracking and reimbursement documentation process"
+    ],
+    "open": [
+      "length of notice period at current job",
+      "any constraints (non-compete, garden leave, critical projects)",
+      "extend notice period decision",
+      "LinkedIn announcement timing coordination with manager/internal stakeholders",
+      "verify health coverage end date and new plan start date; determine bridging option (COBRA/Marketplace/spouse plan/short-term)",
+      "PTO cash-out policy during current notice period",
+      "final paycheck timing for PTO payout",
+      "whether PTO can be cashed out or must be used during notice",
+      "Assess acceptability of delaying start date for leadership handoff (red flag vs reasonable request); determine terms and safeguards",
+      "Plan and schedule exit meeting and feedback process; determine timing, scope, and involvement (manager first, HR if needed)",
+      "Draft resignation-letter wording that maintains professional tone",
+      "Plan and schedule handover training sessions (live, paired, and recordings)",
+      "Define storage/access controls for training materials and confirm consent",
+      "Establish sign-off criteria for successor readiness after training",
+      "Define acceptable start-date delay window due to spouse job search; coordinate onboarding adjustments and obtain written agreement if possible",
+      "Define acceptable start-date delay window with terms and written agreement",
+      "Plan communication sequence and timing for informing colleagues and stakeholders to minimize awkwardness",
+      "Decline new assignments tactfully during notice period to protect handover priorities and offer alternatives when needed",
+      "Draft a tighter relocation budget plan based on bedrooms and distance",
+      "Confirm HR policy on upfront cash vs reimbursement and timelines",
+      "Prepare a simple budget tracking worksheet"
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 30144,
+    "outputTokens": 68616,
+    "totalTokens": 98760
+  },
+  "timestamp": "2026-02-15T03:17:02.685Z"
+}

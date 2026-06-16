@@ -1,0 +1,27 @@
+{
+  "id": "es_v4_NOISE_L40_Buying a new phone or laptop",
+  "scriptId": "cs_v4_NOISE_L40_Buying a new phone or laptop",
+  "historyId": "h_v4_NOISE_L40_Buying a new phone or laptop",
+  "cutoffIndex": 24,
+  "messages": [
+    "Good speakers would be nice for podcasts, but that's not at the top of my list.",
+    "Accessory availability matters: I'm more likely to buy a device if there are plenty of cases, docks, and peripherals available.",
+    "I pay attention to screen color accuracy for photos and web content — it can make a big difference for comfort.",
+    "Different regions sometimes have slightly different hardware specs, which is annoying if you order online.",
+    "I've thought about device insurance for accidental damage or theft, but the monthly fee sometimes seems like wasted money.",
+    "I'm undecided whether to buy outright or use a short financing plan; monthly cashflow matters to me.",
+    "All right, final question.",
+    "Considering just the main needs I described earlier, which single option is likelier to meet them: getting a new phone or investing in a new laptop?",
+    "If you choose one of the two, list two current models that would fit those needs and give a short reason for each.",
+    "For each suggested model, include one concise downside that ties back to the core considerations I mentioned.",
+    "If the better path is a combination, propose a pragmatic pairing that respects the budget and still covers my everyday work needs.",
+    "Rank the single-device choices by suitability (best to worst) and provide two focused bullets explaining each ranking.",
+    "Recommend a sensible minimum configuration (storage and memory) for the top pick so I won't feel underpowered after a year or two.",
+    "If there are common trims or add-ons that undermine the intended fit, name one or two to avoid.",
+    "Finally, give a one-line action: buy a specific model, wait and save, or split the budget — whichever you think is more practical.",
+    "Thanks — keep the answers short, practical, and focused on the main points I raised."
+  ],
+  "metadata": {
+    "timestamp": "2026-02-13T16:17:16.627Z"
+  }
+}

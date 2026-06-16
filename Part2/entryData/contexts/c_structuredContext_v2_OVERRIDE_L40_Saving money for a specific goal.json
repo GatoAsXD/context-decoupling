@@ -1,0 +1,35 @@
+{
+  "id": "c_structuredContext_v2_OVERRIDE_L40_Saving money for a specific goal",
+  "scriptId": "cs_v2_OVERRIDE_L40_Saving money for a specific goal",
+  "historyId": "h_v2_OVERRIDE_L40_Saving money for a specific goal",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Down payment for condo: $24,000 in ~24 months."
+    ],
+    "constraints": [
+      "Maintain emergency buffer of $3,000.",
+      "Prioritize paying down high-interest credit-card balances before increasing down payment contributions if the card APR exceeds the expected HYSA return (roughly 4–5%)."
+    ],
+    "decisions": [
+      "Adopt a three-bucket setup: Down Payment (primary), Closing Costs, Moving; closing costs target $2,000–$3,000; moving target $500–$1,000; automate transfers to buckets and allocate windfalls to closing/moving first, then down payment.",
+      "Cadence plan: Monthly light operational review; Quarterly strategic review; 6 months before target increase focus on liquidity and closings; 3 months before closing detailed checks; 1 month before closing finalize funds."
+    ],
+    "entities": [
+      "Bucket 1 — Down Payment (primary): HYSA or laddered short-term T-bills; automate bulk monthly savings ($1,000).",
+      "Bucket 2 — Closing Costs (small, liquid): Target $2,000–$3,000; automate a small monthly transfer; keep fully liquid.",
+      "Bucket 3 — Moving/Set‑up (very small): Target $500–$1,000; fund with windfalls or small monthly transfers."
+    ],
+    "open": [
+      "Decide exact closing costs target range (2k–3k) and moving target (500–1k) and implement the three-bucket setup.",
+      "Set up automation for three buckets after payday; route windfalls to closing/moving first, then down payment.",
+      "Format checkpoints into a one-page calendar or reminder list you can plug into your phone/calendar."
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 35612,
+    "outputTokens": 74017,
+    "totalTokens": 109629
+  },
+  "timestamp": "2026-02-15T03:17:38.146Z"
+}

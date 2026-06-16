@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v3_ACCUMULATION_L40_Relationship with a boss or coworker",
+  "scriptId": "cs_v3_ACCUMULATION_L40_Relationship with a boss or coworker",
+  "historyId": "h_v3_ACCUMULATION_L40_Relationship with a boss or coworker",
+  "componentType": "plainContext",
+  "context": "Current State: Visibility considerations do not preclude using multiple channels; prefer in-person or live video for sensitive, relationship-dependent conversations; for limited visibility use concise async channels for timely factual corrections and durable records; Channel guidance: in-person/live video for sensitive/ongoing issues needing manager buy-in; private 1:1 video with evaluator when you can't be in office; short async (email/chat) for facts and record; meeting chat or one-sentence in-meeting clarification for brief factual corrections; follow-up email after any conversation to summarize agreements and create a record; Practical hybrid rules: if in office soon and matter is interpersonal or high-stakes, schedule quick in-person/video 1:1 first; if you can't meet before a decision or issue is purely factual, send a concise clarification within 24 hours and link the dated email; if someone else presented it, take a manager-first approach: short video 1:1 asking for guidance, then public clarification only if they agree or if necessary; pre-meeting DMs to presenters when possible to avoid omissions; maintain a brief async log of examples and artifacts to back up any claim; tone: factual, brief, outcome-focused; avoid public corrections when the presenter evaluates you unless decision hinges on it; document follow-ups regardless of channel; bottom line: use in-person/video as go-to for relationship and high-stakes, and concise async messages for timely clarifications and durable evidence when remote.",
+  "generationMetrics": {
+    "inputTokens": 25830,
+    "outputTokens": 72149,
+    "totalTokens": 97979
+  },
+  "timestamp": "2026-02-14T23:11:56.755Z"
+}

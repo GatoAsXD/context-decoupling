@@ -1,0 +1,53 @@
+{
+  "id": "c_structuredContext_v4_NOISE_L40_Medium-term plans for the next year",
+  "scriptId": "cs_v4_NOISE_L40_Medium-term plans for the next year",
+  "historyId": "h_v4_NOISE_L40_Medium-term plans for the next year",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Create a clear, actionable 12-month plan for the team for the next year (including vision, priorities, KPIs, quarterly roadmap, resource plan, risks, governance, and first 90 days), with quarterly checkpoints for each initiative and one primary metric to track progress."
+    ],
+    "constraints": [
+      "No headcount expansion; current team capacity only.",
+      "No more than five strategic initiatives.",
+      "Plan starts next month.",
+      "Team members juggling multiple roles; part-time project managers; workload constraints.",
+      "Office equipment issue: broken coffee machine affecting morale and end-of-day chats.",
+      "Four-day workweek piloting elsewhere would be impractical for this team due to size and workload constraints.",
+      "Potential compliance shifts next year; scope and timing not defined; monitor and plan contingency."
+    ],
+    "decisions": [
+      "Generic vs tailored 12-month plan decision pending.",
+      "Monitor competitor subscription model; determine if we should mirror.",
+      "Whether to pilot an anonymous suggestion box as a channel for ideas.",
+      "CRM vendor selection rubric: 3 must-have criteria + 2 nice-to-haves, quick scoring, and a timeboxed pilot of the top pick."
+    ],
+    "entities": [
+      "Maya (engineering)",
+      "Maya's Rust experiments focusing on performance trade-offs",
+      "Competitor's subscription model.",
+      "CRM vendor options",
+      "Legal"
+    ],
+    "open": [
+      "What kind of team is this (e.g., product/engineering, marketing, sales, operations, customer success)?",
+      "Any hard constraints (budget, regulatory, major deadlines, product launches)?",
+      "Which stakeholders need regular updates and what format do you prefer (weekly sync, monthly report, OKR reviews)?",
+      "Generic or tailored plan option: Do you want a generic ready-to-adapt 12-month plan or a tailored plan for your team?",
+      "Status of the broken coffee machine and its impact on morale or end-of-day chats.",
+      "Feasibility of a four-day workweek given current constraints and morale.",
+      "Competitive intelligence: monitor customer reaction and revenue/retention impact of competitor's subscription model; decide whether to mirror.",
+      "Demo reliability: flaky Wi-Fi and its impact on leadership impressions; address in Q1 reliability initiative (SLO/SLA) discussion.",
+      "Offsite planning: evaluate cost, ROI, logistics, timing, and how to justify to stakeholders.",
+      "Anonymous suggestion box as a channel for ideas; evaluate pros/cons, governance, moderation, and follow-up process.",
+      "Compliance shifts: monitor potential regulatory changes next year; coordinate with Legal; confirm scope and timing.",
+      "Shared drive cleanup: plan and execute a short, time-boxed cleanup with simple naming/retention rules to reduce clutter."
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 19812,
+    "outputTokens": 51676,
+    "totalTokens": 71488
+  },
+  "timestamp": "2026-02-14T23:30:55.329Z"
+}

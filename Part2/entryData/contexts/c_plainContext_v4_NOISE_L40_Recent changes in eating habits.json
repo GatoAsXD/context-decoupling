@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v4_NOISE_L40_Recent changes in eating habits",
+  "scriptId": "cs_v4_NOISE_L40_Recent changes in eating habits",
+  "historyId": "h_v4_NOISE_L40_Recent changes in eating habits",
+  "componentType": "plainContext",
+  "context": "<conversation_block> \nCurrent State:\n<conversation_block> \nCurrent State:\nCurrent State:\nCurrent State:\nCurrent State:\nActive facts:\n- Intermittent fasting for one month was associated with increased evening snacking for this individual.\n- At a farmers' market demo I attended, people asked more about plant proteins than about meat alternatives.\n- My teenage cousin now brings his own lunch to school because of online food influencers—surprising for his age.\n- Visually appealing but less healthy TikTok recipes go viral, which can normalize indulgent options and shape what people see as trendy to eat.\n- Late-night delivery options are widespread.\n- Snack subscription boxes make it easy to try new packaged items and can increase both variety and frequency of snacking.\n- A friend signed up for a snack subscription box and is always trying novel packaged snacks these days.\n- In a small workplace poll I ran, nearly half said they skipped breakfast at least some days.\n- A family member (aunt) changed her soda habits after a health scare, leading the family to rethink sugary drinks.\n- A Saturday community garden is popular with younger residents and provides small-scale food access.\n- An economist on a podcast said food price swings are making people cook at home more often.\nActive constraints:\n- Do not include a sidebar in the main brief. \n</conversation_block>",
+  "generationMetrics": {
+    "inputTokens": 12775,
+    "outputTokens": 55949,
+    "totalTokens": 68724
+  },
+  "timestamp": "2026-02-14T23:47:06.425Z"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v1_EARLY_L40_Saving money for a specific goal",
+  "scriptId": "cs_v1_EARLY_L40_Saving money for a specific goal",
+  "historyId": "h_v1_EARLY_L40_Saving money for a specific goal",
+  "componentType": "plainContext",
+  "context": "",
+  "generationMetrics": {
+    "inputTokens": 25918,
+    "outputTokens": 67812,
+    "totalTokens": 93730
+  },
+  "timestamp": "2026-02-14T15:08:09.215Z"
+}

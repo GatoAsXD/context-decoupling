@@ -1,0 +1,17 @@
+{
+  "id": "es_v1_EARLY_Planning an upcoming trip",
+  "scriptId": "cs_v1_EARLY_Planning an upcoming trip",
+  "historyId": "h_v1_EARLY_Planning an upcoming trip",
+  "cutoffIndex": 14,
+  "messages": [
+    "What houseplant would you recommend that's nearly impossible to kill if I forget watering now and then?",
+    "I'm torn between starting to learn Python or brushing up on Spanish — which would be more practical for general travel and day-to-day use?",
+    "Since our accommodation is in that old riverside quarter with narrow, steep alleys, do you think wheeled suitcases will cause more trouble given my mobility issues, or should I plan for backpacks and lighter luggage?",
+    "We're only there for just over a week in mid-June and two people are splitting expenses — would a multi-day transit pass probably be worth it, or would single fares be cheaper?",
+    "The cooking workshop we signed up for is in the middle of the stay — is trying to fit a morning trip to that nearby palace town outside the city realistic, or should we reserve a full day for that excursion?",
+    "Finally, with our mostly plant-based meals and a fairly tight weekly budget, would you recommend booking a few restaurant reservations in advance or playing it by ear each evening?"
+  ],
+  "metadata": {
+    "timestamp": "2026-01-25T01:44:05.448Z"
+  }
+}

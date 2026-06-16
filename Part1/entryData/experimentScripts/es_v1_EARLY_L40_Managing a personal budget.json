@@ -1,0 +1,27 @@
+{
+  "id": "es_v1_EARLY_L40_Managing a personal budget",
+  "scriptId": "cs_v1_EARLY_L40_Managing a personal budget",
+  "historyId": "h_v1_EARLY_L40_Managing a personal budget",
+  "cutoffIndex": 24,
+  "messages": [
+    "Small subscription charges add up. What's the best systematic way to find and cancel low-value recurring services?",
+    "I'm thinking about adopting a medium-size dog—what should be in the first-year budget so it isn't a shock?",
+    "When comparing borrowing costs across jurisdictions, what's a straightforward way to normalize different fee structures and interest calculations?",
+    "How do I plan seasonal clothing purchases to buy quality on sale without accumulating a closet full of unused items?",
+    "Why is an annual budget review useful, and what checklist items should I include to make it actually actionable?",
+    "If macro interest rates shift significantly, how would you decide whether to accelerate a planned big purchase now or postpone it?",
+    "What creative strategies can raise my monthly savings rate without cutting basic needs—things that push the needle noticeably?",
+    "Which easy changes tend to reduce household utility bills fastest, with the best short-term payoff?",
+    "Given the timing and relative sizes of my two regular deposits, could you propose a simple schedule of transfers across the month that ensures my major fixed commitments are covered while still funding the short-term target I mentioned?",
+    "If one month the larger deposit posts a couple of days late, which allocations would you prioritize first to avoid fees and to preserve the minimum balance I prefer to keep?",
+    "To stay on track with the timeframe I set for that short-term target, how much should be moved into the dedicated account each month, and how would you suggest splitting that amount between my earlier and later deposits?",
+    "Considering the modest reward rate on my card and its overall capacity, should I charge routine bill-like expenses to it to collect rewards, or be conservative to avoid pushing utilization too high?",
+    "If I had to dip into my safety reserve for an unexpected repair, how many months of tightened discretionary spending would be reasonable to rebuild that cushion back to its previous level?",
+    "One of my largest fixed obligations falls shortly after the primary deposit; would you recommend reserving its share right when that deposit arrives or covering part of it from the subsequent deposit and balancing the rest?",
+    "Please write a short numbered monthly routine—no more than five steps—that tells me when to move money for obligations, when to fund the short-term account, and when to allocate discretionary spending across the pay periods.",
+    "If you could recommend a single weekly metric to flag early signs I'm drifting from my targets and my minimum balance constraint, which metric would that be and why?"
+  ],
+  "metadata": {
+    "timestamp": "2026-02-03T01:41:54.315Z"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "es_v1_EARLY_L40_Organizing personal files and documents",
+  "scriptId": "cs_v1_EARLY_L40_Organizing personal files and documents",
+  "historyId": "h_v1_EARLY_L40_Organizing personal files and documents",
+  "cutoffIndex": 24,
+  "messages": [
+    "What are sensible first steps to migrate old discs, CDs, or proprietary file formats into current, accessible digital formats?",
+    "Any recommended simple deduplication strategies when you have thousands of scanned images and possible repeats?",
+    "Given ransomware risk, what's the simplest offline backup workflow that balances safety and convenience?",
+    "When scanning a large box of papers, how do people minimize accidental duplicate scans?",
+    "If I sort files by name in a folder, will that reflect chronological order under my current naming scheme, or should alphabetical lists be considered misleading for time order?",
+    "Someone suggested switching the date element so the year comes first to make sorting more intuitive — would that be harmless to implement, or does it conflict with the way I currently organize files?",
+    "If I choose to adopt a year-first format, what's the least destructive batch approach that preserves the key identifying parts of each filename?",
+    "A physical document overlaps two categories; under my established physical filing approach, is it better to produce a second physical copy or to record a pointer to the single original?",
+    "Which of those strategies tends to be more maintainable over many years while still making retrieval straightforward?",
+    "On the digital side, would partitioning top-level directories according to how filenames are structured help searches, or is a single repository with a solid index preferable?",
+    "If an app wants to name incoming scans its own way, should I force names at import or allow the app then normalize the names with a script afterward?",
+    "When exporting a CSV index for someone else, which three columns are essential so they can deduce both category and approximate date without opening files?",
+    "If I need to find a document from early 2016 quickly, what pattern-based search would likely be fastest given my current filename construction?",
+    "For yearly archive bundles, is it better to mirror my usual filename construction or to use a year-first name so archives list in calendar order?",
+    "What's the simplest metadata tag or short code I can add to scans so someone can tell which physical container holds the original without altering visible filenames?",
+    "Finally, give me a concise checklist of steps to migrate old filenames to a year-first scheme while keeping a reversible record that links each digital file to its physical original."
+  ],
+  "metadata": {
+    "timestamp": "2026-02-12T20:54:07.684Z"
+  }
+}

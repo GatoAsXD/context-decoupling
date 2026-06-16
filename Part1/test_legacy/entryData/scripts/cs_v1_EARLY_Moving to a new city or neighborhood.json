@@ -1,0 +1,34 @@
+{
+  "id": "cs_v1_EARLY_Moving to a new city or neighborhood",
+  "type": "cs_v1_EARLY",
+  "seedTopic": "Moving to a new city or neighborhood",
+  "length": 20,
+  "messages": [
+    "I'm moving to a new neighborhood next month — Westbridge in Asheville. My lease for apartment 3B at 1247 Cedar Lane starts June 10, and my landlord, Rosa Martinez, said I can pick up the keys after noon that day.",
+    "I booked Greenline Movers for Saturday, June 12; they're scheduled to arrive at 9:00 AM. The building requires movers to provide a certificate of insurance and to reserve the freight elevator with management in advance; they gave me access to the loading dock in the sub-basement.",
+    "I've arranged utilities already: BluePeak Energy will start service on lease day and FiberFlow scheduled the internet install for an afternoon slot the following day, plus I put mail forwarding in place with USPS starting on move-in day.",
+    "City hall told me parking permits for movers can take up to five business days to process, and I have to update my driver's license with my new address before July 1 so my vehicle registration stays current.",
+    "Switching topics — what's a simple three-ingredient pasta sauce I can make when I'm low on groceries?",
+    "Quick grammar help: any easy trick to decide whether to use 'who' or 'whom' in a sentence? I always second-guess myself.",
+    "Give me one cool fact about octopuses I can tell my nephew — he thinks they're basically aliens.",
+    "I might start a tiny balcony herb garden after the move; what are two herbs that are nearly fail-proof for beginners?",
+    "Etymology curiosity: where does the phrase 'break the ice' come from?",
+    "Book rec: something light and uplifting around 300 pages I could finish over a long weekend?",
+    "Quick math check before I forget: what's 17 times 24?",
+    "I'm updating a playlist — recommend an indie band from the 2010s with great songwriting I might've missed.",
+    "Bee question: about how long does a worker bee live during the active season?",
+    "If I wanted to learn two basic Japanese phrases to be polite, what should I start with for hello and thank you?",
+    "I heard bananas are berries but strawberries aren't — is that true, and why?",
+    "I get anxious sometimes — what's a simple two-step breathing exercise I can use to calm down quickly?",
+    "Logistics question: my electricity was scheduled to start with the lease and the internet tech is booked for an afternoon slot the day after the movers come — should I keep the utilities active right away or postpone until the movers arrive so someone can test outlets?",
+    "Regarding the hired crew, the building asked for proof of the team's insurance and an elevator slot reserved — would you recommend I verify their insurance paperwork a few days in advance or handle it on moving morning?",
+    "Permit timing has me nervous: since municipal permits can take several business days and I have a narrow window to change my ID after relocating, would you suggest applying for the parking permit now or waiting until I physically have the keys?",
+    "Finally, because keys won't be available until the lease officially starts but the movers are coming the following weekend, would it be better to request an earlier key pickup from the landlord or arrange for a friend or local contact to meet the movers to avoid scheduling conflicts?"
+  ],
+  "metadata": {
+    "inputTokens": 421,
+    "outputTokens": 10594,
+    "totalTokens": 11015,
+    "timestamp": "2026-01-24T22:39:52.358Z"
+  }
+}

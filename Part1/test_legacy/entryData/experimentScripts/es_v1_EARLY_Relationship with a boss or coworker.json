@@ -1,0 +1,17 @@
+{
+  "id": "es_v1_EARLY_Relationship with a boss or coworker",
+  "scriptId": "cs_v1_EARLY_Relationship with a boss or coworker",
+  "historyId": "h_v1_EARLY_Relationship with a boss or coworker",
+  "cutoffIndex": 14,
+  "messages": [
+    "Geography quickie: what's the highest mountain in Africa and what's notable about it?",
+    "I'm drafting a short email to the product director to request a brief follow-up - should I use her first name in the greeting or keep it formal?",
+    "Considering how she handled my presentation publicly, what's a constructive way to say I felt undermined without sounding like I'm attacking her?",
+    "If someone in another department once claimed my work during an end-of-year review, how can I bring that up so it reads as fact-finding rather than finger-pointing?",
+    "Would you recommend handling these two issues in writing, in a private conversation, or timing them around one of her regular check-ins? I'm trying to pick the least confrontational route.",
+    "Lastly, should I copy my manager on the message or keep the exchange between me and the product lead when I raise these points?"
+  ],
+  "metadata": {
+    "timestamp": "2026-01-25T01:58:30.993Z"
+  }
+}

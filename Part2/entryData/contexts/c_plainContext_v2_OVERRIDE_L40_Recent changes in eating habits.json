@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v2_OVERRIDE_L40_Recent changes in eating habits",
+  "scriptId": "cs_v2_OVERRIDE_L40_Recent changes in eating habits",
+  "historyId": "h_v2_OVERRIDE_L40_Recent changes in eating habits",
+  "componentType": "plainContext",
+  "context": "Current State (updated): We care about sustainability and want to reduce meat somewhat while keeping food prep simple. Realistic ways to cut waste and keep variety include a simple planning framework, a few reliable swaps, and small changes to how you buy and store food. Strategies: phased meat reduction (start with 2 meat-reduced dinners per week, not full vegetarian); stretch meat by mixing cooked lentils or beans into ground-meat sauces,",
+  "generationMetrics": {
+    "inputTokens": 36873,
+    "outputTokens": 75727,
+    "totalTokens": 112600
+  },
+  "timestamp": "2026-02-15T03:17:41.720Z"
+}

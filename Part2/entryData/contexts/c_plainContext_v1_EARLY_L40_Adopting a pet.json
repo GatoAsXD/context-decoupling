@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v1_EARLY_L40_Adopting a pet",
+  "scriptId": "cs_v1_EARLY_L40_Adopting a pet",
+  "historyId": "h_v1_EARLY_L40_Adopting a pet",
+  "componentType": "plainContext",
+  "context": "",
+  "generationMetrics": {
+    "inputTokens": 24533,
+    "outputTokens": 63358,
+    "totalTokens": 87891
+  },
+  "timestamp": "2026-02-13T23:57:40.858Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "es_v4_NOISE_L40_Deciding to buy something expensive",
+  "scriptId": "cs_v4_NOISE_L40_Deciding to buy something expensive",
+  "historyId": "h_v4_NOISE_L40_Deciding to buy something expensive",
+  "cutoffIndex": 24,
+  "messages": [
+    "There’s a lot of talk about electric cars, but charging near my office can be pretty spotty.",
+    "My neighbor's electric car app glitched and the car sat in the driveway for a couple of days; that was a real headache.",
+    "This morning my cat knocked over my coffee and now there's a stain on the upholstery — the ease of cleaning interior matters.",
+    "Dealerships seem to have these mysterious event days that are impossible to predict; I once missed a promotion by a day.",
+    "I got a flyer for a free oil change from a nearby dealer; small perks feel tempting even if they're not decisive.",
+    "Okay, can you help me actually make the call?",
+    "Based on everything I've mentioned, please list three vehicle options that would be sensible choices.",
+    "They can be new or lightly used — whichever seems the smarter pick for someone in my situation.",
+    "For each option, give two or three crisp bullets about why it fits and one concise downside.",
+    "If a used example is plausible, add any specific red flags I should check for during an inspection.",
+    "Keep it short and scannable — bullets only, minimal prose.",
+    "Choose one of the three as your recommended pick and write a brief paragraph explaining that choice.",
+    "Also suggest one practical next step I could take in the coming days to move forward.",
+    "If two selections are close, name a single tiebreaker I should use to decide between them.",
+    "Thanks — I'm looking for something actionable so I can be ready to act soon."
+  ],
+  "metadata": {
+    "timestamp": "2026-02-13T16:27:10.892Z"
+  }
+}

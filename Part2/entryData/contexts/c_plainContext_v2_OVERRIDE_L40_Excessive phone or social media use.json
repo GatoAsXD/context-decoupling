@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v2_OVERRIDE_L40_Excessive phone or social media use",
+  "scriptId": "cs_v2_OVERRIDE_L40_Excessive phone or social media use",
+  "historyId": "h_v2_OVERRIDE_L40_Excessive phone or social media use",
+  "componentType": "plainContext",
+  "context": "",
+  "generationMetrics": {
+    "inputTokens": 30564,
+    "outputTokens": 73641,
+    "totalTokens": 104205
+  },
+  "timestamp": "2026-02-14T15:25:02.236Z"
+}

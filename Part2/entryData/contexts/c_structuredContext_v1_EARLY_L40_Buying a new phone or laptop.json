@@ -1,0 +1,49 @@
+{
+  "id": "c_structuredContext_v1_EARLY_L40_Buying a new phone or laptop",
+  "scriptId": "cs_v1_EARLY_L40_Buying a new phone or laptop",
+  "historyId": "h_v1_EARLY_L40_Buying a new phone or laptop",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Choose between a new phone or a very lightweight laptop within a total budget of $875 including taxes and shipping."
+    ],
+    "constraints": [
+      "Total spending cap is $875 including taxes and shipping.",
+      "Delivery by March 10, 2026.",
+      "Voucher: $120 expires on March 5, 2026; cannot be combined with other promo codes.",
+      "Priority requirements: long battery life, reliable Wi-Fi, lightweight form factor, ready out of the box."
+    ],
+    "decisions": [
+      "RAM target for travel laptop workflow (e.g., 16 GB vs 32 GB vs 64 GB).",
+      "SSD storage decision: 256 GB vs 512 GB viability for travel photography workflow."
+    ],
+    "entities": [
+      "panel_type_options: OLED, IPS; color-management: gamut coverage, calibration availability, burn-in risk, external calibration support.",
+      "ARM-compatibility: Apple Silicon vs Windows on ARM; check native/app compatibility (Lightroom, Photoshop, Capture One, Premiere, After Effects) and tethering/drivers.",
+      "low_light_photography_models: Google Pixel 8 Pro, Google Pixel 8, iPhone 15 Pro, iPhone 15 Pro Max, Samsung Galaxy S24 Ultra, Xiaomi 14 Pro, Xiaomi 13 Pro, 1-inch sensor phones",
+      "RAM_guidance: 16 GB minimum; 32 GB recommended for travel editing with multiple tabs and apps; 64 GB for very heavy workloads; Apple Silicon memory efficiency notes.",
+      "SSD_storage_guidance: 256 GB workable with disciplined external storage; 512 GB provides headroom and reduces workflow constraints.",
+      "keyboard_candidates_ultrabooks: Lenovo ThinkPad X1 Carbon, Apple MacBook Air (M2/M3), Microsoft Surface Laptop (4/5/6), Dell XPS 13 (standard models), HP Elite Dragonfly, Asus ZenBook 13/14, Framework Laptop 13",
+      "hardware_colorimeter: hardware colorimeter calibration, ICC profile generation, color accuracy considerations"
+    ],
+    "open": [
+      "Decide between phone and lightweight laptop within budget",
+      "Assess comfort of 6.1-inch vs 6.7-inch phones for full-day use and quick edits.",
+      "Evaluate whether a 13-inch travel laptop is limiting for photo edits and whether an external monitor is a practical workaround.",
+      "Evaluate OLED vs IPS panels for color-critical photo editing while traveling and within budget constraints.",
+      "Evaluate ARM-based laptops (Apple Silicon vs Windows on ARM) compatibility with common photo/video editing apps",
+      "Evaluate best phones for low-light street photography without heavy post-processing",
+      "RAM targets for travel laptop: determine realistic RAM amounts (16 GB, 32 GB, 64 GB) for a workflow of ~12 browser tabs plus Photoshop and Lightroom Classic with background utilities, within the existing budget.",
+      "Storage size decision: evaluate 256 GB internal with external NVMe vs 512 GB internal for travel workflow.",
+      "Unlocked vs carrier-locked phones: assess suitability for international travel and how this choice impacts budget, compatibility, and local connectivity options.",
+      "foldable_durability_considerations: hinge robustness, screen durability against creases, risk of dust ingress, protection accessories availability, and warranty/repair considerations for field use.",
+      "foldable_fieldwork_durability_assessment: evaluate real-world durability of foldable phones (e.g., hinge, screen, dust ingress, repairability, and insurance) compared to slab phones in fieldwork scenarios."
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 25622,
+    "outputTokens": 56354,
+    "totalTokens": 81976
+  },
+  "timestamp": "2026-02-14T00:04:13.370Z"
+}

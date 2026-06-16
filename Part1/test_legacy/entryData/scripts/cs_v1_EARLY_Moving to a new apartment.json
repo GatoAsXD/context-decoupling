@@ -1,0 +1,34 @@
+{
+  "id": "cs_v1_EARLY_Moving to a new apartment",
+  "type": "cs_v1_EARLY",
+  "seedTopic": "Moving to a new apartment",
+  "length": 20,
+  "messages": [
+    "I'm moving into a new apartment next month — it's a two-bedroom on the fifth floor of a building at 327 Elm Street, about 850 square feet.",
+    "My official move-in date is April 15; I reserved the building's service elevator from 9:00 to 11:00 AM and also booked the loading bay for a one-hour slot.",
+    "The leasing office told me to pick up the keys there because the landlord, Emily Park, won't be at the unit; the office closes at 5:00 PM, so I need to arrive before then.",
+    "They also require floor and hallway protection during moves and charge a $100 refundable move deposit, and moves aren't allowed on weekends.",
+    "Quick question unrelated to logistics: what's the simplest way to season a cast-iron pan? I'd like to cook my first meal there.",
+    "I'm also debating furniture layout — would a sectional crowd a modest living space, or are a couple of armchairs smarter for flexibility?",
+    "Random thought: what's a weird but true animal fact you've learned recently?",
+    "What pantry staples should I stock before moving in so I can avoid too many grocery trips the first week?",
+    "Switching topics: can you give me a short, clear explanation of why the moon has phases?",
+    "Any recommendations for low-maintenance houseplants that tolerate low light and sporadic watering?",
+    "What's a fast one-pot pasta I can make with just pantry ingredients?",
+    "By the way, when packing, do you think it's better to label boxes by priority (essentials first) or by destination room?",
+    "I've also started an unpacking playlist — any upbeat movie scores or feel-good tracks you'd suggest?",
+    "Totally random: which country has the oldest continuously used national flag?",
+    "Do you know a simple 5-minute stretching routine I can do between trips to prevent back strain?",
+    "Is there a quick rule-of-thumb to estimate how many medium boxes people usually need when moving into a typical apartment?",
+    "Given my short morning window for moving items into the building, should I ask movers to prioritize big furniture or essentials first?",
+    "Since I have to pick keys up at the leasing office and they shut in the late afternoon, would you advise scheduling movers to arrive earlier to avoid missing pickup?",
+    "Because the building expects protective coverings and holds a refundable move deposit, how extensively should I wrap items versus relying on provided floor protection?",
+    "Finally, for a unit that's a few flights up, is it worth hiring a crew experienced with stairs and stair-dollies, or is it typically more efficient to aim for fewer trips with a larger truck?"
+  ],
+  "metadata": {
+    "inputTokens": 419,
+    "outputTokens": 10004,
+    "totalTokens": 10423,
+    "timestamp": "2026-01-24T22:40:08.924Z"
+  }
+}

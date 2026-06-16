@@ -1,0 +1,22 @@
+OBJECTIVE
+Evaluate incremental memory construction and synthesis. The user does not dump information at once but distributes critical facts gradually across the entire conversation, requiring the assistant to aggregate them.
+
+STRUCTURE
+Phase 1 (≈30%): General framing and exploration.
+- The user introduces the general objective or topic.
+- No critical constraints are established yet; the assistant responds to general inquiries.
+
+Phase 2 (≈40%): Gradual injection of important new facts.
+- The user adds important facts or constraints one by one across multiple turns.
+- At least 3 important constraints must appear in different parts of this phase.
+- Crucial: No single message contains all key facts, and facts are not repeated once stated.
+
+Phase 3 (≈30%): Final request requiring synthesis of all prior facts.
+- The user requests a final output that requires the integration of all dispersed information.
+- There should be no explicit summary provided by the user.
+- The assistant must combine the scattered constraints to generate the correct response.
+
+CONTENT & LINGUISTIC CONSTRAINTS
+- Motivation: Each constraint injection should feel contextually motivated, avoiding a "list-like" exposition.
+- Completeness: The final evaluation focuses on the absence of partial omissions; the model must recall all dispersed pieces.
+- Tone: Natural progression where details emerge as the conversation evolves.

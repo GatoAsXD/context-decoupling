@@ -1,0 +1,34 @@
+{
+  "id": "cs_v1_EARLY_Recent changes in eating habits",
+  "type": "cs_v1_EARLY",
+  "seedTopic": "Recent changes in eating habits",
+  "length": 20,
+  "messages": [
+    "Over the past six months I've been changing my eating habits a lot: I used to eat red meat about six times a week, and now I limit it to one serving weekly.",
+    "I've replaced most of those meals with beans and lentils roughly three times a week, and I also include fish or other seafood on two evenings each week.",
+    "I swapped cow's milk for oat milk every morning in my coffee and smoothies, and I stopped late-night snacking—my last food is usually around 7:30 PM now.",
+    "I started prepping lunches on Sundays for the workweek—salads or grain bowls five days a week—and my average daily calories are about 300 lower than they were last year.",
+    "Also, I usually have a greens-and-protein smoothie for breakfast about five mornings a week (two scoops of protein powder and a handful of spinach) and I take a 20–30 minute walk after dinner most evenings.",
+    "By the way, the city is repaving the bike path near my place; I'm debating between a hybrid or a commuter road bike—any practical considerations I should know before buying?",
+    "Have you read any good mystery novels recently? I like twists that don't feel forced and an unhurried reveal.",
+    "My neighbor's cat keeps digging in my potted herbs—what's the most humane deterrent people use that doesn't hurt the plants?",
+    "I watched a short documentary about octopus cognition and I'm fascinated—can you point me to reputable, accessible reads on cephalopod intelligence?",
+    "Switching topics: what's a compact regex to extract dates in YYYY-MM-DD format from a large text file?",
+    "I'm planning a half-day hike this weekend and the forecast looks changeable—what quick gear or clothing tips do experienced hikers usually recommend?",
+    "Any independent films from the last year with impressive cinematography you think are worth watching?",
+    "I'm trying to take better low-light photos with my phone—what composition tips or simple settings adjustments help the most?",
+    "When I travel for a few days I always worry about overwatering my houseplants—what's a reliable method to keep them alive without me watering every day?",
+    "I saw a flyer for a local craft fair—do these events typically accept small-batch pottery vendors, or are they more curated nowadays?",
+    "I'd like to plan dinners for next week that match the changes I've been making—leaner on land meats, more plant-based mains with a couple of seafood nights, and earlier evenings—what's a balanced 7-day dinner outline that follows that approach?",
+    "I go for a brisk walk after dinner most nights now—what are light, quick pre-walk snacks or hydration habits that will support the activity without weighing me down?",
+    "Since I batch my weekday lunches on the weekend, what are a few shelf-stable or durable staples that pair well with plant proteins and quick-cooking seafood so I can assemble bowls without food getting soggy?",
+    "I've also switched my morning milk to a plant-based alternative in drinks—are there specific micronutrients I should monitor or consider supplementing because of that change?",
+    "Overall, because my daily intake has decreased compared to last year and I have more meat-free days, which simple signs or routine lab checks would you suggest tracking over the next few months to make sure I'm staying healthy?"
+  ],
+  "metadata": {
+    "inputTokens": 419,
+    "outputTokens": 8998,
+    "totalTokens": 9417,
+    "timestamp": "2026-01-24T22:40:37.175Z"
+  }
+}

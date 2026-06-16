@@ -1,0 +1,34 @@
+{
+  "id": "cs_v1_EARLY_Adopting a pet",
+  "type": "cs_v1_EARLY",
+  "seedTopic": "Adopting a pet",
+  "length": 20,
+  "messages": [
+    "I'm planning to adopt a dog I've been approved to meet - she's a two-year-old female border collie mix named Maisie at Eastside Animal Shelter. She weighs about 40 pounds, is spayed and microchipped, has basic obedience, and her profile says she's good with children.",
+    "My living situation: a two-bedroom apartment on the second floor with a small fenced patio, the landlord allows pets with a $300 refundable deposit. I work 9 to 5 on weekdays and have a five-year-old daughter; sometimes a neighbor can check in midday.",
+    "I have an adoption appointment set for March 14 at 11:00 AM; the rescue told me they'd want to do a home visit before finalizing and quoted a $125 adoption fee. I'm a first-time dog owner and want to be prepared.",
+    "Her profile also notes medium-to-high energy, house-trained, a bit wary of loud crowds, up-to-date on vaccinations, and that she really enjoys puzzle toys. I'd appreciate practical tips on exercise, feeding schedule, and approaches to introductions.",
+    "Random aside: what's a reliable trick to keep homemade bread from turning out dense?",
+    "Also curious - can you explain in plain terms how a VPN helps with privacy on public Wi-Fi?",
+    "I'm thinking about a short road trip later this year: is it better to focus on one region or try to see several states in a week?",
+    "Found an old acoustic guitar - any quick checks I can do to tell if it's worth getting repaired?",
+    "Odd question: what are some animals that have unusually long lifespans or strange dormancy behaviors?",
+    "Household quick fix: what's the best way to remove an ink stain from a white cotton shirt?",
+    "For someone starting to learn HTML and CSS, how many weeks of focused practice until they can build a simple website?",
+    "Which painters would you recommend to introduce someone to expressive color and loose brushwork?",
+    "Is buying a small backyard smoker worth it for occasional use, or do they tend to be more trouble than they're worth?",
+    "Are there meaningful local projects people can join to help restore coral reefs or coastal ecosystems?",
+    "Personal finance question: what sensible first step should a complete beginner take when they want to start investing small amounts?",
+    "Trivia curiosity: what's a surprising historical event that most people have never heard about?",
+    "Back to the adoption - given the kind of place I'll be bringing her to and that she's fairly active, what weekday exercise and mental stimulation routine is realistic so she doesn't get bored?",
+    "Also, any gentle steps for that initial meeting between the dog and my young child so both feel safe and connected from the start?",
+    "The shelter hinted someone might come by and there'll be paperwork and a processing charge - what documents or home preparations tend to make that visit go smoothly?",
+    "Finally, with my regular daytime schedule, is arranging midday help usual for higher-energy dogs, or should I focus on longer evening sessions and enrichment instead?"
+  ],
+  "metadata": {
+    "inputTokens": 419,
+    "outputTokens": 11228,
+    "totalTokens": 11647,
+    "timestamp": "2026-01-24T22:40:19.223Z"
+  }
+}

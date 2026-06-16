@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v1_EARLY_L40_Struggling to organize daily time",
+  "scriptId": "cs_v1_EARLY_L40_Struggling to organize daily time",
+  "historyId": "h_v1_EARLY_L40_Struggling to organize daily time",
+  "componentType": "plainContext",
+  "context": "Color-coding calendars are effective when used deliberately; avoid decorative usage. Guidelines: limit palette to 4–6 meaningful categories; maintain consistent color mappings; color whole blocks (e.g., 50‑minute FOCUS, meetings); avoid coloring every tiny item; pair each color with a short title tag; perform a quick weekly visual review (~5 minutes) and adjust habits based on what colors reveal. Theme-day approach: group tasks by cognitive mode; use 3–5 useful themes per week; aim for one theme per day (or half-day if needed). Themes: CREATIVE, CLIENT, ADMIN, STRATEGY/PLANNING, LEARNING/OPS; keep themes mutually exclusive for the day; limit total distinct themes per week to ~3–5; if client work forces mixed days, split into two half-day themes (morning CREATIVE / afternoon CLIENT) rather than switching tasks frequently. Always protect two 50‑minute FOCUS slots to match the day’s theme (e.g., CREATIVE days use both for drafting; CLIENT days use one for prep and one for follow‑up). Suggested distribution for a freelancer within a 09:45–15:15 window: 2 CREATIVE days (both FOCUS slots for drafting/edit passes), 2 CLIENT days (afternoon-heavy meetings; one FOCUS for prep/debrief), 1 ADMIN/WRAP day (batch invoices, emails, micro-tasks; use FOCUS slots for concentrated admin or strategy work). Practical scheduling: make theme explicit in calendar titles (e.g., “MON CREATIVE — FOCUS”); reserve client-facing “office hours” on CLIENT days; use the ADMIN day to process micro-tasks so CREATIVE days stay clean; try the pattern for 2–3 weeks and then adjust counts based on client arrivals. Short rule: pick themes by cognitive mode, limit to 3–5 per week, and never mix high‑focus CREATIVE and high‑interaction CLIENT blocks on the same day unless split into half‑day blocks.",
+  "generationMetrics": {
+    "inputTokens": 23139,
+    "outputTokens": 58802,
+    "totalTokens": 81941
+  },
+  "timestamp": "2026-02-14T15:14:30.637Z"
+}

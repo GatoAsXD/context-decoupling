@@ -1,0 +1,34 @@
+{
+  "id": "cs_v1_EARLY_Learning to cook better",
+  "type": "cs_v1_EARLY",
+  "seedTopic": "Learning to cook better",
+  "length": 20,
+  "messages": [
+    "I'm really trying to learn to cook better so weeknight dinners are healthier and less stressful. I usually only have about 45 minutes in the evening to prep and cook.",
+    "My kitchen is tiny — I have a two-burner gas stove and only one 10-inch cast-iron skillet; I don't have an oven or many extra pans.",
+    "We mostly eat vegetarian food at home, though I sometimes prepare fish for my partner; I generally cook portions for two people.",
+    "My main problems: vegetables often steam instead of getting a nice sear when the pan gets crowded, and I tend to under-season when I try to keep things light.",
+    "Quick random question: what's the average lifespan of a worker honeybee?",
+    "Also, does anyone have a favorite lightweight daypack brand? I'm thinking about replacing my old commuter bag.",
+    "I need a short sci-fi read for a weekend trip — any suggestions that are engaging and not 700 pages?",
+    "Fun fact check: which country has the most UNESCO World Heritage sites? I always mix that up with the country that has the most islands.",
+    "I've been meaning to learn a few basic phrases in Japanese before a potential trip — what's a super useful greeting to start with?",
+    "Is there a simple trick to fold a fitted sheet that actually looks neat? My linen closet is chaos.",
+    "For movie night: should I pick a light romantic comedy or a tense thriller? I'm indecisive.",
+    "Tiny curiosity: how long does it actually take for a plastic container to fully decompose if it's littered outdoors?",
+    "I signed up for an evening pottery class as a hobby — anyone know what to expect the first week?",
+    "Is it better to stretch a 5K training plan over eight weeks or cram it into six if you have limited time?",
+    "I spilled red wine on my friend's couch last month — what's the fastest household trick for removing a fresh wine stain?",
+    "Also, I heard a weird theory that octopuses are aliens. Is there any scientific basis, or is that just a meme?",
+    "Okay, back to dinner — if I only have a single heavy skillet and limited stovetop space on a typical weekday evening, what sequencing or tiny hacks help me get vegetables crisp instead of ending up soggy?",
+    "When I'm trying to keep salt down for health reasons, what concentrated flavor boosters or techniques can make a dish taste fuller without reaching for extra sodium?",
+    "Also, given the short evening window I usually have, how could I time a plant-forward main and the occasional small seafood side so both finish around the same time?",
+    "Finally, any practical ways to stretch the capacity of a small skillet so a double portion doesn't crowd the pan and just steam rather than brown?"
+  ],
+  "metadata": {
+    "inputTokens": 418,
+    "outputTokens": 10948,
+    "totalTokens": 11366,
+    "timestamp": "2026-01-24T22:39:53.246Z"
+  }
+}

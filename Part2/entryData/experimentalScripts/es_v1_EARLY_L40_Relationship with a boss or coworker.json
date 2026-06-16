@@ -1,0 +1,27 @@
+{
+  "id": "es_v1_EARLY_L40_Relationship with a boss or coworker",
+  "scriptId": "cs_v1_EARLY_L40_Relationship with a boss or coworker",
+  "historyId": "h_v1_EARLY_L40_Relationship with a boss or coworker",
+  "cutoffIndex": 24,
+  "messages": [
+    "If a teammate interrupts others frequently in meetings, what's a polite way to address it during a break or in the chat?",
+    "Share a short outline I can use for a concise status update in a team sync—just headers or section labels.",
+    "When correcting a peer who made a public mistake, how do I avoid shaming while still clarifying the right approach?",
+    "Recommend a short read or two on workplace communication—something practical and not academic.",
+    "Hypothetical A: my manager just proposed moving our regular quick sync to the weekday I typically block off and suggested extending it for a longer discussion. How can I refuse gracefully while offering good alternatives?",
+    "Give me a handful of short chat responses I can use right away: one firm polite refusal, one that proposes a short compromise, and one that suggests an async alternative.",
+    "If my manager pushes back and says 'we need everyone there that day', what's a professional way to hold my boundary without sounding inflexible?",
+    "Another scenario: a coworker asks me to join a multi-hour planning session that lands on my blocked weekday and wants me to take notes and produce a long recap. Should I propose a different format, and if so, what wording?",
+    "Assuming I end up needing to provide the follow-up in our archived format, how should I structure that write-up so it passes review while staying concise?",
+    "Draft a concise subject line and first sentence for an email that politely declines the proposed day and extended duration but clearly proposes an actionable alternative.",
+    "If the manager offers to 'compress' the agenda into a single session that will still be longer than my usual limit, what's a short script to ask to split it or push some parts to async?",
+    "If I need to loop in another leader to help reschedule while keeping the tone neutral, how should I word the CC note so it stays factual and not accusatory?",
+    "How should I approach a private 1:1 with a coworker who frequently redirects my messages to broader threads without context? Give a short opening line.",
+    "When someone says 'it'll be quick' to justify a longer meeting, give me a one-liner to push back that keeps rapport but enforces my time boundary.",
+    "For the archived follow-up, provide a template that matches our archive expectations exactly—it's essential that it's minimal, factual, and acceptable for team records.",
+    "Finally, if the manager calls it 'urgent' and asks for a synchronous video at short notice on that blocked weekday, what's the best professional reply that defers, offers alternatives, and keeps things constructive?"
+  ],
+  "metadata": {
+    "timestamp": "2026-02-12T21:29:12.745Z"
+  }
+}

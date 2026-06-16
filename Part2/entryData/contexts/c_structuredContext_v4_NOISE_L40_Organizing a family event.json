@@ -1,0 +1,51 @@
+{
+  "id": "c_structuredContext_v4_NOISE_L40_Organizing a family event",
+  "scriptId": "cs_v4_NOISE_L40_Organizing a family event",
+  "historyId": "h_v4_NOISE_L40_Organizing a family event",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Plan a family event"
+    ],
+    "constraints": [
+      "Budget: up to $1,500",
+      "Dietary: vegetarian-friendly",
+      "Allergies: tree-nut-free",
+      "Duration: short afternoon",
+      "Sister's time constraints for baking and decorating",
+      "Dessert: cake with frosting meeting aunt's standards; require fancy candle setup"
+    ],
+    "decisions": [
+      "Date: Saturday two weeks from now",
+      "Audio setup: decide between PA with mic and Bluetooth speaker (speeches/karaoke)",
+      "Assign a dedicated person to handle cake decoration/candle setup and cake cutting"
+    ],
+    "entities": [
+      "Occasion: Reunion",
+      "Audience: Relatives from multiple branches of the family"
+    ],
+    "open": [
+      "Venue (home, park, rented hall, restaurant)",
+      "Theme or must-have elements (entertainment, photos, speeches)",
+      "Venue preference: simple, accessible indoor space with tables and chairs can be arranged",
+      "Entertainment: karaoke and duets",
+      "Memory collage craft table for kids",
+      "Music playlist concept: alternating upbeat throwbacks with quieter acoustic songs",
+      "Tableware: compostable plates options and brand testing",
+      "Centerpiece ideas: thrifted teacups filled with small succulents",
+      "Care/label notes for DIY centerpieces to share with guests",
+      "Entertainment: ancestor-themed trivia icebreaker",
+      "Decoration scope: sister will handle elaborate decorations; confirm scope and timeline",
+      "Entertainment: family photo slideshow",
+      "Entertainment: popcorn machine rental",
+      "Audio: decision on PA with mic vs Bluetooth speaker for speeches/karaoke",
+      "Name tags: recruit 1–2 volunteers to write name tags; prepare quick instruction card; consider pre-printing common names; supplies: markers, ruler; attachment options (safety pins, badge holders, tape)"
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 15005,
+    "outputTokens": 38613,
+    "totalTokens": 53618
+  },
+  "timestamp": "2026-02-14T23:37:07.745Z"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "cs_v1_EARLY_Excessive phone or social media use",
+  "type": "cs_v1_EARLY",
+  "seedTopic": "Excessive phone or social media use",
+  "length": 20,
+  "messages": [
+    "I've been really worried about my excessive phone and social media use. I checked Screen Time last week: I averaged 7.2 hours of total phone use per day, and social media apps alone were 4.6 hours a day.",
+    "I unlock my phone roughly 120 times a day and get about 60 notifications daily; the worst of my scrolling happens late—usually I start around 11:30 pm and don't put the phone away until about 1:00 am, and I wake at 7:00 am.",
+    "I'm a grad student and try to do 50-minute focus blocks, but my phone interrupts me around 10 times a day; it takes about 20 minutes to fully refocus after each interruption.",
+    "My immediate goals are concrete: cut social-media time to under 90 minutes per day this month, reduce unlocks to fewer than 50 a day, and keep messaging to roughly 30 minutes daily so study sessions aren't wrecked.",
+    "Quick switch: I need a simple chickpea curry recipe for a weeknight dinner that takes under 30 minutes—any go-to ideas?",
+    "Thinking about a weekend trip to Portland—what are some offbeat neighborhoods, indie bookstores, and good vintage shops to check out?",
+    "Small question: is there an app that reliably identifies a song from humming? I tried one once and it failed.",
+    "My fiddle-leaf fig looks droopy in an east-facing window—what's a baseline watering and light routine I should follow?",
+    "Can you suggest a 20-minute no-equipment hotel-room workout I can do that focuses on strength and mobility?",
+    "Where does the phrase 'break the ice' originate from? I'm curious about the history.",
+    "There's a movie I'm trying to recall—plot involves someone restoring a vintage car while dealing with family tensions. Any titles ring a bell?",
+    "Riddle time: I speak without a mouth and hear without ears. What am I?",
+    "I'm switching to a minimalist wallpaper—any photographers or sites with clean nature shots you'd recommend?",
+    "Need a short, heartfelt line for my sister's 29th birthday card—she loves hiking and coffee. Any suggestions?",
+    "Preparing for a long drive next weekend—what basic car maintenance should I do before leaving?",
+    "Explain blockchain consensus in a few plain sentences—I'm trying to explain it to a friend.",
+    "Back to the phone issue: earlier I said one category took up the lion's share of my daily use. What habit changes would most directly shrink that dominant category while still letting me get urgent messages?",
+    "If I aim to halve that biggest portion of my phone time over the next four weeks, what weekly targets and simple tracking method would make that goal measurable?",
+    "Also, I mentioned a particular late-night window when I tend to doomscroll—what realistic replacement routine could I slot into that specific time so I avoid the bedtime-scroll trap?",
+    "Finally, give a three-step plan focused on reducing the single biggest contributor I described earlier, with measurable checkpoints and minimal disruption to my study sessions—please don't restate my original statistics, just the concrete steps."
+  ],
+  "metadata": {
+    "inputTokens": 422,
+    "outputTokens": 8594,
+    "totalTokens": 9016,
+    "timestamp": "2026-01-24T22:39:50.591Z"
+  }
+}

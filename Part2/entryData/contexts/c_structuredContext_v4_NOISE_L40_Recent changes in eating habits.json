@@ -1,0 +1,52 @@
+{
+  "id": "c_structuredContext_v4_NOISE_L40_Recent changes in eating habits",
+  "scriptId": "cs_v4_NOISE_L40_Recent changes in eating habits",
+  "historyId": "h_v4_NOISE_L40_Recent changes in eating habits",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Prepare a brief on recent changes in eating habits"
+    ],
+    "constraints": [
+      "Language: accessible and jargon-free.",
+      "No medical advice.",
+      "Tone: neutral.",
+      "Content focus: behavior, access, and policy options."
+    ],
+    "decisions": [
+      "Target audience defined: public health newsletter"
+    ],
+    "entities": [
+      "Prepared/ready-to-eat/food delivery use (+30%): Likely longer-term (though may soften from peaks). Assumption: Expanded delivery infrastructure and persistent time pressures keep higher usage than pre-event levels. (speculative)",
+      "Plant-based product purchases (+40%): Likely longer-term. Assumption: Ongoing availability and sustained consumer interest in health and sustainability will continue to support demand. (speculative)",
+      "Frequency of home-cooked meals (-20%): Mixed/partly short-lived. Assumption: The pandemic cooking surge has partly rebounded while long-term convenience preferences have lowered the baseline rate. (speculative)",
+      "Online information and social media play a larger role in shaping food choices, while misinformation remains a challenge.",
+      "Rising food costs and budget constraints have led some adults to favor cheaper, calorie-dense options, widening disparities in diet quality.",
+      "Many pandemic-era habits, such as increased home cooking, partially reverted, but persistent convenience needs mean lower baseline cooking for some. (speculative)",
+      "Plant-based shelf-space doubled in the local grocery over recent seasons, indicating stronger local demand and retailer confidence in plant-based products.",
+      "Meal kits can substitute for takeout, reducing takeout frequency for some people.",
+      "Intermittent fasting trial: increased evening snacking observed (personal data point).",
+      "Plant proteins interest signal from a farmers' market demo: attendees asked more about plant proteins and how to use them than about meat alternatives.",
+      "Anecdotal evidence: a teenager brings their own lunch to school due to online food influencers, illustrating influencer impact on teen lunch choices.",
+      "TikTok and short-video platforms amplify visually appealing but less healthy recipes, potentially normalizing indulgent options and affecting perceived healthiness.",
+      "Late-night delivery availability (increasing coverage) potentially shifts dinner timing toward later in the evening and increases grazing or on-demand eating, including more single-person meals.",
+      "Snack subscription boxes introduce novelty packaged snacks into regular consumption, potentially increasing variety and frequency of snacking.",
+      "Skipped breakfast in workplace poll: nearly 50% skipped breakfast at least some days, indicating time pressures or changing schedules.",
+      "Anecdotal evidence: family changes soda habits after health scare, illustrating impact of health events on beverage choices and family norms around sugary drinks.",
+      "Saturday community garden serves as a popular small-scale food access point for younger residents.",
+      "Economist podcast claim: food price swings may prompt more home cooking."
+    ],
+    "open": [
+      "Clarify region or locale (global, regional, country-specific)",
+      "Confirm whether citations or visuals are required and preferred format",
+      "Decision on including a campaign wording sidebar in future briefs",
+      "Assess evidence base for price-swing-driven increase in at-home cooking."
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 16972,
+    "outputTokens": 52395,
+    "totalTokens": 69367
+  },
+  "timestamp": "2026-02-14T23:46:40.427Z"
+}

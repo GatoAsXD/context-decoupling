@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v3_ACCUMULATION_L40_Struggling to organize daily time",
+  "scriptId": "cs_v3_ACCUMULATION_L40_Struggling to organize daily time",
+  "historyId": "h_v3_ACCUMULATION_L40_Struggling to organize daily time",
+  "componentType": "plainContext",
+  "context": "Sprint constraint: 40-minute sprints with deliberate breaks; plan will be sprint-based weekly with reset windows. Weekend block: 90-minute window reserved for grocery runs and a big family meal. Energy management: energy drops in the afternoon; avoid scheduling heavy meetings or creative work in late afternoons; place 40-minute sprints in morning/early-day windows. Scheduling guidance: on office days favor lighter, async or low-effort tasks before/after the commute; on WFH days aim for a strong post-drop-off sprint. Pending details to draft day-by-day plan: 1) office vs WFH weekdays; 2) two evenings for language classes; 3) typical wake time / bedtime or available hours; 4) usual meeting load/timing (heavy mornings, scattered, mostly async?); 5) is the 8:15 drop-off every weekday?; 6) which days require the 5:30 after-school pickup?; 7) two top priorities for the week.",
+  "generationMetrics": {
+    "inputTokens": 23922,
+    "outputTokens": 74988,
+    "totalTokens": 98910
+  },
+  "timestamp": "2026-02-14T23:12:05.357Z"
+}

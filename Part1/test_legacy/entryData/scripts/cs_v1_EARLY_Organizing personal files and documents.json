@@ -1,0 +1,34 @@
+{
+  "id": "cs_v1_EARLY_Organizing personal files and documents",
+  "type": "cs_v1_EARLY",
+  "seedTopic": "Organizing personal files and documents",
+  "length": 20,
+  "messages": [
+    "I've decided it's time to reorganize my personal files and documents. I'm planning to create three top-level digital folders named Taxes_2020-2024, Medical_Records, and Home to keep everything separated by purpose — does that sound reasonable?",
+    "For paper-to-digital, I scan receipts and letters at 300 dpi and save them as PDFs using a date-first filename like YYYY-MM-DD_description.pdf so they sort chronologically. I also add simple tags such as tax, medical, or warranty for quick filtering.",
+    "For backups I planned a two-tier approach: an external SSD I labeled VaultSSD kept at home, plus a cloud mirror called PersonalVault. I intend to encrypt the backup set with VeraCrypt.",
+    "Physical originals I place in a blue accordion file marked Important_Originals and keep it on the top shelf of my bedroom closet. I track everything in a master spreadsheet named Document_Index.xlsx that lists filename, folder path, tags, and a one-line note.",
+    "Quick dinner question: what's a simple pasta sauce I can make with canned tomatoes, garlic, and spinach?",
+    "Random question: roughly how many kilometers is it from Earth to the Moon?",
+    "Planning a short trip to northern Spain—any suggestions for a charming, lesser-known coastal town to spend a long weekend?",
+    "I have a group dinner coming up; any quick 5-minute icebreaker games that work well with adults who mostly don't know each other?",
+    "Can you suggest a gentle 10-minute morning stretching routine I can do before coffee?",
+    "Which city is the capital of New Zealand? I always mix that one up.",
+    "Looking for three upbeat movies under two hours to watch with roommates—what would you pick?",
+    "I want to start a windowsill herb garden with morning sun—what three herbs are easiest for beginners?",
+    "Trying a roast chicken for the first time—what's a short prep checklist so I don't miss anything important?",
+    "If I have two weeks to learn the basics for traveling in a country where I don't speak the language, what's the most efficient plan?",
+    "What's a quick mental trick to convert Celsius to Fahrenheit approximately while traveling?",
+    "Which bird species holds the record for the longest nonstop flight—do you know which one it is?",
+    "I need to email a scanned medical receipt from around mid-2022 to my accountant — given the filing scheme I outlined earlier, which search terms and locations would make locating it fastest across my computer and cloud accounts?",
+    "I'm holding a paper document and want to check if it's one of the originals I put away — what location in my home should I check first?",
+    "I want to run my next routine backup; what months did I pick for the quarterly sync schedule when I set that up?",
+    "For the index spreadsheet I mentioned, I want a quick filter to show items by year and document category — which column headers would best match the naming and tagging approach I described?"
+  ],
+  "metadata": {
+    "inputTokens": 420,
+    "outputTokens": 10473,
+    "totalTokens": 10893,
+    "timestamp": "2026-01-24T22:39:57.729Z"
+  }
+}

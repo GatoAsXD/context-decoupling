@@ -1,0 +1,71 @@
+{
+  "id": "c_structuredContext_v2_OVERRIDE_L40_Having trouble sleeping well",
+  "scriptId": "cs_v2_OVERRIDE_L40_Having trouble sleeping well",
+  "historyId": "h_v2_OVERRIDE_L40_Having trouble sleeping well",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Make mornings the most productive time"
+    ],
+    "constraints": [
+      "Anxiety related to upcoming project deadline affecting sleep; implement pre-bed anxiety management strategies.",
+      "Prioritize self-help strategies before booking medical care or consultation."
+    ],
+    "decisions": [
+      "Skip weekend naps for 1–2 weeks; monitor effects on sleep onset and morning refreshment.",
+      "Consult clinician if daytime sleepiness persists or worsens.",
+      "Adopt a CBT-I–style approach for 4–8 weeks with a sleep diary to track changes; start with consistent wake time, wind-down, bed only for sleep/sex, get up if awake >20 minutes, limit naps, consider sleep restriction as needed, morning bright light, relaxation techniques.",
+      "Test inexpensive sleep aids (eye mask and earplugs) to determine effectiveness."
+    ],
+    "entities": [
+      "progressive muscle relaxation",
+      "paced breathing",
+      "guided imagery",
+      "wind-down routine",
+      "stimulus control",
+      "bright light exposure (morning)",
+      "worry period",
+      "CBT-I",
+      "sleep diary",
+      "sleep restriction",
+      "consistent wake time",
+      "2-week behavioral plan",
+      "nap management",
+      "self-guided CBT-I plan",
+      "blackout sleep mask",
+      "foam earplugs",
+      "white-noise app",
+      "cool room temperature",
+      "low-dose melatonin (0.3–1 mg) 30–60 minutes before bed",
+      "avoid caffeine after 2 pm",
+      "worry journal",
+      "guided PMR script",
+      "no-screens rule before bed",
+      "eye mask",
+      "earplugs"
+    ],
+    "open": [
+      "Sleep difficulties lasting months affecting work.",
+      "Sleep onset latency of about 1 hour or more each night.",
+      "Not getting into deep sleep; waking unrefreshed.",
+      "Morning grogginess after melatonin use.",
+      "Morning light and dog barking disrupt sleep.",
+      "Evaluate impact and cost-benefit of blackout curtains and white-noise machine on sleep.",
+      "No-screens rule before bed helps on some days but fails on high-stress nights; needs quick alternative tactics.",
+      "Cost barrier to CBT-I; explore low-cost CBT-I options.",
+      "Explore quick wind-down strategies for high-stress nights (PMR, paced breathing, guided imagery).",
+      "Implement morning light exposure (10–15 minutes outside soon after waking or using a 2,500–10,000 lux light box) for a week; monitor effects on sleep onset and morning refreshment.",
+      "Weekend naps may interfere with nighttime sleep; test no-nap policy for 1–2 weeks and observe effects on sleep onset and morning refreshment.",
+      "Social jetlag on weekends: weekend bedtimes and wake times drift later; assess impact on weekday sleep onset and morning refreshment.",
+      "Anxiety about upcoming project deadline contributing to pre-sleep rumination; need quick anxiety-management tactics.",
+      "Commit to a 4–8 week CBT-I–style behavioral plan with a sleep diary; monitor progress and watch for red-flag symptoms; seek medical evaluation if no meaningful improvement.",
+      "Partner snores occasionally; earplugs seem like a simple idea."
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 19690,
+    "outputTokens": 62503,
+    "totalTokens": 82193
+  },
+  "timestamp": "2026-02-14T15:23:51.583Z"
+}

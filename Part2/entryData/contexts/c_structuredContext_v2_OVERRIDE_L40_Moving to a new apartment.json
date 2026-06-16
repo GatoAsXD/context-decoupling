@@ -1,0 +1,75 @@
+{
+  "id": "c_structuredContext_v2_OVERRIDE_L40_Moving to a new apartment",
+  "scriptId": "cs_v2_OVERRIDE_L40_Moving to a new apartment",
+  "historyId": "h_v2_OVERRIDE_L40_Moving to a new apartment",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Create a six-week moving plan for a one-bedroom apartment including a budget, timeline, packing checklist, and essentials box.",
+      "Provide rough cost comparison between DIY (van rental) and hiring two local movers for a half-day.",
+      "Assess feasibility of moving sectional through stairwell and decide whether to disassemble, hire appliance movers, or sell/replace.",
+      "Provide a structured moving-day timeline for a mid-morning move with hired movers, including arrival time, check-in, loading, breaks, and unloading.",
+      "Incorporate cat safety and calmness into move-day plan (carrier option or sitter/boarding) for the cat during the move.",
+      "Provide transport tips for live plants to keep alive in transit and minimize mess in the truck.",
+      "Prepare documentation for move-in handover and photo/video walkthrough.",
+      "Plan curbside parking and dolly coordination with building management and neighbors."
+    ],
+    "constraints": [
+      "Move-in target date approximately six weeks from now.",
+      "Account for a third-floor walk-up with no elevator; expect stair-related fees/time and require experienced movers.",
+      "Budget: deposit and first month's rent upfront, approximately two months' rent, plus $500–$800 for moving-related costs.",
+      "Vehicle must be suitable for large items (86-inch sectional and fridge) and fit in a cargo van or 15–20' truck.",
+      "Need to verify sectional fit through stairwell and determine if disassembly is feasible and cost-effective.",
+      "Renters insurance should start on or before move-in day; provide landlord proof; ensure coverage includes personal property replacement cost, liability, and loss-of-use.",
+      "Utilities overlap plan: keep old services active during move day for 24 hours; internet installation lead time: 2–4 weeks; book earliest possible window.",
+      "Cat safety considerations during move day: ensure cat remains secure or confined to a quiet area to prevent escapes or injury.",
+      "Plant transport constraints: decide car vs truck based on plant sensitivity and climate control; containment to prevent soil leaks; plan must minimize spills and mess.",
+      "Coordinate curbside loading with building management; obtain written confirmation and any permits required (e.g., loading zone, No Parking)."
+    ],
+    "decisions": [
+      "Decide on plant transport allocation (which plants go in car vs truck) based on temperature sensitivity and safety for pets and people.",
+      "Decide on packing approach for plants (saucers, bags, boxes, moving blankets) and whether to box plants.",
+      "Decide on plant inventory (types and pot sizes) to tailor packing and vehicle allocation.",
+      "Decide on post-move acclimation plan for plants (when to water, where to place, and light exposure first 24–72 hours).",
+      "Decide on move-in paperwork to bring (IDs, lease, renters insurance) and scope of move-in photo/video documentation.",
+      "Decide on scope of move-in photo/video documentation (which rooms to photo, time-stamping, video walkthrough).",
+      "Decide on building management coordination for curbside loading (communication method, required documentation, permits) and neighbor notification strategy.",
+      "Decide on universal packing label system as described (format, color-coding, two sides plus top, master inventory linkage, 'OPEN FIRST' priority).",
+      "Decide on unpacking order guidelines aligned with priority levels (P1 first; P2; P3; and unloading by room).",
+      "Decide on number of helpers and roles for a third-floor walk-up (4–6 total: 3–4 lifters, 1 driver, plus 1–2 runners/box movers).",
+      "Decide on compensation framework for helpers (short/occasional help: pizza/drinks; half-day: cash/gift card + food; full day: cash + food + gas).",
+      "Decide on drafting a message to friends outlining roles, timing, compensation, and what to bring."
+    ],
+    "entities": [
+      "plant inventory and types (succulents, tropicals, large pots)",
+      "plant packaging materials (saucers, trays, bags, stakes, ties, moving blankets)",
+      "pest risk assessment for plants during move",
+      "soil containment and spill-prevention measures for plant transport",
+      "vehicle allocation criteria for plants (car vs truck) based on temperature sensitivity",
+      "move-in paperwork checklist",
+      "move-in photo/video walkthrough plan",
+      "landlord/management contact information",
+      "proof of renters insurance (declarations page)",
+      "building dolly policy and availability",
+      "curbside loading permit requirements",
+      "neighbor notice templates",
+      "communication templates for management and neighbors",
+      "loading zone and path plan for hallway/stairs",
+      "packing label system details (format: [ROOM CODE] • Box # • [SHORT CONTENT] • PRIORITY; color cues by room; labeling on two adjacent sides plus top; master inventory mapping; OPEN FIRST; durable labels)",
+      "unpacking order guideline linked to priorities (P1 first; P2; P3)"
+    ],
+    "open": [
+      "Awaiting plant inventory details (types and pot sizes) to tailor transport plan for car vs truck and packing method.",
+      "Awaiting decision on plant transport method and packing plan.",
+      "Awaiting confirmation on move-in paperwork requirements and photo/video scope for handover.",
+      "Awaiting confirmation from building management on curbside loading rules, dolly availability, and permit requirements.",
+      "Awaiting adoption of packing labeling system to standardize packing/unpacking workflow."
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 47758,
+    "outputTokens": 90540,
+    "totalTokens": 138298
+  },
+  "timestamp": "2026-02-14T15:48:19.503Z"
+}

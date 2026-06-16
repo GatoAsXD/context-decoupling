@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v2_OVERRIDE_L40_Managing a personal budget",
+  "scriptId": "cs_v2_OVERRIDE_L40_Managing a personal budget",
+  "historyId": "h_v2_OVERRIDE_L40_Managing a personal budget",
+  "componentType": "plainContext",
+  "context": "",
+  "generationMetrics": {
+    "inputTokens": 29038,
+    "outputTokens": 72104,
+    "totalTokens": 101142
+  },
+  "timestamp": "2026-02-14T15:33:29.073Z"
+}

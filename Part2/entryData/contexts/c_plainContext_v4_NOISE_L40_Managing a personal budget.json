@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v4_NOISE_L40_Managing a personal budget",
+  "scriptId": "cs_v4_NOISE_L40_Managing a personal budget",
+  "historyId": "h_v4_NOISE_L40_Managing a personal budget",
+  "componentType": "plainContext",
+  "context": "Current State:\n- Social budget: create a dedicated social line inside discretionary budget; optionally fund from freelance “fun” account; size the social line to a 2–3 month average of eating-out spikes; use the misc buffer for one-off overruns; shift from dining/groceries to cover overruns when needed.\n- Pet budget: create a dedicated pet emergency sinking fund in a separate, liquid account; target $300–$1,000 to start; build toward higher if you want more cushion.\n- Pet funding mechanism: fund automatically each month (e.g., $25–$100/mo) or direct occasional freelance income there so you don’t tap core savings.\n- Pet insurance: consider for major events; compare premiums, deductibles, exclusions, and reimbursement rates.\n- Routine pet care: budget routine care (annual checkups, vaccinations, preventives) as a predictable line item—roughly $150–$400/yr depending on needs—and include that in your fixed or discretionary plan.\n- Fund separation: keep the pet fund separate from your moving/emergency reserve so you don’t erode money you’ll need for a move or credit-score safety.\n- Subscriptions cleanup: identify and cancel unused subscriptions; set up monthly 10‑minute review reminder; use a single card for subscriptions (or virtual/one‑time cards for trials) so it’s easier to spot and cancel them; enable transaction alerts; if a charge looks wrong, contact the merchant or your bank to dispute or pause it.\n- User input: If you want, tell me what you’d feel comfortable saving each month and I can show how that fits into your existing budget.\n- Budget tracking improvements: Automate categorization: import bank CSVs and use a few simple categorization rules or formulas so most transactions are auto-tagged; you only review exceptions.\n- Budget tracking improvements: Reduce frequency of updates: keep one color-coded “summary” tab you update once a month (10–15 minutes) instead of re-categorizing every transaction in real time.",
+  "generationMetrics": {
+    "inputTokens": 13550,
+    "outputTokens": 58209,
+    "totalTokens": 71759
+  },
+  "timestamp": "2026-02-14T23:31:03.195Z"
+}

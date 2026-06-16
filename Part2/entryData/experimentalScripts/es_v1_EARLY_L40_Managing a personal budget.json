@@ -1,0 +1,27 @@
+{
+  "id": "es_v1_EARLY_L40_Managing a personal budget",
+  "scriptId": "cs_v1_EARLY_L40_Managing a personal budget",
+  "historyId": "h_v1_EARLY_L40_Managing a personal budget",
+  "cutoffIndex": 24,
+  "messages": [
+    "When planning a vacation fund, what cushion percentage should you add for unexpected costs beyond the planned itinerary?",
+    "What behavioral tricks work best to reduce impulse online shopping?",
+    "For homeowners, what's a reasonable annual budget to set aside for routine maintenance and small repairs?",
+    "Is it generally better to set up separate accounts for individual goals (gadgets, holidays) or keep everything in one savings pot with labels?",
+    "Okay, now can you draft a sample monthly budget that covers essentials, a savings lane, and discretionary spending while preserving my fixed housing obligation and the locked safety cushion?",
+    "I'd like two versions: a simple base plan and an aggressive-savings plan so I can see concrete trade-offs between them.",
+    "In the aggressive plan, assume I want to increase monthly investing by $100 compared with the base plan — show how that shifts other categories.",
+    "Run a scenario where a one-time withdrawal is taken from the locked cushion in month three to seize an investment opportunity; show the immediate consequences on the monthly flow.",
+    "Also model a hypothetical 8% increase to my housing payment and show how that cascades through the monthly allocations.",
+    "Compare the base plan's savings trajectory to an alternative that prioritizes paying down high-interest liabilities first — which builds net worth faster over twelve months?",
+    "If I decide to fund a twelve-month goal that costs about $1,800, what monthly amount must be carved out and which categories would be most reasonable to trim?",
+    "I'm considering moving extra cash into a brokerage account for potentially higher returns on short-term goals — given the constraints of my situation, is that prudent?",
+    "Show the monthly dollar impact of automating two transfers: one to long-term investments and one to a short-term goal bucket, and make clear what's left for day-to-day spending.",
+    "If I needed to free up an extra $200 per month, which discretionary line items are typically least painful to cut while maintaining quality of life?",
+    "Would a budgeting tool that enforces hard category limits be able to protect the locked cushion while still allowing the scenarios you've modeled?",
+    "Before I make changes, what's the single most important actionable change you'd recommend I implement first, stated clearly so I can paste it as my first action item?"
+  ],
+  "metadata": {
+    "timestamp": "2026-02-12T20:20:29.343Z"
+  }
+}

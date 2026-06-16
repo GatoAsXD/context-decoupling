@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v2_OVERRIDE_L40_Moving to a new apartment",
+  "scriptId": "cs_v2_OVERRIDE_L40_Moving to a new apartment",
+  "historyId": "h_v2_OVERRIDE_L40_Moving to a new apartment",
+  "componentType": "plainContext",
+  "context": "Current State:\nCurrent State:\nActive facts and requirements:\n\n- Objective: coordinate curbside loading zone and dolly usage with building management and neighbors for a move.\n- Timeline:\n  - Contact building management 2–4 weeks before move.\n  - If municipal loading zone/No Parking permits are needed, apply 1–2 weeks before.\n  - Notify neighbors 3–7 days before, and again the day before.\n- Management coordination:\n  - Provide move details: date, start time, estimated duration, truck length, number of movers, DIY vs. pros.\n  - Explain third-floor walk-up and likely need curb-to-stair access plus hall/stair protection.\n  - Inquire about building provisions: in-building dolly, floor/banister protection, move-in staff, preferred loading route, and where vehicles should park.\n  - Offer movers’ insurance and confirm if management requires a copy or damage deposit.\n  - Inquire about fees, forms, time windows, move-in checklist, or signed waiver.\n- Written confirmation:\n  - Obtain management approval in writing; note assigned loading zones, move time restrictions, and supervision requirements.\n- Protection:\n  - Agree on protective measures (moving blankets, corner guards, floor runners or plywood); determine who provides them.\n- Equipment/dolly policy:\n  - If building has a dolly, confirm availability,",
+  "generationMetrics": {
+    "inputTokens": 40280,
+    "outputTokens": 76247,
+    "totalTokens": 116527
+  },
+  "timestamp": "2026-02-14T15:46:33.118Z"
+}

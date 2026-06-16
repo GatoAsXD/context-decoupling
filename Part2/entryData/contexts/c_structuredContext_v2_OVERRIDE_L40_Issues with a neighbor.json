@@ -1,0 +1,73 @@
+{
+  "id": "c_structuredContext_v2_OVERRIDE_L40_Issues with a neighbor",
+  "scriptId": "cs_v2_OVERRIDE_L40_Issues with a neighbor",
+  "historyId": "h_v2_OVERRIDE_L40_Issues with a neighbor",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Plan safety, documentation, and evidence-collection steps for aggression by neighbor (including dog-related incidents) after complaint."
+    ],
+    "constraints": [
+      "Anxiety about confronting neighbor in person",
+      "Compliance with privacy laws when using surveillance cameras",
+      "Audio recording consent requirements by jurisdiction (one-party vs all-party)",
+      "Avoid actions that could be perceived as organizing neighbors against the neighbor.",
+      "Local rules vary by jurisdiction; adjust timelines to your jurisdiction.",
+      "Compliance with animal-control evidence collection protocols."
+    ],
+    "decisions": [
+      "Decision: update context with aggression response protocol including safety, documentation, legal steps, and communication guidelines.",
+      "Decision: adopt escalation thresholds and documented procedures for rapid escalation.",
+      "Decision: include retrieval of complaint history for the address as part of records gathering.",
+      "Decision: incorporate animal-control evidence collection requirements (dates/times, photos/videos with metadata, witness statements, medical/vet records, leash status) into the aggression response protocol and coordinate with animal control."
+    ],
+    "entities": [
+      "911",
+      "non-emergency police",
+      "officer",
+      "police report",
+      "emergency protective order",
+      "harassment order",
+      "HOA",
+      "landlord",
+      "mediator",
+      "attorney",
+      "animal control",
+      "code enforcement",
+      "public records",
+      "city clerk",
+      "police records division",
+      "FOIA",
+      "open records",
+      "311 portal",
+      "code enforcement portal",
+      "open-records requests",
+      "survey",
+      "boundary survey",
+      "deed/plat",
+      "dog",
+      "rabies",
+      "bite",
+      "leash",
+      "vaccination",
+      "owner",
+      "witness"
+    ],
+    "open": [
+      "Task: determine city/county; locate online complaint portals (311, code enforcement, police logs) for the address.",
+      "Task: if records not online, file public-records request with city clerk/police records FOIA/open records; specify address, record types, date range, and preferred format.",
+      "Task: confirm fence boundary ownership via deed/plat or boundary survey; check county records or obtain a survey if ownership is unclear.",
+      "Task: notify neighbor in writing of planned safety repairs and provide a brief timeframe to prevent surprises.",
+      "Task: document repairs and boundary-related actions with photos, receipts, and contractor estimates.",
+      "Task: check local rules/HOA for permits, height/setback rules, or shared-fence requirements.",
+      "Task: determine reimbursement approach if neighbor is responsible; consider mediation or small claims if needed.",
+      "Task: coordinate with animal control on dog-related aggression case and collect evidence according to animal-control guidelines (dates/times, photos/videos with metadata, witness statements, medical records)."
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 28462,
+    "outputTokens": 78910,
+    "totalTokens": 107372
+  },
+  "timestamp": "2026-02-14T15:25:06.044Z"
+}

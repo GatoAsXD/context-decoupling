@@ -1,0 +1,69 @@
+{
+  "id": "c_structuredContext_v2_OVERRIDE_L40_Adjusting to a new schedule",
+  "scriptId": "cs_v2_OVERRIDE_L40_Adjusting to a new schedule",
+  "historyId": "h_v2_OVERRIDE_L40_Adjusting to a new schedule",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Assist user in adjusting to a new permanent 8:00 on-site start every weekday.",
+      "Preserve a 20–30 minute workout and a relaxed breakfast despite the 8:00 start.",
+      "Adopt a mixed workout timing plan (2–3 fuller morning sessions on remote/partner days, 15–20 minute morning sessions on office days, and 1–2 longer evening sessions) to support energy and sleep.",
+      "Minimize burnout by implementing low-effort contingency plans during chaotic weeks."
+    ],
+    "constraints": [
+      "Permanent 8:00 on-site start; out-the-door by 7:30; weekday-only schedule.",
+      "Daycare opens at 8:30; partner handles drop-off.",
+      "Incorporate a commute buffer: baseline 15-minute buffer; option for 20–25-minute buffer for higher certainty."
+    ],
+    "decisions": [
+      "Create a 7-day sleep/wake plan with daily wake times and bedtimes.",
+      "Create a weekly meal-prep plan for breakfasts, lunches, and daycare snacks.",
+      "Map the mixed workout timing plan to your exact work/remote days and daycare schedule.",
+      "Decide on a trial framework for occasional remote work (frequency, scope, review cadence).",
+      "Select 2–4 contingency options to automate this first week.",
+      "Decide on a carpool vs solo trial framework (criteria, duration, review cadence).",
+      "Choose 1–2 changes to try for a week to address mid-afternoon slump (e.g., earlier lunch, planned protein snack, 5-minute walk)."
+    ],
+    "entities": [
+      "7-day sleep/wake plan with daily wake times (Day 1: 7:15, Day 2: 7:00, Day 3: 6:45, Day 4: 6:30, Day 5: 6:15, Day 6: 6:15, Day 7: 6:15).",
+      "Bedtime windows for days 1–7 (Day 1: 23:15–23:45, Day 2: 23:00–23:30, Day 3: 22:45–23:15, Day 4: 22:30–23:00, Day 5: 22:15–22:45, Day 6: 22:15–22:45, Day 7: 22:15–22:45).",
+      "Meal-prep framework for weekday mornings: batch-cook 1–2x/week; overnight oats, smoothie packs, egg muffins; pack the night before; freezer-friendly options for breakfasts, lunches, and daycare snacks.",
+      "Commute buffer guideline: baseline 15-minute buffer; 20–25 minutes for higher certainty scenarios.",
+      "Mixed weekly workout timing plan: morning sessions 2–3 fuller sessions on remote/partner days, 15–20 minute mornings on office days, and 1–2 longer evening sessions, to support energy and sleep.",
+      "Hour-by-hour sample weekday outline with exact times: 6:15 Wake; 6:20–6:40 Workout (20 min); 6:40–6:50 Shower and dress; 6:50–7:05 Breakfast; 7:05–7:10 Final pack; 7:10–7:15 Hand-off to partner; 7:15 Leave home; 7:15–7:45 Commute; ~7:45–7:55 Arrival/settle.",
+      "Weekend prep checklist (new): separate items for clothes, lunches, daycare bag, work bag & commute items, household & logistics, Sunday evening run-through, labeling & safety, and a small habit (3–5 minute visual check).",
+      "Weekend prep: Clothes sublist",
+      "Weekend prep: Lunches & breakfasts sublist",
+      "Weekend prep: Daycare bag sublist",
+      "Weekend prep: Work bag & commute items sublist",
+      "Weekend prep: Household & logistics sublist",
+      "Weekend prep: Sunday evening quick run‑through sublist",
+      "Weekend prep: Labeling & safety sublist",
+      "Weekend prep: Small habit that saves big time sublist",
+      "Remote flexibility request plan: one remote day per week or ad-hoc remote when daycare is unavailable, with a 6-week review.",
+      "Carpool option with nearby coworker: criteria and backup plan.",
+      "Mid-day slump fixes: hydration, short movement (5–10 min), light exposure, quick protein snack (Greek yogurt, egg, nuts), breathing reset.",
+      "Nutrition timing: shift lunch to ~4–5 hours after waking; include a protein + fiber + healthy fat at lunch; plan a mid-afternoon snack (protein + fat or fiber).",
+      "Caffeine strategy: consume a small cup ~20–30 minutes before the slump; avoid caffeine late in the day.",
+      "Schedule tweaks: front-load demanding work in mid-morning; reserve mid-afternoon for routine tasks or short meetings; schedule a pre-slump walk if possible.",
+      "Sample routine: Wake ~6:15; lunch ~11:30–12:00 with protein + veg + whole grain; snack ~14:00–14:30 (protein + fat/fiber).",
+      "Pick 1–2 changes for a week: earlier lunch + planned protein snack + 5–10 min walk."
+    ],
+    "open": [
+      "Clarify remote days flexibility and partner drop-off time adjustments.",
+      "Update the 7-day wake/sleep plan to reflect adjusted departure buffer (e.g., shift wake times and bedtimes as needed).",
+      "Develop an early-meetings alertness plan (0–60 minute pre-meeting routine, light exposure, hydration, movement, caffeine guidance, and a micro-checklist).",
+      "Validate feasibility of the mixed workout plan with sleep/energy tracking and adjust accordingly.",
+      "Create a concise plan to raise occasional remote flexibility, including a sample script or talking points, a trial period, and review criteria.",
+      "Decide on and implement 2–4 contingency options in the first week with automation and review criteria.",
+      "Carpool decision: evaluate a nearby coworker carpool option, define decision criteria, confirmation timing, and backup plan.",
+      "Schedule and run a weekend practice morning with partner to baseline timings and friction points; record results; test baseline and worst-case variation."
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 33491,
+    "outputTokens": 101402,
+    "totalTokens": 134893
+  },
+  "timestamp": "2026-02-14T15:17:51.997Z"
+}

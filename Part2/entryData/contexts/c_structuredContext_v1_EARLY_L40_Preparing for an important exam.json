@@ -1,0 +1,35 @@
+{
+  "id": "c_structuredContext_v1_EARLY_L40_Preparing for an important exam",
+  "scriptId": "cs_v1_EARLY_L40_Preparing for an important exam",
+  "historyId": "h_v1_EARLY_L40_Preparing for an important exam",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [],
+    "constraints": [],
+    "decisions": [],
+    "entities": [
+      "movement breaks for long study blocks"
+    ],
+    "open": [
+      "Implement target mock strategy: 6–12 full mocks total with phased rollout",
+      "Apply the review quality checklist after every mock",
+      "Track time budget and review depth for each mock (3.5–7 hours for a 210-minute mock)",
+      "Apply the stop/continue rule: stop after several recent mocks above 82% with stable error patterns, else continue with targeted corrections",
+      "Assess feasibility and potential benefits of a small study group for tricky wording and peer explanations; if feasible, run 2–3 trial sessions with strict agendas and asynchronous follow-ups",
+      "Incorporate teaching-style whiteboard explanations into mock reviews: schedule 10–30 minute blocks per problem, simulate audience, explain first moves and decision rules, conclude with a summary, and convert to SRS prompts",
+      "Integrate sleep optimization with exam prep: target 7–9 hours nightly; implement sleep banking (2+ weeks prior) by adding 30–90 minutes nightly; protect final nights (3 nights before to exam) with consistent schedule and at least 7–8 hours",
+      "Napping strategy: use a 20–30 minute strategic nap earlier in the day; if sleep debt exists on test morning, use a 20–30 minute nap 60–90 minutes before start; avoid long naps late in the day",
+      "Sleep hygiene rules: regular schedule including weekends; wind down 30–60 minutes before bed; avoid heavy meals, alcohol, caffeine within ~4–6 hours of bedtime; keep room cool, dark, and quiet",
+      "Anxiety and worry management for sleep: pre-bed routine with journaling, breathing, progressive muscle relaxation; if intrusive thoughts persist, write a concise plan for the next day to reduce rumination",
+      "Integrate anxiety-management techniques into timed practice: standardize 30–60s breathing reset and grounding at transitions between blocks or questions",
+      "Create and pilot a concise booklet production plan: generate one-page blank template and optional printable PDF; confirm preferred format (A5 single-page vs two-column half-page topic cards)",
+      "Movement-break scheduling for long study blocks: adopt structured patterns (25/5, 50/10, 90/15) aligned to task type and mock-review cadence"
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 22294,
+    "outputTokens": 42705,
+    "totalTokens": 64999
+  },
+  "timestamp": "2026-02-14T02:50:34.872Z"
+}

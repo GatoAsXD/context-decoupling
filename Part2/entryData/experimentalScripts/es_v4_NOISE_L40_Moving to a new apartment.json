@@ -1,0 +1,27 @@
+{
+  "id": "es_v4_NOISE_L40_Moving to a new apartment",
+  "scriptId": "cs_v4_NOISE_L40_Moving to a new apartment",
+  "historyId": "h_v4_NOISE_L40_Moving to a new apartment",
+  "cutoffIndex": 24,
+  "messages": [
+    "I saw a blog post suggesting to pack a moving-day essentials bag with chargers, snacks, and a set of clothes - seems sensible.",
+    "One time my friend threw out the screws to a bookshelf - took ages to reassemble - maybe I should tape hardware packets to the furniture.",
+    "There are bulky electronics and a few plants; transportation for plants feels weird because of temperature sensitivity.",
+    "My mother keeps offering to buy me a housewarming gift, but that's separate; I should not let freebies clutter the new place.",
+    "I worry about timing and the possibility of delays; coordination is the hard part.",
+    "Also, I have a bunch of cleaning supplies and paint cans I can't toss out casually - they might need special disposal.",
+    "Okay, I want to lock this down - no fluff, just a practical moving-day plan I can follow.",
+    "Picture a summer weekend move, short distance within town, and my current unit is multiple flights up without mechanical help.",
+    "I will rent a medium-length moving vehicle and have two willing helpers besides me; I want to keep spending low.",
+    "Also there are a few large pieces - a queen bed, a small sofa, and a tall bookshelf - that will require disassembly or special handling.",
+    "Could you provide a timeline starting from when we should begin loading to the expected completion at the new place, including reasonable time allowances for stairs and short transit?",
+    "Break it down into hourly blocks, note who should do what between the three of us, and flag the steps where it's critical to have extra hands or protective gear.",
+    "Then give me an ordered list of what to pack/load first and last, with a short explanation for each choice.",
+    "Finally, list the few things I should reserve or borrow (e.g., moving equipment or permits) and a compact shopping list for packing supplies, keeping in mind the tight budget.",
+    "If you can, estimate the total moving time (not cost) and suggest a reasonable buffer to add so I don't overschedule the helpers.",
+    "That's it - a clear, actionable moving-day plan based on those constraints would be perfect."
+  ],
+  "metadata": {
+    "timestamp": "2026-02-13T17:35:42.566Z"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "es_v1_EARLY_Moving to a new city or neighborhood",
+  "scriptId": "cs_v1_EARLY_Moving to a new city or neighborhood",
+  "historyId": "h_v1_EARLY_Moving to a new city or neighborhood",
+  "cutoffIndex": 14,
+  "messages": [
+    "I heard bananas are berries but strawberries aren't — is that true, and why?",
+    "I get anxious sometimes — what's a simple two-step breathing exercise I can use to calm down quickly?",
+    "Logistics question: my electricity was scheduled to start with the lease and the internet tech is booked for an afternoon slot the day after the movers come — should I keep the utilities active right away or postpone until the movers arrive so someone can test outlets?",
+    "Regarding the hired crew, the building asked for proof of the team's insurance and an elevator slot reserved — would you recommend I verify their insurance paperwork a few days in advance or handle it on moving morning?",
+    "Permit timing has me nervous: since municipal permits can take several business days and I have a narrow window to change my ID after relocating, would you suggest applying for the parking permit now or waiting until I physically have the keys?",
+    "Finally, because keys won't be available until the lease officially starts but the movers are coming the following weekend, would it be better to request an earlier key pickup from the landlord or arrange for a friend or local contact to meet the movers to avoid scheduling conflicts?"
+  ],
+  "metadata": {
+    "timestamp": "2026-01-25T01:37:37.274Z"
+  }
+}

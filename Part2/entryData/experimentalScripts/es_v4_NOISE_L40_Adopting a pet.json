@@ -1,0 +1,27 @@
+{
+  "id": "es_v4_NOISE_L40_Adopting a pet",
+  "scriptId": "cs_v4_NOISE_L40_Adopting a pet",
+  "historyId": "h_v4_NOISE_L40_Adopting a pet",
+  "cutoffIndex": 24,
+  "messages": [
+    "There are local interest groups that run workshops on setting up habitats and enrichment.",
+    "I heard a radio segment about holiday fairs that brought many new animal lovers into the neighborhood.",
+    "Once I walked past a shop window displaying animals and felt uncomfortable at how they were presented.",
+    "Someone mentioned a mobile vet service that comes to neighborhoods; that convenience could be useful.",
+    "I keep stumbling on before-and-after galleries of animals online; they're emotionally powerful.",
+    "A few people I know swear by insurance plans that covered big unexpected medical bills and spared them tough decisions.",
+    "Can you give me a clear, actionable plan and concrete recommendations for bringing a companion animal into my home?",
+    "Please include a short ranked shortlist (top three) of animal types or specific breeds that would be sensible choices.",
+    "For each recommendation, provide one or two short pros and cons that explain why it's a good or poor fit.",
+    "Give a realistic estimate of monthly costs for each recommendation that stays within the cap I mentioned before.",
+    "Also include a brief three-step arrival checklist for the first two weeks after bringing the animal home.",
+    "Mention which life stage (young, adult, senior) would make sense for each option and a note about temperament around family members.",
+    "Add two practical tips to help a sensitive household member tolerate an animal, phrased as simple actions.",
+    "Finish with a short, prioritized list of tasks to complete before going to pick one up (paperwork, supplies, timing).",
+    "Keep each item concise—no long essays, just bullet-style clarity and numbers where helpful.",
+    "Thanks—if you can produce that in a compact form I can follow, I'll be ready to move forward."
+  ],
+  "metadata": {
+    "timestamp": "2026-02-13T16:11:11.732Z"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "c_structuredContext_v3_ACCUMULATION_L40_Struggling to organize daily time",
+  "scriptId": "cs_v3_ACCUMULATION_L40_Struggling to organize daily time",
+  "historyId": "h_v3_ACCUMULATION_L40_Struggling to organize daily time",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Start with 1–2 simple, high-impact habits and test for one week."
+    ],
+    "constraints": [
+      "Regimen must be simple, sustainable and easy to keep.",
+      "Planning time should be brief: daily 5 minutes end-of-day plus a focused weekly session (20–60 minutes).",
+      "Hybrid work schedule: office ~3 days/week and WFH ~2 days/week.",
+      "Office days include a 40-minute rush-hour commute each way; build buffers and adjust timing accordingly.",
+      "Two evening language classes per week; those evenings reserved; no chores or heavy work those evenings.",
+      "Sleep target: ~7 hours per night; avoid extremely early starts; wake time aligned to sleep target.",
+      "Pickup window: after-school clubs ending at 5:30 PM require availability for pickup; block 5:00–6:00 PM as a buffer on those days; treat pickup as a non-negotiable appointment.",
+      "Preference for simple tools: prefer paper lists or minimal phone setups over complex apps."
+    ],
+    "decisions": [
+      "Recommend selecting 1–2 habits from the MITs list to trial for one week.",
+      "Evaluate implementing shared family calendar and weekly family sync.",
+      "Await schedule details (wake times, office days, meeting load) to draft a hybrid-friendly plan.",
+      "Adopt simple MIT delivery using paper card or a single phone note as the primary method."
+    ],
+    "entities": [
+      "Calendar-as-log",
+      "15-minute sampling",
+      "Start/stop notebook",
+      "Pomodoro tally",
+      "Quick digital check",
+      "One-line time-tracking template",
+      "End-of-day tidy-up",
+      "Pause before accepting - dont say yes immediately; ask for time to review your schedule.",
+      "Ask for outcome and deadline to understand real need before committing.",
+      "Offer an alternative: delegate, delay or do a smaller slice.",
+      "Protect blocks: treat calendar blocks as commitments and push requests to later times.",
+      "Triage quickly: Do (<=10 min) / Defer / Delegate / Decline.",
+      "Be brief and solution-oriented: provide a next step or trade-off with your no.",
+      "Use boundaries consistently: set office hours or designated response windows for non-urgent asks.",
+      "Need time to check calendar: can I confirm after I check my schedule? I'll reply by [time].",
+      "Ask about urgency/outcome: what's the required outcome and deadline so I can prioritize it?",
+      "Offer an alternative time: I'm booked until [time]; can we move this to [two options]?",
+      "Offer a partial help or delegate: I can handle the first 30 minutes or connect you with someone who can finish.",
+      "Push back with trade-off: I can take this on by [date], but I’ll need to deprioritize [task] — which should I pause?",
+      "Short decline: I can't take this on right now; please try another process or I can revisit on [date].",
+      "Urgent channel request: if this is urgent, please mark it as urgent in [channel] and I’ll respond within [time window].",
+      "One-liner policy (status/auto-reply): In focused work 9–11 AM. For non-urgent items I will respond by [time].",
+      "Shared family calendar",
+      "Weekly family sync",
+      "Block non-negotiables",
+      "Set work office hours",
+      "Create buffers",
+      "Batch household tasks",
+      "Delegate & automate",
+      "Use a parking list",
+      "Align energy windows",
+      "Emergency plan & backup",
+      "Quick weekly family sync agenda (10–15 min)",
+      "Short scripts you can use",
+      "Small setup that pays off",
+      "Emergency/last-minute rule",
+      "Hybrid schedule: office ~3 days/week, WFH ~2 days/week",
+      "Draft day-by-day plan that fits hybrid schedule",
+      "Limit meetings to specific blocks if possible",
+      "Inquire about school run constraints (8:15 weekday) to adjust timing if needed",
+      "Commute time: 40 minutes each way during rush hour",
+      "Block 15–30 minutes on the calendar as non-negotiable for workouts.",
+      "Keep workouts short: 8–20 minute routines (HIIT, bodyweight, or yoga).",
+      "Anchor workouts to existing events: after drop-off on WFH days, or after the commute on office days.",
+      "Prep workout clothes and gear the night before.",
+      "Have a micro-fallback: 2–5 minutes of movement if a full session won't fit.",
+      "Use commute time for mobility or a quick walk.",
+      "Protect workouts with a rule: workouts happen unless an urgent family or work emergency.",
+      "Three short, reliable workouts are more sustainable than longer sessions when mornings go sideways.",
+      "MIT delivery options: paper card or 'Today' phone note for daily tasks.",
+      "Sticky note reminders on phone for MIT visibility.",
+      "Focus timer usage: built-in timer for focus sprints.",
+      "Calendar widget showing blocks on phone."
+    ],
+    "open": [
+      "Decide which 1–2 MITs to trial for one week.",
+      "Draft day-by-day plan that fits hybrid schedule.",
+      "Provide remaining quick details: which weekdays are office vs WFH, your usual meeting load/timing, whether the 8:15 drop-off is every weekday, which evenings are language classes, and your two top priorities for the week."
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 28461,
+    "outputTokens": 82166,
+    "totalTokens": 110627
+  },
+  "timestamp": "2026-02-14T23:12:58.128Z"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "cs_v1_EARLY_Learning a new language",
+  "type": "cs_v1_EARLY",
+  "seedTopic": "Learning a new language",
+  "length": 20,
+  "messages": [
+    "I've decided to start learning Japanese seriously — trying to make a real study plan.",
+    "I actually registered for the JLPT N4 that's scheduled in about six months, so I need a structured schedule.",
+    "Right now my plan is roughly 45 minutes of Anki flashcards every day, plus about 20 minutes of podcasts for listening and a one-hour speaking lesson once a week.",
+    "I'm aiming to build a vocabulary of around 1,000 words and to learn about five new kanji each day before the test.",
+    "On a completely different note, does anyone have a foolproof tip for making creamy tomato soup from scratch?",
+    "I was out last night and the stars were amazing — I could actually pick out Orion, which I never could when I lived in the city.",
+    "My snake plant is dropping a few leaves; should I water less or be worried about pests?",
+    "I tried a new curry recipe with roasted eggplant and coconut milk; would love recommendations to make it a little spicier without overpowering the coconut.",
+    "My laptop fan keeps ramping up under light loads — any quick troubleshooting steps before I book a repair?",
+    "Thinking about training for a 10K this spring; what's the safest way to increase mileage week by week?",
+    "I've been on a piano kick lately — any calming sonatas you'd recommend for concentration?",
+    "Daydreaming about travel — what's one underrated European city you think is worth a weekend trip?",
+    "I'm tempted to start painting on weekends; are acrylics easier for beginners than oils?",
+    "A friend just adopted a corgi and the photos are too cute — suddenly I'm considering getting a dog too.",
+    "Quick gardening question: when's the best time to prune lavender in cooler climates?",
+    "By the way, did you know octopuses have three hearts? Nature never stops surprising me.",
+    "Okay, back to the language plan — given the timeframe I mentioned earlier, would focusing most study on short daily spaced-repetition sessions plus a weekly conversation slot realistically get me to an intermediate-ish level?",
+    "If time gets tight, would you cut down listening practice or reduce flashcard reps first to keep progress steady?",
+    "When push comes to shove, should I emphasize character recognition or active vocabulary in the month leading up to the test for the biggest score gains?",
+    "Finally, in the final stretch before the exam, is it sensible to switch to more mock tests and focused speaking practice, or is that overkill?"
+  ],
+  "metadata": {
+    "inputTokens": 418,
+    "outputTokens": 8183,
+    "totalTokens": 8601,
+    "timestamp": "2026-01-24T22:39:41.706Z"
+  }
+}

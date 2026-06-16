@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v2_OVERRIDE_L40_Organizing a family event",
+  "scriptId": "cs_v2_OVERRIDE_L40_Organizing a family event",
+  "historyId": "h_v2_OVERRIDE_L40_Organizing a family event",
+  "componentType": "plainContext",
+  "context": "",
+  "generationMetrics": {
+    "inputTokens": 32676,
+    "outputTokens": 74391,
+    "totalTokens": 107067
+  },
+  "timestamp": "2026-02-14T15:46:38.690Z"
+}

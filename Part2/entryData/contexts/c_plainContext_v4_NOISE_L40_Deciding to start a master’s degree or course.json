@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v4_NOISE_L40_Deciding to start a master’s degree or course",
+  "scriptId": "cs_v4_NOISE_L40_Deciding to start a master’s degree or course",
+  "historyId": "h_v4_NOISE_L40_Deciding to start a master’s degree or course",
+  "componentType": "plainContext",
+  "context": "",
+  "generationMetrics": {
+    "inputTokens": 20530,
+    "outputTokens": 67642,
+    "totalTokens": 88172
+  },
+  "timestamp": "2026-02-14T23:25:35.497Z"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "c_structuredContext_v2_OVERRIDE_L40_Preparing for a job interview",
+  "scriptId": "cs_v2_OVERRIDE_L40_Preparing for a job interview",
+  "historyId": "h_v2_OVERRIDE_L40_Preparing for a job interview",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Prepare for a PM interview next month, with emphasis on product analytics questions.",
+      "Compile and prioritize smart questions to ask interviewers to demonstrate product thinking and evaluate the role."
+    ],
+    "constraints": [],
+    "decisions": [
+      "Plan five mock interviews: two behavioral, two design, and one hiring-manager fit session.",
+      "Incorporate compensation negotiation guidance and ready-to-use scripts into PM interview prep."
+    ],
+    "entities": [
+      "System design depth guidance by seniority: Associate/Junior PM: high-level architecture and tradeoffs; Mid-level PM: simple architecture sketch with key APIs and metrics; Senior/Staff PM: deeper tradeoffs including scaling, consistency, SLOs, cost, data pipelines, and mitigation strategies for bottlenecks.",
+      "Feedback structure, rubric, and one-page scorecard template for PM interview mocks.",
+      "Smart questions for PM interview prep: a categorized list of questions to ask interviewers (product strategy, customers, metrics, roadmap & tradeoffs, execution, technical, go-to-market, team & culture, hiring & resourcing, role-fit, plus wrap-up) with notes on what they demonstrate and what to listen for.",
+      "Travel planning and interview-day readiness: guidelines for local vs out-of-town interviews, arrival timing, buffers, rideshare and parking logistics, day-of sanity checks, arrival routine, and an interview-day checklist to minimize stress.",
+      "Closing interview scripts, quick recap lines, and a follow-up email template for PM interviews (15–20s closing line; 2–3 sentence follow-up).",
+      "Follow-up messaging guidelines: concise thank-you with a reference to a specific discussion point, restatement of interest and value, one actionable follow-up item, and a clear next-step request; timing guidance (within 24 hours).",
+      "Compensation negotiation guidance and scripts for PM interviews (how to answer salary questions, anchor to market, request band, etc.).",
+      "Reference checks prep guide: guidance on who to choose as references, what to tell them upfront, what to send, what the hiring team will ask, coaching tips for references, timing and logistics, sample message to references, and post-check follow-up."
+    ],
+    "open": [
+      "Awaiting user input: role level, weekly availability to customize the plan.",
+      "Logistics: attire guidance for on-site PM interview at mid-size tech firm.",
+      "Draft a tailored 2–3 sentence thank-you message for one interviewer."
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 33546,
+    "outputTokens": 49844,
+    "totalTokens": 83390
+  },
+  "timestamp": "2026-02-15T03:06:42.019Z"
+}

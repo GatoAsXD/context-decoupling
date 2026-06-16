@@ -1,0 +1,27 @@
+{
+  "id": "es_v1_EARLY_L40_Problems with daily transportation",
+  "scriptId": "cs_v1_EARLY_L40_Problems with daily transportation",
+  "historyId": "h_v1_EARLY_L40_Problems with daily transportation",
+  "cutoffIndex": 24,
+  "messages": [
+    "During peak tourist season, ferry terminals become chaotic — how do operators usually cope with the surge in passengers and luggage?",
+    "Are parking sensors and live-availability signs actually effective at increasing turnover, or are they mostly a political showpiece?",
+    "What lightweight, packable cover do people recommend for protecting a laptop bag during unexpected downpours?",
+    "When employers choose between giving transit subsidies versus flexible start times, which tends to have more measurable benefits for employee satisfaction?",
+    "What are the most useful small items to keep in a 'commuting emergency kit' so a long delay doesn't completely derail the workday?",
+    "I've seen apps that let you stitch trips across multiple operators — do those usually save money or just add complexity?",
+    "If a taxi driver damages a piece of luggage, what's the typical claims process and is compensation common?",
+    "For trips under an hour, do commuters usually carry portable chargers, or is that overkill for most people?",
+    "I need a weekly plan that balances driving and the weekday service I depend on: how would you allocate transit versus car days so I don't risk missing that morning childcare drop-off?",
+    "My commuter card will expire soon — assuming electronic renewals need a few business days to process, what's the latest practical day to start renewal to avoid any lapse?",
+    "On days when the office parking isn't available to me, would you recommend using my compact folded option for the whole commute, or pairing a shorter paid ride with public transit as a backup?",
+    "If the travel time on my usual route occasionally increases by about 10% because of transfers and delays, how many minutes earlier than my usual departure should I plan to leave to keep meeting my arrival target?",
+    "Because the service I rely on has a single consistent morning departure near my allowable leaving window, what contingency strategies would you suggest if that one departure is delayed or canceled?",
+    "If I renew the pass in person to avoid mailing delays, how should I schedule the pickup around my mornings and the alternating parking arrangement so I never lose access to either?",
+    "Since storing that folded option in the office locker isn't feasible, what's the most cost-effective temporary strategy: rent a nearby private locker for a month, use rideshare on non-driving days, or coordinate carpooling with a coworker?",
+    "Could you sketch a realistic two-week commuting schedule that uses the weekday service when suitable, drives only on days parking is permitted, and ensures I always make the childcare drop-off on time?"
+  ],
+  "metadata": {
+    "timestamp": "2026-02-05T00:00:42.393Z"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "c_structuredContext_v1_EARLY_L40_Struggling to organize daily time",
+  "scriptId": "cs_v1_EARLY_L40_Struggling to organize daily time",
+  "historyId": "h_v1_EARLY_L40_Struggling to organize daily time",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [],
+    "constraints": [],
+    "decisions": [
+      "Theme days: choose broad themes by cognitive mode; limit to 3–5 useful themes per week; assign one theme per day (or half-day if needed).",
+      "Keep themes mutually exclusive within a day to avoid mode-switching.",
+      "Never mix high‑focus CREATIVE and high‑interaction CLIENT blocks on the same day unless split into half‑day blocks.",
+      "Protect two 50‑minute FOCUS slots on each day; on CREATIVE days dedicate both slots to drafting/editing; on CLIENT days designate one slot for prep and one for follow-up.",
+      "Make theme explicit on calendar titles and color (e.g., “MON CREATIVE — FOCUS”).",
+      "Reserve client-facing office hours on CLIENT days so ad‑hoc requests go there rather than interrupting CREATIVE days.",
+      "Use the ADMIN day to batch process micro-tasks and planning; keep CREATIVE days focused and free of admin.",
+      "Try the pattern for 2–3 weeks and then adjust counts of each theme based on actual client flow and delivery.",
+      "If a day requires mixed work due to client load, split into two half-day themes rather than switching tasks hourly."
+    ],
+    "entities": [
+      "theme day concept",
+      "calendar entries with explicit theme and color",
+      "office hours on CLIENT days",
+      "ADMIN day to batch micro-tasks and planning",
+      "half-day theme blocks",
+      "two 50-minute FOCUS slots",
+      "cognitive modes: CREATIVE, CLIENT, ADMIN, STRATEGY/PLANNING, LEARNING/OPS",
+      "pattern evaluation period: 2–3 weeks"
+    ],
+    "open": []
+  },
+  "generationMetrics": {
+    "inputTokens": 23505,
+    "outputTokens": 62962,
+    "totalTokens": 86467
+  },
+  "timestamp": "2026-02-14T15:14:53.795Z"
+}

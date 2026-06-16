@@ -1,0 +1,34 @@
+{
+  "id": "cs_v1_EARLY_Starting an exercise routine",
+  "type": "cs_v1_EARLY",
+  "seedTopic": "Starting an exercise routine",
+  "length": 20,
+  "messages": [
+    "I'm planning to start a consistent exercise routine and want to give you the basics: I'm 34 years old, weigh about 185 pounds, and I haven't been active regularly for the past year.",
+    "Right now my short-run ability is that a 3 km run takes me roughly 20 minutes; I also have a pair of adjustable dumbbells at home that go up to 30 pounds and access to a treadmill at my office gym.",
+    "My realistic time slots are evenings on Monday, Wednesday, and Friday between about 7 and 9 pm, and my primary goal is to lose roughly 10 pounds over the next 12 weeks while building some upper-body strength.",
+    "One important medical detail: I have mild exercise-induced asthma and usually use an albuterol inhaler before intense sessions; otherwise I'm healthy.",
+    "Totally different question — what's a healthy 20-minute weeknight dinner that doesn't require special ingredients?",
+    "Any short documentaries about space that are both accurate and emotionally gripping? I have a 90-minute plane ride coming up.",
+    "Why do cats purr? I always thought it was just contentment but I read there are other reasons too.",
+    "Quick baking question: how often should you feed a sourdough starter if you only bake once a week?",
+    "If you had to recommend one underrated European city for an early-autumn long weekend, which would you pick and why?",
+    "What's one tiny habit people often overlook that actually helps with long-term consistency, like the two-minute rule but more subtle?",
+    "Tell me a surprising fact about octopuses that would blow a layperson's mind.",
+    "Which Nobel Prize-winning discovery do you think had the biggest ripple effect into everyday technology?",
+    "What's a minimal beginner hiking kit for temperate weather — give me three essentials.",
+    "I need a short, friendly one-sentence opener for networking events; can you suggest something concise?",
+    "Just curious: what's the typical top speed of the fastest land animal — am I thinking tens of miles per hour or more?",
+    "Explain compound interest in three sentences for someone who remembers algebra but forgot finance basics.",
+    "Okay, back to the workout plan: given I only have a few weeknights to train and only moderately heavy hand weights at home, should I aim for full-body sessions each time or split the week into targeted muscle groups to best support fat loss and preserve strength?",
+    "Because I sometimes get pretty breathless during hard intervals, how would you structure interval training so it's effective but doesn't leave me gasping and needing long recovery?",
+    "Given my current steady short-run fitness and that sessions have to happen in the evenings, is noticeable progress realistic within about a quarter-year, and what non-scale metrics should I track to see real improvement?",
+    "If after roughly a month I find I'm not recovering well between those evening sessions, what's the first simple tweak you'd usually recommend to the plan?"
+  ],
+  "metadata": {
+    "inputTokens": 418,
+    "outputTokens": 8482,
+    "totalTokens": 8900,
+    "timestamp": "2026-01-24T22:39:53.532Z"
+  }
+}

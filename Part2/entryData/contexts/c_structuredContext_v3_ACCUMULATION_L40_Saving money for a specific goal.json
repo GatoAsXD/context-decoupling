@@ -1,0 +1,67 @@
+{
+  "id": "c_structuredContext_v3_ACCUMULATION_L40_Saving money for a specific goal",
+  "scriptId": "cs_v3_ACCUMULATION_L40_Saving money for a specific goal",
+  "historyId": "h_v3_ACCUMULATION_L40_Saving money for a specific goal",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "save money for a used car",
+      "target total cost: $15,000 (including taxes and repair buffer)",
+      "current savings toward goal: $3,000"
+    ],
+    "constraints": [
+      "risk tolerance: low volatility",
+      "preference to keep funds in high-yield savings account (HYSA) rather than stock market",
+      "I won't touch my emergency cushion to fund this purchase."
+    ],
+    "decisions": [
+      "Prioritize cancelling small recurring subscriptions first as a quick win.",
+      "Automate savings transfers to a separate labeled account to build the goal faster.",
+      "Windfalls: set aside estimated taxes if freelance income; shore up emergency fund if needed; apply remaining to the goal; allocate a small portion for a reward.",
+      "Set car fund target to $15,000 (including taxes and repair buffer)",
+      "Move car fund to a high-yield savings account (HYSA) instead of stock market investments.",
+      "Evaluate how to deploy an extra $200/month: (a) add to the car fund by increasing automated transfers to $867/month to finish sooner; (b) allocate to the car fund by reducing automated transfer to $467/month (total $667) to ease monthly burden.",
+      "Automate savings transfers to a labeled HYSA sub-account.",
+      "Year-end December bonus: allocate to car HYSA and adjust monthly contributions accordingly."
+    ],
+    "entities": [
+      "small recurring subscriptions",
+      "larger discretionary items",
+      "automatic transfers",
+      "separate labeled savings account",
+      "high-yield savings account",
+      "monthly take-home pay",
+      "fixed expenses",
+      "windfall",
+      "estimated taxes",
+      "emergency fund",
+      "low-volatility investments",
+      "used car",
+      "car fund",
+      "target cost: $15,000",
+      "car fund target",
+      "car fund current balance: $3,000",
+      "HYSA",
+      "monthly take-home pay: $3,800",
+      "Rent and utilities: $1,200/month",
+      "monthly student loan payment: $250/month",
+      "extra monthly contribution: $200",
+      "December year-end bonus"
+    ],
+    "open": [
+      "What’s your target deadline or timeline?",
+      "Any constraints I should know about (debt, fixed expenses, risk tolerance)?",
+      "What’s your current emergency fund balance?",
+      "Would you like to set up automation for savings?",
+      "What amount and frequency would you prefer for automated transfers?",
+      "Would you like a windfall allocation plan (taxes, emergency fund, goal)?",
+      "Would you like me to model how a December year-end bonus would affect your car fund timeline and monthly contributions?"
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 21581,
+    "outputTokens": 56358,
+    "totalTokens": 77939
+  },
+  "timestamp": "2026-02-14T23:10:42.222Z"
+}

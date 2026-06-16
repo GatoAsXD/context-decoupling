@@ -1,0 +1,31 @@
+{
+  "id": "c_structuredContext_v2_OVERRIDE_L40_Learning to cook better",
+  "scriptId": "cs_v2_OVERRIDE_L40_Learning to cook better",
+  "historyId": "h_v2_OVERRIDE_L40_Learning to cook better",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [],
+    "constraints": [],
+    "decisions": [],
+    "entities": [],
+    "open": [
+      "Decision needed: select plan format between a 4-week rotating weeknight menu (recipes, timings, master grocery list) or a single sample week (detailed 5 weeknight dinners with prep/cook timing and one weekend batch session).",
+      "Proposal: printable 4-week knife skills drill schedule with checklist.",
+      "Weekend projects added to plan: roast chicken, carnitas, ragu/bolognese; learnings and leftovers included.",
+      "Leftovers scaling guidelines: multipliers 1.5x or 2x; recommended container sizes; reheating tips.",
+      "Time-management plan: split practice sessions as per assistant guidance (weekend long 90–120 min, weekend medium 60–90 min, 3–5 short weekday drills of 10–30 min; weekly total 3–6 hours).",
+      "Printable 1-week schedule option offered: include specific recipes and exact time blocks that fit weeknight window.",
+      "Template options: ready-to-print weekly tracker or a simple phone note template.",
+      "15-minute recipe cards: prepare three printable cards tailored to Italian/Mexican preferences on request.",
+      "Capstone plan confirmation: two capstone dishes (roast chicken and carnitas) to map over six weeks.",
+      "Offer printable timed recipe cards for capstone dishes and a 6-week calendar mapping drills and recipes.",
+      "Open item: Recommendations for inexpensive, forgiving protein sources and cuts (e.g., chicken thighs, drumsticks, pork shoulder, beef chuck, beans, lentils, eggs, canned fish) that support technique-building on a budget."
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 50836,
+    "outputTokens": 73253,
+    "totalTokens": 124089
+  },
+  "timestamp": "2026-02-14T15:33:04.818Z"
+}

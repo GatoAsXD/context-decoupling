@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v2_OVERRIDE_L40_Deciding to start a master’s degree or course",
+  "scriptId": "cs_v2_OVERRIDE_L40_Deciding to start a master’s degree or course",
+  "historyId": "h_v2_OVERRIDE_L40_Deciding to start a master’s degree or course",
+  "componentType": "plainContext",
+  "context": "",
+  "generationMetrics": {
+    "inputTokens": 31313,
+    "outputTokens": 70163,
+    "totalTokens": 101476
+  },
+  "timestamp": "2026-02-14T15:24:42.470Z"
+}

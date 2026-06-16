@@ -1,0 +1,87 @@
+{
+  "id": "c_structuredContext_v3_ACCUMULATION_L40_Preparing for a job interview",
+  "scriptId": "cs_v3_ACCUMULATION_L40_Preparing for a job interview",
+  "historyId": "h_v3_ACCUMULATION_L40_Preparing for a job interview",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Prepare for a technical job interview with mock questions, feedback on answers, and a day-by-day practice plan.",
+      "Optimize practice for short blocks (5/15/30 minutes).",
+      "Incorporate STAR-based behavioral interview prep: 6–8 core stories with bullet-point structure aiming for 90–120 seconds per answer.",
+      "Develop and practice a 30–60 second personal pitch template tailored to target roles."
+    ],
+    "constraints": [
+      "Technical role; ready for both coding and behavioral parts.",
+      "Behavioral interview prep must use STAR framework.",
+      "Fintech startup context for tailoring questions and expectations.",
+      "Backend Python/Django experience; cloud services deployment and APIs (4 years).",
+      "Initial technical screen confirmed to be 45 minutes remote; potential on-site day if successful.",
+      "Timeline: 14 days until the remote screen.",
+      "Location/time zone: Central Europe (CET/CEST).",
+      "Available practice windows: mornings before day job and early evenings."
+    ],
+    "decisions": [
+      "Adopt short-block practice templates (5/15/30 minutes) as standard practice.",
+      "Focus each session on a single pattern or skill.",
+      "Record one takeaway per session.",
+      "Maintain a simple one-line log per session for progress tracking.",
+      "Adopt STAR-based behavioral prep with 6–8 core stories mapped to competencies.",
+      "For each story, prepare 3–6 bullet points (Situation, Task, Actions, Result).",
+      "Target verbal delivery of 90–120 seconds per story.",
+      "Practice variations of prompts that map to the same story.",
+      "Include quick follow-ups and willingness to discuss technical details and trade-offs.",
+      "Include a 30–60s elevator summary for each story to handle brief prompts.",
+      "Add a personal pitch template (30–60 seconds) to the standard practice and include tailored variants.",
+      "Emphasize product impact and cross-functional ownership in examples.",
+      "Balance product and technical depth: start with impact-focused narrative and be prepared to drill into technical details if asked."
+    ],
+    "entities": [
+      "short-block practice templates (5/15/30 minutes)",
+      "micro drills: pattern drill, recovery drill, communication drill, edge-case blitz",
+      "one-line session log for progress tracking",
+      "STAR framework for behavioral interviews",
+      "core competency stories (ownership, conflict, impact, technical challenge, learning, trade-offs)",
+      "bullet-point STAR templates (3–6 bullets per story: Situation, Task, Actions, Result)",
+      "elevator pitch per story (30–60 seconds)",
+      "90–120 seconds target for behavioral answers",
+      "personal pitch structure (30–60 seconds)",
+      "virtual interview readiness checklist (repo links, slides, terminal setup, etc.)",
+      "60-minute full mock (designated timings and prompts)",
+      "30-minute focused mock (phone screen style)",
+      "45-minute mixed mock (coding + behavioral)",
+      "stress-increasing variations (time compression, multi-tasking, panel simulation)",
+      "recording, review & objective feedback rubric and metrics",
+      "solo mock prompts bank (interviewer prompts and interruptions)",
+      "ready-to-run 60-minute solo mock script with alarms and interruptions",
+      "alarm-driven timing checkpoints for practice sessions",
+      "product impact emphasis guidance (cross-functional ownership, measurable outcomes, risk awareness)",
+      "story mix guidance: aim for 6–8 total stories, mixing product and technical",
+      "Python/Django backend experience",
+      "cloud services and APIs design",
+      "transactions/idempotency, data persistence",
+      "observability, monitoring, security/compliance in fintech",
+      "end-to-end ownership",
+      "45-minute remote technical screen",
+      "two-week interview prep window (14 days)",
+      "14-day plan alignment",
+      "Central Europe (CET/CEST) location",
+      "mornings and early-evenings practice windows",
+      "database performance and SQL querying readiness"
+    ],
+    "open": [
+      "User time availability for daily blocks to tailor a 7-day micro-plan.",
+      "Preference among templates (which fits best).",
+      "Provide two logistics items: interview date/time and daily time commitment.",
+      "Prepare a virtual interview readiness checklist (repo links, slides, terminal setup, etc.)",
+      "Interview format details: 45-minute remote screen confirmed; potential on-site day.",
+      "Location/time zone alignment: Central Europe (CET/CEST) to schedule blocks.",
+      "Exact interview date/time and daily time commitment to be confirmed in CET/CEST."
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 38302,
+    "outputTokens": 78015,
+    "totalTokens": 116317
+  },
+  "timestamp": "2026-02-14T23:04:00.260Z"
+}

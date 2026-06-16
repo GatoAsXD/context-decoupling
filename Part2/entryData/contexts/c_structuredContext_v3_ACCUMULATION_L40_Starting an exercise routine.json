@@ -1,0 +1,49 @@
+{
+  "id": "c_structuredContext_v3_ACCUMULATION_L40_Starting an exercise routine",
+  "scriptId": "cs_v3_ACCUMULATION_L40_Starting an exercise routine",
+  "historyId": "h_v3_ACCUMULATION_L40_Starting an exercise routine",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "20–35 minutes per session, 3 planned sessions/week (2 strength + 1 cardio/movement).",
+      "Session timing: ~30 minutes per session, three sessions per week before work.",
+      "Weight loss goal: lose ~10 pounds over the next 2–3 months; improve stair endurance and reduced windedness."
+    ],
+    "constraints": [
+      "Limit tracking to essential metrics; avoid overwhelm.",
+      "Limit tracking to 3 metrics: sessions per week, one performance metric, and one wellbeing metric.",
+      "Knee safety: avoid high-impact loading; track knee symptoms; adjust plan if pain or swelling occurs.",
+      "Cardio modality preference: prioritize low-impact options (bike/elliptical/rower/swim/walk) and avoid jumping, intense plyometrics, or long-distance running.",
+      "Weekend unpredictability: main workouts should be maintained on weekdays (Mon/Wed/Fri); weekends must not be relied upon for core sessions and can be used for optional micro-workouts or family-friendly activity."
+    ],
+    "decisions": [
+      "Calorie deficit target: ~500 kcal/day to aim for 0.5–1 lb/week.",
+      "Protein intake: ~0.7–1.0 g per lb bodyweight per day, spread across meals.",
+      "Workout structure: maintain 3 sessions/week (Mon/Wed/Fri) with Strength A (Mon), cardio/conditioning (Wed), and Strength B (Fri).",
+      "Optional shorter sessions: 20 minutes on days with more time.",
+      "Cardio plan: low-impact modalities (bike, walking, pool); one cardio day per week initially; stair-specific strength (step-ups).",
+      "Tracking: weigh weekly; photos every 2–4 weeks; monitor stairs breathlessness; track consistency (≥3 workouts/week).",
+      "Knee safety: warm up adequately; favor knee-friendly exercises; stop if sharp pain or swelling; consult clinician if concerned.",
+      "Progression: increase reps/round/tempo for strength; extend cardio duration or intervals gradually; re-test stair performance every 2–3 weeks."
+    ],
+    "entities": [
+      "Nutrition plan: modest calorie deficit (~500 kcal/day), high protein with 0.7–1.0 g/lb, focus on lean proteins, veggies, whole grains, and limit liquid calories.",
+      "Workout schedule: Monday — Strength A (30 min) with warm-up and 2–3 rounds; Wednesday — Low-impact cardio/conditioning (20–35 min); Friday — Strength B (30 min).",
+      "Optional short sessions: 20-minute recovery or mobility sessions on days with time.",
+      "Progression: strength progression via +1–3 reps, +1 extra round, or +5 minutes cardio; cardio progression via longer intervals or more total time; stair performance test every 2–3 weeks.",
+      "Tracking approach: weekly weigh-ins; periodic photos; note stair breathlessness and overall energy; target consistency of ≥3 workouts/week.",
+      "Knee safety reminders: warm up well; avoid high-impact; use knee-friendly substitutions; stop if pain or swelling persists.",
+      "Lifestyle focus: ensure adequate sleep 7–8 hours; hydration; manage stress; energy intake aligned with deficit.",
+      "Weekend plan: keep main workouts on weekdays; treat weekends as optional with micro-workouts to maintain momentum when time allows."
+    ],
+    "open": [
+      "Open: if persistent knee swelling, instability, or sharp pain occurs, consult a physiotherapist or physician for progressions and clearance."
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 27852,
+    "outputTokens": 72358,
+    "totalTokens": 100210
+  },
+  "timestamp": "2026-02-14T23:11:51.566Z"
+}

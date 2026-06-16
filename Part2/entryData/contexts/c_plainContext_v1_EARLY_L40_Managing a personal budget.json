@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v1_EARLY_L40_Managing a personal budget",
+  "scriptId": "cs_v1_EARLY_L40_Managing a personal budget",
+  "historyId": "h_v1_EARLY_L40_Managing a personal budget",
+  "componentType": "plainContext",
+  "context": "Goal: lower recurring subscription costs without canceling. Active tactics: 1) Audit usage first: confirm how often you actually use the service and needed features to determine if downgrading or pausing is viable. 2) Check available discounts and bundles: look for student/military/employer/carrier/family plans; check if provider bundles with other services you use or if a competitor bundle is cheaper. 3) Downgrade or rotate plans: move to a lower tier that still meets needs; consider alternating subscriptions rather than paying for all continuously. 4) Ask for retention/loyalty offers: contact customer service and mention considering cancellation; ask for retention discount, promotional rate, or waived fee; many companies have unpublished offers. 5) Use cancellation flow strategically: start cancellation online to reveal lower promo rates or pause options. 6) Negotiate with facts: be polite, have competitor prices ready; ask to match or beat; request transfer to retention team. 7) Pause or freeze the account: some services allow this at reduced rate. 8) Switch billing cadence: annual billing may reduce monthly cost; or switch to monthly for flexibility. 9) Remove add-ons you don’t use: check and remove unnecessary add-ons. 10) Use promos, gift cards, or new-customer offers: if safe to create a new account, take advantage of introductory pricing; watch terms. 11) Leverage third-party discounts: employer portals, Costco memberships, or credit-card partnerships. 12) Automate review reminders: set a calendar reminder before renewal to renegotiate or cancel if unhappy. Short scripts: phone/chat phrases to use when negotiating. Quick tips: call near renewal, be polite and firm, have patience, verify official channels. Caveat: check terms of service; results vary; not guaranteed. If you want, tell me one or two subscriptions you pay for and I’ll draft a tailored message you can use.",
+  "generationMetrics": {
+    "inputTokens": 19680,
+    "outputTokens": 61658,
+    "totalTokens": 81338
+  },
+  "timestamp": "2026-02-14T01:22:53.017Z"
+}

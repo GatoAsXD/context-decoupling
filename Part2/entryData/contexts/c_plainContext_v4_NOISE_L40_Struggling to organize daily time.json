@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v4_NOISE_L40_Struggling to organize daily time",
+  "scriptId": "cs_v4_NOISE_L40_Struggling to organize daily time",
+  "historyId": "h_v4_NOISE_L40_Struggling to organize daily time",
+  "componentType": "plainContext",
+  "context": "Current State:\nCurrent State:\nActive constraints and goals: Decision fatigue related to meal/outfit decisions; energy drained from real tasks. Desired outcome: compact, low-decision tactics for meals, outfits, or both. Task-batching issue: lists balloon, blocks feel endless. Proposed fixes: 1) Hard cap batch: fixed number (3–5 items) or fixed time (30 minutes); upon cap/time end, move remaining items to next admin window. 2) Simple triage: if task <5 minutes, do it now; if bigger, schedule into a specific slot (admin window or future focus block) or defer/remove. Objective: maintain low mental overhead; make batch a bounded sprint rather than an endless list. Scheduling contexts mentioned: admin window, future focus block. MIT = Most Important Task.\nCafe/focus strategy: When using cafe sessions for focus, treat cafe time as a protected focus block: bring only the essentials, pick one clear MIT for the session, start the same anchor playlist used at home, and tuck the phone out of reach. Rotating cafe days with home days can help keep the effect fresh so it doesn’t fade.\n\nMessage:\nA lot of influencer routines look inspiring but often feel performative rather than practical.\n\nResponse:\nAbsolutely — that performative polish often hides impractical friction. Practical, low-friction habits that survive real life (commutes, interruptions, imperfect days) are usually more sustainable than anything that looks great on camera. I’ll keep everything focused on compact, decision-light, and easily repeatable tactics.",
+  "generationMetrics": {
+    "inputTokens": 14278,
+    "outputTokens": 62305,
+    "totalTokens": 76583
+  },
+  "timestamp": "2026-02-14T23:54:07.055Z"
+}

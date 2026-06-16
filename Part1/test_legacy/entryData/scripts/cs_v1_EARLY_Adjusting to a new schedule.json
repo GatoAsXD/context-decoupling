@@ -1,0 +1,34 @@
+{
+  "id": "cs_v1_EARLY_Adjusting to a new schedule",
+  "type": "cs_v1_EARLY",
+  "seedTopic": "Adjusting to a new schedule",
+  "length": 20,
+  "messages": [
+    "Hey—I've been moved to an earlier shift at work; on weekdays my shift now begins at 7:30 AM and I'm expected to be at my desk by about 7:25. It's a big change from my old 9-to-5 routine.",
+    "To accommodate it I pushed my alarm way earlier, from 7:15 to 5:45 AM. My commute is now around 35 minutes door-to-desk, roughly twenty minutes longer than before.",
+    "I try to fit a thirty-minute jog into most mornings, and I teach a class twice a week on Tuesday and Thursday evenings from 6:00 to 8:00 PM, so my day has several fixed blocks.",
+    "On weekdays I'm getting to bed around 11:30 PM, so I'm realistically getting only about six hours of sleep most nights. I also promised to prepare slides for a Monday morning meeting.",
+    "I have a medication that needs to be taken about twenty minutes after I wake, so that has to be squeezed into the early part of my routine before any exercise.",
+    "Quick switch—do you know a simple tomato-and-basil pasta recipe I can make in under 25 minutes using canned tomatoes and pantry staples?",
+    "Random question: why do cats knead blankets and people? My friend's kitten does it non-stop and I'm curious about the behavior.",
+    "What's a surprising fact about honeybees most people don't know? I read something about waggle dances but want more cool details.",
+    "I'm thinking of a short weekend hike—any scenic trails within a two-hour drive of the city you'd recommend?",
+    "Which houseplants are truly low-maintenance for an apartment with only indirect light and irregular watering?",
+    "Do you have a couple of quick memory tricks for remembering names right after meeting someone?",
+    "I've been reading historical fiction set in 1920s Paris—any book recommendations in that setting or era?",
+    "I tried French press yesterday and it was a bit bitter—any simple tricks to smooth coffee flavor without changing the beans?",
+    "What's the easiest way to treat a red wine stain on a cotton rug with items I probably have at home?",
+    "Got any clever life hacks for organizing a very small kitchen so counter space feels less cluttered?",
+    "Tell me an interesting, little-known tidbit about octopuses—the stranger the better.",
+    "Given that my workday now starts earlier and my mornings have fewer spare minutes, would you recommend moving my regular jog to later in the day or trying to keep it as a morning ritual?",
+    "I also mentioned having a couple of recurring evening obligations and an early-week presentation to prep—would it make more sense to shift prep earlier in the week or to break it into short sessions each morning?",
+    "Since my commute has noticeably increased, should I prioritize cutting travel time, compressing the morning routine, or rearranging evening commitments to reduce weekday stress?",
+    "If we wanted one minimal change that preserves sleep and reduces weekday pressure, would you first suggest negotiating a later desk arrival, shifting exercise to different days, or compressing nonessential morning tasks?"
+  ],
+  "metadata": {
+    "inputTokens": 420,
+    "outputTokens": 10164,
+    "totalTokens": 10584,
+    "timestamp": "2026-01-24T22:39:51.925Z"
+  }
+}

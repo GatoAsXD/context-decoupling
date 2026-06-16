@@ -1,0 +1,17 @@
+{
+  "id": "es_v1_EARLY_Buying a new phone or laptop",
+  "scriptId": "cs_v1_EARLY_Buying a new phone or laptop",
+  "historyId": "h_v1_EARLY_Buying a new phone or laptop",
+  "cutoffIndex": 14,
+  "messages": [
+    "When learning guitar, what's a common beginner mistake to avoid with chord transitions?",
+    "Is there an easy trick to remember how the chess pieces move for someone picking it up again after years?",
+    "Back to the buying question: since I need to edit while traveling and want to avoid juggling adapters, would you prioritize raw internal horsepower or a lighter machine with better battery endurance?",
+    "For the camera side of things, given my travel shots that often include evenings and wide scenes, should I lean more toward optical/sensor quality or the phone's computational processing?",
+    "I'm on a pretty short timeline to buy—do you think aiming for the very newest models is better, or should I hunt for recent releases with price reductions to balance capability and cost?",
+    "Finally, thinking practically, what two reasonable trade-offs would you recommend I accept to balance large-media performance, portability, and staying within my spending limit?"
+  ],
+  "metadata": {
+    "timestamp": "2026-01-25T01:04:59.877Z"
+  }
+}

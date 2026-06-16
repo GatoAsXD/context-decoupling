@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v3_ACCUMULATION_L40_Organizing personal files and documents",
+  "scriptId": "cs_v3_ACCUMULATION_L40_Organizing personal files and documents",
+  "historyId": "h_v3_ACCUMULATION_L40_Organizing personal files and documents",
+  "componentType": "plainContext",
+  "context": "",
+  "generationMetrics": {
+    "inputTokens": 32496,
+    "outputTokens": 75360,
+    "totalTokens": 107856
+  },
+  "timestamp": "2026-02-14T22:55:55.456Z"
+}

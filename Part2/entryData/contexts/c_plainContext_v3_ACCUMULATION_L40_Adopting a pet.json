@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v3_ACCUMULATION_L40_Adopting a pet",
+  "scriptId": "cs_v3_ACCUMULATION_L40_Adopting a pet",
+  "historyId": "h_v3_ACCUMULATION_L40_Adopting a pet",
+  "componentType": "plainContext",
+  "context": "Current State: Allergy preference: low-shedding or lower-dander animals. Target adult dogs only. Breeds/size: Toy or Miniature Poodle (toy <10 lb; mini ~10–20 lb); Bichon Frise (~10–20 lb); Havanese (~7–13 lb). Location constraint: rescues/shelters within a 30-minute drive to allow multiple visits. Next steps: can help find local rescues/shelters within 30 minutes or prepare a short meet‑and‑greet checklist for visits.",
+  "generationMetrics": {
+    "inputTokens": 26519,
+    "outputTokens": 70443,
+    "totalTokens": 96962
+  },
+  "timestamp": "2026-02-14T22:20:06.142Z"
+}

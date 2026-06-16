@@ -1,0 +1,31 @@
+{
+  "id": "c_structuredContext_v1_EARLY_L40_Moving to a new apartment",
+  "scriptId": "cs_v1_EARLY_L40_Moving to a new apartment",
+  "historyId": "h_v1_EARLY_L40_Moving to a new apartment",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [],
+    "constraints": [],
+    "decisions": [],
+    "entities": [
+      "Valuables handling: carry valuables and important documents personally; do not place in moving truck; keep items in a labeled lockable container or on your person.",
+      "Pet safety: coordinate with movers to ensure pets are secure and not stressed; keep cats in a crate or a quiet room; inform movers about pets and restricted access.",
+      "Bulky items offload: plan to sell or donate large pieces (sectional, dining table, clock); identify platforms and pickup logistics."
+    ],
+    "open": [
+      "Create a short printable checklist version of the weekend-before-move mistakes and fixes.",
+      "Draft questions to ask movers/storage facilities about storage options, proximity, climate control, and insurance.",
+      "Ask movers for quotes that include stair carries, 30-ft shuttle, and estimated move time.",
+      "Prepare a personal tools kit for furniture disassembly and confirm with movers whether they bring tools and any charges; decide which items you will disassemble yourself (e.g., antique clock considerations).",
+      "Develop a floor protection protocol and checklist for hardwood floors and stairs; confirm with movers what protections they provide and what you need to supply",
+      "Create pet safety plan for moving day to keep cats calm and secure (e.g., crates, quiet room, inform movers).",
+      "Assess which bulky items (e.g., sectional, dining table, clock) to offload and determine target price ranges and fastest sales/donation platforms."
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 24124,
+    "outputTokens": 80743,
+    "totalTokens": 104867
+  },
+  "timestamp": "2026-02-14T01:44:51.651Z"
+}

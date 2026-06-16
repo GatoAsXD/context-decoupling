@@ -1,0 +1,78 @@
+{
+  "id": "c_structuredContext_v1_EARLY_L40_Excessive phone or social media use",
+  "scriptId": "cs_v1_EARLY_L40_Excessive phone or social media use",
+  "historyId": "h_v1_EARLY_L40_Excessive phone or social media use",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Reduce phone and social media usage."
+    ],
+    "constraints": [
+      "Weekdays: keep phone in another room from 7:15 to 8:45.",
+      "Social-media usage limited to no more than 90 minutes per week, starting March 1, 2026.",
+      "No app deletion; prefer gradual, configurable changes.",
+      "Limit or silence push notifications and hide badge counts.",
+      "Disable autoplay features in apps to reduce ongoing session length.",
+      "Experiment with grayscale for 1-2 weeks as a low-effort nudge and monitor nightly metrics (daily screen time and pickups)."
+    ],
+    "decisions": [
+      "Implement grayscale testing for 1-2 weeks; monitor nightly metrics; consider pairing with silenced notifications/badges or scheduled Focus blocks for greater effect.",
+      "Add motive-based intervention plan: for social-driven usage reduce notification/badge triggers and implement focused reply-first windows; for news-driven usage schedule 1-2 brief checks, mute breaking-news alerts, and use curated summaries."
+    ],
+    "entities": [
+      "Screen Time (iOS)",
+      "Digital Wellbeing (Android)",
+      "Focus/Do Not Disturb",
+      "single-purpose browsing (log out of social apps)",
+      "Grayscale / lower brightness",
+      "Freedom (app blocker)",
+      "Forest (app blocker)",
+      "Bedtime / night mode",
+      "charge phone outside bedroom",
+      "basic alarm clock",
+      "check-in windows (e.g., 15 minutes mid-morning, 20 minutes after dinner)",
+      "batch social media and messages",
+      "phone-free zones (bedroom, dining table)",
+      "Push notifications",
+      "Notification badges",
+      "Autoplay / auto-play content",
+      "Pause ritual (2–3 minutes) before opening apps",
+      "Evening doomscrolling strategy concepts",
+      "Motive categories: social connection vs news/information",
+      "Trigger types by motive: interpersonal cues vs uncertainty-driven checks",
+      "Silence nonessential notifications",
+      "Turn off badge counts / notification dots",
+      "Limit lock-screen previews and banners",
+      "Use Focus / Do Not Disturb with exceptions for people, not apps",
+      "Set app time limits / Screen Time / Digital Wellbeing limits (with block at end of limit)",
+      "Schedule Downtime / Bedtime Modes for evenings",
+      "Move apps off the main home screen (use folders or App Library)",
+      "Turn on grayscale or reduce color saturation",
+      "Reduce motion / animations",
+      "Disable background app refresh for social/feed apps",
+      "Disable 'raise to wake' / reduce accidental wake triggers",
+      "Use focused home screen pages during work/focus times (iOS Focus pages / Android work profile or minimalist launcher)",
+      "Device-free meetings",
+      "Flipd (iOS, Android)",
+      "Forest extension"
+    ],
+    "open": [
+      "Plan how to divide and track 90 minutes of social-media use per week with partner, starting March 1, 2026.",
+      "Provide a plan with clear short-term milestones compatible with a busy life.",
+      "Incorporate a simple nightly checks routine (2–5 minutes) to monitor progress without deep data analysis.",
+      "Implement an evening doomscrolling strategy: choose a calendar-friendly option for your evenings (A-D or custom), set a timer, and enable Bedtime Focus.",
+      "Set up an evening Focus rule to silence feed notifications while keeping messages/priority chats accessible.",
+      "Add a 2–3 minute pause ritual before opening social apps and a 'reply-first' rule for evening checks.",
+      "Optionally pilot grayscale testing in the evening as a nudge and monitor impact.",
+      "Create motive-based lever plan and configure settings for social-driven vs news-driven usage.",
+      "Assess real-world effectiveness of app time limits and identify additional configurations or supports to improve adherence (e.g., stricter blocking, cross-device coverage, reducing triggers, accountability).",
+      "Evaluate and pilot a device-free meetings policy to reduce in-meeting phone use and assess impact on overall phone time."
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 28423,
+    "outputTokens": 64117,
+    "totalTokens": 92540
+  },
+  "timestamp": "2026-02-14T00:36:32.739Z"
+}

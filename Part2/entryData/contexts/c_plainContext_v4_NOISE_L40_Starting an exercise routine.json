@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v4_NOISE_L40_Starting an exercise routine",
+  "scriptId": "cs_v4_NOISE_L40_Starting an exercise routine",
+  "historyId": "h_v4_NOISE_L40_Starting an exercise routine",
+  "componentType": "plainContext",
+  "context": "Current State:\n- User prefers podcasts over music during exercise.\n- Podcasts around 30-minute sessions are preferred; may benefit from suggestions of types or shows and tips for timing episodes to workouts.\n- User notes a coworker tried a month-long cleanse and claimed it reset habits.\n- User does not believe extreme quick fixes work long-term.\n- User believes small, consistent changes are easier to maintain and stick over time.\n- User enjoys weekend hikes.\n- User may train for a multi-day trek in the future; long-term goal.\n- When training for a multi-day trek, shift some sessions toward longer walks and practice carrying a loaded pack.\n- Running shoes are worn out; user is delaying replacement due to expense.\n- If running shoes are still usable, they can be used for low-impact activities (walking, strength work) and the user may wait for sale or outlet deals on running shoes.\n- Replacing worn shoes before doing a lot of running is worth it because very worn shoes can raise injury risk.",
+  "generationMetrics": {
+    "inputTokens": 18610,
+    "outputTokens": 66811,
+    "totalTokens": 85421
+  },
+  "timestamp": "2026-02-14T23:54:15.538Z"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v2_OVERRIDE_L40_Issues with a neighbor",
+  "scriptId": "cs_v2_OVERRIDE_L40_Issues with a neighbor",
+  "historyId": "h_v2_OVERRIDE_L40_Issues with a neighbor",
+  "componentType": "plainContext",
+  "context": "",
+  "generationMetrics": {
+    "inputTokens": 28441,
+    "outputTokens": 72431,
+    "totalTokens": 100872
+  },
+  "timestamp": "2026-02-14T15:24:43.537Z"
+}

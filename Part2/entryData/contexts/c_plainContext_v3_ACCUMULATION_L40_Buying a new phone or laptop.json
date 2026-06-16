@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v3_ACCUMULATION_L40_Buying a new phone or laptop",
+  "scriptId": "cs_v3_ACCUMULATION_L40_Buying a new phone or laptop",
+  "historyId": "h_v3_ACCUMULATION_L40_Buying a new phone or laptop",
+  "componentType": "plainContext",
+  "context": "",
+  "generationMetrics": {
+    "inputTokens": 21490,
+    "outputTokens": 65861,
+    "totalTokens": 87351
+  },
+  "timestamp": "2026-02-14T22:19:40.368Z"
+}

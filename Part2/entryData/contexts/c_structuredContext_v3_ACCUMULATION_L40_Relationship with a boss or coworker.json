@@ -1,0 +1,66 @@
+{
+  "id": "c_structuredContext_v3_ACCUMULATION_L40_Relationship with a boss or coworker",
+  "scriptId": "cs_v3_ACCUMULATION_L40_Relationship with a boss or coworker",
+  "historyId": "h_v3_ACCUMULATION_L40_Relationship with a boss or coworker",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Get direct and practical guidance on communicating with a coworker about a workplace issue.",
+      "Incorporate remote-working considerations into guidance for communicating about workplace issues.",
+      "Provide polite follow-up templates after meetings where a coworker's point wasn't acknowledged.",
+      "Provide proven approaches for delivering upward feedback that avoids insubordination.",
+      "Offer guidance on starting and maintaining a lightweight, selective running log.",
+      "Provide a practical log template and guidelines for storage, tone, and escalation readiness.",
+      "Develop guidance on ensuring attribution and recognition for ideas in meetings and appropriate escalation if attribution is overlooked.",
+      "Provide tailored guidance for hybrid/remote teams to maintain visibility and communication effectiveness."
+    ],
+    "constraints": [
+      "Evaluator role controls reviews, assignments, and potential career outcomes; approach must be strategic, cautious, and documentation-oriented.",
+      "Follow formal channels for issues involving legal, safety, discrimination, or retaliation.",
+      "Hybrid work constraints: limited informal face-time; guidance should address compensating strategies."
+    ],
+    "decisions": [
+      "Escalation path: consider skip-level conversation with manager, HR contact, or ombudsperson if issues persist or involve harassment, retaliation, or policy violation.",
+      "Default to private one-on-one meetings when addressing concerns with an evaluator.",
+      "When possible, schedule key visibility activities on in-person office days to counter reduced informal face-time."
+    ],
+    "entities": [
+      "coworker",
+      "HR",
+      "manager",
+      "evaluator",
+      "stakeholders",
+      "presenter",
+      "log",
+      "template",
+      "records",
+      "evidence",
+      "senior executives",
+      "hybrid schedule",
+      "office days",
+      "visibility strategy"
+    ],
+    "open": [
+      "Define criteria for when to involve HR versus informal resolution",
+      "Explain how remote working style factors into approach, channels, and timing when addressing workplace issues",
+      "Define criteria for starting and maintaining a running log (scope, level of detail, retention).",
+      "Establish secure storage and privacy guidelines for the log and how it can be used in escalation or reviews.",
+      "Clarify how logging interacts with escalation paths and HR involvement.",
+      "Define criteria for attribution and recognition concerns in meetings (when to surface, who to inform, and escalation triggers).",
+      "Define how timestamped notes (e.g., emails) carry weight as evidence for attribution, including how to attach, quote, and log them, and when to surface them in private 1:1s or escalation.",
+      "Define criteria for in-meeting corrections: when to correct omissions in a public forum versus private follow-ups, including documentation and record-keeping guidelines.",
+      "Define recommended structure for performance evidence: lead with measurable results, timestamped evidence, and a one-line template per example.",
+      "Decide on the number of relational examples to include in reviews or logs (recommended range: 1–3).",
+      "Define an approach for crafting one-line templates for each example (Date | Situation | Action | Impact | Evidence | Corroboration).",
+      "Define guidance on audience-tailored messaging: adjust emphasis on metrics versus relational influence depending on reviewer priorities.",
+      "Define best practices for maintaining visibility and rapport in hybrid teams with limited informal face-time (e.g., optimized in-person days, structured check-ins, and async updates).",
+      "Define mechanisms to measure and improve informal knowledge transfer and relationship-building in hybrid contexts."
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 25334,
+    "outputTokens": 52787,
+    "totalTokens": 78121
+  },
+  "timestamp": "2026-02-14T23:10:23.169Z"
+}

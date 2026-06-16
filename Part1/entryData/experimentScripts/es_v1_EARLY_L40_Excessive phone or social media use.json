@@ -1,0 +1,27 @@
+{
+  "id": "es_v1_EARLY_L40_Excessive phone or social media use",
+  "scriptId": "cs_v1_EARLY_L40_Excessive phone or social media use",
+  "historyId": "h_v1_EARLY_L40_Excessive phone or social media use",
+  "cutoffIndex": 24,
+  "messages": [
+    "Do different feed algorithms have noticeably different addictive pull, or are the core attention mechanisms largely the same?",
+    "How would you structure an evening routine that feels restorative and makes it easier to skip scrolling before bed?",
+    "What physical cues or objects have people used successfully to interrupt the automatic reach-for-phone reflex?",
+    "Are there local community models you've seen that successfully promote phone-free social gatherings? What do they do differently?",
+    "Is it a red flag if my mood fluctuates a lot based on the amount of engagement I get? How do you break that dependency?",
+    "What's a realistic, one-month challenge to reduce habitual checking that fits into a busy schedule?",
+    "Does using a short timer for sessions (e.g., 20 minutes on, then 40 off) work better than a rigid daily cap?",
+    "What are 'micro-missions' as a way to change how one interacts with social platforms, and do they help reduce time?",
+    "How do people recover from relapse into old checking patterns—do gentle resets work better than strict punishments?",
+    "Can you suggest a week-long challenge that feels achievable for someone who works full-time but wants to cut back?",
+    "If I want to cut the amount I spend on social networking in half, what would that new daily allowance be, expressed in hours and minutes?",
+    "Using my current pattern, how many total hours per week do I spend on social networking?",
+    "If the entire social portion were divided equally across only the personal platforms I keep outside work contexts, what would each platform get per day?",
+    "According to my configured nightly block for personal social access, how many hours per night are those platforms inaccessible? If I shifted the nightly start 30 minutes earlier, what would the new nightly duration be?",
+    "If my goal is to bring social networking under 10% of my daily device time, what relative reduction from the current social share would that require?",
+    "If I removed one of my personal social platforms and redistributed its daily share evenly among the remaining personal platform(s), what would each remaining platform's daily allotment look like?"
+  ],
+  "metadata": {
+    "timestamp": "2026-02-04T23:28:38.688Z"
+  }
+}

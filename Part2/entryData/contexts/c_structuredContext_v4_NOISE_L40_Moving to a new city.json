@@ -1,0 +1,89 @@
+{
+  "id": "c_structuredContext_v4_NOISE_L40_Moving to a new city",
+  "scriptId": "cs_v4_NOISE_L40_Moving to a new city",
+  "historyId": "h_v4_NOISE_L40_Moving to a new city",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Relocate to Portland and be fully settled there in about three months."
+    ],
+    "constraints": [
+      "housing budget cap: $1,800/month",
+      "preferred housing: 1-bedroom; studio acceptable",
+      "proximity to transit or walkable neighborhoods is a must.",
+      "pet-friendly and safe for a small indoor cat."
+    ],
+    "decisions": [
+      "Provide upfront cost estimates (deposits, movers, emergency buffer)",
+      "Develop short-term budget-friendly furniture plan with prioritized list and shopping budgets",
+      "Decide which plants to bring and packing/transport method (ventilation, moisture control, and regulatory compliance)",
+      "Evaluate furniture assembly options (Craigslist worker at $20/hr); obtain quotes and compare with other platforms (TaskRabbit/Handy)",
+      "Assess renter's insurance needs and determine coverage options (personal property, liability, ALE)",
+      "Evaluate national vs local moving options; cost-benefit analysis; gather quotes",
+      "Evaluate feasibility of mailing plants to destination as alternative to transporting plants; compare costs and regulations"
+    ],
+    "entities": [
+      "Portland",
+      "three months",
+      "cat",
+      "Scandinavian minimal",
+      "cozy-warm",
+      "vintage lamp",
+      "secondhand rugs",
+      "anti-slip rug pads",
+      "cat-friendly decor considerations",
+      "succulents",
+      "plants",
+      "Tupperware",
+      "ventilation",
+      "Oregon Dept. of Agriculture",
+      "interstate plant movement rules",
+      "airline carry-on policies for plants",
+      "community centers",
+      "free exercise classes",
+      "renter's insurance",
+      "moving company options (national vs local)",
+      "capsule wardrobe",
+      "outfit kit",
+      "wardrobe box",
+      "hangers",
+      "packing cubes",
+      "clothes packing strategy",
+      "plant mailing policies and carrier options (USPS, FedEx, UPS)",
+      "mailing plants rules and packaging requirements"
+    ],
+    "open": [
+      "Target move date / settle date",
+      "Current city or approximate distance to Portland",
+      "Household size (solo, couple, kids)",
+      "Moving method preference (hired movers, rental truck, DIY)",
+      "Work or school address and maximum preferred commute time",
+      "Neighborhood suggestions and sample listings within $1,800 budget",
+      "Occasional office days require defined acceptable commute times",
+      "Upfront cost estimates: quotes for deposits, movers, emergency buffer",
+      "Short-term budget-friendly furniture plan and prioritized shopping list",
+      "Narrow this down to three prioritized neighborhoods based on exact commute assumptions",
+      "Draft a short message template to landlords asking about pet policy and cat-safety details",
+      "Verify truck access and turning radius; check curb clearance and permit requirements; arrange site visit or photo review with movers",
+      "Plant transport planning: decide which plants to bring and packing/ventilation approach",
+      "Landlord policy on plants and pest-free declarations",
+      "Regulatory check: state rules for transporting plants (Oregon, interstate)",
+      "Packing and ventilation requirements for plant transport",
+      "Explore local community centers for free exercise classes to meet neighbors",
+      "Research furniture assembly options and obtain quotes (Craigslist/TaskRabbit/Handy) to assess cost-effectiveness",
+      "Renter's insurance research: compare quotes and determine coverage needs",
+      "Decision: national vs local moving options - ongoing",
+      "Wardrobe packing plan: capsule wardrobe and outfit kit for moving day",
+      "Laundry prep timeline for clothes before packing",
+      "Plant mailing feasibility: evaluate cost, rules, and logistics for mailing plants; decide which plants to mail vs bring",
+      "Utilities signup timing: target ~1 week before move-in for all utilities (electric, gas, water, trash, internet); coordinate with landlord and providers.",
+      "Day-one box plan: contents to include (kettle, mugs, change of clothes, chargers, basic toolkit)"
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 26681,
+    "outputTokens": 59155,
+    "totalTokens": 85836
+  },
+  "timestamp": "2026-02-14T23:38:48.036Z"
+}

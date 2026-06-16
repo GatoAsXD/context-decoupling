@@ -1,0 +1,50 @@
+{
+  "id": "c_structuredContext_v3_ACCUMULATION_L40_Managing stress at work",
+  "scriptId": "cs_v3_ACCUMULATION_L40_Managing stress at work",
+  "historyId": "h_v3_ACCUMULATION_L40_Managing stress at work",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Reduce work-related stress to improve focus and sleep."
+    ],
+    "constraints": [
+      "Daily total time: 10–60 minutes.",
+      "Weekly total time: 30–90 minutes.",
+      "Protect at least one daily meeting-free block for deep work.",
+      "Timebox strictly; start tiny; consistency matters.",
+      "Anchor rituals must be shift-relative due to rotating schedules; avoid fixed morning routines.",
+      "Access to affordable mental health care is limited; prioritize low-cost or no-cost options.",
+      "Breaks must be low-visibility and blend with normal work behavior; avoid anything that looks odd or theatrical in judgmental environments."
+    ],
+    "decisions": [
+      "Adopt 2–3 tracking measures with one primary.",
+      "Pilot team norms to reduce pressure (meeting hygiene, protected focus time, response-time norms) for 2 weeks.",
+      "Propose a short pilot: daily 60–90 minute 'quiet window' or admin work slots to reduce interruptions.",
+      "Adopt shift-relative anchor rituals anchored to shift events (start-after-start, mid-shift reset, end-of-shift shutdown).",
+      "Prioritize low-cost or no-cost mental health resources (self-help, online programs, community services) before pursuing private therapy."
+    ],
+    "entities": [
+      "Resonant / slow diaphragmatic breathing (1–3 minutes)",
+      "Extended-exhale pacing (30–90 seconds)",
+      "3-minute breathing space (about 3 minutes)",
+      "Gentle body-scan or release (1–2 minutes)",
+      "Micro posture + jaw/shoulder softening (30–60 seconds)",
+      "Simple safety rules: avoid breath-holding, forceful Valsalva-type maneuvers, vigorous straining; stop if lightheaded or palpitations; consult GP if cardiovascular issues",
+      "Quiet belly breaths while reviewing notes (30–60s)",
+      "Sip‑and‑reset (20–60s)",
+      "Fingertip grounding with a pen or stress‑object (10–30s)",
+      "Posture refresh / soft shoulder drop (10–20s)",
+      "Silent label + jot next step (15–45s)",
+      "On-mute micro moves (when muted) (10–30s)"
+    ],
+    "open": [
+      "Draft sample anchor rituals for typical shift times (day/evening/night) to test shift-relative routines."
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 33814,
+    "outputTokens": 90338,
+    "totalTokens": 124152
+  },
+  "timestamp": "2026-02-14T22:40:44.560Z"
+}

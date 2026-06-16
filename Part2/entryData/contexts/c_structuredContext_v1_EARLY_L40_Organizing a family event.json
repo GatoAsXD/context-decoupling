@@ -1,0 +1,57 @@
+{
+  "id": "c_structuredContext_v1_EARLY_L40_Organizing a family event",
+  "scriptId": "cs_v1_EARLY_L40_Organizing a family event",
+  "historyId": "h_v1_EARLY_L40_Organizing a family event",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Plan a family event on Saturday, June 12, 2026."
+    ],
+    "constraints": [
+      "Event date fixed: Saturday, June 12, 2026.",
+      "Total budget: $2,500.",
+      "Dry event: no alcohol allowed."
+    ],
+    "decisions": [
+      "Decide to assign a fair, role-based setup and cleanup roster.",
+      "Nominate a toastmaster to keep things on time.",
+      "Appoint a playlist manager to curate and manage a multi-generational playlist for the event.",
+      "Explore hybrid option: hire a solo acoustic musician for the welcome/meal/toast portion.",
+      "Adopt vanilla with berries as the main cake flavor for the dessert, with a possible smaller adventurous cake or cupcakes as a secondary option.",
+      "Designate a Media Wrangler to manage photo/video backups during the event.",
+      "Create a shared cloud album for guest photo sharing and test uploads before the event.",
+      "Implement a two-backup rule: two copies on different media and one off-site/cloud; perform backups during the event.",
+      "Enforce toast length: 60–90 seconds per speaker and appoint the MC to manage timing and cutoffs.",
+      "Kid activity rotation plan: implement 2–3 stations for children with 1 supervising adult/older teen per 2–3 stations, rotating every 20–30 minutes."
+    ],
+    "entities": [
+      "date: Saturday, June 12, 2026",
+      "headcount: 42",
+      "budget: $2,500",
+      "alcohol: none",
+      "vibe: casual, relaxed",
+      "decor: open to DIY decorations if practical",
+      "volunteers: several cousins offered to help with setup and cleanup",
+      "schedule: light, with a short welcome, a couple of brief toasts, and low-key all-ages group activities",
+      "playlist: multi-generational playlist planned (sample list of 30 songs provided)",
+      "music: curated playlist with optional solo acoustic musician for the welcome/meal/toast",
+      "cake flavor: vanilla with berries",
+      "backup protocol: two backups on two different media and one off-site/cloud; test uploads via cloud album",
+      "centerpieces: centerpieces should be low (8–12 inches) for visibility and wind stability",
+      "centerpieces: use low-weight, wind-stable materials such as mason jars with gravel and compact flower clusters",
+      "centerpieces: include sturdy options like small potted herbs, metal/glass lanterns with LED candles, and wooden boxes with glass bottles anchored in sand/gravel",
+      "centerpieces: provide weighted bases or museum putty to prevent tipping in breezes",
+      "centerpieces: group multiple small centerpieces on wooden slices or trays to create a heavier unit",
+      "centerpieces: avoid open flames outdoors; use battery-operated LED candles",
+      "centerpieces: test one full centerpiece on-site in natural light before mass setup",
+      "kid-activities-plan: low-cost 60-minute rotation plan for children's activities; stations include crafts, scavenger hunt, bubble art, lawn games, story corner, coloring; supervision guideline: 1 adult/older teen per 2–3 stations; safety and allergy considerations; supplies list."
+    ],
+    "open": []
+  },
+  "generationMetrics": {
+    "inputTokens": 28266,
+    "outputTokens": 61374,
+    "totalTokens": 89640
+  },
+  "timestamp": "2026-02-14T01:59:41.611Z"
+}

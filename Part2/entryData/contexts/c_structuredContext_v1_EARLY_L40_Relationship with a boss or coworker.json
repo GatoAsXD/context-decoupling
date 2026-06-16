@@ -1,0 +1,33 @@
+{
+  "id": "c_structuredContext_v1_EARLY_L40_Relationship with a boss or coworker",
+  "scriptId": "cs_v1_EARLY_L40_Relationship with a boss or coworker",
+  "historyId": "h_v1_EARLY_L40_Relationship with a boss or coworker",
+  "componentType": "structuredContext",
+  "context": {
+    "goal": [
+      "Improve visibility and attribution for contributed work in public updates."
+    ],
+    "constraints": [
+      "Do not schedule meetings on Fridays due to recurring personal commitment.",
+      "I limit synchronous check-ins to a strict maximum of 25 minutes; I won't do longer blocks.",
+      "When I follow up in writing, our archive requires the summary to be exactly three bullet points."
+    ],
+    "decisions": [],
+    "entities": [
+      "Marco Díaz"
+    ],
+    "open": [
+      "Checklist before escalation:\\n- Confirm attempts and context: verify you’ve tried available fixes, reviewed relevant docs/tickets, and can briefly explain what was tried and why it didn’t resolve the problem.\\\\n- Gather concise evidence: assemble a short timeline, the specific impact, affected users/systems, and any key logs or screenshots — stick to facts.\\\\n- Define the request and urgency: state the exact decision or support you need, why escalation is necessary, and the desired timeframe.\\\\n- Propose recommended next steps: offer one or two practical options or mitigations and note any constraints or dependencies.\\\\n- Share a concise summary for the record: include a clear 3‑bullet recap (impact, request, next step) when you escalate and offer a brief sync only if needed.",
+      "Open item: handle_visibility_issue for peer contributions; align attribution in future public updates.",
+      "Open item: draft messaging to request updated deadline estimates when a teammate repeatedly misses commitments.",
+      "Open item: provide short scripts for politely declining unpaid side work pitched by coworkers.",
+      "Open item: draft standard brief paragraph to request more context for tickets with vague details."
+    ]
+  },
+  "generationMetrics": {
+    "inputTokens": 19230,
+    "outputTokens": 46203,
+    "totalTokens": 65433
+  },
+  "timestamp": "2026-02-14T15:06:05.251Z"
+}

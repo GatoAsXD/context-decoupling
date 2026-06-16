@@ -1,0 +1,13 @@
+{
+  "id": "c_plainContext_v2_OVERRIDE_L40_Planning an upcoming trip",
+  "scriptId": "cs_v2_OVERRIDE_L40_Planning an upcoming trip",
+  "historyId": "h_v2_OVERRIDE_L40_Planning an upcoming trip",
+  "componentType": "plainContext",
+  "context": "Current State:\nRome\n- Centro Storico (Pantheon / Piazza Navona): ultra-central — walk to most major sights, great restaurants and evening atmosphere. Can be touristy and sometimes noisy, but ideal for first-time sightseeing.\n- Monti: close to the Colosseum/Forum, lively but slightly more local than Centro Storico, lots of small trattorie and bars for evening strolls. Good for mid-range B&Bs.\n- Trastevere: excellent for relaxed evening dining and narrow‑street walks; a short taxi or 20–30 minute walk across the river to central sights. More atmospheric at night.\n- Prati: quieter and near the Vatican (good if you want short walks to the Vatican Museums/St. Peter’s), with elegant streets and good restaurants; calmer evenings.\n\nFlorence\n- Duomo / Centro Storico: the best spot for museums (Uffizi, Accademia), short walking distances, and immediate access to major sights. Very central and convenient for short stays.\n- Oltrarno (Santo Spirito / San Frediano): across the river — artisan workshops, great evening dining, more local vibe and charming squares. Slightly quieter and perfect for relaxed evenings.\n- Santa Maria Novella / near the station: practical if you want minimal drag with luggage and fast access to trains; still within easy walking distance of the Duomo and museums.\n\nVenice\n- San Polo / Rialto area: extremely central (Rialto, markets), great for walking to St. Mark’s and restaurants; lively but less claustrophobic than San Marco.\n- Dorsoduro: lovely for evening strolls, galleries, and good dining — a slightly more relaxed, artsy area with good access by vaporetto.\n- Cannaregio: more local, excellent value and authentic restaurants, still within easy walking or a short vaporetto ride to major sights; convenient if you arrive at Santa Lucia (nearby).\n- San Marco: closest to St. Mark’s and the main sights — very convenient but more touristy and generally pricier.\n\nPractical tips\n- For arrivals/departures: if you want minimal station-to-hotel time, prioritize Santa Maria Novella (Florence), Termini (Rome) if needed, and staying near Santa Lucia/Cannaregio or San Croce in Venice.\n- If you want quieter nights, request a room on an inner courtyard and ask hotels/B&Bs about noise.\n- For your countryside stay,",
+  "generationMetrics": {
+    "inputTokens": 30684,
+    "outputTokens": 72541,
+    "totalTokens": 103225
+  },
+  "timestamp": "2026-02-15T03:08:24.408Z"
+}
