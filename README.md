@@ -1,5 +1,8 @@
 # Decoupling Conversational State for Cost-Efficient and Latency-Stable LLM Agents
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20724493.svg)](https://doi.org/10.5281/zenodo.20724493)
+
+
 This repository contains the complete codebase, datasets, and LaTeX publication sources for a two-part empirical study on Large Language Model (LLM) context window management. The research evaluates how different memory retrieval, state compression, and multi-channel architectures affect the trade-off between semantic retention and operational overhead (financial cost and latency stability).
 
 A formal academic paper detailing this work is available in the [paper/](paper/) directory.
@@ -67,6 +70,17 @@ The advanced results demonstrate that **S8 (History + Plain Context + Plain Memo
 
 ---
 
+## Data Availability
+The compiled quantitative metric summaries used to perform all the statistical analyses, tables, and figures in the paper are directly included in this repository under:
+* **Experiment 1 (Baselines)**: [`Part1/metrics/`](Part1/metrics/)
+* **Experiment 2 (Advanced Decoupled Architectures)**: [`Part2/metrics/`](Part2/metrics/)
+
+The complete, word-for-word raw conversation transcripts and episode histories (comprising all 1,600+ simulated multi-turn conversations) have been archived for complete scientific transparency on Zenodo:
+* **Zenodo Repository**: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20724493.svg)](https://doi.org/10.5281/zenodo.20724493)
+* **Direct Link**: [https://doi.org/10.5281/zenodo.20724493](https://doi.org/10.5281/zenodo.20724493)
+
+---
+
 ## Code Execution & Metrics Generation
 To verify the metrics or execute the analysis pipelines locally, navigate to the respective experiment directory and run the TypeScript entry points.
 
@@ -96,7 +110,7 @@ If you utilize this research or codebase in your work, please cite the preprint 
 ```bibtex
 @article{pantigoso2026decoupling,
   title={Decoupling Conversational State: Multi-Channel Context Architectures for Cost-Efficient and Latency-Stable LLM Agents},
-  author={Pantigoso Aguilar, Robert Gianfranko},
+  author={Robert Pantigoso},
   journal={arXiv preprint arXiv:2606.XXXXX},
   year={2026}
 }
