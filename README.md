@@ -1,8 +1,7 @@
 # Decoupling Conversational State for Cost-Efficient and Latency-Stable LLM Agents
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20724493.svg)](https://doi.org/10.5281/zenodo.20724493)
-
-
+[![Paper DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20724718.svg)](https://doi.org/10.5281/zenodo.20724718)
+[![Dataset DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20724493.svg)](https://doi.org/10.5281/zenodo.20724493)
 This repository contains the complete codebase, datasets, and LaTeX publication sources for a two-part empirical study on Large Language Model (LLM) context window management. The research evaluates how different memory retrieval, state compression, and multi-channel architectures affect the trade-off between semantic retention and operational overhead (financial cost and latency stability).
 
 A formal academic paper detailing this work is available in the [paper/](paper/) directory.
@@ -108,10 +107,12 @@ Processed metrics will compile into `metrics/suiteMetrics_Experiment 2.json`.
 ## Citation
 If you utilize this research or codebase in your work, please cite the preprint paper:
 ```bibtex
-@article{pantigoso2026decoupling,
-  title={Decoupling Conversational State: Multi-Channel Context Architectures for Cost-Efficient and Latency-Stable LLM Agents},
+@misc{pantigoso2026decoupling,
   author={Robert Pantigoso},
-  journal={arXiv preprint arXiv:2606.XXXXX},
-  year={2026}
+  title={Decoupling Conversational State for Cost-Efficient and Latency-Stable {LLM} Agents},
+  year={2026},
+  publisher={Zenodo},
+  doi={10.5281/zenodo.20724718},
+  howpublished={\url{https://doi.org/10.5281/zenodo.20724718}}
 }
 ```
